@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EquityDesk — Indian Market Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0a;
+  --bg2: #111111;
+  --bg3: #181818;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.12);
+  --text: #f0ede8;
+  --text2: #888580;
+  --text3: #555250;
+  --green: #2ecc8a;
+  --green-bg: rgba(46,204,138,0.1);
+  --green-border: rgba(46,204,138,0.25);
+  --red: #f05a4a;
+  --red-bg: rgba(240,90,74,0.1);
+  --red-border: rgba(240,90,74,0.25);
+  --amber: #f0a030;
+  --amber-bg: rgba(240,160,48,0.1);
+  --amber-border: rgba(240,160,48,0.25);
+  --blue: #4a9eff;
+  --blue-bg: rgba(74,158,255,0.08);
+  --accent: #f0a030;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* ── Top bar ── */
+.topbar {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,10,10,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  display: flex; align-items: center; gap: 16px;
+  height: 52px;
+}
+.logo {
+  font-family: 'Syne', sans-serif;
+  font-size: 16px; font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--text);
+}
+.logo span { color: var(--accent); }
+.topbar-sep { flex: 1; }
+.nav-link {
+  font-size: 13px; color: var(--text2);
+  text-decoration: none; padding: 4px 10px;
+  border-radius: 6px;
+  transition: all 0.15s;
+}
+.nav-link:hover, .nav-link.active { color: var(--text); background: rgba(255,255,255,0.07); }
+.date-pill {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--text2);
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 20px;
+  padding: 4px 12px;
+}
+.live-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--green);
+  display: inline-block; margin-right: 6px;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%,100% { opacity: 1; } 50% { opacity: 0.3; }
+}
+
+/* ── Layout ── */
+.shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 24px;
+  padding-top: 24px;
+  padding-bottom: 60px;
+}
+
+/* ── Sidebar ── */
+.sidebar { position: sticky; top: 76px; height: fit-content; }
+.sidebar-section { margin-bottom: 24px; }
+.sidebar-label {
+  font-size: 10px; font-weight: 500; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--text3);
+  margin-bottom: 8px; padding-left: 8px;
+}
+.sidebar-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 6px 8px; border-radius: 6px;
+  cursor: pointer; transition: all 0.15s;
+  color: var(--text2); font-size: 13px;
+  text-decoration: none;
+}
+.sidebar-item:hover { background: var(--bg3); color: var(--text); }
+.sidebar-item.active { background: var(--bg3); color: var(--text); }
+.sidebar-count {
+  margin-left: auto;
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--text3);
+  background: var(--bg3); border-radius: 10px;
+  padding: 1px 6px;
+}
+.sidebar-count.red { color: var(--red); background: var(--red-bg); }
+.sidebar-count.green { color: var(--green); background: var(--green-bg); }
+
+/* ── Main content ── */
+.main {}
+
+/* ── Hero stats ── */
+.hero {
+  margin-bottom: 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.hero-date {
+  font-size: 12px; color: var(--text3);
+  font-family: 'DM Mono', monospace;
+  margin-bottom: 6px;
+}
+.hero-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 26px; font-weight: 700;
+  color: var(--text); margin-bottom: 4px;
+  letter-spacing: -0.02em;
+}
+.hero-sub { font-size: 12px; color: var(--text3); margin-bottom: 16px; }
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+.stat-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  transition: border-color 0.15s;
+}
+.stat-card:hover { border-color: var(--border2); }
+.stat-label { font-size: 11px; color: var(--text3); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.06em; }
+.stat-val { font-size: 28px; font-weight: 500; font-family: 'Syne', sans-serif; }
+.stat-val.green { color: var(--green); }
+.stat-val.red { color: var(--red); }
+.stat-val.amber { color: var(--amber); }
+.stat-val.blue { color: var(--blue); }
+
+/* ── Section ── */
+.section { margin-bottom: 28px; }
+.section-head {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.section-icon { font-size: 16px; }
+.section-name {
+  font-family: 'Syne', sans-serif;
+  font-size: 15px; font-weight: 600; color: var(--text);
+}
+.section-badge {
+  font-size: 11px; font-family: 'DM Mono', monospace;
+  color: var(--text3); background: var(--bg3);
+  border-radius: 10px; padding: 2px 8px;
+}
+
+/* ── Announcement card ── */
+.ann-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 8px;
+  border-left: 3px solid transparent;
+  transition: all 0.15s;
+  position: relative;
+}
+.ann-card:hover { border-color: var(--border2); background: var(--bg3); }
+.ann-card.positive { border-left-color: var(--green); }
+.ann-card.negative { border-left-color: var(--red); }
+.ann-card.neutral { border-left-color: #333; }
+.ann-card.warning { border-left-color: var(--amber); }
+
+.card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; margin-bottom: 8px; }
+.company-name { font-family: 'Syne', sans-serif; font-size: 14px; font-weight: 600; color: var(--text); }
+.company-symbol { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text3); margin-left: 6px; }
+.company-industry { font-size: 11px; color: var(--text3); }
+
+.verdict-badge {
+  font-size: 11px; font-weight: 500;
+  padding: 3px 9px; border-radius: 20px;
+  white-space: nowrap; flex-shrink: 0;
+}
+.verdict-badge.positive { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+.verdict-badge.negative { background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+.verdict-badge.neutral { background: var(--bg3); color: var(--text2); border: 1px solid var(--border2); }
+.verdict-badge.warning { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+
+.news-text { font-size: 13px; color: var(--text); line-height: 1.55; margin-bottom: 10px; }
+
+.meta-row {
+  display: flex; align-items: flex-start; gap: 8px;
+  font-size: 12px; line-height: 1.5; margin-bottom: 5px;
+}
+.meta-label {
+  font-size: 10px; font-weight: 500; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--text3);
+  padding: 2px 6px; border-radius: 4px;
+  background: var(--bg3);
+  white-space: nowrap; flex-shrink: 0;
+  margin-top: 1px;
+}
+.meta-label.impact { color: var(--amber); background: var(--amber-bg); }
+.meta-label.watch { color: var(--blue); background: var(--blue-bg); }
+.meta-text { color: var(--text2); }
+
+/* ── Theme bar ── */
+.theme-bar {
+  display: flex; align-items: flex-start; gap: 8px;
+  background: rgba(74,158,255,0.06);
+  border: 1px solid rgba(74,158,255,0.15);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12px; color: #7ab8ff;
+  margin-top: 4px;
+}
+.theme-label { font-weight: 500; flex-shrink: 0; }
+
+/* ── Loading ── */
+.loading {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 300px; flex-direction: column; gap: 12px;
+  color: var(--text3);
+}
+.spinner {
+  width: 28px; height: 28px;
+  border: 2px solid var(--border2);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Error state ── */
+.error-box {
+  background: var(--red-bg);
+  border: 1px solid var(--red-border);
+  border-radius: 10px;
+  padding: 20px 24px;
+  color: var(--text2);
+  font-size: 13px;
+  line-height: 1.7;
+}
+.error-box strong { color: var(--red); display: block; margin-bottom: 6px; font-size: 14px; }
+
+/* ── Config notice ── */
+.config-box {
+  background: var(--amber-bg);
+  border: 1px solid var(--amber-border);
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-bottom: 24px;
+}
+.config-box h3 { color: var(--amber); font-size: 14px; margin-bottom: 8px; font-family: 'Syne', sans-serif; }
+.config-box p { color: var(--text2); font-size: 13px; line-height: 1.7; }
+.config-box code {
+  background: var(--bg3); border: 1px solid var(--border2);
+  border-radius: 4px; padding: 2px 6px;
+  font-family: 'DM Mono', monospace; font-size: 12px;
+  color: var(--amber);
+}
+
+/* ── Archive ── */
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 8px;
+}
+.archive-item {
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 8px; padding: 12px;
+  cursor: pointer; transition: all 0.15s;
+  text-align: center;
+}
+.archive-item:hover { border-color: var(--accent); background: var(--bg3); }
+.archive-date { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--text); }
+.archive-count { font-size: 11px; color: var(--text3); margin-top: 2px; }
+
+/* ── Company search ── */
+.search-box {
+  display: flex; gap: 8px; margin-bottom: 16px;
+}
+.search-input {
+  flex: 1;
+  background: var(--bg2); border: 1px solid var(--border2);
+  border-radius: 8px; padding: 8px 14px;
+  color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 13px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+.search-input:focus { border-color: var(--accent); }
+.search-input::placeholder { color: var(--text3); }
+.filter-row {
+  display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; align-items: center;
+}
+.filter-select {
+  background: var(--bg2); border: 1px solid var(--border2);
+  border-radius: 8px; padding: 8px 12px;
+  color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 13px;
+  outline: none; cursor: pointer; transition: border-color 0.15s;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' fill='none'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23888580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 28px;
+}
+.filter-select:focus { border-color: var(--accent); }
+.filter-select option { background: #181818; color: var(--text); }
+.filter-tag {
+  font-size: 11px; padding: 3px 9px; border-radius: 20px;
+  border: 1px solid var(--border2); background: var(--bg3);
+  color: var(--text2); cursor: pointer; transition: all 0.15s;
+  white-space: nowrap;
+}
+.filter-tag:hover, .filter-tag.active {
+  border-color: var(--accent); color: var(--accent); background: var(--amber-bg);
+}
+.co-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+}
+.co-card {
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 10px; padding: 12px 14px;
+  cursor: pointer; transition: all 0.15s;
+}
+.co-card:hover { border-color: var(--accent); background: var(--bg3); }
+.co-card-name { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 4px; }
+.co-card-meta { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.co-sym { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--amber); }
+.co-sector { font-size: 11px; color: var(--text3); }
+.co-cap {
+  font-size: 10px; padding: 2px 6px; border-radius: 10px;
+  background: var(--bg3); color: var(--text3); margin-left: auto;
+}
+.co-cap.large { background: var(--green-bg); color: var(--green); }
+.co-cap.mid   { background: var(--blue-bg);  color: var(--blue);  }
+.co-cap.small { background: var(--amber-bg); color: var(--amber); }
+.co-cap.micro { background: var(--bg3);      color: var(--text3); }
+.results-count { font-size: 12px; color: var(--text3); margin-bottom: 12px; }
+
+/* ── Date nav ── */
+.date-nav {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 20px;
+}
+.date-btn {
+  background: var(--bg2); border: 1px solid var(--border2);
+  border-radius: 6px; padding: 5px 10px;
+  color: var(--text2); font-size: 12px; cursor: pointer;
+  transition: all 0.15s; font-family: 'DM Mono', monospace;
+}
+.date-btn:hover { border-color: var(--accent); color: var(--accent); }
+.date-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+.date-current {
+  font-family: 'DM Mono', monospace; font-size: 13px;
+  color: var(--text); background: var(--bg3);
+  border: 1px solid var(--border2); border-radius: 6px;
+  padding: 5px 14px;
+}
+
+/* ── Footer ── */
+.footer {
+  text-align: center; padding: 40px 20px;
+  color: var(--text3); font-size: 11px;
+  border-top: 1px solid var(--border);
+  font-family: 'DM Mono', monospace;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .shell { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* ── Results calendar ── */
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-bottom: 24px;
+}
+.cal-day-header {
+  text-align: center;
+  font-size: 10px; font-weight: 500;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--text3); padding: 6px 0;
+}
+.cal-cell {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 6px;
+  min-height: 80px;
+  cursor: pointer;
+  transition: all 0.15s;
+  position: relative;
+}
+.cal-cell:hover { border-color: var(--border2); background: var(--bg3); }
+.cal-cell.today { border-color: var(--accent); }
+.cal-cell.empty { background: transparent; border-color: transparent; cursor: default; min-height: 80px; }
+.cal-cell.has-results { border-left: 3px solid var(--amber); }
+.cal-date { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--text3); margin-bottom: 4px; }
+.cal-cell.today .cal-date { color: var(--accent); font-weight: 500; }
+.cal-chip {
+  font-size: 10px; padding: 2px 5px;
+  border-radius: 4px; margin-bottom: 2px;
+  display: block; white-space: nowrap;
+  overflow: hidden; text-overflow: ellipsis;
+}
+.cal-chip.result { background: var(--amber-bg); color: var(--amber); }
+.cal-chip.board  { background: var(--blue-bg); color: var(--blue); }
+.cal-chip.more   { background: var(--bg3); color: var(--text3); }
+.cal-month-nav {
+  display: flex; align-items: center; gap: 12px; margin-bottom: 16px;
+}
+.cal-month-title {
+  font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 600;
+  color: var(--text); flex: 1;
+}
+.result-list-header {
+  font-family: 'Syne', sans-serif; font-size: 15px; font-weight: 600;
+  color: var(--text); margin-bottom: 12px; margin-top: 24px;
+  padding-bottom: 10px; border-bottom: 1px solid var(--border);
+}
+.result-row {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 14px;
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 8px; margin-bottom: 6px;
+  transition: all 0.15s;
+}
+.result-row:hover { border-color: var(--border2); background: var(--bg3); }
+.result-row-date { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text3); min-width: 64px; }
+.result-row-co { font-size: 13px; font-weight: 500; color: var(--text); flex: 1; }
+.result-row-sym { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text3); }
+.result-row-type { font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+.result-row-type.result { background: var(--amber-bg); color: var(--amber); }
+.result-row-type.board  { background: var(--blue-bg); color: var(--blue); }
+.result-row-verdict { font-size: 11px; font-weight: 500; }
+.result-row-verdict.positive { color: var(--green); }
+.result-row-verdict.negative { color: var(--red); }
+.result-row-verdict.neutral  { color: var(--text3); }
+
+/* ── Page tabs ── */
+.page { display: none; }
+.page.active { display: block; }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="logo">EQUITY<span>DESK</span></div>
+  <div class="topbar-sep"></div>
+  <a class="nav-link active" href="#" onclick="showPage('briefing',this)">Briefing</a>
+  <a class="nav-link" href="#" onclick="showPage('results-cal',this)">Results Calendar</a>
+  <a class="nav-link" href="#" onclick="showPage('archive',this)">Archive</a>
+  <a class="nav-link" href="#" onclick="showPage('companies',this)">Companies</a>
+  <div class="date-pill"><span class="live-dot"></span><span id="topbar-date">Loading…</span></div>
+</div>
+
+<div class="shell">
+  <!-- Sidebar -->
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">Navigate</div>
+      <div id="sidebar-sections"></div>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-label">Date</div>
+      <div style="display:flex;flex-direction:column;gap:4px;" id="sidebar-dates"></div>
+    </div>
+  </div>
+
+  <!-- Main -->
+  <div class="main">
+
+    <!-- BRIEFING PAGE -->
+    <div class="page active" id="page-briefing">
+      <div id="config-notice"></div>
+
+      <div class="date-nav">
+        <button class="date-btn" id="btn-prev" onclick="changeDate(-1)">← prev</button>
+        <div class="date-current" id="date-display">—</div>
+        <button class="date-btn" id="btn-next" onclick="changeDate(1)">next →</button>
+        <button class="date-btn" onclick="loadToday()" style="margin-left:auto;">today</button>
+      </div>
+
+      <div id="briefing-content">
+        <div class="loading">
+          <div class="spinner"></div>
+          <div>Loading briefing…</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ARCHIVE PAGE -->
+    <div class="page" id="page-archive">
+      <div class="hero">
+        <div class="hero-title">Archive</div>
+        <div class="hero-sub">All past briefings</div>
+      </div>
+      <div id="archive-content">
+        <div class="loading"><div class="spinner"></div><div>Loading…</div></div>
+      </div>
+    </div>
+
+    <!-- RESULTS CALENDAR PAGE -->
+    <div class="page" id="page-results-cal">
+      <div class="hero">
+        <div class="hero-title">Results Calendar</div>
+        <div class="hero-sub">Upcoming board meetings &amp; result filings. Click any date to see what happened.</div>
+      </div>
+      <div id="results-cal-content">
+        <div class="loading"><div class="spinner"></div><div>Loading calendar…</div></div>
+      </div>
+    </div>
+
+    <!-- COMPANIES PAGE -->
+    <div class="page" id="page-companies">
+      <div class="hero">
+        <div class="hero-title">Company Dossiers</div>
+        <div class="hero-sub">Browse all 2,000+ listed stocks. Filter by sector or market cap.</div>
+      </div>
+      <div class="filter-row">
+        <input class="search-input" id="company-search" placeholder="Search name or symbol…" oninput="applyFilters()" style="flex:1;min-width:160px;">
+        <select class="filter-select" id="sector-filter" onchange="applyFilters()">
+          <option value="">All sectors</option>
+        </select>
+        <select class="filter-select" id="cap-filter" onchange="applyFilters()">
+          <option value="">All sizes</option>
+          <option value="large">Large Cap</option>
+          <option value="mid">Mid Cap</option>
+          <option value="small">Small Cap</option>
+          <option value="micro">Micro Cap</option>
+        </select>
+      </div>
+      <div class="filter-row" id="sector-tags" style="gap:6px;"></div>
+      <div class="results-count" id="co-count"></div>
+      <div id="companies-content">
+        <div class="loading"><div class="spinner"></div><div>Loading…</div></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="footer">
+  EquityDesk · Data from BSE India · Updated daily by GitHub Actions · Not investment advice
+</div>
+
+<script>
+// ── CONFIG — change GITHUB_USER and REPO_NAME to yours ──────────────────────
+const GITHUB_USER = "irtteja";
+const REPO_NAME   = "indian-market-data";
+const BRANCH      = "main";
+
+const RAW = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/${BRANCH}`;
+
+// ── State ──────────────────────────────────────────────────────────────────
+let currentDate   = null;
+let availableDates = [];
+
+// ── Helpers ───────────────────────────────────────────────────────────────
+function fmt(dateStr) {
+  if (!dateStr) return "—";
+  const d = new Date(dateStr + "T00:00:00");
+  return d.toLocaleDateString("en-IN", { weekday:"short", day:"numeric", month:"short", year:"numeric" });
+}
+function fmtShort(dateStr) {
+  const d = new Date(dateStr + "T00:00:00");
+  return d.toLocaleDateString("en-IN", { day:"numeric", month:"short" });
+}
+function todayIST() {
+  const now = new Date();
+  const ist = new Date(now.getTime() + (5.5 * 60 * 60 * 1000));
+  return ist.toISOString().slice(0, 10);
+}
+async function fetchJSON(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+// ── Page switching ─────────────────────────────────────────────────────────
+function showPage(name, el) {
+  document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
+  document.getElementById("page-" + name).classList.add("active");
+  document.querySelectorAll(".nav-link").forEach(a => a.classList.remove("active"));
+  if (el) el.classList.add("active");
+  if (name === "archive") loadArchive();
+  if (name === "companies") loadCompanies();
+  if (name === "results-cal") loadResultsCalendar();
+}
+
+// ── Date navigation ────────────────────────────────────────────────────────
+async function discoverDates() {
+  // Try to fetch a manifest file; fall back to checking last 14 days
+  try {
+    const manifest = await fetchJSON(`${RAW}/manifest.json`);
+    return manifest.dates || [];
+  } catch {
+    // Fall back: check last 14 days
+    const dates = [];
+    const today = todayIST();
+    for (let i = 0; i < 14; i++) {
+      const d = new Date(today + "T00:00:00");
+      d.setDate(d.getDate() - i);
+      const ds = d.toISOString().slice(0, 10);
+      try {
+        const r = await fetch(`${RAW}/daily/${ds}/announcements.json`, { method: "HEAD" });
+        if (r.ok) dates.push(ds);
+      } catch {}
+    }
+    return dates;
+  }
+}
+
+function changeDate(delta) {
+  if (!currentDate || availableDates.length === 0) return;
+  const idx = availableDates.indexOf(currentDate);
+  const newIdx = idx - delta;  // dates are newest-first
+  if (newIdx >= 0 && newIdx < availableDates.length) {
+    loadDate(availableDates[newIdx]);
+  }
+}
+
+async function loadToday() {
+  if (availableDates.length > 0) {
+    loadDate(availableDates[0]);
+  }
+}
+
+// ── Main briefing loader ───────────────────────────────────────────────────
+async function loadDate(dateStr) {
+  currentDate = dateStr;
+  document.getElementById("date-display").textContent = fmt(dateStr);
+  document.getElementById("topbar-date").textContent = fmtShort(dateStr);
+
+  // Update nav buttons
+  const idx = availableDates.indexOf(dateStr);
+  document.getElementById("btn-prev").disabled = idx >= availableDates.length - 1;
+  document.getElementById("btn-next").disabled = idx <= 0;
+
+  document.getElementById("briefing-content").innerHTML =
+    `<div class="loading"><div class="spinner"></div><div>Loading briefing…</div></div>`;
+
+  // Check if configured
+  if (GITHUB_USER === "irtteja") {
+    document.getElementById("config-notice").innerHTML = `
+      <div class="config-box">
+        <h3>One-time setup needed</h3>
+        <p>Open this file and change <code>irtteja</code> to your actual GitHub username at the top of the script.
+        Then push this file to your <code>${REPO_NAME}</code> repo and enable GitHub Pages.</p>
+      </div>`;
+    renderDemo();
+    return;
+  }
+
+  try {
+    const data = await fetchJSON(`${RAW}/daily/${dateStr}/announcements.json`);
+    renderBriefing(dateStr, data);
+  } catch (e) {
+    document.getElementById("briefing-content").innerHTML = `
+      <div class="error-box">
+        <strong>No briefing found for ${fmt(dateStr)}</strong>
+        Could not load <code>daily/${dateStr}/announcements.json</code> from the repo.
+        This may be a weekend with no filings, or the pipeline hasn't run yet.
+        <br><br>Try a different date using the navigation above.
+      </div>`;
+  }
+}
+
+// ── Render briefing ────────────────────────────────────────────────────────
+function verdictClass(text) {
+  if (!text) return "neutral";
+  const t = text.toLowerCase();
+  if (t.includes("strong beat") || t.includes("positive") || t.includes("beat")) return "positive";
+  if (t.includes("miss") || t.includes("negative") || t.includes("alert") || t.includes("concerning")) return "negative";
+  if (t.includes("warning") || t.includes("in-line") || t.includes("neutral")) return "warning";
+  return "neutral";
+}
+function verdictLabel(text) {
+  if (!text) return "Info";
+  return text.length > 30 ? text.slice(0, 28) + "…" : text;
+}
+
+function renderBriefing(dateStr, data) {
+  const sections = data.sections || {};
+  const total   = data.total_bse || 0;
+  const noise   = data.noise_filtered || 0;
+  const signal  = data.signal || 0;
+  const summaries = data.summaries || {};
+
+  // Count stats
+  let results = 0, orders = 0, alerts = 0, critical = 0;
+  for (const [sec, items] of Object.entries(sections)) {
+    if (sec.includes("Result")) results += items.length;
+    if (sec.includes("Order")) orders += items.length;
+    if (sec.includes("Alert") || sec.includes("Regulatory")) alerts += items.length;
+    critical += items.filter(i => i.is_critical).length;
+  }
+
+  let html = `
+    <div class="hero">
+      <div class="hero-date">BSE announcements · ${fmt(dateStr)}</div>
+      <div class="hero-title">Morning Briefing</div>
+      <div class="hero-sub">${total} total filings · ${noise} routine filtered · ${signal} analysed · Generated by EquityDesk</div>
+      <div class="stats-grid">
+        <div class="stat-card"><div class="stat-label">Results</div><div class="stat-val blue">${results}</div></div>
+        <div class="stat-card"><div class="stat-label">Order wins</div><div class="stat-val green">${orders}</div></div>
+        <div class="stat-card"><div class="stat-label">Alerts</div><div class="stat-val red">${alerts}</div></div>
+        <div class="stat-card"><div class="stat-label">Critical</div><div class="stat-val amber">${critical}</div></div>
+      </div>
+    </div>`;
+
+  // Section icons
+  const icons = {
+    "Financial Results": "📊", "Board Decisions": "📋", "Order Wins": "📦",
+    "Acquisitions & M&A": "🤝", "Fund Raise / QIP / NCD": "💰", "Buyback": "🔄",
+    "Credit Ratings": "🏦", "Management Changes": "👔", "Regulatory & BSE Queries": "⚠️",
+    "Operational Alerts": "🚨", "Concall Transcripts": "🎤", "Mergers & Schemes": "🔀",
+    "Operations & Capacity": "🏭", "Press Releases": "📰", "MoUs & Agreements": "🤝",
+    "Upcoming Board Meetings": "📅", "Investor Presentations": "📑",
+    "Debt & Finance": "💳", "Other Disclosures": "📝",
+    "AGM / EGM / Postal Ballot": "🏛️", "Analyst / Investor Meets": "👥", "Insider / SAST": "👤",
+  };
+
+  // Sort sections by priority (non-appendix first)
+  const appendixSecs = ["AGM / EGM / Postal Ballot", "Analyst / Investor Meets", "Insider / SAST"];
+  const mainSecs  = Object.keys(sections).filter(s => !appendixSecs.includes(s));
+  const appxSecs  = Object.keys(sections).filter(s => appendixSecs.includes(s));
+  const orderedSecs = [...mainSecs, ...appxSecs];
+
+  // Build sidebar
+  let sidebarHtml = "";
+  for (const sec of orderedSecs) {
+    const items = sections[sec];
+    const cnt = items.length;
+    const hasNeg = items.some(i => verdictClass(i.verdict || i.section) === "negative");
+    const icon = icons[sec] || "📝";
+    sidebarHtml += `<a class="sidebar-item" href="#sec-${sec.replace(/\W/g,'-')}">${icon} ${sec}
+      <span class="sidebar-count ${hasNeg ? 'red' : ''}">${cnt}</span></a>`;
+  }
+  document.getElementById("sidebar-sections").innerHTML = sidebarHtml;
+
+  // Build sidebar date list
+  let datesHtml = "";
+  for (const d of availableDates.slice(0, 7)) {
+    datesHtml += `<a class="sidebar-item ${d === currentDate ? 'active' : ''}"
+      href="#" onclick="loadDate('${d}');return false;">${fmtShort(d)}</a>`;
+  }
+  document.getElementById("sidebar-dates").innerHTML = datesHtml;
+
+  // Render sections
+  for (const sec of orderedSecs) {
+    const items = sections[sec];
+    const icon = icons[sec] || "📝";
+    const summary = summaries[sec] || "";
+    const secId = sec.replace(/\W/g, '-');
+
+    html += `<div class="section" id="sec-${secId}">
+      <div class="section-head">
+        <span class="section-icon">${icon}</span>
+        <span class="section-name">${sec}</span>
+        <span class="section-badge">${items.length} co.</span>
+      </div>`;
+
+    // Parse summary into cards (each bullet is one company)
+    if (summary) {
+      const lines = summary.split("\n");
+      let cardLines = [];
+      const flushCard = () => {
+        if (cardLines.length === 0) return;
+        const raw = cardLines.join("\n");
+        html += parseCardFromLines(raw);
+        cardLines = [];
+      };
+      for (const line of lines) {
+        if (line.startsWith("- **") && cardLines.length > 0) { flushCard(); }
+        if (line.trim().startsWith("Sector Theme:") || line.trim().startsWith("Theme:")) {
+          flushCard();
+          const themeText = line.replace(/^.*?Theme:\s*/i, "");
+          html += `<div class="theme-bar"><span class="theme-label">Sector theme</span>${themeText}</div>`;
+        } else if (line.trim()) {
+          cardLines.push(line);
+        }
+      }
+      flushCard();
+    } else {
+      // No summary — render raw items
+      for (const item of items.slice(0, 20)) {
+        html += renderRawItem(item);
+      }
+    }
+
+    html += `</div>`;
+  }
+
+  document.getElementById("briefing-content").innerHTML = html;
+}
+
+function parseCardFromLines(raw) {
+  // Parse: "- **Company (SYM)** — news\n📊 Impact: ...\n👀 Watch: ..."
+  const lines = raw.split("\n").map(l => l.trim()).filter(Boolean);
+  if (!lines.length) return "";
+
+  let company = "", symbol = "", newsText = "", impactText = "", watchText = "", verdict = "neutral";
+
+  for (const line of lines) {
+    if (line.startsWith("- **") || line.startsWith("**")) {
+      const m = line.match(/\*\*([^(]+)\s*\(([^)]+)\)\*\*\s*[—-]\s*(.*)/);
+      if (m) {
+        company = m[1].trim(); symbol = m[2].trim(); newsText = m[3].trim();
+      } else {
+        newsText = line.replace(/\*\*/g, "").replace(/^[-•]\s*/, "").trim();
+      }
+    } else if (line.includes("Impact:") || line.startsWith("📊")) {
+      impactText = line.replace(/^📊\s*/, "").replace(/^\*\*Impact:\*\*\s*/i, "").replace(/^Impact:\s*/i, "").trim();
+      if (impactText.toLowerCase().includes("positive")) verdict = "positive";
+      else if (impactText.toLowerCase().includes("negative")) verdict = "negative";
+      else if (impactText.toLowerCase().includes("neutral")) verdict = "neutral";
+      else verdict = "warning";
+    } else if (line.includes("Watch:") || line.startsWith("👀")) {
+      watchText = line.replace(/^👀\s*/, "").replace(/^\*\*Watch:\*\*\s*/i, "").replace(/^Watch:\s*/i, "").trim();
+    }
+  }
+
+  const vLabel = verdict === "positive" ? "Positive" : verdict === "negative" ? "Negative" : verdict === "warning" ? "Neutral" : "Info";
+
+  return `
+    <div class="ann-card ${verdict}">
+      <div class="card-top">
+        <div>
+          <span class="company-name">${company || "Company"}</span>
+          <span class="company-symbol">${symbol}</span>
+        </div>
+        <span class="verdict-badge ${verdict}">${vLabel}</span>
+      </div>
+      <div class="news-text">${newsText}</div>
+      ${impactText ? `<div class="meta-row"><span class="meta-label impact">Impact</span><span class="meta-text">${impactText}</span></div>` : ""}
+      ${watchText  ? `<div class="meta-row"><span class="meta-label watch">Watch</span><span class="meta-text">${watchText}</span></div>`  : ""}
+    </div>`;
+}
+
+function renderRawItem(item) {
+  const company = item.company || "";
+  const symbol  = item.symbol  || item.scrip_code || "";
+  const hl      = item.clean_headline || item.raw_headline || "";
+  const isCrit  = item.is_critical;
+  return `
+    <div class="ann-card ${isCrit ? 'warning' : 'neutral'}">
+      <div class="card-top">
+        <div>
+          <span class="company-name">${company}</span>
+          <span class="company-symbol">${symbol}</span>
+        </div>
+        ${isCrit ? '<span class="verdict-badge warning">Critical</span>' : ''}
+      </div>
+      <div class="news-text">${hl}</div>
+    </div>`;
+}
+
+// ── Demo mode (before GitHub is configured) ────────────────────────────────
+function renderDemo() {
+  document.getElementById("briefing-content").innerHTML = `
+    <div class="section">
+      <div class="section-head">
+        <span class="section-icon">📊</span>
+        <span class="section-name">Financial results</span>
+        <span class="section-badge">sample</span>
+      </div>
+      <div class="ann-card positive">
+        <div class="card-top">
+          <div><span class="company-name">Infosys</span><span class="company-symbol">INFY</span></div>
+          <span class="verdict-badge positive">Strong beat</span>
+        </div>
+        <div class="news-text">Q3 revenue ₹40,925 cr, up 7.6% YoY. PAT ₹6,806 cr, beat estimates by 4.2%. Raised full-year guidance to 4.5–5%.</div>
+        <div class="meta-row"><span class="meta-label impact">Impact</span><span class="meta-text">Better profit than expected — stock likely opens higher. Market was worried IT spending was slowing, this says it is not.</span></div>
+        <div class="meta-row"><span class="meta-label watch">Watch</span><span class="meta-text">Whether US client renewals in Q1 hold up — 60% of revenue comes from there.</span></div>
+      </div>
+      <div class="ann-card negative">
+        <div class="card-top">
+          <div><span class="company-name">Wipro</span><span class="company-symbol">WIPRO</span></div>
+          <span class="verdict-badge negative">Miss</span>
+        </div>
+        <div class="news-text">Q3 revenue flat at ₹22,208 cr. EBIT margin 17.1%, down 80bps. No guidance upgrade for Q4.</div>
+        <div class="meta-row"><span class="meta-label impact">Impact</span><span class="meta-text">Missed margins, gave no positive signal. Stock likely opens weaker. Contrast with Infosys makes Wipro look worse.</span></div>
+        <div class="meta-row"><span class="meta-label watch">Watch</span><span class="meta-text">Margin recovery in Q4 — third miss in a row would be a red flag.</span></div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-head">
+        <span class="section-icon">📦</span>
+        <span class="section-name">Order wins</span>
+        <span class="section-badge">sample</span>
+      </div>
+      <div class="ann-card positive">
+        <div class="card-top">
+          <div><span class="company-name">BEL</span><span class="company-symbol">BEL</span></div>
+          <span class="verdict-badge positive">Positive</span>
+        </div>
+        <div class="news-text">Secured ₹480 cr radar order from Indian Army. Order book now ₹62,000 cr — revenue visibility for 3 years.</div>
+        <div class="meta-row"><span class="meta-label impact">Impact</span><span class="meta-text">More orders = more future revenue. Confirms defence capex cycle is intact.</span></div>
+        <div class="meta-row"><span class="meta-label watch">Watch</span><span class="meta-text">Execution pace — BEL has historically struggled to convert orders to revenue on time.</span></div>
+      </div>
+      <div class="theme-bar"><span class="theme-label">Sector theme &nbsp;</span>Defence + infrastructure ordering staying strong — positive for entire capital goods sector.</div>
+    </div>`;
+}
+
+// ── Archive ────────────────────────────────────────────────────────────────
+async function loadArchive() {
+  if (availableDates.length === 0) {
+    document.getElementById("archive-content").innerHTML =
+      `<div class="loading"><div class="spinner"></div><div>Loading…</div></div>`;
+    await init();
+  }
+  let html = `<div class="archive-grid">`;
+  for (const d of availableDates) {
+    html += `<div class="archive-item" onclick="showPage('briefing');loadDate('${d}')">
+      <div class="archive-date">${fmt(d).replace(/^\w+, /,"")}</div>
+      <div class="archive-count">view</div>
+    </div>`;
+  }
+  html += `</div>`;
+  document.getElementById("archive-content").innerHTML = html;
+}
+
+// ── Companies ──────────────────────────────────────────────────────────────
+let allCompanies = [];
+let activeSectorTag = "";
+
+async function loadCompanies() {
+  if (allCompanies.length > 0) { applyFilters(); return; }
+  try {
+    const resp = await fetch(`${RAW}/universe/stocks.csv`);
+    const text = await resp.text();
+    const lines = text.trim().split("\n");
+    const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+    allCompanies = lines.slice(1).map(line => {
+      const vals = line.split(",");
+      const obj = {};
+      headers.forEach((h, i) => obj[h] = (vals[i] || "").trim());
+      return obj;
+    });
+
+    // Populate sector dropdown
+    const sectors = [...new Set(allCompanies.map(c => c.sector || c.industry || "").filter(Boolean))].sort();
+    const sel = document.getElementById("sector-filter");
+    for (const s of sectors) {
+      const opt = document.createElement("option");
+      opt.value = s; opt.textContent = s;
+      sel.appendChild(opt);
+    }
+
+    // Populate sector quick-tags (top 8 by count)
+    const sectorCounts = {};
+    allCompanies.forEach(c => { const s = c.sector || ""; if (s) sectorCounts[s] = (sectorCounts[s]||0)+1; });
+    const topSectors = Object.entries(sectorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8).map(e=>e[0]);
+    const tagsEl = document.getElementById("sector-tags");
+    tagsEl.innerHTML = topSectors.map(s =>
+      `<span class="filter-tag" onclick="setSectorTag('${s}')">${s}</span>`
+    ).join("");
+
+    applyFilters();
+  } catch (e) {
+    document.getElementById("companies-content").innerHTML =
+      `<div class="error-box"><strong>Could not load stock universe</strong><br>${e.message}</div>`;
+  }
+}
+
+function setSectorTag(sector) {
+  activeSectorTag = activeSectorTag === sector ? "" : sector;
+  document.getElementById("sector-filter").value = activeSectorTag;
+  document.querySelectorAll(".filter-tag").forEach(t => {
+    t.classList.toggle("active", t.textContent === activeSectorTag);
+  });
+  applyFilters();
+}
+
+function applyFilters() {
+  const q      = (document.getElementById("company-search")?.value || "").toLowerCase();
+  const sector = document.getElementById("sector-filter")?.value || "";
+  const cap    = document.getElementById("cap-filter")?.value || "";
+
+  let filtered = allCompanies;
+
+  if (q) {
+    filtered = filtered.filter(c =>
+      (c.company||"").toLowerCase().includes(q) ||
+      (c.symbol ||"").toLowerCase().includes(q)  ||
+      (c.nse_symbol||"").toLowerCase().includes(q)
+    );
+  }
+  if (sector) {
+    filtered = filtered.filter(c =>
+      (c.sector||"").toLowerCase() === sector.toLowerCase() ||
+      (c.industry||"").toLowerCase() === sector.toLowerCase()
+    );
+  }
+  if (cap) {
+    filtered = filtered.filter(c => (c.market_cap_category||"").toLowerCase().includes(cap));
+  }
+
+  renderCompanies(filtered);
+}
+
+function capClass(cat) {
+  if (!cat) return "";
+  const c = cat.toLowerCase();
+  if (c.includes("large")) return "large";
+  if (c.includes("mid"))   return "mid";
+  if (c.includes("small")) return "small";
+  if (c.includes("micro")) return "micro";
+  return "";
+}
+
+function renderCompanies(list) {
+  const countEl = document.getElementById("co-count");
+  if (countEl) countEl.textContent = `${list.length} companies`;
+
+  const PAGE = 60;
+  const show = list.slice(0, PAGE);
+  let html = `<div class="co-grid">`;
+  for (const co of show) {
+    const name = co.company || "Unknown";
+    const sym  = co.symbol  || co.nse_symbol || "";
+    const sec  = co.sector  || co.industry   || "";
+    const cat  = co.market_cap_category || "";
+    const cc   = capClass(cat);
+    const capLabel = cat ? cat.replace(" Cap","").replace(" cap","") + " Cap" : "";
+    html += `<div class="co-card" onclick="openCompany('${sym}','${name.replace(/'/g,"\'")}')">
+      <div class="co-card-name">${name}</div>
+      <div class="co-card-meta">
+        <span class="co-sym">${sym}</span>
+        <span class="co-sector">${sec}</span>
+        ${capLabel ? `<span class="co-cap ${cc}">${capLabel}</span>` : ""}
+      </div>
+    </div>`;
+  }
+  html += `</div>`;
+  if (list.length > PAGE) {
+    html += `<div style="color:var(--text3);font-size:12px;margin-top:14px;text-align:center;">
+      Showing ${PAGE} of ${list.length} — narrow your search to see more</div>`;
+  }
+  if (list.length === 0) {
+    html += `<div style="color:var(--text3);font-size:13px;text-align:center;padding:40px 0;">No companies match your filters</div>`;
+  }
+  document.getElementById("companies-content").innerHTML = html;
+}
+
+function openCompany(symbol, name) {
+  // For now jump to today's briefing and search for the company
+  // Full company dossier page is a future addition
+  alert(`${name} (${symbol})\n\nFull company dossier coming soon.\nFor now, use the Briefing page to see recent announcements.`);
+}
+
+// ── Results Calendar ──────────────────────────────────────────────────────
+
+let calYear  = null;
+let calMonth = null;
+let calData  = {};   // { "YYYY-MM-DD": [{company, symbol, type, verdict}] }
+
+async function loadResultsCalendar() {
+  const now = new Date();
+  if (!calYear)  calYear  = now.getFullYear();
+  if (!calMonth) calMonth = now.getMonth();   // 0-based
+
+  document.getElementById("results-cal-content").innerHTML =
+    `<div class="loading"><div class="spinner"></div><div>Building calendar…</div></div>`;
+
+  // Scan available dates and pull results from each announcements.json
+  if (availableDates.length === 0) await init();
+
+  // Collect results data from past briefings
+  const toScan = availableDates.slice(0, 60);  // last 60 days
+  const promises = toScan.map(async d => {
+    if (calData[d] !== undefined) return;
+    try {
+      const data = await fetchJSON(`${RAW}/daily/${d}/announcements.json`);
+      const sections = data.sections || {};
+      const entries = [];
+      for (const [sec, items] of Object.entries(sections)) {
+        const type = sec.includes("Result") ? "result"
+                   : sec.includes("Board") ? "board" : null;
+        if (!type) continue;
+        for (const item of items) {
+          entries.push({
+            company: item.company || "",
+            symbol:  item.symbol  || item.scrip_code || "",
+            type,
+            verdict: item.verdict || "",
+            section: sec,
+          });
+        }
+      }
+      calData[d] = entries;
+    } catch { calData[d] = []; }
+  });
+  await Promise.all(promises);
+
+  // Also fetch board meetings from NSE if available in manifest
+  try {
+    const mf = await fetchJSON(`${RAW}/manifest.json`);
+    if (mf.upcoming_board_meetings) {
+      for (const m of mf.upcoming_board_meetings) {
+        const d = m.date;
+        if (!calData[d]) calData[d] = [];
+        calData[d].push({ company: m.company, symbol: m.symbol, type: "board", verdict: "" });
+      }
+    }
+  } catch {}
+
+  renderCalendar();
+}
+
+function renderCalendar() {
+  const monthNames = ["January","February","March","April","May","June",
+                      "July","August","September","October","November","December"];
+  const today = todayIST();
+
+  // Build calendar grid
+  const firstDay = new Date(calYear, calMonth, 1).getDay();  // 0=Sun
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+  const startOffset = (firstDay + 6) % 7;  // Monday-first
+
+  let html = `
+    <div class="cal-month-nav">
+      <button class="date-btn" onclick="calNav(-1)">← prev</button>
+      <div class="cal-month-title">${monthNames[calMonth]} ${calYear}</div>
+      <button class="date-btn" onclick="calNav(1)">next →</button>
+      <button class="date-btn" onclick="calGoToday()" style="margin-left:auto;">this month</button>
+    </div>
+    <div class="cal-grid">
+      <div class="cal-day-header">Mon</div>
+      <div class="cal-day-header">Tue</div>
+      <div class="cal-day-header">Wed</div>
+      <div class="cal-day-header">Thu</div>
+      <div class="cal-day-header">Fri</div>
+      <div class="cal-day-header">Sat</div>
+      <div class="cal-day-header">Sun</div>`;
+
+  // Empty cells before first day
+  for (let i = 0; i < startOffset; i++) {
+    html += `<div class="cal-cell empty"></div>`;
+  }
+
+  // Day cells
+  for (let day = 1; day <= daysInMonth; day++) {
+    const mm   = String(calMonth + 1).padStart(2, "0");
+    const dd   = String(day).padStart(2, "0");
+    const ds   = `${calYear}-${mm}-${dd}`;
+    const isToday = ds === today;
+    const entries = calData[ds] || [];
+    const results = entries.filter(e => e.type === "result");
+    const boards  = entries.filter(e => e.type === "board");
+    const hasData = results.length > 0 || boards.length > 0;
+
+    html += `<div class="cal-cell ${isToday ? 'today' : ''} ${hasData ? 'has-results' : ''}"
+                 onclick="calSelectDate('${ds}')">
+      <div class="cal-date">${day}</div>`;
+
+    // Show up to 2 chips
+    const shown = [...results.slice(0, 2), ...boards.slice(0, Math.max(0, 2 - results.length))];
+    for (const e of shown) {
+      html += `<span class="cal-chip ${e.type}" title="${e.company}">${e.symbol || e.company}</span>`;
+    }
+    const remaining = entries.length - shown.length;
+    if (remaining > 0) {
+      html += `<span class="cal-chip more">+${remaining} more</span>`;
+    }
+    html += `</div>`;
+  }
+
+  html += `</div>`;
+
+  // Results list for current month
+  const monthEntries = [];
+  for (let day = 1; day <= daysInMonth; day++) {
+    const mm = String(calMonth + 1).padStart(2, "0");
+    const dd = String(day).padStart(2, "0");
+    const ds = `${calYear}-${mm}-${dd}`;
+    const entries = calData[ds] || [];
+    for (const e of entries) {
+      monthEntries.push({ date: ds, ...e });
+    }
+  }
+
+  if (monthEntries.length > 0) {
+    html += `<div class="result-list-header">${monthNames[calMonth]} ${calYear} — All Results & Board Meetings</div>`;
+    for (const e of monthEntries) {
+      const vClass = e.verdict.toLowerCase().includes("positive") || e.verdict.includes("Beat") ? "positive"
+                   : e.verdict.toLowerCase().includes("negative") || e.verdict.includes("Miss") ? "negative"
+                   : "neutral";
+      const d = new Date(e.date + "T00:00:00");
+      const dLabel = d.toLocaleDateString("en-IN", { day:"numeric", month:"short", weekday:"short" });
+      html += `<div class="result-row" onclick="showPage('briefing');loadDate('${e.date}')">
+        <div class="result-row-date">${dLabel}</div>
+        <div class="result-row-co">${e.company}</div>
+        <div class="result-row-sym">${e.symbol}</div>
+        <div class="result-row-type ${e.type}">${e.type === "result" ? "Result" : "Board Mtg"}</div>
+        ${e.verdict ? `<div class="result-row-verdict ${vClass}">${e.verdict}</div>` : ""}
+      </div>`;
+    }
+  } else {
+    html += `<div style="color:var(--text3);font-size:13px;margin-top:16px;text-align:center;">
+      No result filings found for this month yet.<br>
+      <span style="font-size:12px;">Data builds up as daily briefings run.</span>
+    </div>`;
+  }
+
+  document.getElementById("results-cal-content").innerHTML = html;
+}
+
+function calNav(delta) {
+  calMonth += delta;
+  if (calMonth > 11) { calMonth = 0; calYear++; }
+  if (calMonth < 0)  { calMonth = 11; calYear--; }
+  renderCalendar();
+}
+
+function calGoToday() {
+  const now = new Date();
+  calYear  = now.getFullYear();
+  calMonth = now.getMonth();
+  renderCalendar();
+}
+
+function calSelectDate(ds) {
+  showPage("briefing", document.querySelector(".nav-link"));
+  loadDate(ds);
+}
+
+// ── Init ───────────────────────────────────────────────────────────────────
+async function init() {
+  availableDates = await discoverDates();
+  if (availableDates.length === 0) {
+    availableDates = [todayIST()];
+  }
+  // Newest first
+  availableDates.sort((a, b) => b.localeCompare(a));
+  await loadDate(availableDates[0]);
+}
+
+init();
+</script>
+</body>
+</html>
