@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T03:53:54.738809Z",
+  "generated": "2026-03-13T04:58:11.368635Z",
   "dates": [
     "2026-03-12"
   ],
@@ -8,13 +8,18 @@
   "latest": "2026-03-12",
   "upcoming_board_meetings": [
     {
-      "company": "Five-Star Business Finance Ltd",
-      "symbol": "543663",
+      "company": "Krishival Foods Ltd",
+      "symbol": "544416",
       "date": "2026-03-12"
     },
     {
-      "company": "Amit International Ltd",
-      "symbol": "531300",
+      "company": "Associated Alcohols & Breweries Ltd",
+      "symbol": "507526",
+      "date": "2026-03-12"
+    },
+    {
+      "company": "Five-Star Business Finance Ltd",
+      "symbol": "543663",
       "date": "2026-03-12"
     },
     {
@@ -23,13 +28,18 @@
       "date": "2026-03-12"
     },
     {
-      "company": "Encash Entertainment Ltd",
-      "symbol": "538684",
+      "company": "Hemang Resources Ltd",
+      "symbol": "531178",
       "date": "2026-03-12"
     },
     {
-      "company": "Paragon Finance Ltd",
-      "symbol": "531255",
+      "company": "Nicco Uco Alliance Credit Ltd",
+      "symbol": "523209",
+      "date": "2026-03-12"
+    },
+    {
+      "company": "Kati Patang Lifestyle Ltd",
+      "symbol": "531126",
       "date": "2026-03-12"
     }
   ]
