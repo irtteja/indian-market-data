@@ -1830,7 +1830,8 @@ document.addEventListener("keydown", e => {
 
 let calYear  = null;
 let calMonth = null;
-let calData  = {};   // { "YYYY-MM-DD": [{company, symbol, type, verdict}] }
+let calData  = {};   // { "YYYY-MM-DD": [{company, symbol, type, verdict, purpose, is_results, mcap_cat}] }
+let calManifest = null;
 
 async function loadResultsCalendar() {
   const now = new Date();
@@ -1840,47 +1841,67 @@ async function loadResultsCalendar() {
   document.getElementById("results-cal-content").innerHTML =
     `<div class="loading"><div class="spinner"></div><div>Building calendar…</div></div>`;
 
-  // Scan available dates and pull results from each announcements.json
   if (availableDates.length === 0) await init();
 
-  // Collect results data from past briefings
-  const toScan = availableDates.slice(0, 60);  // last 60 days
+  // Load manifest (contains upcoming board meetings from NSE)
+  if (!calManifest) {
+    try { calManifest = await fetchJSON(`${RAW}/manifest.json`); } catch { calManifest = {}; }
+  }
+
+  // ── 1. Load upcoming board meetings from manifest ────────────────────
+  const upcoming = calManifest.upcoming_board_meetings || [];
+  for (const m of upcoming) {
+    const d = m.date;
+    if (!d) continue;
+    if (!calData[d]) calData[d] = [];
+    // Avoid duplicates
+    const exists = calData[d].some(e => e.symbol === m.symbol && e.source === "nse");
+    if (!exists) {
+      calData[d].push({
+        company:    m.company,
+        symbol:     m.symbol,
+        type:       m.is_results ? "result" : "board",
+        verdict:    "",
+        purpose:    m.purpose || "",
+        is_results: m.is_results || false,
+        mcap_cat:   m.mcap_cat || "",
+        sector:     m.sector || "",
+        source:     "nse",
+        future:     true,
+      });
+    }
+  }
+
+  // ── 2. Load historical data from past briefings ──────────────────────
+  const toScan = availableDates.slice(0, 60);
   const promises = toScan.map(async d => {
-    if (calData[d] !== undefined) return;
+    if (calData[d] !== undefined && calData[d].some(e => e.source !== "nse")) return;
     try {
       const data = await fetchJSON(`${RAW}/daily/${d}/announcements.json`);
       const sections = data.sections || {};
-      const entries = [];
+      if (!calData[d]) calData[d] = [];
       for (const [sec, items] of Object.entries(sections)) {
         const type = sec.includes("Result") ? "result"
                    : sec.includes("Board") ? "board" : null;
         if (!type) continue;
         for (const item of items) {
-          entries.push({
-            company: item.company || "",
-            symbol:  item.symbol  || item.scrip_code || "",
-            type,
-            verdict: item.verdict || "",
-            section: sec,
-          });
+          const exists = calData[d].some(e => e.symbol === (item.symbol || item.scrip_code) && e.source === "bse");
+          if (!exists) {
+            calData[d].push({
+              company: item.company || "",
+              symbol:  item.symbol  || item.scrip_code || "",
+              type,
+              verdict: item.verdict || "",
+              section: sec,
+              source:  "bse",
+              future:  false,
+            });
+          }
         }
       }
-      calData[d] = entries;
-    } catch { calData[d] = []; }
+    } catch { if (!calData[d]) calData[d] = []; }
   });
   await Promise.all(promises);
-
-  // Also fetch board meetings from NSE if available in manifest
-  try {
-    const mf = await fetchJSON(`${RAW}/manifest.json`);
-    if (mf.upcoming_board_meetings) {
-      for (const m of mf.upcoming_board_meetings) {
-        const d = m.date;
-        if (!calData[d]) calData[d] = [];
-        calData[d].push({ company: m.company, symbol: m.symbol, type: "board", verdict: "" });
-      }
-    }
-  } catch {}
 
   renderCalendar();
 }
@@ -1958,25 +1979,48 @@ function renderCalendar() {
   }
 
   if (monthEntries.length > 0) {
-    html += `<div class="result-list-header">${monthNames[calMonth]} ${calYear} — All Results & Board Meetings</div>`;
-    for (const e of monthEntries) {
-      const vClass = e.verdict.toLowerCase().includes("positive") || e.verdict.includes("Beat") ? "positive"
-                   : e.verdict.toLowerCase().includes("negative") || e.verdict.includes("Miss") ? "negative"
-                   : "neutral";
-      const d = new Date(e.date + "T00:00:00");
-      const dLabel = d.toLocaleDateString("en-IN", { day:"numeric", month:"short", weekday:"short" });
-      html += `<div class="result-row" onclick="showPage('briefing');loadDate('${e.date}')">
-        <div class="result-row-date">${dLabel}</div>
-        <div class="result-row-co">${e.company}</div>
-        <div class="result-row-sym">${e.symbol}</div>
-        <div class="result-row-type ${e.type}">${e.type === "result" ? "Result" : "Board Mtg"}</div>
-        ${e.verdict ? `<div class="result-row-verdict ${vClass}">${e.verdict}</div>` : ""}
-      </div>`;
+    // Split future vs past
+    const todayStr = todayIST();
+    const future = monthEntries.filter(e => e.date >= todayStr);
+    const past   = monthEntries.filter(e => e.date < todayStr);
+
+    if (future.length > 0) {
+      html += `<div class="result-list-header">📅 Upcoming — ${monthNames[calMonth]} ${calYear}</div>`;
+      for (const e of future.sort((a,b) => a.date.localeCompare(b.date))) {
+        const d2 = new Date(e.date + "T00:00:00");
+        const dLabel = d2.toLocaleDateString("en-IN", { day:"numeric", month:"short", weekday:"short" });
+        const capBadge = e.mcap_cat ? `<span style="font-size:10px;color:var(--text3);margin-left:4px;">${e.mcap_cat.split(" ")[0]}</span>` : "";
+        const purposeTag = e.purpose ? `<span style="font-size:10px;color:var(--amber);margin-left:6px;">${e.purpose.replace("Financial Results","Results").replace("Board Meeting Intimation","Meeting")}</span>` : "";
+        html += `<div class="result-row" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\'")}')">
+          <div class="result-row-date">${dLabel}</div>
+          <div class="result-row-co">${e.company}${capBadge}</div>
+          <div class="result-row-sym">${e.symbol}${purposeTag}</div>
+          <div class="result-row-type ${e.is_results ? 'result' : 'board'}">${e.is_results ? "Results" : "Board Mtg"}</div>
+        </div>`;
+      }
+    }
+
+    if (past.length > 0) {
+      html += `<div class="result-list-header">📋 Past — ${monthNames[calMonth]} ${calYear}</div>`;
+      for (const e of past.sort((a,b) => b.date.localeCompare(a.date))) {
+        const vClass = e.verdict.toLowerCase().includes("positive") || e.verdict.includes("Beat") ? "positive"
+                     : e.verdict.toLowerCase().includes("negative") || e.verdict.includes("Miss") ? "negative"
+                     : "neutral";
+        const d2 = new Date(e.date + "T00:00:00");
+        const dLabel = d2.toLocaleDateString("en-IN", { day:"numeric", month:"short", weekday:"short" });
+        html += `<div class="result-row" onclick="showPage('briefing');loadDate('${e.date}')">
+          <div class="result-row-date">${dLabel}</div>
+          <div class="result-row-co">${e.company}</div>
+          <div class="result-row-sym">${e.symbol}</div>
+          <div class="result-row-type ${e.type}">${e.type === "result" ? "Result" : "Board Mtg"}</div>
+          ${e.verdict ? `<div class="result-row-verdict ${vClass}">${e.verdict}</div>` : ""}
+        </div>`;
+      }
     }
   } else {
     html += `<div style="color:var(--text3);font-size:13px;margin-top:16px;text-align:center;">
-      No result filings found for this month yet.<br>
-      <span style="font-size:12px;">Data builds up as daily briefings run.</span>
+      No meetings found for this month.<br>
+      <span style="font-size:12px;">NSE board meetings data loads from the results_calendar.json</span>
     </div>`;
   }
 
