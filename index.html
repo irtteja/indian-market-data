@@ -473,6 +473,78 @@ body {
 .result-row-verdict.neutral  { color: var(--text3); }
 
 
+
+/* ── Screener ─────────────────────────────────────────────────────────── */
+.breadth-bar {
+  display: flex; align-items: center; gap: 0;
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 8px; overflow: hidden;
+  margin-bottom: 16px; height: 36px;
+}
+.breadth-seg {
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600;
+  transition: flex 0.4s ease;
+  white-space: nowrap; overflow: hidden;
+  min-width: 0;
+}
+.breadth-seg.adv { background: var(--green-bg); color: var(--green); }
+.breadth-seg.dec { background: var(--red-bg);   color: var(--red); }
+.breadth-seg.unc { background: var(--bg3);       color: var(--text3); }
+.breadth-stats {
+  display: flex; gap: 20px; flex-wrap: wrap;
+  margin-bottom: 16px; padding: 12px 16px;
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.breadth-stat-item { display: flex; flex-direction: column; gap: 2px; }
+.breadth-stat-label { font-size: 10px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.05em; }
+.breadth-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; }
+.breadth-stat-val.green { color: var(--green); }
+.breadth-stat-val.red   { color: var(--red); }
+.breadth-stat-val.amber { color: var(--amber); }
+
+.screener-table { width: 100%; border-collapse: collapse; }
+.screener-table th {
+  font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--text3); padding: 8px 10px; text-align: left;
+  border-bottom: 1px solid var(--border); white-space: nowrap;
+}
+.screener-table th.num { text-align: right; }
+.screener-table td {
+  padding: 9px 10px; border-bottom: 1px solid var(--border);
+  font-size: 13px; vertical-align: middle;
+}
+.screener-table td.num {
+  text-align: right; font-family: 'DM Mono', monospace; font-size: 12px;
+}
+.screener-table tr:hover td { background: var(--bg2); cursor: pointer; }
+.screener-table tr:last-child td { border-bottom: none; }
+.pct-pos { color: var(--green); }
+.pct-neg { color: var(--red); }
+.pct-zero{ color: var(--text3); }
+.cap-badge {
+  font-size: 10px; padding: 2px 6px; border-radius: 4px;
+  display: inline-block;
+}
+.cap-badge.large { color: var(--blue);  background: var(--blue-bg); }
+.cap-badge.mid   { color: var(--green); background: var(--green-bg); }
+.cap-badge.small { color: var(--amber); background: var(--amber-bg); }
+.cap-badge.micro { color: var(--text2); background: var(--bg3); }
+
+.sector-bar-row {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 0; border-bottom: 1px solid var(--border);
+}
+.sector-bar-row:last-child { border-bottom: none; }
+.sector-bar-name { width: 160px; font-size: 12px; color: var(--text2); flex-shrink: 0; }
+.sector-bar-track { flex: 1; height: 6px; background: var(--bg3); border-radius: 3px; overflow: hidden; }
+.sector-bar-fill  { height: 100%; border-radius: 3px; transition: width 0.4s ease; }
+.sector-bar-fill.pos { background: var(--green); }
+.sector-bar-fill.neg { background: var(--red); }
+.sector-bar-pct { width: 52px; text-align: right; font-family: 'DM Mono', monospace; font-size: 11px; }
+.sector-bar-count { width: 80px; text-align: right; font-size: 10px; color: var(--text3); }
+
 /* ── Company Dossier Panel ─────────────────────────────────────────────── */
 .dossier-overlay {
   position: fixed; inset: 0; z-index: 500;
@@ -669,6 +741,7 @@ body {
   <a class="nav-link" href="#" onclick="showPage('results-cal',this)">Results Calendar</a>
   <a class="nav-link" href="#" onclick="showPage('archive',this)">Archive</a>
   <a class="nav-link" href="#" onclick="showPage('companies',this)">Companies</a>
+  <a class="nav-link" href="#" onclick="showPage('screener',this)">Screener</a>
   <div class="date-pill"><span class="live-dot"></span><span id="topbar-date">Loading…</span></div>
 </div>
 
@@ -730,6 +803,29 @@ body {
     </div>
 
     <!-- COMPANIES PAGE -->
+    <div class="page" id="page-screener">
+      <div class="page-header">
+        <div class="page-title">Market Screener</div>
+        <div id="screener-date-pill" class="date-pill" style="margin-left:auto"></div>
+      </div>
+
+      <!-- Breadth bar -->
+      <div id="screener-breadth"></div>
+
+      <!-- Screener tabs -->
+      <div class="dossier-tabs" style="margin: 0 0 16px; border-radius:8px; background:var(--bg2); border:1px solid var(--border);">
+        <div class="dossier-tab active" onclick="switchScreenerTab('gainers')">Gainers</div>
+        <div class="dossier-tab" onclick="switchScreenerTab('losers')">Losers</div>
+        <div class="dossier-tab" onclick="switchScreenerTab('volume')">Volume</div>
+        <div class="dossier-tab" onclick="switchScreenerTab('large-cap')">Large Cap</div>
+        <div class="dossier-tab" onclick="switchScreenerTab('sectors')">Sectors</div>
+      </div>
+
+      <div id="screener-content">
+        <div class="dossier-loading"><div class="dossier-spinner"></div>Loading screener…</div>
+      </div>
+    </div>
+
     <div class="page" id="page-companies">
       <div class="hero">
         <div class="hero-title">Company Dossiers</div>
@@ -803,6 +899,7 @@ function showPage(name, el) {
   if (el) el.classList.add("active");
   if (name === "archive") loadArchive();
   if (name === "companies") loadCompanies();
+  if (name === "screener") loadScreener();
   if (name === "results-cal") loadResultsCalendar();
 }
 
@@ -1260,6 +1357,236 @@ function renderCompanies(list) {
     html += `<div style="color:var(--text3);font-size:13px;text-align:center;padding:40px 0;">No companies match your filters</div>`;
   }
   document.getElementById("companies-content").innerHTML = html;
+}
+
+
+// ── Screener ────────────────────────────────────────────────────────────────
+let screenerData = null;
+let activeScreenerTab = "gainers";
+
+async function loadScreener() {
+  if (screenerData) { renderScreener(); return; }
+
+  document.getElementById("screener-content").innerHTML =
+    `<div class="dossier-loading"><div class="dossier-spinner"></div>Loading screener data…</div>`;
+
+  try {
+    // Try most recent dates from manifest
+    const manifest = await fetch(`${RAW}/manifest.json`).then(r => r.json());
+    const dates = (manifest.dates || []).slice().reverse(); // newest first
+
+    let data = null;
+    for (const d of dates.slice(0, 5)) {
+      try {
+        const resp = await fetch(`${RAW}/daily/${d}/screener.json`);
+        if (resp.ok) { data = await resp.json(); break; }
+      } catch(e) {}
+    }
+
+    if (!data) throw new Error("No screener data found");
+
+    screenerData = data;
+    renderScreener();
+  } catch(e) {
+    document.getElementById("screener-content").innerHTML =
+      `<div class="error-box"><strong>Screener unavailable</strong><br>${e.message}</div>`;
+  }
+}
+
+function switchScreenerTab(tab) {
+  activeScreenerTab = tab;
+  const tabs = document.querySelectorAll("#page-screener .dossier-tab");
+  const tabNames = ["gainers","losers","volume","large-cap","sectors"];
+  tabs.forEach((t, i) => t.classList.toggle("active", tabNames[i] === tab));
+  if (screenerData) renderScreenerContent();
+}
+
+function renderScreener() {
+  const d = screenerData;
+
+  // Date pill
+  const dp = document.getElementById("screener-date-pill");
+  if (dp) dp.textContent = d.bhav_date || d.date || "";
+
+  // Breadth bar
+  const b = d.breadth || {};
+  const total = (b.advances||0) + (b.declines||0) + (b.unchanged||0);
+  const advPct = total ? (b.advances / total * 100).toFixed(1) : 0;
+  const decPct = total ? (b.declines / total * 100).toFixed(1) : 0;
+  const uncPct = total ? (b.unchanged / total * 100).toFixed(1) : 0;
+  const adr = b.advance_decline_ratio || 0;
+  const adrCol = adr >= 1 ? "green" : "red";
+
+  document.getElementById("screener-breadth").innerHTML = `
+    <div class="breadth-bar" title="${b.advances} advances, ${b.declines} declines, ${b.unchanged} unchanged">
+      <div class="breadth-seg adv" style="flex:${b.advances||0}">${b.advances} ▲</div>
+      <div class="breadth-seg unc" style="flex:${b.unchanged||0};font-size:10px">${b.unchanged||0}</div>
+      <div class="breadth-seg dec" style="flex:${b.declines||0}">${b.declines} ▼</div>
+    </div>
+    <div class="breadth-stats">
+      <div class="breadth-stat-item">
+        <div class="breadth-stat-label">Advances</div>
+        <div class="breadth-stat-val green">${b.advances||0}</div>
+      </div>
+      <div class="breadth-stat-item">
+        <div class="breadth-stat-label">Declines</div>
+        <div class="breadth-stat-val red">${b.declines||0}</div>
+      </div>
+      <div class="breadth-stat-item">
+        <div class="breadth-stat-label">A/D Ratio</div>
+        <div class="breadth-stat-val ${adrCol}">${adr}</div>
+      </div>
+      <div class="breadth-stat-item">
+        <div class="breadth-stat-label">Total Stocks</div>
+        <div class="breadth-stat-val">${b.total_stocks||0}</div>
+      </div>
+      <div class="breadth-stat-item">
+        <div class="breadth-stat-label">Total Turnover</div>
+        <div class="breadth-stat-val amber">₹${(b.total_value_cr||0).toLocaleString('en-IN')} Cr</div>
+      </div>
+    </div>
+  `;
+
+  renderScreenerContent();
+}
+
+function renderScreenerContent() {
+  const d = screenerData;
+  const tab = activeScreenerTab;
+  let html = "";
+
+  if (tab === "gainers" || tab === "losers") {
+    const rows = tab === "gainers" ? d.gainers : d.losers;
+    html = renderMoverTable(rows, tab === "gainers" ? "Top Gainers" : "Top Losers");
+  } else if (tab === "volume") {
+    html = renderVolumeTable(d.volume_leaders);
+  } else if (tab === "large-cap") {
+    html = `
+      <div style="margin-bottom:20px;">${renderMoverTable(d.large_cap_gainers, "Large Cap Gainers")}</div>
+      ${renderMoverTable(d.large_cap_losers, "Large Cap Losers")}
+    `;
+  } else if (tab === "sectors") {
+    html = renderSectorsView(d.top_sectors, d.bottom_sectors);
+  }
+
+  document.getElementById("screener-content").innerHTML = html;
+}
+
+function capBadge(cat) {
+  if (!cat) return "";
+  const c = cat.toLowerCase();
+  const cls = c.includes("large") ? "large" : c.includes("mid") ? "mid" : c.includes("small") ? "small" : "micro";
+  const label = cat.replace(" Cap","").replace(" cap","") + " Cap";
+  return `<span class="cap-badge ${cls}">${label}</span>`;
+}
+
+function pctSpan(pct) {
+  const cls = pct > 0 ? "pct-pos" : pct < 0 ? "pct-neg" : "pct-zero";
+  const sign = pct > 0 ? "+" : "";
+  return `<span class="${cls}">${sign}${pct.toFixed(2)}%</span>`;
+}
+
+function renderMoverTable(rows, title) {
+  if (!rows || rows.length === 0)
+    return `<div class="dossier-empty">No data available</div>`;
+
+  let html = `
+    <div style="font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:10px;">${title}</div>
+    <div style="background:var(--bg2);border:1px solid var(--border);border-radius:10px;overflow:hidden;">
+    <table class="screener-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Symbol</th>
+          <th>Company</th>
+          <th>Cap</th>
+          <th class="num">Close</th>
+          <th class="num">Chg%</th>
+          <th class="num">Value (Cr)</th>
+        </tr>
+      </thead>
+      <tbody>`;
+
+  rows.forEach((r, i) => {
+    html += `<tr onclick="openCompany('${r.symbol}','${(r.company||'').replace(/'/g,"\'")}')">
+      <td style="color:var(--text3);font-size:11px;">${i+1}</td>
+      <td><span style="font-family:'DM Mono',monospace;font-size:12px;color:var(--accent)">${r.symbol}</span></td>
+      <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text2)">${r.company||""}</td>
+      <td>${capBadge(r.mcap_cat)}</td>
+      <td class="num">${r.close?.toFixed(2)}</td>
+      <td class="num">${pctSpan(r.pct_change)}</td>
+      <td class="num" style="color:var(--text2)">${r.value_cr?.toFixed(0)}</td>
+    </tr>`;
+  });
+
+  html += `</tbody></table></div>`;
+  return html;
+}
+
+function renderVolumeTable(rows) {
+  if (!rows || rows.length === 0)
+    return `<div class="dossier-empty">No data available</div>`;
+
+  let html = `
+    <div style="font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:10px;">Volume Leaders (by Turnover)</div>
+    <div style="background:var(--bg2);border:1px solid var(--border);border-radius:10px;overflow:hidden;">
+    <table class="screener-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Symbol</th>
+          <th>Company</th>
+          <th>Cap</th>
+          <th class="num">Close</th>
+          <th class="num">Chg%</th>
+          <th class="num">₹ Cr</th>
+        </tr>
+      </thead>
+      <tbody>`;
+
+  rows.forEach((r, i) => {
+    html += `<tr onclick="openCompany('${r.symbol}','${(r.company||'').replace(/'/g,"\'")}')">
+      <td style="color:var(--text3);font-size:11px;">${i+1}</td>
+      <td><span style="font-family:'DM Mono',monospace;font-size:12px;color:var(--accent)">${r.symbol}</span></td>
+      <td style="max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--text2)">${r.company||""}</td>
+      <td>${capBadge(r.mcap_cat)}</td>
+      <td class="num">${r.close?.toFixed(2)}</td>
+      <td class="num">${pctSpan(r.pct_change)}</td>
+      <td class="num" style="color:var(--amber);font-weight:600">${r.value_cr?.toLocaleString('en-IN', {maximumFractionDigits:0})}</td>
+    </tr>`;
+  });
+
+  html += `</tbody></table></div>`;
+  return html;
+}
+
+function renderSectorsView(top, bottom) {
+  const allSectors = [...(top||[]), ...(bottom||[])].sort((a,b) => b.avg_pct - a.avg_pct);
+  const maxAbs = Math.max(...allSectors.map(s => Math.abs(s.avg_pct)), 0.01);
+
+  let html = `
+    <div style="font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:12px;">Sector Performance</div>
+    <div style="background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:16px;">`;
+
+  for (const s of allSectors) {
+    const pct = s.avg_pct || 0;
+    const w = Math.min(100, Math.abs(pct) / maxAbs * 100).toFixed(1);
+    const cls = pct >= 0 ? "pos" : "neg";
+    const pctCol = pct >= 0 ? "var(--green)" : "var(--red)";
+    const sign = pct > 0 ? "+" : "";
+    html += `
+      <div class="sector-bar-row">
+        <div class="sector-bar-name" title="${s.sector}">${s.sector?.length > 22 ? s.sector.slice(0,21)+"…" : s.sector}</div>
+        <div class="sector-bar-track">
+          <div class="sector-bar-fill ${cls}" style="width:${w}%"></div>
+        </div>
+        <div class="sector-bar-pct" style="color:${pctCol}">${sign}${pct.toFixed(2)}%</div>
+        <div class="sector-bar-count">${s.advances||0}▲ ${s.declines||0}▼</div>
+      </div>`;
+  }
+
+  html += `</div>`;
+  return html;
 }
 
 // ── Company Dossier ────────────────────────────────────────────────────────
