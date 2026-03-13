@@ -1118,12 +1118,18 @@ function parseCardFromLines(raw) {
   let company = "", symbol = "", newsText = "", impactText = "", watchText = "", verdict = "neutral";
 
   for (const line of lines) {
-    if (line.startsWith("- **") || line.startsWith("**")) {
+    if (line.startsWith("- **") || line.startsWith("**") || line.startsWith("• **") || line.startsWith("* **")) {
+      // Format 1: **Company Name (SYM)** — news
       const m = line.match(/\*\*([^(]+)\s*\(([^)]+)\)\*\*\s*[—-]\s*(.*)/);
+      // Format 2: **Company Name** — news  (no symbol in parens)
+      const m2 = !m ? line.match(/\*\*([^*]+)\*\*\s*[—-]\s*(.*)/) : null;
       if (m) {
         company = m[1].trim(); symbol = m[2].trim(); newsText = m[3].trim();
+      } else if (m2) {
+        company = m2[1].replace(/^[-•]\s*/, "").trim();
+        newsText = m2[2].trim();
       } else {
-        newsText = line.replace(/\*\*/g, "").replace(/^[-•]\s*/, "").trim();
+        newsText = line.replace(/\*\*/g, "").replace(/^[-•*]\s*/, "").trim();
       }
     } else if (line.includes("Impact:") || line.startsWith("📊")) {
       impactText = line.replace(/^📊\s*/, "").replace(/^\*\*Impact:\*\*\s*/i, "").replace(/^Impact:\s*/i, "").trim();
@@ -1142,7 +1148,7 @@ function parseCardFromLines(raw) {
     <div class="ann-card ${verdict}">
       <div class="card-top">
         <div>
-          <span class="company-name">${company || "Company"}</span>
+          <span class="company-name">${company}</span>
           <span class="company-symbol">${symbol}</span>
         </div>
         <span class="verdict-badge ${verdict}">${vLabel}</span>
