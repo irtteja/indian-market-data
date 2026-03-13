@@ -581,7 +581,7 @@ body {
 
 <script>
 // ── CONFIG — change GITHUB_USER and REPO_NAME to yours ──────────────────────
-const GITHUB_USER = "irtteja";
+const GITHUB_USER = "YOUR_GITHUB_USERNAME";
 const REPO_NAME   = "indian-market-data";
 const BRANCH      = "main";
 
@@ -676,11 +676,11 @@ async function loadDate(dateStr) {
     `<div class="loading"><div class="spinner"></div><div>Loading briefing…</div></div>`;
 
   // Check if configured
-  if (GITHUB_USER === "irtteja") {
+  if (GITHUB_USER === "YOUR_GITHUB_USERNAME") {
     document.getElementById("config-notice").innerHTML = `
       <div class="config-box">
         <h3>One-time setup needed</h3>
-        <p>Open this file and change <code>irtteja</code> to your actual GitHub username at the top of the script.
+        <p>Open this file and change <code>YOUR_GITHUB_USERNAME</code> to your actual GitHub username at the top of the script.
         Then push this file to your <code>${REPO_NAME}</code> repo and enable GitHub Pages.</p>
       </div>`;
     renderDemo();
