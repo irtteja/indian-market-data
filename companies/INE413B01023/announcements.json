@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "509020",
+    "symbol": "RUCHINFRA",
+    "company": "Ruchi Infrastructure Ltd",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "General",
+    "clean_headline": "",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) & 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Amisha Shahra",
+    "is_critical": false,
+    "attachment": "BA518B32_D9E9_43E3_BCE7_F44067FF25DA_125322.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "509020",
+    "symbol": "RUCHINFRA",
+    "company": "Ruchi Infrastructure Ltd",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 10(6) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 10(6) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Amisha Shahra",
+    "is_critical": false,
+    "attachment": "2AE5FDCB_3925_431C_9053_9E4B0233EE85_125732.pdf"
+  }
+]

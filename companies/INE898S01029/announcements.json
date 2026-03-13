@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "539289",
+    "symbol": "AURUM",
+    "company": "Aurum PropTech Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Buyback",
+    "subcategory": "Diversification / Disinvestment",
+    "clean_headline": "Jagsonpal Pharmaceuticals announces buyback of equity shares",
+    "raw_headline": "Approved sale of buildings Q5 and Q6 situated at MIDC, MBP 1, Navi Mumbai.",
+    "is_critical": false,
+    "attachment": "7f8a03da-1b42-464e-b6e8-a19903cce451.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "539289",
+    "symbol": "AURUM",
+    "company": "Aurum PropTech Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "CEO Manish Gupta to meet with Fair Value Capital (India Insight Value Fund) on March 17, 2026",
+    "raw_headline": "Media Release - Aurum PropTech exits non-core Assets for INR 112 Crores, Builds War Chest to Scale AI Leadership.",
+    "is_critical": false,
+    "attachment": "138a564e-e049-49af-b2b4-9c6b91060991.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "539289",
+    "symbol": "AURUM",
+    "company": "Aurum PropTech Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "HCLTech announces expanded collaboration with Google Cloud to accelerate Agentic AI adoption across industries",
+    "raw_headline": "Approved the sale of building Q5 and Q6 at MIDC, MBP - 1, Mahape, Navi Mumbai",
+    "is_critical": false,
+    "attachment": "c2b009c6-a7ce-4858-abfb-e606d224ccb7.pdf"
+  }
+]

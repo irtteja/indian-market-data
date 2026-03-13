@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "544290",
+    "symbol": "EIEL",
+    "company": "ENVIRO INFRA ENGINEERS LIMITED",
+    "sector": "Utilities",
+    "industry": "Other Utilities",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Wanbury Limited receives Sertraline Form II approval from ANVISA, Brazil",
+    "raw_headline": "Order worth INR 411.08 Crore (including GST)",
+    "is_critical": true,
+    "attachment": "4d42a276-9f90-4357-aecd-e39e5b37f875.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "544290",
+    "symbol": "EIEL",
+    "company": "ENVIRO INFRA ENGINEERS LIMITED",
+    "sector": "Utilities",
+    "industry": "Other Utilities",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Enviro Infra Engineers Limited receives order worth ₹411.08 crores under AMRUT 2.0 for Aurangabad Sewerage Network and STP Scheme",
+    "raw_headline": "Press release",
+    "is_critical": false,
+    "attachment": "c5b9b65e-d6f0-42ed-ac84-d0e598a31983.pdf"
+  }
+]

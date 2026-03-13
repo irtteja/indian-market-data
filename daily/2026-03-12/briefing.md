@@ -1,200 +1,183 @@
 # Indian Market Briefing
 ## 12 March 2026, Thursday
 
-*300 relevant announcements · 54 critical · 224 routine filings filtered · 524 total on BSE · Generated 10:28 IST*
+*283 relevant announcements · 48 critical · 241 routine filings filtered · 524 total on BSE · Generated 10:52 IST*
 
 ---
 ### Today at a Glance
 
 | | Section | Companies | Critical |
 |---|---|:---:|:---:|
-| 💰 | **Fund Raise / QIP / NCD** | 11 | — |
-| 🤝 | **Acquisitions & M&A** | 27 | ⚡ 11 |
+| 💰 | **Fund Raise / QIP / NCD** | 9 | ⚡ 1 |
+| 🤝 | **Acquisitions & M&A** | 24 | ⚡ 11 |
 | 📊 | **Financial Results** | 3 | — |
-| 📋 | **Board Decisions** | 19 | ⚡ 5 |
-| 🔄 | **Buyback** | 2 | — |
-| ⚠️ | **Regulatory & BSE Queries** | 18 | ⚡ 1 |
+| 📋 | **Board Decisions** | 18 | ⚡ 2 |
+| 🔄 | **Buyback** | 2 | ⚡ 1 |
+| ⚠️ | **Regulatory & BSE Queries** | 15 | ⚡ 2 |
 | 🔀 | **Mergers & Schemes** | 5 | — |
-| 📦 | **Order Wins** | 20 | ⚡ 2 |
-| 📰 | **Press Releases** | 16 | ⚡ 1 |
-| 🤝 | **MoUs & Agreements** | 7 | ⚡ 2 |
-| 🚨 | **Operational Alerts** | 7 | — |
-| 🏦 | **Credit Ratings** | 10 | ⚡ 8 |
-| 👔 | **Management Changes** | 23 | ⚡ 1 |
-| 🏭 | **Operations & Capacity** | 3 | — |
+| 📦 | **Order Wins** | 19 | — |
+| 🤝 | **MoUs & Agreements** | 10 | ⚡ 2 |
+| 📰 | **Press Releases** | 15 | — |
+| 🚨 | **Operational Alerts** | 5 | — |
+| 🏦 | **Credit Ratings** | 9 | ⚡ 8 |
+| 👔 | **Management Changes** | 27 | ⚡ 1 |
+| 🏭 | **Operations & Capacity** | 4 | — |
 | 📑 | **Investor Presentations** | 4 | — |
-| 📅 | **Upcoming Board Meetings** | 7 | ⚡ 3 |
-| 💳 | **Debt & Finance** | 8 | — |
-| 🔁 | **Warrant Conversions** | 7 | ⚡ 3 |
-| 🏆 | **Awards & Recognition** | 1 | — |
-| 📝 | **Other Disclosures** | 16 | — |
+| 📅 | **Upcoming Board Meetings** | 4 | ⚡ 2 |
+| 💳 | **Debt & Finance** | 8 | ⚡ 1 |
+| 🔁 | **Warrant Conversions** | 10 | ⚡ 1 |
+| 📝 | **Other Disclosures** | 14 | — |
 
 ---
 ### 💰 Fund Raise / QIP / NCD
 
-## 💰 Fund Raise / QIP / NCD
+## Fund Raise / QIP / NCD
 
 ---
 
-- **Manorama Industries Ltd (541974)** — The board met on March 12, 2026 and approved moving ahead with a fundraise through a QIP (Qualified Institutional Placement), though specific amount and pricing are yet to be disclosed.
-📊 **Impact:** Positive (cautiously) — The company is planning to raise fresh money by selling shares to big institutional investors, which can fund growth, but existing shareholders may see their ownership percentage diluted slightly.
-👀 **Watch:** The final QIP size and price per share once announced — a steep discount to market price would signal weak demand.
+- **Manorama Industries Limited (MANORAMA)** — The board met on March 12, 2026 to decide on raising funds through a QIP (selling new shares to big institutional investors), though no specific amount or price has been disclosed yet.
+📊 **Impact:** Positive (cautiously) — When a company raises fresh money, it usually means they want to grow or expand; but it also means existing shareholders' ownership gets slightly diluted, so the stock may dip a little before recovering.
+👀 **Watch:** The actual QIP price announced — if it's at a steep discount to the current market price, that's a red flag for existing shareholders.
 
 ---
 
-- **Artificial Electronics Intelligent Material Ltd (526443)** — The company is awaiting exchange approval for a preferential issue of fully paid-up equity shares through conversion of warrants, following an in-principle application made on June 19, 2025.
-📊 **Impact:** Neutral — This is a procedural update in a long-running process; no new shares have been issued yet and no fresh money has come in.
-👀 **Watch:** Whether the exchange grants final approval and how many shares actually get issued upon warrant conversion, as that determines how much existing shareholders get diluted.
+- **Artificial Electronics Intelligent Material Ltd (526443)** — The company had applied on June 19, 2025 for in-principle approval to issue fully paid-up equity shares through conversion of warrants on a preferential basis, with no specific share count or price disclosed in the announcement.
+📊 **Impact:** Neutral — This is a procedural update about an old application; no new money is confirmed yet, so there is no immediate change in the company's financial situation.
+👀 **Watch:** Whether the exchange grants final approval and at what price the warrants will be converted into shares.
 
 ---
 
-- **Star Housing Finance Ltd (539017)** — The company has issued a notice exercising the "Put Option" on its Non-Convertible Debentures (NCDs), meaning bondholders have the right to demand early repayment of their money.
-📊 **Impact:** Negative (mild) — If a large number of bondholders ask for their money back early, the company will need to arrange cash quickly, which could strain its finances.
-👀 **Watch:** How much NCD money is up for early redemption and whether Star Housing Finance has enough liquidity to repay without borrowing at higher rates.
+- **Star Housing Finance Ltd (539017)** — The company has issued a notice regarding the exercise of a "Put Option" on its Non-Convertible Debentures (NCDs), meaning debenture holders may have the right to demand early repayment of their money.
+📊 **Impact:** Negative (mild) — If many debenture holders exercise this option and ask for their money back early, the company will need to arrange that cash quickly, which could strain its finances temporarily.
+👀 **Watch:** Whether the company has enough liquid cash to honour the put option without needing to borrow again at higher rates.
 
 ---
 
-- **Purple Finance Ltd (544191)** — The company disclosed that it has made an interest payment to holders of its Non-Convertible Debentures (NCDs), confirming timely servicing of its debt obligations.
-📊 **Impact:** Neutral — Paying interest on time is what the company is supposed to do; it shows the company is not defaulting, but this is routine and doesn't move the stock.
-👀 **Watch:** Whether all future NCD interest and principal repayment dates are met on schedule, as any miss would be a serious red flag.
+- **Purple Finance Ltd (544191)** — The company has disclosed that it has made an interest payment to its NCD (Non-Convertible Debenture) holders, though the exact amount paid is not specified in the announcement.
+📊 **Impact:** Neutral — Paying interest on time is simply what a company is supposed to do; it shows the company isn't defaulting, but it's not exciting news that would move the stock.
+👀 **Watch:** Whether future interest payments are also made on schedule, as any delay would be a serious warning sign for this finance company.
 
 ---
 
-- **Sadhana Nitro Chem Ltd (506642)** — The Rights Issue Committee of Sadhana Nitro Chem met on March 12, 2026 and approved the allotment of fully paid-up equity shares under its ongoing rights issue.
-📊 **Impact:** Neutral to Positive — Completing the allotment means the company has successfully raised the rights issue money from its existing shareholders and can now put it to use.
-👀 **Watch:** How the company deploys the funds raised — whether it goes toward reducing debt or funding expansion will determine the long-term benefit to shareholders.
+- **Nicco Uco Alliance Credit Ltd (523209)** — The board has approved a preferential issue of up to 14,58,333 equity shares, with the board meeting notice filed under Regulation 29(2) of SEBI's listing rules.
+📊 **Impact:** Neutral to mildly negative — The company is planning to issue new shares to select investors, which means existing shareholders will own a slightly smaller piece of the same pie unless the money raised is used very productively.
+👀 **Watch:** The price at which these 14.58 lakh shares are allotted — a price significantly below the market rate would hurt existing shareholders most.
 
 ---
 
-- **Bank of India (532149)** — Bank of India's Rights Issue Committee approved the allotment of equity shares under its rights issue on March 12, 2026, completing the share issuance process.
-📊 **Impact:** Positive — A public sector bank successfully completing a rights issue means it has strengthened its capital base, making it safer and better positioned to grow its loan book.
-👀 **Watch:** The total amount of capital raised and the
+- **Diligent Media Corporation Limited (DNAMEDIA)** — Despite being filed under DNAMEDIA's name, the document actually discloses the resignation of the Chief Executive Officer of the company, not a fund-raise by Sadhana Nitrochem.
+📊 **Impact:** Negative — Losing a CEO creates uncertainty about who
 
 <details>
-<summary>All 11 announcements</summary>
+<summary>All 9 announcements</summary>
+
+##### Large Cap
+**Devyani International Limited** (DEVYANI) · *Leisure Services*  
+Max Financial Services Board considers fund raising proposal
+
+**J.K. CEMENT LTD** (JKCEMENT) · *Cement & Cement Products*  
+5paisa Capital Limited submits Letter of Offer for rights issue of 15,627,419 fully paid-up equity shares at ₹300 per share
+
+**Manorama Industries Limited** (MANORAMA) · *Food Products*  
+
 
 ##### Mid & Small Cap
-**5paisa Capital Ltd** (540776)  
-5paisa Capital submitted Letter of Offer for rights issue of 15,627,419 equity shares at ₹300 per share
-
-**Aarti Industries Ltd** (524208)  
-Active Clothing Co received in-principle approval from BSE for preferential issue of share warrants to promoters and non-promoters
-
-**Active Clothing Co Ltd** (541144)  
-Active Clothing Co Ltd issuing 2,00,000 convertible warrants at Rs. 115 per warrant on preferential basis to promoters and non-promoters.
-
-**Apcotex Industries Ltd** (523694)  
-Achyut Healthcare received in-principle BSE approval to issue 58 lakh equity shares at Rs 6 per share to promoters and non-promoters on preferential basis.
+**Apcotex Industries Limited** (APCOTEXIND) · *Industrial Products*  
+Achyut Healthcare received in-principle BSE approval to issue 58 million equity shares at Rs 6 per share to promoters and non-promoters on preferential basis
 
 **Artificial Electronics Intelligent Material Ltd** (526443)  
 
 
-**Bank of India** (532149)  
-Rights Issue Committee approved allotment of equity shares under the rights issue.
+**Diligent Media Corporation Limited** (DNAMEDIA) · *Media*  
+Sadhana Nitrochem's Rights Issue Committee approved allotment of equity shares under rights issue
 
-**Manorama Industries Ltd** (541974)  
-
+**Nicco Uco Alliance Credit Ltd** (523209) ⚡  
+Board approved preferential issue of up to 14,58,333 equity shares
 
 **Purple Finance Ltd** (544191)  
 
 
-**Sadhana Nitro Chem Ltd** (506642)  
-Sical Logistics Limited allotted fully paid-up equity shares on a rights basis following the Board meeting decision dated January 23, 2026.
-
 **Star Housing Finance Ltd** (539017)  
 
-
-**Zee Media Corporation Ltd** (532794)  
-Max Financial Services Ltd Board considers fundraising proposal
 
 </details>
 
 ---
 ### 🤝 Acquisitions & M&A
 
-Here are the pre-market bullets for each company in the Acquisitions & M&A section:
+Here is the pre-market M&A briefing:
 
 ---
 
-- **Western Ministil Ltd (504998)** — The company issued a corrigendum (correction notice) to its earlier board meeting outcome dated 12th March 2026 related to an acquisition announcement.
-📊 **Impact:** Neutral — This is just a paperwork correction to a previous announcement; no new deal or money is involved yet, so the stock shouldn't move on this alone.
-👀 **Watch:** Whether the corrected filing reveals any change in acquisition price or target company details compared to the original announcement.
+- **Western Ministil Ltd (504998)** — The company's board has approved acquisition of 100% equity shares of Micron Calcite Private Limited, with a corrigendum filed to correct the earlier board meeting outcome dated 12th March 2026.
+📊 **Impact:** Neutral-to-Positive — The company is buying a smaller private firm outright, which could add new business capacity, but details like the price paid and what Micron Calcite actually does are not yet disclosed, so it's too early to judge the full benefit.
+👀 **Watch:** Whether the company discloses the acquisition price and Micron Calcite's revenue contribution in the follow-up filing.
 
 ---
 
-- **Gravita India Ltd (533282)** — Gravita India has signed definitive agreements to acquire Rashtriya Metal Industries Limited, with specific deal terms disclosed under SEBI Regulation 30.
-📊 **Impact:** Positive — Gravita, which recycles metals like lead and aluminium, is buying another metals company, which means it could process more material and earn more money in the future.
-👀 **Watch:** The acquisition price and whether Rashtriya Metal's capacity meaningfully adds to Gravita's existing recycling volumes.
+- **Gravita India Limited (GRAVITA, Minerals & Mining)** — Gravita India has signed definitive agreements to acquire Rashtriya Metal Industries Limited, with details filed under Regulation 30 of SEBI LODR.
+📊 **Impact:** Positive — Gravita is expanding its recycling and metals business by buying another metals company, which could mean more customers, more capacity, and higher revenues going forward.
+👀 **Watch:** The acquisition price and whether Rashtriya Metal Industries brings any debt onto Gravita's books.
 
 ---
 
-- **JK Lakshmi Cement Ltd (500380)** — The company filed an intimation under SEBI Regulation 30, but the headline does not disclose specific financial details or target names in the available extract.
-📊 **Impact:** Neutral — Without specific deal numbers or a named target in the filing, there is nothing concrete yet that would push the stock up or down.
-👀 **Watch:** The actual contents of the full SEBI filing to see if a specific acquisition target or deal value is revealed.
+- **JK Lakshmi Cement Limited (JKLAKSHMI, Cement & Cement Products)** — The company filed an intimation under Regulation 30 of SEBI LODR; however, specific details of the acquisition or transaction have not been disclosed in the available document extract.
+📊 **Impact:** Neutral — No concrete numbers or deal details are available yet, so there is nothing actionable to assess at this stage.
+👀 **Watch:** The full disclosure filing from JK Lakshmi that reveals what exactly this transaction involves.
 
 ---
 
-- **Power Grid Corporation of India Ltd (532898)** — Power Grid acquired NES Pune East New Transmission Limited under the Tariff Based Competitive Bidding (TBCB) route, adding a new transmission project to its portfolio.
-📊 **Impact:** Positive — Power Grid won the right to build and operate a new electricity transmission line near Pune, which means steady, government-backed income for decades — like adding a new toll road to its collection.
-👀 **Watch:** The project commissioning timeline and the tariff (revenue rate) approved for this transmission line, as that determines how much money it will generate.
+- **Power Grid Corporation of India Limited (POWERGRID, Power)** — POWERGRID has acquired NES Pune East New Transmission Limited through the Tariff-Based Competitive Bidding (TBCB) route; no financial value has been disclosed in the headline.
+📊 **Impact:** Positive — Power Grid is adding another transmission project to its portfolio, which means steady, government-backed income flowing in for many years, like adding a new toll road to a highway company's list.
+👀 **Watch:** The project cost and the timeline by which NES Pune East New Transmission starts contributing revenue to POWERGRID.
 
 ---
 
-- **Oxford Industries Ltd (514414)** — A Public Announcement has been submitted to BSE under SEBI Takeover Regulations 3(1), 4, and 15(1), indicating an open offer has been triggered for Oxford Industries Ltd.
-📊 **Impact:** Positive — Someone is making a formal offer to buy shares from existing shareholders at likely a premium price, which usually causes the stock price to rise toward the offer price.
-👀 **Watch:** The open offer price per share announced by Navigant Corporate Advisors, as that becomes the key price level the stock will gravitate toward.
+- **Oxford Industries Ltd (514414)** — A Public Announcement has been submitted to BSE by Navigant Corporate Advisors under Regulations 3(1), 4, and 15(1) of the SEBI Takeover Code, signalling an open offer for acquisition of shares from public shareholders.
+📊 **Impact:** Positive — When an open offer is triggered, the acquirer must buy shares from public shareholders at a declared price, which is usually higher than the current market price — this is good news for existing shareholders.
+👀 **Watch:** The open offer price per share once the full public announcement document is published.
 
 ---
 
-- **AGI Infra Ltd (539042)** — The company filed a disclosure under SEBI Regulation 30, but no specific acquisition target, deal size, or financial terms are available in the headline extract.
-📊 **Impact:** Neutral — This appears to be a routine regulatory disclosure; without concrete numbers or a named deal, there is no clear reason for the stock to move.
-👀 **Watch:** The full text of the Regulation 30 filing to check if an actual asset purchase or land acquisition with a price tag is buried inside.
-
----
-
-- **Beryl Drugs Ltd (524606
+- **AGI Infra Limited (AGIIL, Realty)** — The company filed a Regulation 30 disclosure; no specific acquisition details, deal size, or target company name is available in the document extract provided.
+📊 **Impact:** Neutral — Routine compliance filing with no numbers or deal specifics disclosed; no immediate impact on the stock can
 
 <details>
-<summary>All 27 announcements</summary>
+<summary>All 24 announcements</summary>
+
+##### Large Cap
+**Bajaj Finserv Limited** (BAJAJFINSV) · *Finance*  
+
+
+**Bajaj Holdings & Investment Limited** (BAJAJHLDNG) · *Finance*  
+
+
+**GRAVITA INDIA LIMITED** (GRAVITA) · *Minerals & Mining* ⚡  
+
+
+**JK Lakshmi Cement Limited** (JKLAKSHMI) · *Cement & Cement Products* ⚡  
+
+
+**Nuvoco Vistas Corporation Limited** (NUVOCO) · *Cement & Cement Products* ⚡  
+Skybridge Interactive has submitted Draft Letter of Offer for open offer to acquire Baba Arts Ltd.
+
+**POWER GRID CORPORATION OF INDIA LIMITED** (POWERGRID) · *Power* ⚡  
+
+
+**Vedant Fashions Limited** (MANYAVAR) · *Retailing*  
+Gravita India signed Definitive Agreements to acquire Rashtriya Metal Industry Limited
 
 ##### Mid & Small Cap
-**AGI Infra Ltd** (539042) ⚡  
-
-
-**Baba Arts Ltd-$** (532380)  
-Skybridge Interactive submits draft letter of offer for open offer to acquire Baba Arts Ltd
-
-**Bajaj Finserv Ltd** (532978)  
-
-
-**Bajaj Holdings & Investment Ltd** (500490)  
+**AGI Infra Limited** (AGIIL) · *Realty* ⚡  
 
 
 **Beryl Drugs Ltd** (524606)  
 
 
-**Chatha Foods Ltd** (544151)  
-Sigma Advanced Systems Ltd completed sale of 36.52% shareholding in Extrovis AG, Switzerland for USD 15 million (approximately INR 137.61 crores).
-
 **Chemkart India Ltd** (544442) ⚡  
 
 
-**Clio Infotech Ltd** (530839) ⚡  
-Power Finance Corporation Ltd transferring NES Dharashiv Transmission Limited (wholly owned subsidiary) to another entity.
-
-**Elfin Agro India Ltd** (544724) ⚡  
-SPV Global Trading approved sale of 22,79,410 equity shares under Share Purchase Agreement
-
-**Global Surfaces Ltd** (543829)  
-
-
-**Globus Spirits Ltd** (533104)  
-Sigma Advanced Systems completed $15 million divestment of Extrovis to sharpen aerospace and defence focus
-
-**Gravita India Ltd** (533282) ⚡  
-
-
-**JK Lakshmi Cement Ltd** (500380) ⚡  
+**Global Surfaces Limited** (GSLSU) · *Consumer Durables*  
 
 
 **Kati Patang Lifestyle Ltd** (531126)  
@@ -206,31 +189,25 @@ Sigma Advanced Systems completed $15 million divestment of Extrovis to sharpen a
 **Longview Tea Company Ltd** (526568)  
 
 
-**Maithan Alloys Ltd** (590078) ⚡  
+**Maithan Alloys Limited** (MAITHANALL) · *Ferrous Metals* ⚡  
 
 
-**Neuland Laboratories Ltd** (524558)  
-Western Ministil Ltd board approved acquisition of 10,000 equity shares
+**Omnitech Engineering Limited** (OMNI) · *Industrial Manufacturing*  
+SPV Global Trading Ltd executing Share Purchase Agreement to sell equity stake to Gravita India Limited
 
 **Oxford Industries Ltd** (514414) ⚡  
 
 
-**Power Grid Corporation of India Ltd** (532898) ⚡  
+**Ruchi Infrastructure Ltd** (RUCHINFRA) · *Commercial Services & Supplies*  
 
 
-**Punj Lloyd Ltd** (532693)  
-Adani Infra submitted acquisition plan for Punj Lloyd Limited under CIRP process.
+**Shelter Pharma Ltd** (543963) ⚡  
+Galaxy Agrico Exports acquired majority stake in another company using Rights Issue proceeds.
 
-**Ruchi Infrastructure Ltd** (509020)  
-
-
-**Vedant Fashions Ltd** (543463)  
-Gravita India signed definitive agreements to acquire Rashtriya Metal Industry Limited
-
-**Vibhor Steel Tubes Ltd** (544124)  
+**VIBHOR STEEL TUBES LIMITED** (VSTL) · *Industrial Products*  
 
 
-**Vibhor Steel Tubes Ltd** (544124)  
+**VIBHOR STEEL TUBES LIMITED** (VSTL) · *Industrial Products*  
 
 
 **Western Ministil Ltd** (504998) ⚡  
@@ -238,25 +215,34 @@ Gravita India signed definitive agreements to acquire Rashtriya Metal Industry L
 
 **Western Ministil Ltd** (504998) ⚡  
 
+
+**Western Ministil Ltd** (504998)  
+Western Ministil Ltd board approved acquisition of 10,000 equity shares in board meeting held on March 12, 2026.
 
 </details>
 
 ---
 ### 📊 Financial Results
 
-Looking at the announcements, all three are newspaper clippings of financial results for **Shree Securities Ltd** — these are routine regulatory filings of quarterly results published in newspapers, with no actual financial figures extractable from the headlines themselves (just the filing confirmation).
+• **Shree Securities Ltd (538975)** — The company filed its unaudited financial results for Q3 (October–December 2025) as a newspaper clipping, but no specific revenue, profit, or loss figures are available in the announcement text itself.
+📊 **Impact:** Neutral — this is just a regulatory filing telling us the results were published in a newspaper, like a legal notice; without the actual numbers, there is nothing to act on yet.
+👀 **Watch:** Whether the actual Q3 profit or loss shows improvement over Q2 once the full results document is accessible on the BSE filing portal.
 
 ---
 
-• **Shree Securities Ltd (538975)** — Filed newspaper clippings confirming unaudited financial results for Q3 (Oct–Dec 2025), Q2 (Jul–Sep 2025), and Q1 (Apr–Jun 2025) of FY2026; no specific revenue, profit, or loss numbers are available in the announcements themselves.
-📊 **Impact:** Neutral — routine compliance filing, no effect on stock. This is simply the company proving to the stock exchange that it published its results in a newspaper, as the rules require — there is nothing new here for investors.
-👀 **Watch:** Whether the actual Q3 FY26 numbers (once reviewed) show any improvement in brokerage income or net profit compared to Q2, given that markets were volatile in that period.
+• **Shree Securities Ltd (538975)** — The company filed its unaudited financial results for Q2 and the first half of FY2026 (April–September 2025) as a newspaper clipping, with no specific figures disclosed in the announcement headline.
+📊 **Impact:** Neutral — routine compliance filing; think of it as the company putting a legal notice in the newspaper saying "we published our report card," but the actual marks are not visible here.
+👀 **Watch:** Whether H1 FY2026 revenue shows any meaningful growth compared to H1 FY2025, once the detailed numbers are pulled from the exchange filing.
 
 ---
 
-> ⚠️ **Analyst Note:** Since all three announcements are from the **same company** and are purely procedural filings (newspaper clipping submissions — a BSE compliance requirement), no additional bullets are warranted. The underlying financial figures would need to be pulled from the actual results documents to assess business performance meaningfully.
+• **Shree Securities Ltd (538975)** — The company filed its unaudited financial results for Q1 FY2026 (April–June 2025) as a newspaper clipping, again with no specific financial figures available in the announcement itself.
+📊 **Impact:** Neutral — routine compliance filing, no effect on the stock; the company is simply meeting its legal obligation to publish results in a newspaper, which all listed companies must do.
+👀 **Watch:** Whether Q1 numbers, when reviewed in full, reveal any trend in broking income or fee-based revenue that continued or reversed through the subsequent quarters.
 
-*No Sector Theme applicable — single company, procedural filings only.*
+---
+
+⚠️ *Note to investor: All three announcements are newspaper clipping filings — a legal formality. Shree Securities is a very small, thinly traded company (BSE SME segment). The actual numbers need to be read from the PDF attachments on the BSE website. Do not trade on the headline alone.*
 
 <details>
 <summary>All 3 announcements</summary>
@@ -276,131 +262,128 @@ Looking at the announcements, all three are newspaper clippings of financial res
 ---
 ### 📋 Board Decisions
 
-## 📋 Board Decisions — Pre-Market Briefing | March 13, 2026
+• **Vardhman Polytex Ltd (514175)** — The board has scheduled a meeting on March 17, 2026 to approve a loan to its subsidiary Melt 'N' Mellow Foods Private Limited (exact loan amount not disclosed in the extract).
+📊 **Impact:** Neutral — The parent company is planning to lend money to its own food subsidiary; no numbers are confirmed yet, so it is too early to say if this is good or bad for shareholders.
+👀 **Watch:** The exact loan amount and interest terms to be announced on March 17 — a very large or interest-free loan would be a red flag.
 
 ---
 
-- **Lotus Eye Hospital and Institute Ltd (532998)**  — The board held a meeting on March 12, 2026, but the document extract is cut off before any specific decision is disclosed.
-📊 **Impact:** Neutral — We don't have enough information from this filing to know what was decided, so there's nothing meaningful to react to yet.
-👀 **Watch:** The full outcome document once it is completely uploaded to the exchange portal.
+• **Amit International Ltd (531300)** — The board held a meeting on March 12, 2026, but the document extract is cut off before the actual decisions are mentioned (no specifics disclosed).
+📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
+👀 **Watch:** The full outcome filing on BSE to see if any fund-raise, dividend, or management change was approved.
 
 ---
 
-- **Vardhman Polytex Ltd (VARDMNPOLY)** — The board has scheduled a meeting on March 17, 2026, to approve a loan to its subsidiary Melt 'N' Mellow Foods Private Limited; the exact loan amount is not yet disclosed.
-📊 **Impact:** Neutral — A parent company lending money to its own subsidiary is common housekeeping; the real question is whether this cash could have been used more profitably elsewhere.
-👀 **Watch:** The loan amount and interest rate revealed at the March 17 board meeting — a very large loan could strain Vardhman Polytex's own finances.
+• **Kati Patang Lifestyle Ltd (531126)** — The board met on March 12, 2026 and received consent from preference shareholders for changes to the company's capital structure (exact nature of changes not detailed in the extract).
+📊 **Impact:** Neutral to mildly watch — changing the capital structure can affect how profits are shared between different types of shareholders, but details are needed before drawing conclusions.
+👀 **Watch:** The exact capital restructuring terms — specifically whether ordinary (equity) shareholders' ownership gets diluted or reduced.
 
 ---
 
-- **Max Financial Services Ltd (MFSL)** — The board approved a consent from preference shareholders for a class of shares exceeding a prescribed regulatory threshold, and separately approved an increase in authorised share capital.
-📊 **Impact:** Neutral to mildly negative — Increasing authorised share capital is often the first step before issuing new shares, which can dilute existing shareholders (imagine a pizza being cut into more slices — your slice gets smaller).
-👀 **Watch:** Whether Max Financial announces a fresh equity fundraise or rights issue in the next 30–60 days, which will tell you by how much your holding could get diluted.
+• **Jagsonpal Pharmaceuticals Ltd (JAGSNPHARM)** — The board approved a buyback of its own shares on March 12, 2026 (exact buyback size and price not available in the extract).
+📊 **Impact:** Positive — when a company buys back its own shares, it means the company believes its stock is undervalued; it also puts money back in shareholders' pockets by reducing the number of shares in the market.
+👀 **Watch:** The buyback price and total buyback size to be disclosed — a buyback price significantly above the current market price would be a strong positive signal.
 
 ---
 
-- **Encash Entertainment Ltd (538684)** — The board has scheduled a meeting on March 20, 2026, to appoint Ms. Sungandha Narayan Jagtap as Additional Independent Women Director.
-📊 **Impact:** Neutral — Adding an independent director is a routine corporate governance requirement and does not change how the business makes money.
-👀 **Watch:** Whether this appointment helps the company finally meet the mandatory SEBI requirement of having at least one independent woman director, which was presumably pending.
+• **Kalpataru Ltd (KALPATARU)** — The wholly-owned subsidiary Kalpataru Retail Ventures Private Limited issued a corporate guarantee to secure a Rupee Term Loan taken by Agile Real Estate Dev Private Limited, another subsidiary (loan amount not specified in the extract).
+📊 **Impact:** Neutral to slightly cautious — the parent company is essentially promising to repay a loan taken by one of its subsidiaries if that subsidiary cannot pay; this adds a hidden financial risk to the parent.
+👀 **Watch:** The total size of the term loan being guaranteed — a very large guarantee relative to Kalpataru's own balance sheet could strain the company financially.
 
 ---
 
-- **Paragon Finance Ltd (531255)** — The board has scheduled a meeting on March 19, 2026, to approve a preferential issue of up to 14,58,333 equity shares; the price and amount to be raised are not yet disclosed.
-📊 **Impact:** Mildly Negative — Issuing new shares to select investors (called a preferential allotment) means existing shareholders own a smaller percentage of the company — like adding new partners to a business without your permission.
-👀 **Watch:** The issue price per share announced on March 19 — if it is significantly below the current market price, existing shareholders take a bigger hit.
-
----
-
-- **Shriram Finance Ltd (SHRIRAMFIN)** — The company's wholly owned subsidiary, Shriram Overseas Investments Limited, has submitted an application to the Reserve Bank of India (RBI) for a Primary Dealer business licence.
-📊 **Impact:** Positive — A Primary Dealer licence from the RBI allows a company to directly buy and sell government bonds, which is a prestigious and profitable business that could open up a big new revenue stream for Shriram Finance
+• **Ratnaveer Precision Engineering Ltd (RATNAVEER)** — The board approved the allotment of 1,24,772 new equity shares at a specified issue price on March 12, 2026 (exact issue price not legible in the extract).
+📊 **Impact:** Mildly Negative — when a company issues new shares, existing shareholders own a slightly smaller slice of the same pie; this is called dilution, and it can put a small downward pressure on the share price.
+👀 **Watch:** The exact issue price at which these shares were allotted —
 
 <details>
-<summary>All 19 announcements</summary>
+<summary>All 18 announcements</summary>
+
+##### Large Cap
+**HCL Technologies Ltd** (HCLTECH) · *IT - Software*  
+Board approved sale of buildings Q5 and Q6 at MIDC, Mahape, Navi Mumbai
+
+**Vishal Mega Mart Limited** (VMM) · *Retailing*  
+CareEdge Global IFSC Limited, a wholly-owned subsidiary of CARE Ratings, has received a license from International Financial Services Centers Authority to function as an ESG Rating and Data Product Provider.
 
 ##### Mid & Small Cap
-**Aurum PropTech Ltd** (539289)  
-Aurum PropTech Board approves sale of Buildings Q5 and Q6 at Millennium Business Park, Navi Mumbai
+**ATLANTAA LIMITED** (ATLANTAA) · *Transport Infrastructure*  
+Clio Infotech received Ministry of Corporate Affairs approval and changed registered office
 
-**DCM Shriram Ltd** (523367)  
-DCM Shriram approved equity investment of up to Rs. 87 crores for minimum 26% stake in renewable energy SPVs
+**Active Clothing Co Ltd** (541144)  
+Deep Industries Board approved addition to main objects clause in Memorandum of Association
 
-**Deep Industries Ltd** (543288)  
-Deep Industries approved addition to main objects of the company and other business matters
+**Amit International Ltd** (531300)  
+Outcome of board meeting held on March 12, 2026
 
-**Dolphin Offshore Enterprises (India) Ltd-$** (522261)  
-Aurum PropTech Ltd board meeting outcome regarding shareholder resolution from September 23, 2025
+**DEE DEVELOPMENT ENGINEERS LIMITED** (DEEDEV) · *Industrial Manufacturing*  
+Board approved sale of buildings Q5 and Q6 at MIDC, Navi Mumbai
 
-**Encash Entertainment Ltd** (538684) ⚡  
-Board appointed Ms. Sungandha Narayan Jagtap as Additional Independent Women Director
-
-**Fertilizers and Chemicals Travancore Ltd** (590024) ⚡  
-Board approved an investment in wholly owned subsidiary Kundan Gold Mines Private Limited
+**Diamond Power Infrastructure Limited** (DIACABS) · *Electrical Equipment*  
+Transfer of shareholding by wholly-owned subsidiary Veranda Administrative Learning Solutions Private Limited
 
 **Fratelli Vineyards Ltd** (541741)  
-Fratelli Vineyards approved issuance of Rs. 72.50 crore corporate guarantee to SVC Co-op. Bank Ltd.
+DCM Shriram board approved equity investment of up to Rs. 87 crores for minimum 26% stake in one or more SPVs for renewable energy power projects
 
-**HCL Technologies Ltd** (532281)  
-Aurum PropTech approves sale of non-core assets (Buildings Q5 and Q6) for INR 112 crores to fund AI leadership expansion
+**Jagsonpal Pharmaceuticals Limited** (JAGSNPHARM) · *Pharmaceuticals & Biotechnology*  
+Outcome of board meeting held on March 12, 2026
 
-**Indo Count Industries Ltd** (521016)  
-Strike off and dissolution of wholly owned subsidiary Sakhigopal Integrated Power Company Limited
+**Kalpataru Limited** (KALPATARU) · *Realty*  
+Steelco Gujarat Limited Board approves modification in interest payment clause under existing terms of NCDs and creation of security
 
-**Leela Palaces Hotels & Resorts Ltd** (544408)  
-Company incorporated a wholly owned subsidiary company Sri Lotus Elegancia.
+**Kati Patang Lifestyle Ltd** (531126)  
+Board meeting outcome with preference shareholder consent received for capital structure changes
 
-**Lloyds Engineering Works Ltd** (539992)  
-Board recommends appointment of statutory auditors
+**Kotyark Industries Limited** (KOTYARK) · *Petroleum Products* ⚡  
+SPV Global Trading Limited board approves Share Purchase Agreement for sale of 22,79,410 equity shares
 
-**Lotus Eye Hospital And Institute Ltd** (532998) ⚡  
-Board meeting outcome held on 12th March 2026
+**Kundan Minerals And Metals Ltd** (507528)  
+Kundan Minerals and Metals approved investment in wholly owned subsidiary Kundan Gold Mines Private Limited
 
-**Max Financial Services Ltd** (500271)  
-Board approved preference shareholder consent for 100% class of shares exceeding prescribed threshold
+**La Tim Metal & Industries Ltd** (505693)  
+Max Financial Services increases authorised share capital
 
-**Max Financial Services Ltd** (500271)  
-Max Financial Services Ltd Board approves increase in authorized share capital
+**Ratnaveer Precision Engineering Limited** (RATNAVEER) · *Industrial Products*  
+Board approved allotment of 1,24,772 equity shares at specified issue price
 
-**Paragon Finance Ltd** (531255) ⚡  
-Board approved preferential issue of up to 14,58,333 equity shares
+**Ratnaveer Precision Engineering Limited** (RATNAVEER) · *Industrial Products*  
+Deep Industries board approved addition to main objects clause and other business matters
 
-**Ratnaveer Precision Engineering Ltd** (543978)  
-Board approved allotment of 1,24,772 equity shares at Rs 10 face value
-
-**Ratnaveer Precision Engineering Ltd** (543978)  
-Ratnaveer Precision Engineering allotted 1,24,772 equity shares in board meeting
-
-**Shriram Finance Ltd** (511218)  
-Wholly owned subsidiary Shriram Overseas Investments Limited submitted application to RBI for Primary Dealer business license.
+**Retaggio Industries Ltd** (544391)  
+Aurum PropTech Limited board meeting outcome on March 12, 2026 relating to shareholder resolution passed on September 23, 2025.
 
 **Vardhman Polytex Ltd** (514175) ⚡  
-Board approved loan to subsidiary company Melt 'N' Mellow Foods Private Limited
+Board approved loan grant to subsidiary company Melt 'N' Mellow Foods Private Limited
 
 </details>
 
 ---
 ### 🔄 Buyback
 
-* **Baid Finserv Ltd (BAIDFIN)** — The board approved a proposal to buy back its own equity shares; however, the document extract cuts off before disclosing the specific buyback size, price, or total amount.
-📊 **Impact:** Positive (tentatively) — When a company buys back its own shares, it's like the company saying "we think our stock is worth more than what the market is paying," which usually pushes the share price up. But without the actual numbers, it's hard to know how meaningful this buyback really is.
-👀 **Watch:** The formal public announcement disclosing the exact buyback price per share and total buyback size — that will determine whether this is a significant event or a token gesture.
+## Buyback
+
+- **Sungold Media and Entertainment Ltd (541799)** — The board has scheduled a meeting on March 20, 2026 to *consider and approve* a buyback proposal; no buyback size, price, or terms have been announced yet.
+📊 **Impact: Neutral** — The company has only announced a meeting date to *discuss* a buyback — nothing is confirmed yet, so there is nothing concrete for the stock to react to right now.
+👀 **Watch:** Whether the March 20 board meeting actually approves the buyback, and if so, what price and total amount are offered — those numbers will decide if it is attractive for shareholders.
 
 ---
 
-* **Aurum PropTech Ltd (AURUM)** — The headline attributes a buyback announcement to Jagsonpal Pharmaceuticals, but the filing is actually made under Aurum PropTech's BSE code (539289) and NSE symbol (AURUM); the document extract cuts off before any financial details are revealed.
-📊 **Impact:** Neutral — There is a clear mismatch between the company named in the headline and the company that actually filed this document, making this announcement unreliable until clarified; no numbers are available to assess any real impact.
-👀 **Watch:** A corrected or clarified filing from either Aurum PropTech or Jagsonpal Pharmaceuticals that resolves this mix-up and states the actual buyback price, quantity, and total outlay.
+- **Aurum PropTech Limited (AURUM)** — The board met on March 12, 2026 and passed an outcome disclosure under Regulation 30, but the document extract cuts off before revealing the actual buyback price, size, or any financial terms; notably, the headline incorrectly attributes the buyback to Jagsonpal Pharmaceuticals.
+📊 **Impact: Neutral** — The document does not contain enough real numbers to assess whether this buyback is good or bad for shareholders — it is incomplete as filed.
+👀 **Watch:** The complete exchange filing with the actual buyback price per share and total buyback size, since those two numbers determine whether existing shareholders are getting a good deal.
 
 ---
 
-**Sector Theme:** Both buyback announcements are incomplete or data-deficient — a reminder that board approvals are just the first step, and the real signal only comes when the price and quantum are officially disclosed.
+> ⚠️ **Data Quality Flag:** Both filings above are incomplete or mislabelled — Aurum's headline references Jagsonpal Pharmaceuticals, suggesting a possible filing error. Treat both with caution until full disclosures are available.
 
 <details>
 <summary>All 2 announcements</summary>
 
 ##### Mid & Small Cap
-**Aurum PropTech Ltd** (539289)  
-Jagsonpal Pharmaceuticals announces equity share buyback
+**Aurum PropTech Limited** (AURUM) · *IT - Services*  
+Jagsonpal Pharmaceuticals announces buyback of equity shares
 
-**Baid Finserv Ltd** (511724)  
+**Sungold Media and Entertainment Ltd** (541799) ⚡  
 Board approved proposal for buyback of equity shares
 
 </details>
@@ -408,156 +391,146 @@ Board approved proposal for buyback of equity shares
 ---
 ### ⚠️ Regulatory & BSE Queries
 
-• **Accel Ltd (517494)** — NCLT Chennai passed an order on 10-Mar-2026, details of which have been received and disclosed by the company.
-📊 **Impact:** Neutral — A court order from NCLT could matter a lot or very little depending on what it says, but since the full content isn't shared here, we can't tell if it helps or hurts the company yet.
-👀 **Watch:** What the actual NCLT order says — whether it approves, rejects, or modifies whatever matter was before the court.
+• **Accel Ltd (517494)** — The company received a copy of an NCLT Chennai order dated March 10, 2026, the full details of which are not disclosed in the headline.
+📊 **Impact:** Neutral — A court order from NCLT can be serious or routine; without knowing what the order says, we cannot call it good or bad news yet.
+👀 **Watch:** What the NCLT Chennai order actually directs the company to do — approval, rejection, or penalty will determine the real impact.
 
 ---
 
-• **Fedders Holding Ltd (511628)** — SEBI issued an Adjudication Order against the company dated 11-Mar-2026, the details of which have been disclosed to the exchanges.
-📊 **Impact:** Negative — When SEBI sends an adjudication order, it usually means the company or its officials are being penalised for breaking some market rule. This is a red flag for investors.
-👀 **Watch:** The penalty amount and the specific violation cited in the SEBI order — bigger fines or serious rule-breaking could lead to further regulatory action.
+• **Fedders Holding Ltd (511628)** — The company received an Adjudication Order from SEBI dated March 11, 2026, though the penalty amount is not disclosed in the announcement.
+📊 **Impact:** Negative — When SEBI passes an adjudication order against a company, it usually means a fine or punishment for breaking market rules, which is a red flag for investors.
+👀 **Watch:** The exact penalty amount and whether the company plans to appeal the SEBI order at the Securities Appellate Tribunal (SAT).
 
 ---
 
-• **Mahindra Logistics Ltd (540768)** — The filing headline mentions a Biocon Pharma FDA approval, but the actual document is from Mahindra Logistics; the real content of this filing is not clearly extracted.
-📊 **Impact:** Neutral — The document appears mislabelled or mixed up; no actionable news about Mahindra Logistics can be confirmed from this filing.
-👀 **Watch:** A corrected or clarified filing from Mahindra Logistics on BSE to understand what was actually being disclosed.
+• **Axis Bank Ltd (AXISBANK, Banks)** — Axis Bank informed exchanges of an analyst/institutional investor meet held on March 12, 2026, and separately scheduled another analyst meet for March 17, 2026. *(Note: The Biocon FDA approval headline appears misattributed to Axis Bank in the filing.)*
+📊 **Impact:** Neutral — Routine compliance filing; meeting analysts and investors is standard practice and does not by itself move the stock price.
+👀 **Watch:** Any new management guidance on loan growth, margins, or asset quality that may emerge from the presentation shared at the March 17 meet.
 
 ---
 
-• **Carraro India Ltd (544320)** — The company has scheduled an analyst/investor meeting, as disclosed under Regulation 30 of SEBI Listing Regulations.
-📊 **Impact:** Neutral — This is just the company arranging a meeting with analysts; it doesn't directly help or hurt the stock, but such meetings can sometimes give investors a better sense of the company's direction.
-👀 **Watch:** Any presentation or transcript released after the analyst meet that gives clues about order book, revenue targets, or business outlook.
+• **Carraro India Limited (CARRARO, Auto Components)** — Carraro India intimated exchanges of a scheduled meeting with analysts and investors, under Regulation 30 of SEBI's listing rules. *(Note: The Raymond Realty/Income Tax headline in the subject line appears misattributed.)*
+📊 **Impact:** Neutral — Routine compliance filing; simply telling the market that a management-investor conversation will happen, with no new financial data shared yet.
+👀 **Watch:** What management says about order pipelines and margins from the auto components business when the meeting details are published.
 
 ---
 
-• **Raymond Realty Ltd (544420)** — Material subsidiary Ten X Realty Limited has received a Show Cause Notice from the Income Tax Department, disclosed under Regulation 30.
-📊 **Impact:** Negative — A show cause notice from the tax department means the government is questioning something in the subsidiary's tax filings; if found guilty, the company may have to pay additional taxes, which would eat into profits.
-👀 **Watch:** The amount of tax demand involved and whether Ten X Realty contests or settles the notice, since a large demand could dent Raymond Realty's financials.
+• **JNK India Limited (JNKINDIA, Industrial Manufacturing)** — JNK India filed an intimation with BSE and NSE under Regulation 30; the full content of the filing is not visible in the extract. *(Note: The Tata Steel SCN headline appears misattributed.)*
+📊 **Impact:** Neutral — Routine compliance filing based on available information; no financial impact can be determined from the truncated document.
+👀 **Watch:** The complete filing content to confirm whether this relates to a new order win, which would be positive for this industrial equipment maker.
 
 ---
 
-• **IndusInd Bank Ltd (532187)** — The bank held an analysts/institutional investors meet on 12-Mar-2026 in Mumbai, confirming no unpublished price-sensitive information was shared.
-📊 **Impact:** Neutral — This is a routine investor meeting; the bank has clearly stated nothing secret was discussed, so no immediate effect on the stock price.
-👀 **Watch:** Any publicly available investor presentation from this meet that hints at loan book growth, bad loan trends, or margin outlook.
-
----
-
-• **Max Financial Services Ltd (500271)** — The Board of Directors held a meeting on 12-Mar-2026, the outcome of
+• **Metropolis Healthcare Limited (METROPOLIS, Healthcare Services)** — Metropolis scheduled an analyst/institutional investor meeting with DAM Capital for March 23, 2026, at 10:00 a.m. IST. *(Note: The Bhageria Industries headline is misattributed.)*
+📊 **Impact:** Neutral — Routine investor outreach; the company is simply opening a conversation with big investors, which is normal practice and has no direct effect on the stock.
+👀 **Watch:** Any updated guidance on diagnostic test volumes,
 
 <details>
-<summary>All 18 announcements</summary>
+<summary>All 15 announcements</summary>
+
+##### Large Cap
+**AXIS Bank Ltd.** (AXISBANK) · *Banks*  
+Biocon Pharma Limited receives U.S. FDA approval for ANDA for Liraglutide Injection (gVictoza), 18 mg/3 mL
+
+**AXIS Bank Ltd.** (AXISBANK) · *Banks*  
+Hero MotoCorp received appeal orders from the Commissioner of Income Tax (Appeals) dated March 9-10, 2026
+
+**ENVIRO INFRA ENGINEERS LIMITED** (EIEL) · *Other Utilities* ⚡  
+Wanbury Limited receives Sertraline Form II approval from ANVISA, Brazil
+
+**Go Digit General Insurance Limited** (GODIGIT) · *Insurance*  
+Kotyark Industries received final listing and trading approval for direct listing from NSE Emerge to BSE Mainboard
+
+**Metropolis Healthcare Limited** (METROPOLIS) · *Healthcare Services*  
+Bhageria Industries provides update on Securities Appellate Tribunal matter scheduled for final disposal
+
+**Power Finance Corporation Ltd** (PFC) · *Finance*  
+Fino Payments Bank received an order from the court dated March 4, 2026 in relation to an application filed by the bank.
+
+**VA Tech Wabag Limited** (WABAG) · *Other Utilities* ⚡  
+Aurobindo Pharma's subsidiary Unit-IV of APL Healthcare Limited classified as VAI (Voluntary Action Indicated) by US FDA
 
 ##### Mid & Small Cap
 **Accel Ltd** (517494)  
 
 
-**Atlantaa Ltd** (532759)  
-Clio Infotech Ltd received approval from Regional Director (Western Region), Ministry of Corporate Affairs for change in registered office.
+**Baba Arts Ltd-$** (532380)  
+Deepak Fertilizers & Petrochemicals has received a demand order imposing penalty.
 
-**Britannia Industries Ltd** (500825)  
-Fino Payments Bank received regulatory order dated March 4, 2026 in relation to its application
-
-**Carraro India Ltd** (544320)  
-Tata Steel Ltd provided an update on a show cause cum demand notice received from a regulatory authority dated June 27, 2025.
-
-**Enviro Infra Engineers Ltd** (544290)  
-Wanbury Limited received Sertraline Form II approval from ANVISA, Brazil
+**CARRARO INDIA LIMITED** (CARRARO) · *Auto Components*  
+Raymond Realty's material subsidiary Ten X Realty received show cause notice from Income Tax Department
 
 **Fedders Holding Ltd** (511628)  
 
 
-**Ginni Filaments Ltd** (590025)  
-Maithan Alloys Ltd received a demand notice from the Income Tax Department.
+**Ginni Filaments Ltd.** (GINNIFILA) · *Textiles & Apparels*  
+Maithan Alloys received Income Tax Department Demand Notice
 
-**Indusind Bank Ltd** (532187)  
-Material subsidiary Ten X Realty Limited received a show cause notice from Income Tax Department.
-
-**Jagsonpal Pharmaceuticals Ltd** (507789)  
-Goa Carbon received Assessment Order and Demand Notice from Income Tax Department Faceless Assessment Unit
-
-**Mahindra Logistics Ltd** (540768)  
-Biocon Pharma Limited receives U.S. FDA approval for ANDA for Liraglutide Injection (Victoza)
-
-**Max Financial Services Ltd** (500271)  
-Bhageria Industries Ltd reports Securities Appellate Tribunal adjournment of matter related to promoter challenge to adjudication order
+**JNK India Limited** (JNKINDIA) · *Industrial Manufacturing*  
+Tata Steel disclosed update on show cause cum demand notice from authorities regarding earlier SCN dated June 27, 2025
 
 **Modern Dairies Ltd** (519287)  
-BSE sought clarification from Orient Bell Ltd regarding news appeared on March 12, 2026.
+BSE seeks clarification from Orient Bell Limited regarding news reported on March 12, 2026
 
-**Nectar Lifesciences Ltd** (532649)  
-Inditrade Capital submits application to reclassify A T Invofin India Private Limited from promoter to public category
-
-**Orient Bell Ltd-$** (530365) ⚡  
-Hero MotoCorp received appeal orders from the Commissioner of Income Tax (Appeals) dated March 9-10, 2026.
-
-**Raymond Realty Ltd** (544420)  
-Bank of India received a monetary penalty of Rs. 1,85,300 from the Reserve Bank of India.
-
-**TVS Motor Company Ltd** (532343)  
-Bharti Airtel received notice from Department of Telecommunications
-
-**Vascon Engineers Ltd** (533156)  
-Bil Vyapar Ltd intimated meeting of Committee of Creditors.
-
-**Zydus Lifesciences Ltd** (532321)  
-Western Ministil post-offer advertisement submitted for open offer to acquire 26% equity stake at Rs 10 per share
+**SIP Industries Ltd** (523164)  
+Goa Carbon Limited received Assessment Order and Demand Notice from Income Tax Department's Faceless Assessment Unit
 
 </details>
 
 ---
 ### 🔀 Mergers & Schemes
 
-• **Ambuja Cements Ltd (AMBUJACEM)** — The scheme of arrangement to merge Sanghi Industries into Ambuja Cements has been declared effective, with a record date being fixed for the share swap.
-📊 **Impact:** Positive — Ambuja is officially absorbing a rival cement company, which means it gets bigger, gains more factories and customers, and should be able to sell more cement across India.
-👀 **Watch:** The exact record date announced, as shareholders on that date will be eligible to receive Ambuja shares in exchange for Sanghi shares.
+• **Ambuja Cements Ltd. (AMBUJACEM)**
+The scheme of arrangement to merge Sanghi Industries into Ambuja Cements has been declared effective, with a record date being fixed for share entitlement.
+📊 **Impact:** Positive — Ambuja is officially absorbing a rival cement maker, which means it gets bigger, gains more capacity, and could sell more cement across India, which is generally good for its business.
+👀 **Watch:** The exact record date announced — shareholders of Sanghi on that date will receive Ambuja shares, so the swap ratio terms will determine whether existing Ambuja shareholders gain or get diluted.
 
 ---
 
-• **Sanghi Industries Ltd (SANGHIIND)** — The same merger scheme with Ambuja Cements has been declared effective from Sanghi's side, and a record date is being fixed for shareholders.
-📊 **Impact:** Positive — If you hold Sanghi shares, this is the final step before you receive Ambuja Cements shares in return; Sanghi as a separate listed company will cease to exist.
-👀 **Watch:** The announced record date — anyone holding Sanghi shares before that date gets the share swap; selling before it means missing the exchange.
+• **Sanghi Industries Ltd. (SANGHIIND)**
+The scheme of arrangement merging Sanghi Industries with Ambuja Cements has been declared effective, with a record date being set for the share swap.
+📊 **Impact:** Positive — Sanghi shareholders will receive Ambuja Cements shares in exchange, meaning they are being absorbed into a much larger, stronger company backed by the Adani Group.
+👀 **Watch:** Whether Sanghi shares are suspended from trading once the record date passes, as the stock will effectively cease to exist as an independent listed company after the merger completes.
 
 ---
 
-• **Valor Estate Ltd (VALORESTATE)** — The scheme of amalgamation for Valor Estate has been declared effective as of its filing date, though no specific financial terms or swap ratios are disclosed in the headline.
-📊 **Impact:** Neutral — A merger is being completed, which could reshape the company, but without disclosed numbers like swap ratios or deal size, it is impossible to say right now if shareholders gain or lose.
-👀 **Watch:** The official exchange ratio (how many new shares you get per old share) when it is published by the company.
+• **Valor Estate Ltd. (DBREALTY)**
+The scheme of amalgamation involving Valor Estate has been assigned an effective date, formally triggering the merger process.
+📊 **Impact:** Neutral — This is a procedural milestone confirming the merger is legally underway, but no financial details like share swap ratios or deal value are disclosed in this announcement, so there is nothing concrete to react to yet.
+👀 **Watch:** The official share allotment or cancellation notice that follows, which will reveal whether existing DBREALTY shareholders gain, lose, or break even from the amalgamation terms.
 
 ---
 
-• **Concord Enviro Systems Ltd (CONCORDENVIRO)** — The National Company Law Tribunal (NCLT) has passed an order in relation to Concord Enviro's scheme of arrangement, though specific financial terms are not detailed in the headline.
-📊 **Impact:** Neutral — Getting court approval is a necessary legal milestone for any merger or restructuring to move forward; it does not by itself mean the deal is done or that money changes hands yet.
-👀 **Watch:** The next filing from Concord announcing the effective date of the scheme, which is when the actual changes kick in.
+• **Concord Enviro Systems Ltd. (CEWATER)**
+The National Company Law Tribunal (NCLT) has passed an order in relation to the scheme of arrangement involving Concord Enviro Systems, though no specific financial terms or deal size are disclosed in this announcement.
+📊 **Impact:** Neutral — Getting a court order is a necessary legal step for any merger or restructuring, but until the full terms of what is being split, merged, or reorganised are revealed, it does not directly make the company more or less valuable today.
+👀 **Watch:** The detailed NCLT order filing, which will clarify whether this restructuring involves a demerger of a business unit, a subsidiary merger, or a capital reduction — each of which would affect shareholders very differently.
 
 ---
 
-• **Prostarm Info Systems Ltd (PROSTARM)** — The document filed under this headline is actually an intimation about participation in the 11th Annual Valorem Conference (an analyst meet), with no merger or scheme details present despite the headline referencing a post-offer announcement about P.M. Telelinks Ltd.
-📊 **Impact:** Neutral — Routine compliance filing, no effect on stock; the document does not contain any scheme, offer price, or financial terms related to P.M. Telelinks.
-👀 **Watch:** A correctly filed post-offer public announcement from CapitalSquare Advisors, which should contain the actual open offer price and acceptance details for P.M. Telelinks shareholders.
-
----
-
-**Sector Theme:** Corporate consolidation is visibly active in cement (Ambuja–Sanghi) and across mid-cap industrials — companies are using NCLT-approved mergers to scale up, suggesting larger players are using this market phase to absorb smaller ones cheaply.
+• **Banswara Syntex Ltd. (BANSWRAS)**
+Despite the headline mentioning Adani Infra's acquisition plan for Punj Lloyd, the actual filing is a routine report on transfer requests for physical shares re-lodged under a special SEBI window, submitted on 12th March 2026 per SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/97 dated July 2, 2025.
+📊 **Impact:** Neutral — routine compliance filing, no effect on stock. The headline appears mismatched with the document content; the actual filing is just an administrative update about old physical share certificates being processed.
+👀 **Watch:** Whether a separate, correctly labelled filing emerges for Banswara Syntex, as the mismatch between the headline and
 
 <details>
 <summary>All 5 announcements</summary>
 
+##### Large Cap
+**Ambuja Cements Ltd.** (AMBUJACEM) · *Cement & Cement Products*  
+
+
+**VALOR ESTATE LIMITED** (DBREALTY) · *Leisure Services*  
+
+
 ##### Mid & Small Cap
-**Ambuja Cements Ltd** (500425)  
+**Banswara Syntex Ltd.** (BANSWRAS) · *Textiles & Apparels*  
+Adani Infra (India) has submitted an acquisition plan for Punj Lloyd Limited under Corporate Insolvency Resolution Process.
+
+**Concord Enviro Systems Limited** (CEWATER) · *Other Utilities*  
 
 
-**Concord Enviro Systems Ltd** (544315)  
-
-
-**Prostarm Info Systems Ltd** (544410)  
-Post-Offer Public Announcement submitted by CapitalSquare Advisors regarding P.M. Telelinnks Ltd
-
-**Sanghi Industries Ltd** (526521)  
-
-
-**Valor Estate Ltd** (533160)  
+**Sanghi Industries Ltd.** (SANGHIIND) · *Cement & Cement Products*  
 
 
 </details>
@@ -565,640 +538,639 @@ Post-Offer Public Announcement submitted by CapitalSquare Advisors regarding P.M
 ---
 ### 📦 Order Wins
 
-Here are the pre-market bullets for each company:
+Here are the bullet points for each company:
 
 ---
 
-• **Inventurus Knowledge Solutions Ltd (IKS)** — Received an order from SEEPZ, Mumbai; specific financial details not disclosed in the headline or extract.
-📊 **Impact:** Positive — Getting a new contract from a government-backed special economic zone means the company is winning real business, which is generally good news for growth.
-👀 **Watch:** Look for the actual order value when the full disclosure is published — size will determine whether this moves the needle.
+- **Inventurus Knowledge Solutions (IKS)** — The company received an order from SEEPZ, Mumbai, disclosed under SEBI Regulation 30; however, no order value or scope details are available in the filing.
+- 📊 **Impact:** Neutral — The announcement confirms a new order exists, but without knowing how big or profitable it is, it's impossible to judge whether this meaningfully grows the business.
+- 👀 **Watch:** Whether the company discloses the financial value and duration of the SEEPZ order in a follow-up filing.
 
 ---
 
-• **Rane Holdings Ltd (505800)** — Wholly owned subsidiary Rane Steering Systems Private Limited received an order from the Income Tax Department's National Faceless Assessment Centre, likely a tax demand notice.
-📊 **Impact:** Negative — This is almost certainly a tax demand order, not a business order. That means the government is asking the subsidiary to pay disputed taxes, which could drain cash.
-👀 **Watch:** The exact amount of the tax demand and whether the company plans to challenge it in an appellate tribunal.
+- **Rane Holdings Ltd. (RANEHOLDIN)** — Subsidiary Rane Steering Systems Private Limited received an order from the Income Tax Department's National Faceless Assessment Centre; no tax demand amount is disclosed in the filing.
+- 📊 **Impact:** Negative — A tax assessment order typically means the government is scrutinising the company's past tax payments, which could result in an unexpected bill that reduces profits.
+- 👀 **Watch:** Whether Rane Steering Systems discloses the tax demand amount and whether the parent company plans to contest it.
 
 ---
 
-• **JK Lakshmi Cement Ltd (JKLAKSHMI)** — Declared as Preferred Bidder in the e-Auction for Juipahar New Umrangso Limestone Block in Assam; financial terms not yet disclosed in the extract.
-📊 **Impact:** Positive — Winning a limestone block is like winning your own raw material mine; it means cheaper and more secure supply of the key ingredient used to make cement, which can improve profit margins over time.
-👀 **Watch:** The reserve price and royalty terms of the limestone block once the final lease agreement is signed, as these determine actual cost savings.
+- **Sical Logistics Ltd (520086)** — The filing is actually about the allotment of equity shares on a rights basis, not about JK Lakshmi Cement or a limestone block auction as the headline suggests; no allotment size or price is visible in the extract.
+- 📊 **Impact:** Neutral — A rights issue allotment means the company raised fresh money from existing shareholders, but without knowing the size or price, the dilution impact on current shareholders cannot be assessed.
+- 👀 **Watch:** The official rights issue allotment notice confirming the number of shares issued and the price per share.
 
 ---
 
-• **INOX India Ltd (INOXINDIA)** — Filing relates to an upcoming Investor/Analyst Meet scheduled by the company; the headline about Hazoor Multi Projects winning a highway toll collection contract does not match this company's actual filing.
-📊 **Impact:** Neutral — Routine compliance filing announcing an analyst/investor meeting; no new business or financial information disclosed.
-👀 **Watch:** What management communicates about the order book and margins at the investor meet itself.
+- **INOX India Limited (INOXINDIA)** — The filing is actually an intimation of a scheduled Investor/Analyst Meet, not about Hazoor Multi Projects or an NHAI letter of award as the headline suggests.
+- 📊 **Impact:** Neutral — Routine compliance filing, no effect on stock; the investor meet may provide business updates but the filing itself carries no financial news.
+- 👀 **Watch:** The outcome or transcript of the investor/analyst meet for any guidance on new orders or revenue targets.
 
 ---
 
-• **Simplex Castings Ltd (513472)** — Secured new orders from Bharat Heavy Electricals Limited (BHEL); specific order value not mentioned in the available extract.
-📊 **Impact:** Positive — Winning orders from BHEL, one of India's largest government-owned engineering companies, means steady, reliable work ahead and validates the company's product quality.
-👀 **Watch:** The order value once fully disclosed — BHEL orders can range widely in size, and that will determine the real earnings impact.
+- **Shri Gang Industries & Allied Products Ltd (523309)** — Subsidiary Simplex Castings received an order from Bharat Heavy Electricals Limited (BHEL); however, no order value or quantity is mentioned in the available extract.
+- 📊 **Impact:** Positive — Winning a supply order from BHEL, a large government-owned engineering company, means steady and reliable business coming in, which is good for the company's revenues.
+- 👀 **Watch:** The full disclosure with the order value and delivery timeline to judge how much revenue this adds to Simplex Castings.
 
 ---
 
-• **Kundan Minerals And Metals Ltd (KUNDANMM)** — Filing discloses a board-level development; the headline references Simplex Castings' BHEL order, which does not appear to be Kundan's own news — the actual filing seems to relate to a separate board decision.
-📊 **Impact:** Neutral — The filing content does not match the headline; no clearly attributable positive business development visible for this company from the extract provided.
-👀 **Watch:** A clarified exchange filing from Kundan confirming whether this was a misfiled disclosure or a genuine business update.
-
----
-
-• **Fredun Pharmaceuticals Ltd (539730)** — Filing is about an Analyst/Institutional Investor meeting held on 11th March 2026; the
+- **Gandhar Oil Refinery (GANDHAR)** — The filing actually discusses the effect of an ongoing geopolitical situation on the company's operations, not a contract award to Mahindra EPC Irrigation as the headline suggests.
+- 📊 **Impact:** Negative — Geopolitical disruptions can affect the supply of crude oil or finished products, which may squeeze the company's ability to manufacture or sell its goods, hurting revenues.
+- 👀 **Watch:** Whether the company quantifies revenue loss or supply disruption
 
 <details>
-<summary>All 20 announcements</summary>
+<summary>All 19 announcements</summary>
+
+##### Large Cap
+**ACME Solar Holdings Limited** (ACMESOLAR) · *Power*  
+Enviro Infra Engineers Limited receives Letter of Acceptance for project worth ₹411.08 crores from Bihar Urban Infrastructure Development Corporation Limited
+
+**Aditya Birla Sun Life AMC Limited** (ABSLAMC) · *Capital Markets*  
+Shelter Pharma Limited has secured an order from First Vet Veterinary Medicines Trading LLC, UAE for supply of veterinary and animal healthcare products worth $18,300.
+
+**Bharti Airtel  Ltd.** (BHARTIARTL) · *Telecom - Services*  
+Order received from Tata Power Renewable Energy Limited
+
+**Bharti Airtel  Ltd.** (BHARTIARTL) · *Telecom - Services*  
+Ceigall India (74% JV with Sushee Infra & Mining) emerged as L1 bidder for MoRTH tender 2025_MoRTH_868241
+
+**Birla Corporation Ltd.** (BIRLACORPN) · *Cement & Cement Products*  
+Vascon Engineers secures Rs. 115.90 crore Lotus Park Development Project in Ahmedabad
+
+**ENVIRO INFRA ENGINEERS LIMITED** (EIEL) · *Other Utilities*  
+Enviro Infra Engineers Limited receives order worth ₹411.08 crores under AMRUT 2.0 for Aurangabad Sewerage Network and STP Scheme
+
+**INOX India Limited** (INOXINDIA) · *Industrial Products*  
+Hazoor Multi Projects awarded Letter of Award by National Highways Authority of India for user fee collection at Chowlaggere fee plaza
+
+**INVENTURUS KNOWLEDGE SOLUTIONS LIMITED** (IKS) · *IT - Services*  
+
+
+**MMTC Ltd.** (MMTC) · *Commercial Services & Supplies*  
+Aarti Industries secured a USD 150 million medium-term supply contract with a global agrochemical major
 
 ##### Mid & Small Cap
-**AXIS Bank Ltd** (532215)  
-Vascon Engineers secured Rs 115.90 crore Lotus Park Development Project in Ahmedabad.
+**Chemkart India Ltd** (544442)  
+Shipwaves Online received purchase order worth Rs. 1.57 crore from Hindalco Industries for logistics digitalization solution
 
-**Adani Ports and Special Economic Zone Ltd** (532921)  
-ACME Solar Holdings Limited signs PPAs for 450 MW / 1800 MWh ISTS Connected Assured Peak Power Project
+**Gandhar Oil Refinery (India) Limited** (GANDHAR) · *Petroleum Products*  
+Mahindra EPC Irrigation Limited has been awarded a contract
 
-**Aditya Birla Sun Life AMC Ltd** (543374)  
-Shelter Pharma secured an order from First Vet Veterinary Medicines Trading LLC, UAE for veterinary and animal healthcare products worth $18,300
+**JD Cables Ltd** (544524)  
+Diamond Power Infrastructure Limited has received a letter of intent from Tata Power Renewable Energy Limited for supply of AL-59 Eco Conductor.
 
-**Amagi Media Labs Ltd** (544679)  
-Aarti Industries secured USD 150 million medium-term supply contract with a global agrochemical major.
+**Monika Alcobev Ltd** (544451)  
+Letter of intent received from Tata Power Renewable Energy Limited for supply of AL-59 Eco Conductor
 
-**CG Power and Industrial Solutions Ltd** (500093)  
-Shipwaves Online received purchase order worth Rs 1.57 crore from Hindalco Industries for logistics digitalization solution
+**Msafe Equipments Ltd** (544695)  
+Aarti Industries secured USD 150 million medium-term supply contract with global agrochemical major
 
-**Dee Development Engineers Ltd** (544198)  
-Diamond Power Infrastructure received order from Tata Power Renewable Energy Limited
-
-**Delhivery Ltd** (543529)  
-Diamond Power Infrastructure received letter of intent from Tata Power Renewable Energy Limited for supply of AL-59 Eco Conductor
-
-**Fredun Pharmaceuticals Ltd** (539730)  
-Mahindra EPC Irrigation Limited received contract award
-
-**INOX India Ltd** (544046)  
-Hazoor Multi Projects Ltd awarded Letter of Award by National Highways Authority of India for user fee collection agency at Chowlaggere fee plaza.
-
-**Inventurus Knowledge Solutions Ltd** (544309)  
-
-
-**JK Lakshmi Cement Ltd** (500380)  
-JK Lakshmi Cement Ltd has been declared as the Preferred Bidder in the e-Auction for Juipahar New Umrangso Limestone Block in Assam.
-
-**Kundan Minerals And Metals Ltd** (507528)  
-Simplex Castings Ltd received order from Bharat Heavy Electricals Limited.
-
-**MFS Intercorp Ltd** (513721)  
-Diamond Power Infrastructure received letter of intent from Tata Power Renewable Energy Limited for AL-59 Eco Conductor supply
-
-**RBL Bank Ltd** (540065)  
-Ceigall India Limited (74% JV stake) with Sushee Infra & Mining Limited (26%) emerged as L1 bidder for Tender ID 2025_MoRTH_868241
-
-**Rane Holdings Ltd** (505800)  
+**Rane Holdings Ltd.** (RANEHOLDIN) · *Finance*  
 
 
 **SPV Global Trading Ltd** (512221)  
-VA Tech Wabag secured a Mega PPP order from CMWSSB for 45 MLD TTRO Plant in Chennai
+VA Tech Wabag secured a mega PPP order from CMWSSB for a 45 MLD TTRO water reuse plant in Chennai
 
-**Seshasayee Paper and Boards Ltd** (502450)  
-KNR Constructions receives Letter of Acceptance from Greater Hyderabad Municipal Corporation for 4-lane flyover construction project worth Rs. 50.47 crore
+**Shri Gang Industries & Allied Products Ltd** (523309)  
+Simplex Castings received order from Bharat Heavy Electricals Limited
 
-**Simplex Castings Ltd** (513472) ⚡  
-Simplex Castings Ltd secured orders from Bharat Heavy Electricals Limited.
+**Sical Logistics Ltd** (520086)  
+JK Lakshmi Cement declared as Preferred Bidder for Juipahar New Umrangso Limestone Block auction in Assam
 
-**VA Tech Wabag Ltd** (533269) ⚡  
-Enviro Infra Engineers Limited receives Letter of Acceptance for project worth ₹411.08 crores (including GST) from Bihar Urban Infrastructure Development Corporation Limited
-
-**Wanbury Ltd** (524212)  
-Enviro Infra Engineers Limited receives order worth ₹411.08 crores under AMRUT 2.0 for Aurangabad Sewerage Network and STP Scheme
-
-</details>
-
----
-### 📰 Press Releases
-
-> ⚠️ **Editor's Note:** Several headlines in this feed are **mismatched** — the headline describes a different company than the one filing the document. Where this occurs, I have based the bullet on the **actual document content** (what the company itself filed), not the headline, and flagged the mismatch. This is likely a data aggregation error in the source feed.
-
----
-
-• **Amarjothi Spinning Mills (521097)**
-The company filed a shorter notice intimating a Board of Directors meeting, per Regulation 29 of SEBI Listing Regulations, dated March 12, 2026.
-📊 **Impact:** Neutral — this just means the company is calling a board meeting with less advance notice than usual; nothing has been decided yet that would move the stock.
-👀 **Watch:** What the board actually decides at this meeting — look for the outcome/result filing that should follow within 30 minutes of the meeting ending.
-
----
-
-• **Axis Bank (AXISBANK / 532215)**
-Axis Bank held an Analysts/Institutional Investors Meet on March 12, 2026, and submitted details of the meeting along with a presentation to the exchanges.
-📊 **Impact:** Neutral — banks regularly brief analysts; the real signal is in what management said during the presentation, which has not been summarised in the extract provided.
-👀 **Watch:** The actual investor presentation deck filed alongside this notice — any guidance on loan growth, net interest margin, or asset quality would be market-moving.
-
----
-
-• **JK Cement (JKCEMENT / 532644)**
-JK Cement informed the exchanges of a scheduled meeting where company management will meet investors and analysts, per Regulation 30 of SEBI Listing Regulations.
-📊 **Impact:** Neutral — this is a routine heads-up that management is meeting investors; no new business information has been shared yet.
-👀 **Watch:** Any guidance on cement volumes, pricing trends, or capital expenditure plans that management shares during the investor meeting.
-
----
-
-• **Sueryaa Knitwear (540318)**
-The Board of Directors, in a meeting held on March 12, 2026 (4:00 PM to 4:30 PM), approved the designation of a specific premises as the company's new Corporate Office.
-📊 **Impact:** Neutral — changing the official address of a corporate office is a housekeeping matter and has no effect on business performance or profits.
-👀 **Watch:** Whether the company files any further operational updates soon — a 30-minute board meeting suggests minimal agenda beyond this administrative item.
-
----
-
-• **Bhageria Industries (BHAGERIA / 530803)**
-Bhageria Industries referenced its earlier communication from January 8, 2026 regarding a Securities Appellate Tribunal (SAT) matter, filing a disclosure under Regulation 30 of SEBI Listing Regulations on March 12, 2026.
-📊 **Impact:** Neutral to cautious — any ongoing Securities Appellate Tribunal case means the company is in a legal/regulatory dispute, which is a risk; however, no new adverse ruling has been mentioned in this extract.
-👀 **Watch:** The final outcome of the SAT case — if the ruling goes against the company, it could impact operations or invite regulatory penalties.
-
----
-
-• **Electrosteel Castings (500128)**
-In response to a BSE query dated March 12, 2026, Electrosteel Castings stated that the significant increase
-
-<details>
-<summary>All 16 announcements</summary>
-
-##### Mid & Small Cap
-**AXIS Bank Ltd** (532215)  
-Kalpataru Ltd signs redevelopment project in Andheri West with approximately ₹1,400 crore GDV potential.
-
-**Amarjothi Spinning Mills Ltd** (521097) ⚡  
-KPI Green Energy energised 35 MWp to reach 589 MWp energised capacity out of 2.17 GWp IPP portfolio
-
-**Bhageria Industries Ltd** (530803)  
-Kotyark Industries Ltd receives final listing and trading approval from NSE and BSE for migration to main board
-
-**Dolphin Offshore Enterprises (India) Ltd-$** (522261)  
-Gopal Snacks Ltd business update
-
-**Dr. Lal PathLabs Ltd** (539524)  
-HCLTech announces expanded collaboration with Google Cloud to accelerate Agentic AI adoption across industries
-
-**Electrosteel Castings Ltd** (500128)  
-Amagi Media Labs report finds Applied AI moving into core media workflows with FAST viewing rising 21%
-
-**Indian Sucrose Ltd** (500319)  
-Raymond Realty announces Ten X District 9, a next-generation residential development
-
-**JK Cement Ltd** (532644)  
-Quadrant Future Tek received approval for KAVACH System Version 4.0
-
-**Modis Navnirman Ltd** (543539)  
-RateGain Travel Technologies partners with Juspay to launch RG Pay, a financial technology platform for travel and hospitality industry
-
-**Nile Ltd** (530129)  
-VSL Powerhive launches flagship brand VION lithium-ion battery range for e-mobility, inverter and home backup solutions
-
-**Retaggio Industries Ltd** (544391)  
-Modis Navnirman Limited receives occupation certificate for its residential project
-
-**SIP Industries Ltd** (523164)  
-Zydus Lifesciences launches AI-powered Continuous Glucose Monitor products Diasens and GlucoLive
-
-**Sagility Ltd** (544282)  
-Aarti Industries secured USD 150 million medium-term supply contract with global agrochemical major
-
-**South West Pinnacle Exploration Ltd** (543986)  
-TVS Motor launched TVS Orbiter V1 electric scooter priced from Rs 49,999 with Battery-as-a-Service option
-
-**Sueryaa Knitwear Ltd** (540318)  
-Orient Bell confirmed its digital logistics transformation partnership with Traqo
-
-**Tata Consumer Products Ltd** (500800)  
-Camikara, company's Indian rum brand, won top honors at two world-renowned rum competitions.
+**Udayshivakumar Infra Ltd** (543861)  
+KNR Constructions received Letter of Acceptance from Greater Hyderabad Municipal Corporation for construction of 4-lane flyover at Rasoolpura worth Rs. 50.47 crore on EPC/Turnkey basis.
 
 </details>
 
 ---
 ### 🤝 MoUs & Agreements
 
-## MoUs & Agreements — Pre-Market Briefing
+Here are the pre-market bullets for each company:
 
 ---
 
-- **Landmark Cars Ltd (LANDMARK)** — The company has opened a new Mahindra & Mahindra authorised workshop in Hyderabad, expanding its aftersales service network in the city.
-- 📊 **Impact:** Positive — More service centres mean more steady, recurring income from car repairs and maintenance, which is less risky than just selling cars.
-- 👀 **Watch:** Whether this Hyderabad workshop hits profitability within its first two quarters of operation.
+- **Mahindra Logistics (MAHLOG)** — Material subsidiary Natural Biogenex Private Limited signed Framework and Contract Manufacturing agreements with Fermbox Bio Private Limited (financial terms not disclosed in the extract).
+  📊 **Impact:** Neutral — This deal is in a biotech/manufacturing space that is a side business for a logistics company; no numbers are available to judge how big or meaningful this is yet.
+  👀 **Watch:** Whether Mahindra Logistics discloses the revenue potential or contract value of this manufacturing arrangement in a follow-up filing.
 
 ---
 
-- **Action Construction Equipment Ltd (ACE)** — ACE has signed an Investment & Shareholder Agreement (Joint Venture) with Japanese crane manufacturer KATO; specific investment amounts were not disclosed in the extract.
-- 📊 **Impact:** Positive — Partnering with a well-known Japanese equipment brand could help ACE make better cranes and sell them in new markets, which is good for long-term growth.
-- 👀 **Watch:** The exact equity split and how much cash KATO is bringing into the joint venture when the full agreement is disclosed.
+- **Natural Capsules Ltd. (NATCAPSUQ)** — The filing relates to a press release about Natural Biogenex (a separate entity); no financial details or deal terms specific to Natural Capsules are present in the extract.
+  📊 **Impact:** Neutral — routine compliance filing, no effect on stock; the document appears to have been filed under the wrong company or is a mislabelled disclosure.
+  👀 **Watch:** Whether a corrected or clarified filing is submitted to the exchanges, as the current document creates confusion about which company the news actually belongs to.
 
 ---
 
-- **Kotak Mahindra Bank Ltd (KOTAKBANK)** — The company has scheduled analyst and institutional investor meetings; no financial data or deal terms were announced in this filing.
-- 📊 **Impact:** Neutral — This is a routine compliance filing letting the stock exchange know that management will meet investors; it does not change anything about the business today.
-- 👀 **Watch:** Any management commentary or guidance on loan growth and margins that emerges from these investor meetings.
+- **Action Construction Equipments (ACE)** — ACE signed an Investment & Shareholder Agreement (Joint Venture) with KATO, a crane manufacturer (financial terms such as equity split and investment amount not disclosed in the extract provided).
+  📊 **Impact:** Positive — ACE is teaming up with KATO, which is a well-known Japanese heavy crane brand; this could bring better technology and new products to ACE's lineup, making it stronger against competitors.
+  👀 **Watch:** The equity stake ACE will hold in the JV and which product categories (say, large lattice-boom cranes) will be manufactured or distributed under this partnership.
 
 ---
 
-- **Shri Gang Industries & Allied Products Ltd (SHRIGANG)** — The company has entered into a Lease Agreement and Manufacturing Agreement with Tilak Nagar Industries to bottle Indian Made Foreign Liquor (IMFL) brands; specific financial terms were not available in the extract.
-- 📊 **Impact:** Positive — Getting paid to bottle alcohol for another company means Shri Gang can earn money from its factory without spending on building its own liquor brands from scratch.
-- 👀 **Watch:** The volume of liquor bottles committed under this agreement and whether Tilak Nagar Industries makes full use of the manufacturing capacity.
+- **The Anup Engineering (ANUP)** — The filing is an intimation of an Institutional Investor/Analyst Meet under Regulation 30; no MoU or agreement news is present in the document extract.
+  📊 **Impact:** Neutral — routine compliance filing, no effect on stock; this is simply a heads-up that management will meet with investors/analysts.
+  👀 **Watch:** The management commentary or presentation shared during the analyst meet, which could contain order book updates or guidance for the next financial year.
 
 ---
 
-- **The Anup Engineering Ltd (ANUP)** — The company has intimated the exchanges about an upcoming institutional investor and analyst meeting; no deal or financial terms were disclosed.
-- 📊 **Impact:** Neutral — Routine compliance filing, no effect on stock.
-- 👀 **Watch:** Any order pipeline updates or margin guidance that management shares during the analyst meet.
+- **Fertilizers and Chemicals Travancore (FACT)** — Shri Gang Industries (a separate, unrelated company) entered into a Lease Agreement and Manufacturing Agreement with Tilak Nagar Industries for bottling IMFL (Indian Made Foreign Liquor) brands; no connection to FACT is visible.
+  📊 **Impact:** Neutral — This news does not appear to involve FACT at all; the headline seems to be incorrectly tagged to this company, meaning there is no impact on FACT's stock.
+  👀 **Watch:** Whether FACT files a clarification or if this was a data/tagging error by the exchange or news aggregator.
 
 ---
 
-- **Regaal Resources Ltd (544485)** — The headline references Central Bank of India entering a co-lending partnership with IIFL Finance Limited; no document extract was provided and no connection to Regaal Resources is established.
-- 📊 **Impact:** Neutral — The filing appears mismatched — the headline does not relate to Regaal Resources, so there is no meaningful news to act on here.
-- 👀 **Watch:** Whether the company files a corrected or clarifying disclosure with the exchanges.
-
----
-
-- **Nuvoco Vistas Corporation Ltd (NUVOCO)** — The headline references Central Bank of India signing a distribution agreement with HDFC Asset Management for mutual fund products; this has no visible connection to Nuvoco, a cement company.
-- 📊 **Impact:** Neutral — The filing appears mismatched with the wrong
+- **Nectar Lifesciences (NECLIFE)** — Nectar Lifesciences signed an inter-corporate loan agreement with its wholly owned subsidiary Avensis Exports Private Limited (loan amount and interest rate not disclosed in the extract).
+  📊 **Impact:** Neutral — A parent company lending money to its own fully-owned subsidiary is a very common internal treasury activity; it does not bring in new business or revenue
 
 <details>
-<summary>All 7 announcements</summary>
+<summary>All 10 announcements</summary>
+
+##### Large Cap
+**Action Construction Equipments Ltd.** (ACE) · *Agricultural Commercial & Construction Vehicles*  
+Natural Biogenex Private Limited (material subsidiary) entered into Framework & Contract Manufacturing agreements with Fermbox Bio Private Limited
+
+**Adani Ports and Special Economic Zone Ltd** (ADANIPORTS) · *Transport Infrastructure*  
+Optiemus Electronics Limited enters into agreement with Nxtquantum Shift Technologies India Private Limited
+
+**Sagility Limited** (SAGILITY) · *IT - Services*  
+RateGain and Juspay partner to launch RG Pay, a financial technology platform for travel and hospitality industry
+
+**Shakti Pumps (India) Ltd.** (SHAKTIPUMP) · *Industrial Products* ⚡  
+Central Bank of India enters into co-lending partnership with IIFL Finance Limited for competitive loan offerings.
+
+**The Anup Engineering Ltd** (ANUP) · *Industrial Manufacturing*  
+Shri Gang Industries entered into lease and manufacturing agreement with Tilak Nagar Industries for IMFL bottling
 
 ##### Mid & Small Cap
-**Action Construction Equipment Ltd** (532762)  
-Natural Biogenex Private Limited enters into Framework and Contract Manufacturing agreements with Fermbox Bio Private Limited
+**AGS Transact Technologies Ltd** (543451)  
+Central Bank of India enters into distribution agreement with HDFC Asset Management Company for mutual fund product distribution.
 
-**Kotak Mahindra Bank Ltd** (500247)  
-Action Construction Equipment Ltd executes Joint Venture and Shareholder Agreement with KATO.
+**Fertilizers and Chemicals Travancore Limited** (FACT) · *Fertilizers & Agrochemicals* ⚡  
+Shri Gang Industries enters into Lease Agreement and Manufacturing Agreement with Tilak Nagar Industries for bottling IMFL brands.
 
-**Landmark Cars Ltd** (543714)  
-Natural Biogenex Private Limited enters into Framework and Contract Manufacturing agreements with Fermbox Bio Private Limited
+**Mahindra Logistics Limited** (MAHLOG) · *Transport Services*  
+Natural Biogenex Private Limited (material subsidiary) entered into Framework & Contract Manufacturing agreements with Fermbox Bio Private Limited
 
-**Nuvoco Vistas Corporation Ltd** (543334) ⚡  
-Central Bank of India enters into distribution agreement with HDFC Asset Management Company Limited for mutual fund product distribution
+**Natural Capsules Ltd.** (NATCAPSUQ) · *Pharmaceuticals & Biotechnology*  
+Action Construction Equipments Ltd executed Investment & Shareholder Agreement (Joint Venture) with KATO
 
-**Regaal Resources Ltd** (544485) ⚡  
-Central Bank of India enters into co-lending partnership with IIFL Finance Limited to offer loans at competitive rates
+**Nectar Lifesciences Limited** (NECLIFE) · *Pharmaceuticals & Biotechnology*  
+Nectar Lifesciences entered into inter-corporate loan agreement with wholly owned subsidiary Avensis Exports Private Limited
 
-**Shri Gang Industries & Allied Products Ltd** (523309)  
-Shri Gang Industries & Allied Products Ltd entered into Lease Agreement and Manufacturing Agreement with Tilak Nagar Industries for bottling Indian Made Foreign Liquor brands.
+</details>
 
-**The Anup Engineering Ltd** (542460)  
-Shri Gang Industries & Allied Products Ltd entered into Lease Agreement and Manufacturing Agreement with Tilak Nagar Industries for bottling Indian Made Foreign Liquor brands.
+---
+### 📰 Press Releases
+
+Here are the pre-market bullets for each company:
+
+---
+
+- **Ducon Infratechnologies (DUCON)** — The filing discloses an outcome of a Group Investor Meeting held on March 12, 2026; no specific financial numbers or deal details are extractable from the available document extract.
+- 📊 **Impact:** Neutral — This appears to be a routine investor meeting disclosure with no concrete numbers or announcements visible in the extract; nothing here to move the stock.
+- 👀 **Watch:** Whether any specific order wins, partnerships, or financial guidance were shared at the meeting and disclosed in the full filing.
+
+---
+
+- **Shraddha Prime Projects Ltd (531771)** — The filing is a revised intimation under Regulation 30; the headline references Simplex Castings securing orders from BHEL, but the document body belongs to Shraddha Prime Projects with no financial figures visible.
+- 📊 **Impact:** Neutral — This looks like a data mismatch between headline and filing; the actual news relevant to this company is unclear and cannot be confirmed.
+- 👀 **Watch:** Whether a corrected or complete filing is submitted clarifying the actual announcement for Shraddha Prime Projects.
+
+---
+
+- **Orient Bell Limited (ORIENTBELL)** — The company filed a clarification in response to a Business Standard news item dated March 12, 2026 titled "Orientbell Embarks on a Digital Logistics Transformation Journey with Traqo"; no financial figures are available in the extract.
+- 📊 **Impact:** Neutral — Orient Bell is adopting digital tools to manage its logistics better, which could quietly reduce delivery costs and errors over time, but this is not a big money announcement.
+- 👀 **Watch:** Whether Traqo's integration leads to measurable improvement in on-time delivery or distribution cost reduction in the next 1–2 quarterly updates.
+
+---
+
+- **Ethos Limited (ETHOSLTD)** — The filing is a schedule of analyst and institutional investor meetings under SEBI LODR regulations; no specific financial disclosures or numbers are present in the extract.
+- 📊 **Impact:** Neutral — Routine compliance filing informing exchanges about upcoming investor meetings; no new business news here.
+- 👀 **Watch:** Any guidance or business updates that emerge from these analyst meetings and get separately disclosed to the exchanges.
+
+---
+
+- **Amagi Media Labs Limited (AMAGI)** — Amagi's industry report finds that FAST (Free Ad-Supported Streaming TV) channel viewing rose 21%, with Applied AI moving into core media workflows.
+- 📊 **Impact:** Positive — Think of FAST channels like free TV on the internet; if more people are watching them, companies like Amagi that power these channels get more business and earn more money from ads.
+- 👀 **Watch:** Whether Amagi's own revenue from FAST channel management and AI-powered media tools grows in line with this 21% industry viewing increase in the next earnings report.
+
+---
+
+- **Aurum PropTech Limited (AURUM)** — The board approved the sale of buildings Q5 and Q6 at Millennium Business Park for ₹112 crores, described as an exit from non-core assets.
+- 📊 **Impact:** Positive — Aurum is selling buildings it doesn't need for its main business and getting ₹112 crore in cash, which strengthens its finances and lets it focus on its core tech business.
+
+<details>
+<summary>All 15 announcements</summary>
+
+##### Large Cap
+**Aurobindo Pharma Ltd.** (AUROPHARMA) · *Pharmaceuticals & Biotechnology*  
+Indian Railway Finance Corporation press release announcement
+
+**ETHOS LIMITED** (ETHOSLTD) · *Consumer Durables*  
+Kotyark Industries Limited receives final listing and trading approval from NSE and BSE for migration to main board
+
+**Power Finance Corporation Ltd** (PFC) · *Finance*  
+Infosys announced expansion of its Mohali Development Center with a new 350,000-sq. ft. integrated development campus.
+
+**Zydus Lifesciences Limited** (ZYDUSLIFE) · *Pharmaceuticals & Biotechnology*  
+Aurum PropTech exits non-core assets for INR 112 crores by approving sale of buildings Q5 and Q6 at Millennium Business Park
+
+##### Mid & Small Cap
+**Amagi Media Labs Limited** (AMAGI) · *IT - Services*  
+Amagi report finds applied AI moving into core media workflows with FAST viewing up 21%
+
+**Aurum PropTech Limited** (AURUM) · *IT - Services*  
+HCLTech announces expanded collaboration with Google Cloud to accelerate Agentic AI adoption across industries
+
+**Ducon Infratechnologies Limited** (DUCON) · *Industrial Manufacturing*  
+Kalpataru Limited signs redevelopment project in Andheri West with approximately ₹1,400 crore GDV potential
+
+**Galaxy Agrico Exports Ltd** (531911)  
+Camikara, Piccadily Agro's rum brand, won top honours at two world rum competitions.
+
+**HDB FINANCIAL SERVICES LIMITED** (HDBFS) · *Finance*  
+TVS Motor launched Orbiter V1 electric two-wheeler starting at Rs 49,999 with Battery-as-a-Service option.
+
+**Indian Sucrose Ltd** (500319)  
+Raymond Realty announces Ten X District 9, a next-generation residential development project.
+
+**Jagsonpal Pharmaceuticals Limited** (JAGSNPHARM) · *Pharmaceuticals & Biotechnology*  
+Zydus Lifesciences launches AI-powered Continuous Glucose Monitor DiasensTM and GlucoLiveTM to expand companion diagnostics portfolio
+
+**Nile Ltd** (530129)  
+VSL Powerhive, wholly-owned subsidiary of Vikram Solar Limited, launched flagship brand 'VION' for Lithium-ion Battery Range covering E-Mobility, Inverter and Integrated Home Backup Solutions.
+
+**Orient Bell Limited** (ORIENTBELL) · *Consumer Durables*  
+Quadrant Future Tek Limited announces progress in approval process for KAVACH System Version 4.0
+
+**Shraddha Prime Projects Ltd** (531771)  
+Simplex Castings secured orders from Bharat Heavy Electricals Limited
+
+**Wanbury Ltd** (524212)  
+ACME Solar signs PPAs for 450 MW / 1800 MWh ISTS Connected Assured Peak Power Project
 
 </details>
 
 ---
 ### 🚨 Operational Alerts
 
-Here are the operational alerts for today:
+I need to carefully read each document extract before writing the bullets. Let me flag an important issue first: **several headlines do not match the actual company or document content.** I will base my bullets strictly on what the document actually says, not the misleading headlines.
 
 ---
 
-• **Gandhar Oil Refinery (GANDHAR)** — The company filed an update with BSE and NSE regarding the effect of the ongoing geopolitical situation on its operations, though the full details of the impact were not disclosed in the available extract.
-📊 **Impact:** Neutral to Negative — A company that makes industrial oils is flagging that global tensions (likely the Middle East conflict) may be affecting how it runs its business, which could mean higher costs or supply problems, but we don't yet have the full picture.
-👀 **Watch:** Whether the company quantifies any revenue loss or raw material cost increase in a follow-up disclosure.
+- **Max Financial Services Limited (MFSL)** — The company's Board of Directors held a meeting on March 12, 2026, following a prior intimation dated March 7, 2026, filed under Regulation 30 of SEBI's Listing Regulations; the document extract cuts off before revealing what the Board actually decided.
+📊 **Impact:** Neutral — We cannot tell what the Board meeting was about because the document is incomplete; there is no usable news here yet.
+👀 **Watch:** The full Board outcome disclosure on BSE/NSE to find out what was actually decided at this meeting.
 
 ---
 
-• **Alivus Life Sciences (ALIVUS)** — The company intimated an upcoming Investors/Analyst Meet pursuant to Regulation 30 of SEBI LODR Regulations, 2015; no financial figures were disclosed in the extract.
-📊 **Impact:** Neutral — This is simply a routine meeting with analysts and investors; think of it as the company inviting financial experts for a Q&A session, which by itself does not move the stock.
-👀 **Watch:** What management says at the meeting about its growth pipeline or upcoming product launches.
+- **Pondy Oxides & Chemicals Limited (POCL)** — The company has scheduled an Analyst/Institutional Investor meeting and filed the intimation under Regulation 30 of SEBI LODR Regulations on March 12, 2026; no financial figures or operational updates are mentioned.
+📊 **Impact:** Neutral — This is simply a calendar notice telling big investors a meeting is coming; it does not change anything about the business today.
+👀 **Watch:** Any earnings guidance or operational commentary that management shares during the actual analyst meeting.
 
 ---
 
-• **Go Digit General Insurance (GODIGIT)** — The company filed an intimation of an Analysts/Institutional Investors Meet under Regulation 30 of SEBI LODR Regulations, 2015; no financial figures are mentioned in the available extract.
-📊 **Impact:** Neutral — Just like Alivus above, this is a standard investor meeting notification; it does not signal anything good or bad about the company's insurance business on its own.
-👀 **Watch:** Any guidance on claims ratios or premium growth that management shares during the meeting.
+- **Bil Vyapar Ltd (500059)** — The company filed a Regulation 30 disclosure on March 12, 2026, under the Braj Binani Group banner; the document extract ends at the subject line and contains no actual operational or financial information.
+📊 **Impact:** Neutral — The filing is cut off before any real news appears, so there is nothing here that would move the stock up or down.
+👀 **Watch:** The complete text of this Regulation 30 disclosure to see what the company actually intended to communicate.
 
 ---
 
-• **Hindustan Zinc (HINDZINC)** — The company published a newspaper advertisement for its Postal Ballot Notice and remote e-voting information to members, referencing continuation of letter HZL/2025-26/SECY/167 dated March 11, 2026; no financial figures are in the extract.
-📊 **Impact:** Neutral — routine compliance filing, no effect on stock. This is just the company telling its shareholders how to vote on a resolution from their home, similar to how you get a voting guide before an election.
-👀 **Watch:** What specific resolution shareholders are being asked to vote on in the Postal Ballot, as that could signal a strategic change.
+- **Veranda Learning Solutions Limited (VERANDA)** — The company filed a Regulation 30 disclosure on March 12, 2026, with BSE and NSE; the document extract cuts off immediately after the opening compliance statement and reveals no actual news or numbers.
+📊 **Impact:** Neutral — Like an envelope with no letter inside — the filing wrapper is there but the content is missing, so there is nothing to act on.
+👀 **Watch:** The complete filing text to understand what event or development Veranda was actually disclosing.
 
 ---
 
-• **JD Cables (JDCABLES)** — The company informed BSE that it has obtained a new GST registration in the state of Jharkhand, pursuant to Regulation 30 of SEBI LODR Regulations, 2015; no revenue figures are provided.
-📊 **Impact:** Neutral to mildly Positive — Getting a new GST registration in Jharkhand means the company is now set up to officially do business or expand operations there, like getting a new shop licence in a new city.
-👀 **Watch:** Whether the company announces any new orders or a manufacturing/distribution facility in Jharkhand in the coming months.
+- **RateGain Travel Technologies Limited (RATEGAIN)** — RateGain announced a partnership with payments technology company Juspay on March 12, 2026, to launch **"RG Pay,"** a financial technology platform targeting the global travel and hospitality industry; no deal value or revenue figures are disclosed in the extract.
+📊 **Impact:** Positive — RateGain is adding a payments tool to its travel-tech platform, which could help it earn money from a brand-new type of service on top of what it already sells to hotels and airlines.
+👀 **Watch:** Whether RG Pay gets adopted by any named hotel chains or airlines within the next two quarters, which would confirm real revenue potential from this partnership.
 
 ---
 
-• **AGS Transact Technologies (AGSTRA)** — The 8th meeting of the Committee of Creditors (CoC) of AGS Transact Technologies is scheduled for Friday, 13th March 2026 at 3:00 PM via Video Conferencing.
-📊 **Impact:**
+> ⚠️ **Data Quality Note:** Four of the five headlines provided were factually mismatched with their document content (e.g., a POCL filing was headlined as a Balaji Amines story; a
 
 <details>
-<summary>All 7 announcements</summary>
+<summary>All 5 announcements</summary>
+
+##### Large Cap
+**Max Financial Services Limited** (MFSL) · *Insurance*  
+Gandhar Oil Refinery provides update on impact of ongoing geopolitical situation on operations
+
+**RateGain Travel Technologies Limited** (RATEGAIN) · *IT - Software*  
+Modi's Navnirman Limited received Occupation Certificate for its residential project
 
 ##### Mid & Small Cap
-**AGS Transact Technologies Ltd** (543451)  
-AGS Transact Technologies 8th Committee of Creditors meeting scheduled for 13th March 2026
+**Bil Vyapar Ltd** (500059)  
+Chatha Foods issued operational update regarding potential LPG supply constraints arising from global geopolitical developments.
 
-**Alivus Life Sciences Ltd** (543322)  
-Avenue Supermarts opened 2 new stores (Bavdhan, Pune and Chilakaluripeta, Andhra Pradesh), bringing total store count to 463.
+**Pondy Oxides & Chemicals Limited** (POCL) · *Diversified Metals*  
+Balaji Amines reports Middle East conflict disrupting global shipping, logistics and supply chains with key suppliers invoking Force Majeure clause
 
-**Gandhar Oil Refinery (India) Ltd** (544029)  
-Gandhar Oil Refinery provided update on impact of geopolitical situation on company operations
-
-**Go Digit General Insurance Ltd** (544179)  
-Balaji Amines' supply chain significantly disrupted by Middle East conflict with key raw material suppliers invoking Force Majeure clause.
-
-**Hindustan Zinc Ltd** (500188)  
-Chatha Foods Ltd issues operational update on potential LPG supply constraints in India from global geopolitical developments.
-
-**JD Cables Ltd** (544524)  
-GAIL (India) Limited informed Somany Ceramics of supply regulation changes due to Middle East conflict impact on global energy markets
-
-**Modern Thread India Ltd** (500282)  
-Unit-IV of Aurobindo Pharma's subsidiary APL Healthcare Limited classified as VAI (Voluntary Action Indicated) by US FDA
+**Veranda Learning Solutions Limited** (VERANDA) · *Other Consumer Services*  
+GAIL India Limited has communicated that supply of natural gas to Somany Ceramics will be impacted due to Middle East conflict and revised supply regulations from Ministry of Petroleum & Natural Gas.
 
 </details>
 
 ---
 ### 🏦 Credit Ratings
 
-## Credit Ratings
+## 💳 Credit Ratings
 
----
-
-- **Orient Ceratech Ltd (504879)** — The company has intimated the exchange of a credit rating update, but no specific rating details or numbers are available in the announcement.
+- **Orient Ceratech Limited (ORIENTCER)** — The company filed an intimation of credit rating with the exchange, but no specific rating, agency, or numerical details were disclosed in the announcement.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether the actual rating letter reveals an upgrade, downgrade, or reaffirmation from the rating agency.
+👀 **Watch:** What rating level was actually assigned and by which agency, once the full document is public.
 
 ---
 
-- **Cholamandalam Financial Holdings Ltd (504973)** — The company has informed the exchange of a credit rating update, with no specific rating details or numerical data disclosed in this announcement.
+- **Cholamandalam Financial Holdings Limited (CHOLAHLDNG)** — The company informed the exchange of a credit rating update, with no specific rating, agency name, or figures provided in the headline disclosure.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether the detailed rating report shows any change in the outlook for its lending subsidiaries like Chola Finance.
+👀 **Watch:** Whether the rating is a fresh assignment or a reaffirmation, as a downgrade would directly raise borrowing costs for this financial holding company.
 
 ---
 
-- **Machino Plastics Ltd (523248)** — ICRA Limited has issued a credit rating for Machino Plastics, though the specific rating grade and rated amount are not available in the headline disclosure.
+- **Machino Plastics Ltd (523248)** — ICRA Limited issued a credit rating for the company under SEBI LODR Regulation 30, though no specific rating grade or outlook was shared in the available disclosure.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether ICRA's detailed report reveals the rated debt amount and whether the outlook is stable or negative, which matters for the company's borrowing costs.
+👀 **Watch:** The actual ICRA rating grade when published, since a lower rating could make it more expensive for the company to borrow money.
 
 ---
 
-- **Shivalik Bimetal Controls Ltd (513097)** — The company has disclosed a credit rating update under SEBI LODR Regulation 30(4), with no specific rating grade or figures provided in the announcement.
+- **Shivalik Bimetal Controls Ltd (SBCL)** — The company disclosed a credit rating under SEBI LODR Regulation 30(4), but no rating agency, grade, or financial figures were mentioned in the announcement.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether the full rating document confirms a stable outlook, given the company's recent export-driven growth in bimetal products.
+👀 **Watch:** The specific rating and whether it has changed from the previous cycle, as SBCL's export-driven business depends on competitive financing terms.
 
 ---
 
-- **Bhageria Industries Ltd (530803)** — The company has made a credit rating announcement under Regulation 30 of SEBI LODR, but no specific rating, rated instrument, or numerical details are available in the disclosure.
+- **Bhageria Industries Limited (BHAGERIA)** — The company made a credit rating announcement under SEBI LODR Regulation 30, with no rating grade, agency, or numbers disclosed in the headline filing.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether the rating covers its working capital facilities, as dye intermediate businesses are sensitive to raw material cost cycles.
+👀 **Watch:** The actual rating outcome, particularly given the chemicals sector's current margin pressures from raw material costs.
 
 ---
 
-- **Agarwal Industrial Corporation Ltd (531921)** — The company has intimated the exchange of a credit rating update, with no specific rating agency name, grade, or rated amount disclosed in the announcement.
+- **Agarwal Industrial Corporation Limited (AGARIND)** — The company filed an intimation for credit rating under exchange disclosure norms, but no agency name, rating grade, or financial details were included in the announcement.
 📊 **Impact:** Neutral — routine compliance filing, no effect on stock.
-👀 **Watch:** Whether the actual rating document shows improvement in its debt coverage ratios, which would indicate healthier finances.
+👀 **Watch:** Whether this is a first-time rating or renewal, as a new rating can signal the company is planning to raise debt in the near term.
 
 ---
 
-- **Medi Assist Healthcare Services Ltd (544088)** — The company has informed the exchange of a reaffirmation of the credit rating of one of its subsidiaries, though no rating grade, agency name, or rated amount is specified in the announcement.
-📊 **Impact:** Neutral — a reaffirmation generally means the subsidiary's financial health is unchanged, so no immediate surprise for investors.
-👀 **Watch:** Which specific subsidiary received the reaffirmation and whether the rated debt is backed by any parent-level guarantee that could affect the listed entity.
+- **Medi Assist Healthcare Services Limited (MEDIASSIST)** — The company informed the exchange about a reaffirmation of the credit rating of one of its subsidiaries, though no subsidiary name, rating grade, or agency was specified in the disclosure.
+📊 **Impact:** Positive — a reaffirmation (not a downgrade) means the rating agency still trusts this subsidiary's ability to repay its debts, which is a small reassuring sign.
+👀 **Watch:** Which subsidiary received the reaffirmation and whether its rating outlook is "Stable" or "Negative," as the latter would be an early warning sign.
 
 ---
 
-- **Jaiprakash Power Ventures Ltd (532627)** — CRISIL Ratings Limited has assigned a fresh rating to Jaiprakash Power Ventures, though the specific rating grade, instrument type, and rated amount are not provided in the available announcement text.
-📊 **Impact:** Neutral —
+- **Jaiprakash Power Ventures Limited (JPPOWER)** — CRIS
 
 <details>
-<summary>All 10 announcements</summary>
+<summary>All 9 announcements</summary>
+
+##### Large Cap
+**CHOLAMANDALAM FINANCIAL HOLDINGS LIMITED** (CHOLAHLDNG) · *Finance* ⚡  
+
+
+**Jaiprakash Power Ventures Limited** (JPPOWER) · *Power* ⚡  
+
+
+**Medi Assist Healthcare Services Limited** (MEDIASSIST) · *Insurance* ⚡  
+
 
 ##### Mid & Small Cap
-**Agarwal Industrial Corporation Ltd** (531921) ⚡  
+**Agarwal Industrial Corporation Limited** (AGARIND) · *Chemicals & Petrochemicals* ⚡  
 
 
-**Bhageria Industries Ltd** (530803) ⚡  
+**Bhageria Industries Limited** (BHAGERIA) · *Chemicals & Petrochemicals* ⚡  
 
 
-**Cholamandalam Financial Holdings Ltd** (504973) ⚡  
-
-
-**Jaiprakash Power Ventures Ltd** (532627) ⚡  
-
+**Chatha Foods Ltd** (544151)  
+CRISIL assigned WeWork India Management Limited a rating of CRISIL A+/STABLE/CRISIL A1.
 
 **Machino Plastics Ltd-$** (523248) ⚡  
 
 
-**Medi Assist Healthcare Services Ltd** (544088) ⚡  
+**ORIENT CERATECH LIMITED** (ORIENTCER) · *Industrial Products* ⚡  
 
 
-**Orient Ceratech Ltd-$** (504879) ⚡  
+**Shivalik Bimetal Controls Ltd.** (SBCL) · *Industrial Products* ⚡  
 
-
-**Rose Merc Ltd** (512115)  
-Gujarat Narmada Valley Fertilizers & Chemicals received ESG rating from ESG Risk Assessments & Insights Limited
-
-**Shivalik Bimetal Controls Ltd** (513097) ⚡  
-
-
-**Xtglobal Infotech Ltd** (531225)  
-CRISIL assigns WeWork India Management Limited a rating of CRISIL A+/STABLE/CRISIL A1.
 
 </details>
 
 ---
 ### 👔 Management Changes
 
-Here are the management change bullets for each company:
+• **Western Ministil Ltd (504998)** — Independent Director Paras Chand Jain has resigned from the board.
+📊 **Impact:** Negative — losing a board watchdog means less oversight, which is usually a small warning sign for a company's governance health.
+👀 **Watch:** Whether the company appoints a replacement Independent Director within the SEBI-mandated timeframe to restore board composition.
 
 ---
 
-- **Western Ministil Ltd (504998)** — Independent Director Paras Chand Jain has resigned from the board.
-📊 **Impact:** Negative — Losing an independent director means fewer experienced people watching over the company's decisions, which is a small red flag for how well the company is being supervised.
-👀 **Watch:** Whether the company appoints a replacement independent director within the SEBI-mandated timeline to maintain minimum board composition.
+• **SJVN Limited (SJVN)** — An Independent Director has ceased to hold office on the board.
+📊 **Impact:** Neutral — routine board-level change at a large government-owned power company; unlikely to affect day-to-day business operations.
+👀 **Watch:** Whether SJVN fills the vacancy quickly, especially given its large ongoing hydro and renewable project pipeline where board approvals matter.
 
 ---
 
-- **SJVN Ltd (533206)** — An Independent Director has ceased to hold office at the company.
-📊 **Impact:** Neutral — For a large government-backed power company like SJVN, one director leaving rarely changes how the business runs day-to-day, especially if the board still meets minimum requirements.
-👀 **Watch:** Whether SJVN files a board composition update confirming it still meets the required number of independent directors under SEBI rules.
+• **Ind Agiv Commerce Ltd (517077)** — Multiple directors have resigned from the company simultaneously.
+📊 **Impact:** Negative — when several directors leave at the same time, it can be a red flag that something is wrong inside the company, like disagreements or financial trouble.
+👀 **Watch:** Whether the company files an explanation for the mass resignation and whether promoters step in to stabilise the board.
 
 ---
 
-- **Ind Agiv Commerce Ltd (517077)** — Multiple directors have resigned from the company simultaneously.
-📊 **Impact:** Negative — When more than one director quits at the same time, it can signal internal disagreements or serious problems inside the company that the public doesn't yet know about.
-👀 **Watch:** Whether the company discloses the reasons behind the multiple resignations and how quickly it reconstitutes the board to a functioning size.
+• **JD Cables Ltd (544524)** — The company has informed BSE that one of its directors has been appointed to the board of another company.
+📊 **Impact:** Neutral — this is a routine disclosure required by law and does not change anything about JD Cables' own business or finances.
+👀 **Watch:** Whether this director's outside commitment starts taking time away from JD Cables, particularly if the company is in a growth phase.
 
 ---
 
-- **JD Cables Ltd (544524)** — The company has intimated BSE about the appointment of one of its directors to the board of another company.
-📊 **Impact:** Neutral — Routine compliance filing with no business consequence; it simply means a director now sits on an additional board elsewhere.
-👀 **Watch:** Whether this director's time and attention across multiple boards creates any conflict of interest that gets flagged in future board meeting disclosures.
+• **Encash Entertainment Ltd (538684)** — The board will meet on 20 March 2026 to consider the appointment of Ms. Sungandha Narayan Jagtap as Additional Independent Women Director.
+📊 **Impact:** Neutral to mildly positive — adding a woman independent director improves the company's compliance with SEBI gender diversity rules, which is good for governance but does not affect revenues.
+👀 **Watch:** Whether her appointment is formally confirmed at the 20 March board meeting and her background in the entertainment or media sector.
 
 ---
 
-- **Steelco Gujarat Ltd (500399)** — The board meeting outcome was filed, but the document extract references Apis India Ltd appointing Mr. Vaibhav Mishra as AGM-Sales — this headline does not match the actual company filing.
-📊 **Impact:** Neutral — The filing appears to be a data mismatch between the headline and the actual document; no material news is confirmed for Steelco Gujarat specifically.
-👀 **Watch:** Whether Steelco Gujarat files a corrected or separate announcement clarifying the actual outcome of their March 12, 2026 board meeting.
+• **Apis India Ltd (506166)** — Mr. Vaibhav Mishra has been appointed as AGM-Sales for Non-GT & B2C Channel, joining as a Senior Management Personnel.
+📊 **Impact:** Neutral to mildly positive — bringing in a dedicated sales head for the consumer (B2C) channel suggests the company wants to push retail sales harder, which could boost revenues if executed well.
+👀 **Watch:** Whether Apis India's B2C and non-general trade sales numbers show improvement in the next one or two quarterly results.
 
 ---
 
-- **Diligent Media Corporation Ltd / DNA Media (540789)** — Mr. Chitresh Sehgal has resigned as Chief Executive Officer of Diligent Media Corporation Ltd. effective March 12, 2026.
-📊 **Impact:** Negative — The CEO is the top person running a company, so when the CEO suddenly leaves a media company that is already struggling, it creates uncertainty about who will steer the ship and what the strategy will be.
-👀 **Watch:** Who is named as the next CEO and whether the board has an internal succession plan ready or will begin an external search.
-
----
-
-- **JNK India Ltd (544167)** — The headline references Suryoday Small Finance Bank appointing Mr. Sunil Satyapal Gulati and Mr. Alok Sethi as Additional Independent Directors effective March 12, 2026 — but this filing was submitted under JNK India Ltd's BSE scrip code 544167, indicating a data m
+• **Sadhana Nitrochem Ltd (SADHNANIQ)** — The document is actually an outcome of a Rights Issue Committee meeting regarding allotment of equity shares under a Rights Issue; the CEO resignation headline refers to a different entity (Diligent Media Corporation).
+📊 **Impact:** Neutral — the filing headline appears mismatched with the document content; the Rights Issue allotment is a separate event and no confirmed CEO change at Sadhana Nitrochem itself is established by this document.
+👀 **Watch:** Confirmation of the actual Rights Issue allotment details and whether the fresh equity dilutes existing shareholders' ownership
 
 <details>
-<summary>All 23 announcements</summary>
+<summary>All 27 announcements</summary>
+
+##### Large Cap
+**CARE Ratings Limited** (CARERATING) · *Capital Markets*  
+Vishal Mega Mart Limited has announced a change in senior management personnel.
+
+**Central Bank of India** (CENTRALBK) · *Banks*  
+Re-appointment of N Gopalaratnam as Whole-time Director and Chairman, and appointment of Anurag Mishra as Director approved by shareholders.
+
+**DCM Shriram Limited** (DCMSHRIRAM) · *Diversified*  
+JNK India appointed interim Chief Financial Officer effective March 12, 2026
+
+**IndiaMART InterMESH Limited** (INDIAMART) · *Retailing*  
+Non-Executive Independent Director Mr. Pankaj Inderchand Jain (DIN: 00173513) passed away on March 12, 2026
+
+**Indo Count Industries Ltd** (ICIL) · *Textiles & Apparels*  
+Dolphin Offshore Enterprises appointed Mr. Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director.
+
+**Motherson Sumi Wiring India Limited** (MSUMI) · *Auto Components*  
+Mr. Akash Bararia appointed as Head - Consumer Finance effective March 12, 2026
+
+**Neuland Laboratories Limited.** (NEULANDLAB) · *Pharmaceuticals & Biotechnology*  
+Dolphin Offshore Enterprises appointed Mr. Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director.
+
+**Rail Vikas Nigam Limited** (RVNL) · *Construction*  
+Shri Baldev Singh appointed as Executive Director (Civil) effective March 12, 2026
+
+**SBI CARDS AND PAYMENT SERVICES LIMITED** (SBICARD) · *Finance*  
+Ministry of Ports, Shipping and Waterways issued order regarding Shipping Corporation of India Land and Assets Limited directorate change on March 12, 2026
+
+**SJVN LIMITED** (SJVN) · *Power*  
+
+
+**Shakti Pumps (India) Ltd.** (SHAKTIPUMP) · *Industrial Products*  
+Aditya Birla Sun Life AMC approved changes in senior management personnel.
+
+**Shriram Finance Limited** (SHRIRAMFIN) · *Finance*  
+Board approved appointment of Mr. Sunil Satyapal Gulati and Mr. Alok Sethi as Additional Independent Directors effective March 12, 2026.
 
 ##### Mid & Small Cap
-**Active Clothing Co Ltd** (541144)  
-Seshasayee Paper and Boards re-appoints N Gopalaratnam as Whole-time Director and Chairman, appoints Anurag Mishra as Director
+**Apis India Ltd** (506166)  
+Mr. Vaibhav Mishra appointed as AGM-Sales, Non-GT & B2C Channel, Senior Management Personnel
 
-**Deep Industries Ltd** (543288)  
-Deep Industries Ltd appointed an additional Non-Executive Independent Director.
+**Deep Industries Limited** (DEEPINDS) · *Oil*  
+Deep Industries appointed additional Non-Executive Independent Director
 
-**Deep Industries Ltd** (543288)  
-Atlantaa Ltd appointed Ms. Krupali Shah as Company Secretary & Compliance Officer effective March 12, 2026.
+**Deep Industries Limited** (DEEPINDS) · *Oil*  
+Deep Industries appointed additional Non-Executive Independent Director
 
-**Deep Industries Ltd** (543288)  
-Deep Industries Ltd appointed an additional Non-Executive Independent Director.
+**Emerald Finance Ltd** (538882)  
+Atlantaa Limited appointed Ms. Krupali Shah as Company Secretary and Compliance Officer
 
-**Deepak Fertilisers & Petrochemicals Corporation Ltd** (500645)  
-Greenply Industries appoints Senior Management Personnel approved through Board Circular Resolution
+**Encash Entertainment Ltd** (538684) ⚡  
+Appointment of Ms. Sungandha Narayan Jagtap as Additional Independent Women Director
 
-**Diligent Media Corporation Ltd** (540789)  
-Mr. Chitresh Sehgal resigned as Chief Executive Officer of Diligent Media Corporation Ltd.
+**Gala Precision Engineering Limited** (GALAPREC) · *Industrial Manufacturing*  
+Greenply Industries appointed Senior Management Personnel through Board Circular Resolution on March 11, 2026.
 
-**Gala Precision Engineering Ltd** (544244)  
-Appointment of Mr. Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director
-
-**Icodex Publishing Solutions Ltd** (544483)  
-Icodex Publishing Solutions announced resignation of CFO and a director, appointment of new Company Secretary, and change of registered office address
+**Gopal Snacks Limited** (GOPAL) · *Food Products*  
+Dolphin Offshore Enterprises appointed Mr. Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director.
 
 **Ind Agiv Commerce Ltd** (517077)  
 
 
-**Info Edge (India) Ltd** (532777)  
-HDB Financial Services appoints Akash Bararia as Head - Consumer Finance effective March 12, 2026
-
 **JD Cables Ltd** (544524)  
 
 
-**JNK India Ltd** (544167)  
-Suryoday Small Finance Bank Ltd appointed Mr. Sunil Satyapal Gulati and Mr. Alok Sethi as Additional Independent Directors effective March 12, 2026.
+**REGAAL RESOURCES LIMITED** (REGAAL) · *Agricultural Food & other Products*  
+Icodex Publishing Solutions Ltd announces resignation of CFO and Director, appointment of new Company Secretary, and change of registered office address.
 
-**JNK India Ltd** (544167)  
+**Sadhana Nitrochem Ltd.** (SADHNANIQ) · *Chemicals & Petrochemicals*  
+Mr. Chitresh Sehgal resigned as Chief Executive Officer of Diligent Media Corporation Limited
+
+**Shiva Granito Export Ltd** (540072)  
+Mr. Satish Heda resigned as Independent Director of Shiva Granito Export Ltd.
+
+**WeWork India Management Limited** (WEWORK) · *Commercial Services & Supplies*  
 Mr. Anand Agarwal appointed as Interim Chief Financial Officer effective March 12, 2026.
 
-**Kotyark Industries Ltd** (544726)  
-Zee Media Corporation Ltd appoints senior management personnel
-
-**Power Finance Corporation Ltd** (532810)  
-Appointment of Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director
-
-**Regaal Resources Ltd** (544485)  
-Vishal Mega Mart disclosed a change in senior management personnel
-
-**SJVN Ltd** (533206)  
-
-
-**Sammaan Capital Ltd** (535789)  
-JNK India appointed Interim Chief Financial Officer effective March 12, 2026
-
-**Shelter Pharma Ltd** (543963) ⚡  
-Board approved changes in senior management personnel of the company.
-
-**Steelco Gujarat Ltd** (500399)  
-Apis India Ltd appoints Mr. Vaibhav Mishra as AGM-Sales, Non-GT & B2C Channel Senior Management Personnel.
-
 **Western Ministil Ltd** (504998)  
 
 
-**Western Ministil Ltd** (504998)  
-Dolphin Offshore Enterprises (India) Ltd board appointed Mr. Vinit Rameshchandra Mundra as Additional Non-Executive Independent Director
-
-**Zinema Media And Entertainment Ltd** (538579)  
-Rail Vikas Nigam Ltd appoints Shri Baldev Singh as Executive Director (Civil) effective March 12, 2026
+**Zee Media Corporation Ltd** (532794)  
+Zee Media Corporation appoints senior management personnel
 
 </details>
 
 ---
 ### 🏭 Operations & Capacity
 
-• **Chembond Material Technologies Ltd (530871)** — The company has filed an intimation to shareholders regarding the transfer of unclaimed dividend and equity shares to the Investor Education and Protection Fund (IEPF) Authority.
-📊 **Impact:** Neutral — This is a routine legal requirement that every listed company must follow; it simply means some shareholders forgot to claim their dividends, and that money is now being moved to a government fund. No effect on the business or stock price.
-👀 **Watch:** Whether any significant number of equity shares are being transferred to IEPF, as a large transfer could indicate poor shareholder engagement by the company over the years.
+• **KPI Green Energy (KPIGREEN)** — The company switched on 35 MWp of new solar capacity, bringing its total live (energised) capacity to 589 MWp out of a much larger 2.17 GWp pipeline it has already won.
+📊 **Impact:** Positive — Think of it like a restaurant that has booked 2,170 tables but so far only 589 are actually serving food; every new table that opens starts earning real money, so this is steady, visible progress toward full earnings potential.
+👀 **Watch:** The pace at which the remaining ~1,580 MWp gets energised over the next 4–6 quarters — delays here would push revenue recognition further out.
 
 ---
 
-• **ACME Solar Holdings Ltd (ACMESOLAR)** — ACME Solar commissioned the second phase of its Battery Energy Storage System (BESS) project in Rajasthan, adding 33.335 MW / 160.51 MWh of capacity out of a total planned 300 MW / 1,409.34 MWh project.
-📊 **Impact:** Positive — Think of this like a company opening a new section of its factory; ACME is steadily turning its big energy storage project from a plan on paper into a real, working asset that can earn money.
-👀 **Watch:** The pace at which the remaining ~267 MW / ~1,249 MWh of the total BESS capacity gets commissioned, as delays would push back revenue generation from this project.
+• **Landmark Cars (LANDMARK)** — The company opened a new Mahindra & Mahindra after-sales workshop in Hyderabad, expanding its service network in that city.
+📊 **Impact:** Neutral-to-Positive — Service and repairs (after-sales) are the most profitable part of a car dealership business, like how a printer company makes more money selling ink than printers, so each new workshop quietly adds to margins.
+👀 **Watch:** Whether Landmark announces similar network expansions in other high-growth cities like Bengaluru or Pune over the next two quarters, which would signal a deliberate scale-up strategy.
 
 ---
 
-• **Dolphin Offshore Enterprises (DOLPHIN)** — The company disclosed the outcome of a Board of Directors meeting held on March 12, 2026, but the document extract does not contain specific details of any decisions or numbers from that meeting.
-📊 **Impact:** Neutral — Without knowing what the board actually decided, there is nothing here that clearly helps or hurts the company right now; it is essentially an incomplete filing.
-👀 **Watch:** The full board meeting outcome disclosure on the BSE/NSE website to see if any material decisions — such as new contracts, fundraising, or management changes — were approved at this meeting.
+• **Natural Capsules Ltd. (NATCAPSUQ)** — The company's material subsidiary, Natural Biogenex Private Limited, entered into an agreement under SEBI Regulation 30(9); separately, ACME Solar commissioned the second phase of a 33.335 MW / 160.51 MWh Battery Energy Storage System project in Rajasthan *(note: the headline and document appear mismatched — the filing is from Natural Capsules, not ACME Solar).*
+📊 **Impact:** Neutral — The document extract is cut off and the headline does not match the filing content, making it impossible to assess real business impact; this appears to be a data tagging error rather than meaningful news for Natural Capsules shareholders.
+👀 **Watch:** A clarifying exchange filing from Natural Capsules explaining what agreement Natural Biogenex actually signed — the full text of this disclosure is missing and could matter depending on the deal size.
 
 ---
 
-**Sector Theme:** The ACME Solar announcement is part of a growing wave of energy storage projects coming online across India, as power companies race to store solar and wind energy for use when the sun isn't shining — a trend worth watching across the entire clean energy sector.
+• **Tata Technologies (TATATECH)** — The company held meetings with analysts and institutional investors on March 12, 2026, as required to be disclosed under SEBI listing rules; no new financial numbers or business updates were mentioned in the extract.
+📊 **Impact:** Neutral — This is a routine compliance filing that every listed company must submit after meeting fund managers; it tells you the meeting happened, not what was said, so it has no direct effect on the stock today.
+👀 **Watch:** Whether a post-meeting investor presentation or transcript is uploaded to the company website, which sometimes reveals management's thinking on deal pipelines or margin guidance.
+
+---
+
+**Sector Theme:** The renewable energy space continues its slow-but-steady capacity commissioning grind — KPI Green's update is a reminder that in this sector, the gap between *orders won* and *capacity actually generating revenue* is wide, and that gap is the single biggest execution risk to track across all clean energy stocks right now.
 
 <details>
-<summary>All 3 announcements</summary>
+<summary>All 4 announcements</summary>
+
+##### Large Cap
+**KPI Green Energy Limited** (KPIGREEN) · *Power*  
+KPI Green Energy energised 35 MWp to reach 589 MWp energised capacity out of 2.17 GWp IPP portfolio
+
+**Tata Technologies Limited** (TATATECH) · *IT - Services*  
+Avenue Supermarts opened 2 new stores in Pune and Andhra Pradesh, bringing total store count to 463
 
 ##### Mid & Small Cap
-**ACME Solar Holdings Ltd** (544283)  
-ACME Solar Holdings commissions second phase of 33.335 MW/160.51 MWh Battery Energy Storage System project in Rajasthan.
+**LANDMARK CARS LIMITED** (LANDMARK) · *Automobiles*  
+Landmark Cars enhanced its Hyderabad aftersales network with a new Mahindra & Mahindra workshop
 
-**Chembond Material Technologies Ltd-$** (530871)  
-Landmark Cars enhances its Hyderabad aftersales network with a new Mahindra & Mahindra workshop
-
-**Dolphin Offshore Enterprises (India) Ltd-$** (522261)  
-Infosys announces expansion of Mohali development center with a new 350,000-sq. ft. integrated development campus
+**Natural Capsules Ltd.** (NATCAPSUQ) · *Pharmaceuticals & Biotechnology*  
+ACME Solar Holdings commissioned second phase of 33.335 MW/160.51 MWh Battery Energy Storage System project in Rajasthan
 
 </details>
 
 ---
 ### 📑 Investor Presentations
 
-I don't have access to the actual documents or filings attached to these announcements — I can only see the headlines, not the contents of the investor presentations themselves.
+I don't have access to the actual content of these investor presentation documents — I can only see the headline/subject lines of the announcements, not the PDFs or attached files themselves.
 
-Since the rule is **"extract actual numbers from the document — do not guess,"** I cannot fabricate revenue figures, order sizes, margins, or growth metrics that I haven't actually read.
+Since the rule requires me to **extract actual numbers from the document** (not guess), I cannot fabricate ₹ values, order sizes, or percentages that I haven't read. Doing so would be misleading to a retail investor making real financial decisions.
 
 ---
 
 **What I can do instead — pick one option:**
 
 **Option A — Paste the content**
-Share the text/key data points from each presentation (even bullet points or slides summaries), and I'll immediately write the briefing with real numbers.
+Copy-paste the key text or data points from each investor presentation into this chat, and I will immediately write the properly sourced, number-backed bullets for all four companies.
 
-**Option B — I write with explicit caveats**
-I write the bullets using only what the *headline itself* tells us, and flag Line 1 as *"presentation released; specific numbers not yet reviewed"* — fully honest and still useful as a filing tracker.
+**Option B — Describe what you have**
+Tell me the key highlights from each presentation (revenue, order book, margins, guidance, etc.) and I'll format them correctly.
 
-**Option C — Template with placeholders**
-I write the full structure with `[INSERT: revenue figure]`, `[INSERT: order book size]` etc., so you or your team can fill in numbers quickly.
+**Option C — Write placeholder bullets**
+I can write the bullets in the correct *format* with **[INSERT NUMBER]** placeholders clearly marked, so your team can fill in the real figures before publishing. This is safe for a template workflow.
 
 ---
 
-**Why this matters for your readers:**
-A retail investor briefing with invented numbers is worse than no briefing — it can lead to real financial decisions based on fiction. The honest path protects your credibility.
-
-Which option works for you?
+Which would you prefer? I want to make sure a retail investor reading this briefing gets **accurate information**, not invented numbers.
 
 <details>
 <summary>All 4 announcements</summary>
 
+##### Large Cap
+**Apollo Micro Systems Limited** (APOLLO) · *Aerospace & Defense*  
+
+
+**Sona BLW Precision Forgings Limited** (SONACOMS) · *Auto Components*  
+
+
 ##### Mid & Small Cap
-**Apollo Micro Systems Ltd** (540879)  
+**Gala Precision Engineering Limited** (GALAPREC) · *Industrial Manufacturing*  
 
 
-**Gala Precision Engineering Ltd** (544244)  
-
-
-**Gujarat Apollo Industries Ltd** (522217)  
-
-
-**Sona BLW Precision Forgings Ltd** (543300)  
+**Gujarat Apollo Industries Ltd.** (GUJAPOLLO) · *Industrial Manufacturing*  
 
 
 </details>
@@ -1206,324 +1178,299 @@ Which option works for you?
 ---
 ### 📅 Upcoming Board Meetings
 
-• **Krishival Foods Ltd (KRISHIVAL | 544416)** — The board will meet on 17th March 2026 to decide whether to raise money by taking on debt or issuing new shares.
-📊 **Impact:** Positive or Negative depending on outcome — raising money can help the company grow, but issuing new shares means existing investors own a smaller slice of the pie; debt means interest costs go up.
-👀 **Watch:** Whether the company chooses debt or equity, and the exact amount being raised when the board decision is announced on 17th March.
+- **Real Touch Finance Ltd (538611)** — The board will meet on March 19, 2026 to decide whether to pay an interim dividend to shareholders.
+📊 **Impact:** Positive — If the dividend is approved, shareholders will receive a cash payout, which usually makes investors happy and can nudge the stock price up slightly.
+👀 **Watch:** Whether the board actually approves the dividend on March 19 and, if so, the exact ₹ per share amount declared.
 
 ---
 
-• **Associated Alcohols & Breweries Ltd (ASALCBR | 507526)** — The board will meet on 19th March 2026 to consider declaring an interim dividend for shareholders.
-📊 **Impact:** Positive — a dividend is like the company handing some of its profits directly back to you as a shareholder, meaning it has enough spare cash to reward investors.
-👀 **Watch:** The exact dividend amount per share announced on 19th March, and whether it is higher or lower than the last interim dividend paid.
+- **Krishival Foods Limited (KRISHIVAL)** — The board met on March 12, 2026 and considered raising fresh money through debt, debentures, or by issuing new equity shares (no specific amount disclosed in the extract).
+📊 **Impact:** Neutral to mildly cautious — Raising money through new shares can dilute existing shareholders (meaning your slice of the company gets smaller), while debt means the company takes on loans; the actual impact depends on the amount and purpose, which are not yet revealed.
+👀 **Watch:** The exact amount being raised and whether it is through new shares (dilution risk) or debt, expected to be clarified in the full board outcome.
 
 ---
 
-• **Five-Star Business Finance Ltd (FIVESTAR | 543663)** — The board will meet on 19th March 2026 to consider discontinuing a line of business.
-📊 **Impact:** Negative signal to watch carefully — shutting down part of a business usually means that segment was losing money or not working, which could reduce future earnings.
-👀 **Watch:** Which specific business or product line is being discontinued and whether management gives a clear reason or a restructuring plan on 19th March.
+- **Associated Alcohols & Breweries Ltd (ASALCBR)** — The board met on March 12, 2026 and considered setting limits for issuing Non-Convertible Debentures (NCDs) via private placement, though no specific ₹ amount is mentioned in the extract.
+📊 **Impact:** Neutral — NCDs are essentially a way for the company to borrow money from select investors; this is a routine treasury exercise and does not immediately change how the business performs day-to-day.
+👀 **Watch:** The borrowing limit (₹ amount) that gets approved, since a very large limit relative to the company's size could signal aggressive expansion — or a cash crunch.
 
 ---
 
-• **Milestone Furniture Ltd (541337)** — The board will meet on 16th March 2026 (not 20th March as headlined) to consider general business matters, with no specific agenda disclosed.
-📊 **Impact:** Neutral — routine compliance filing, no effect on stock; there is no specific announcement of dividends, fundraising, or major decisions that would move the share price.
-👀 **Watch:** Whether any surprise decision — such as a fundraise, acquisition, or management change — emerges from the meeting outcome filed after 16th March.
+- **Five-Star Business Finance Ltd (FIVESTAR)** — The board will meet on March 19, 2026 to consider the **discontinuation of a business**, though no financial details or specifics about which business are provided in the extract.
+📊 **Impact:** Negative flag — When a company talks about shutting down part of its business, it can mean that segment is losing money or is no longer viable, which worries investors until full details are out.
+👀 **Watch:** Exactly which business segment is being discontinued and whether it is a major revenue contributor or a small non-core unit — that single detail will determine if this is a big deal or a cleanup exercise.
 
 ---
 
-• **Hemang Resources Ltd (531178)** — The board will meet on 17th March 2026 to approve limits for issuing Non-Convertible Debentures (NCDs) through private placement, though the exact rupee amount has not been disclosed in the filing.
-📊 **Impact:** Neutral to mildly negative — issuing NCDs means the company is borrowing money from select investors at a fixed interest rate, which increases its debt burden and future interest payments.
-👀 **Watch:** The total NCD issuance limit (in ₹ crore) and the interest rate at which these debentures will be offered, once the board outcome is filed on 17th March.
-
----
-
-• **Nicco UCO Alliance Credit Ltd (523209)** — The board will meet on 19th March 2026, but no specific agenda has been disclosed in the filing beyond a routine prior intimation.
-📊 **Impact:** Neutral — routine compliance filing, no effect on stock; without a stated agenda, there is nothing concrete that would move the share price right now.
-👀 **Watch:** The actual agenda or decision that gets published in the board outcome filing after 19th March.
-
----
-
-• **Kati Patang Lifestyle Ltd (KATIPATANG | 531126)** — The
+**Sector Theme:** Two companies (Krishival Foods and Associated Alcohols) are actively tapping capital markets for fresh funds on the same day, suggesting mid-sized firms are using the current window to shore up their balance sheets before conditions change.
 
 <details>
-<summary>All 7 announcements</summary>
+<summary>All 4 announcements</summary>
+
+##### Large Cap
+**Five-Star Business Finance Ltd.** (FIVESTAR) · *Finance* ⚡  
+Board meeting scheduled for March 19, 2026 to consider discontinuation of business
 
 ##### Mid & Small Cap
-**Associated Alcohols & Breweries Ltd** (507526)  
-Board meeting scheduled for 19th March 2026 to consider interim dividend declaration
+**Associated Alcohols & Breweries Ltd** (ASALCBR) · *Beverages*  
+Board meeting scheduled on March 17, 2026 to consider limits for issuance of Non-Convertible Debentures through private placement
 
-**Five-Star Business Finance Ltd** (543663) ⚡  
-Board meeting scheduled on March 19, 2026 to consider discontinuation of business
+**KRISHIVAL FOODS LIMITED** (KRISHIVAL) · *Food Products*  
+Board meeting scheduled on March 17, 2026 to consider fund raising through debt, debentures, or equity shares
 
-**Hemang Resources Ltd** (531178)  
-Board meeting scheduled on March 17, 2026 to consider and approve limits for issuance of Non-Convertible Debentures through Private Placement
-
-**Kati Patang Lifestyle Ltd** (531126)  
-Board meeting scheduled on March 16, 2026
-
-**Krishival Foods Ltd** (544416)  
-Board meeting scheduled for 17th March 2026 to consider fund raising by debt or equity
-
-**Milestone Furniture Ltd** (541337) ⚡  
-Board meeting scheduled on March 20, 2026 to consider general business of the company
-
-**Nicco Uco Alliance Credit Ltd** (523209) ⚡  
-Board meeting scheduled on March 19, 2026
+**Real Touch Finance Ltd** (538611) ⚡  
+Board meeting scheduled on March 19, 2026 to consider interim dividend declaration
 
 </details>
 
 ---
 ### 💳 Debt & Finance
 
-* **Clean Max Enviro Energy Solutions Ltd (CLEANMAX)** — The company has announced its intent to exercise the right of early redemption of its listed debentures, with a record date set for this process.
-📊 **Impact:** Neutral-to-Positive — The company is paying back its bondholders early, which means it is confident enough in its cash position to retire debt ahead of schedule; this reduces its interest burden going forward.
-👀 **Watch:** The exact redemption price and date — early redemptions sometimes carry a small premium, which affects the final cost of retiring this debt.
+• **KDDL Ltd (KDDL)** — The filing is an intimation of scheduled analyst/institutional investor meetings, not about debenture redemption despite the headline suggesting otherwise.
+📊 **Impact:** Neutral — routine compliance filing, no effect on stock. The headline is misleading; the actual document is just about investor meeting schedules.
+👀 **Watch:** What comes out of these analyst meetings — any guidance on earnings or expansion plans shared during these discussions.
 
 ---
 
-* **Axis Solutions Ltd (511144)** — The company executed a Deed of Hypothecation with HSBC Bank for a working capital facility of ₹20 crore, pledging business assets as security.
-📊 **Impact:** Neutral — The company is simply borrowing ₹20 crore for day-to-day business operations by pledging its assets; this is a routine funding move and does not signal any major growth or distress on its own.
-👀 **Watch:** Whether the company's quarterly revenue grows meaningfully after drawing down this facility, which would confirm the borrowed money is being put to productive use.
+• **Axis Solutions Ltd (511144)** — The company has executed a Deed of Hypothecation with HSBC to secure a working capital facility of ₹20 crores to fund business expansion.
+📊 **Impact:** Positive — the company has borrowed money from a reputable bank to fund day-to-day operations and growth, which means it has access to credit and plans to scale up.
+👀 **Watch:** Whether the company's revenue actually grows in the next 1–2 quarters as a result of deploying this ₹20 crore facility.
 
 ---
 
-* **Kalpataru Ltd (KALPATARU)** — Kalpataru Retail Ventures Private Limited, a wholly-owned subsidiary, has issued a corporate guarantee to secure a Rupee Term Loan availed by Agile Real Estate Dev Private Limited, another subsidiary.
-📊 **Impact:** Neutral-to-Negative — The parent company is essentially co-signing a loan for one of its own smaller companies; if that smaller company cannot repay the loan, the guarantee means the parent is on the hook for the money.
-👀 **Watch:** The size of the loan being guaranteed and the financial health of Agile Real Estate Dev Private Limited, as any default there would directly hurt Kalpataru's balance sheet.
+• **Adani Energy Solutions Ltd (ADANIENSOL)** — Its wholly-owned subsidiary ATSOL Global IFSC has issued new US$500 million Senior Secured Notes due 2041 to refinance existing US$500 million notes that were due in July 2026.
+📊 **Impact:** Positive — the company has successfully pushed a large debt repayment deadline from 2026 all the way to 2041, meaning there is no immediate pressure to arrange cash to repay this loan anytime soon.
+👀 **Watch:** The interest rate on the new 2041 notes compared to the old ones — a higher rate would mean the refinancing costs the company more money every year.
 
 ---
 
-* **Sical Logistics Ltd (SICALLOG)** — Sical Logistics allotted fresh equity shares to existing shareholders on a rights basis, as disclosed in a Regulation 30 filing dated March 12, 2026.
-📊 **Impact:** Neutral — The company is issuing new shares to raise money from its existing shareholders; this brings in fresh cash but also means each existing share now owns a slightly smaller piece of the company.
-👀 **Watch:** The price at which the rights shares were issued versus the current market price — a steep discount would put pressure on the stock.
+• **Tata Consumer Products Ltd (TATACONSUM)** — The company's official X (formerly Twitter) account (@tataconsumer) was compromised, and this filing is a follow-up update to an earlier intimation dated March 4, 2026.
+📊 **Impact:** Neutral — a social media account getting hacked is embarrassing but does not affect the company's factories, products, or earnings in any meaningful way.
+👀 **Watch:** Whether any false or misleading posts made from the hacked account during the breach period caused any reputational damage that needs formal clarification.
 
 ---
 
-* **Laurus Labs Ltd (LAURUSLABS)** — The board approved the appointment of new Statutory Auditors for the company, filed under Regulation 30 of SEBI Listing Regulations.
-📊 **Impact:** Neutral — Changing or appointing auditors is a standard corporate governance requirement and does not directly affect the company's business or earnings.
-👀 **Watch:** The identity and reputation of the newly appointed audit firm — a switch to a lesser-known auditor from a reputed one can sometimes raise questions among investors.
+• **Motherson Sumi Wiring India Ltd (MSUMI)** — The filing is an intimation of upcoming investor meetings by the company's management, not related to Novelis or Hindalco despite the headline.
+📊 **Impact:** Neutral — routine compliance filing, no effect on stock. The headline is completely unrelated to the actual document content.
+👀 **Watch:** Any update or communication that emerges after these investor meetings, especially regarding order pipelines from auto OEM customers.
 
 ---
 
-* **Motherson Sumi Wiring India Ltd (MSUMI)** — The company's management announced plans to meet and hold discussions with investors, filed as an investor meeting intimation under Regulation 30.
-📊 **Impact:** Neutral — This is simply the company's leadership meeting with investors or analysts to talk about the business; no new deal or financial decision has been announced yet.
-👀 **Watch:** Any guidance or commentary on
+• **Tata Consumer Products Ltd (TATACONSUM)** — The filing is a public notice regarding loss of share certificates by certain shareholders, not related to HDB Financial Services NCDs as stated in the headline.
+📊 **Impact:** Neutral — routine compliance filing, no effect on stock. Lost share certificate notices are standard administrative matters with no financial consequence for the company.
+👀 **Watch:** Nothing material to track here; this is a clerical process under SEBI rules.
+
+---
+
+• **Elfin Agro India Ltd (544724)** — No document extract was provided to verify the headline claiming Adani Ports completed a cash tender
 
 <details>
 <summary>All 8 announcements</summary>
 
+##### Large Cap
+**Adani Energy Solutions Limited** (ADANIENSOL) · *Power*  
+Kalpataru's wholly-owned subsidiary issued corporate guarantee to secure subsidiary's rupee term loan facility
+
+**Motherson Sumi Wiring India Limited** (MSUMI) · *Auto Components*  
+Novelis Inc., a wholly owned subsidiary of Hindalco Industries, announced a $225 million municipal bond offering
+
+**TATA CONSUMER PRODUCTS LIMITED** (TATACONSUM) · *Agricultural Food & other Products*  
+Adani Energy Solutions' subsidiary ATSOL Global IFSC issued $500 million Senior Secured Notes due 2041 to refinance existing notes
+
+**TATA CONSUMER PRODUCTS LIMITED** (TATACONSUM) · *Agricultural Food & other Products*  
+HDB Financial Services allotted secured redeemable NCDs on private placement basis.
+
 ##### Mid & Small Cap
 **Axis Solutions Ltd** (511144)  
-Adani Energy Solutions' subsidiary ATSOL Global IFSC Limited issues $500 million Senior Secured Notes due 2041 to refinance existing notes due July 2026.
+Axis Solutions Limited executes Deed of Hypothecation with HSBC for Working Capital Facility of ₹20 crores to expand operations
 
-**Clean Max Enviro Energy Solutions Ltd** (544717)  
-Company intimated intent of exercising right of early redemption of debentures
+**E-Land Apparel Ltd** (532820)  
+Fratelli Vineyards board approved issuance of Rs. 72.50 crore corporate guarantee in favour of SVC Co-op. Bank Ltd.
 
-**Kalpataru Ltd** (544423)  
-Steelco Gujarat Ltd modifies interest payment clause under existing terms of NCDs and creates security arrangements.
+**Elfin Agro India Ltd** (544724) ⚡  
+Adani Ports completed cash tender offer to repurchase up to US$345.1 million in principal amount of debt securities
 
-**Laurus Labs Ltd** (540222)  
-Board approved issuance of corporate guarantee of ₹59 crore in favour of HDFC Bank.
-
-**Motherson Sumi Wiring India Ltd** (543498)  
-Novelis Inc., a wholly owned subsidiary of Hindalco Industries, announced a $225 million municipal bond offering.
-
-**Rashi Peripherals Ltd** (544119)  
-HDB Financial Services allotted Secured Redeemable Non-Convertible Debentures on private placement basis
-
-**SecUR Credentials Ltd** (543625)  
-Adani Ports announced final results of cash tender offer for debt securities
-
-**Sical Logistics Ltd** (520086)  
-Axis Solutions Ltd executed a Rs. 20 crore working capital facility with HSBC through a Deed of Hypothecation for business expansion.
+**KDDL Ltd** (KDDL) · *Consumer Durables*  
+Clean Max Enviro Energy Solutions Limited exercising early redemption right on debentures
 
 </details>
 
 ---
 ### 🔁 Warrant Conversions
 
-##### Mid & Small Cap
-**Aurum PropTech Ltd** (539289)  
-Retaggio Industries Ltd board allotted 3,02,000 equity shares upon conversion of convertible warrants
+##### Large Cap
+**Afcons Infrastructure Limited** (AFCONS) · *Construction*  
+Active Clothing Co Ltd issued 2,00,000 convertible share warrants at Rs 115 per share on preferential basis
 
-**Balrampur Chini Mills Ltd** (500038)  
-Board approved allotment of 665,000 equity shares upon exercise of rights attached to 665,000 warrants.
-
-**Diamond Power Infrastructure Ltd-$** (522163) ⚡  
-Board approved allotment of 60 million convertible warrants on preferential basis
-
-**Piccadily Agro Industries Ltd** (530305)  
-Allotment of equity shares pursuant to conversion of convertible warrants.
-
-**Samvardhana Motherson International Ltd** (517334) ⚡  
+**Samvardhana Motherson International Limited** (MOTHERSON) · *Auto Components* ⚡  
 Allotment of 11,00,000 equity shares pursuant to conversion of 11,00,000 warrants
 
-**Shakti Pumps India Ltd-$** (531431) ⚡  
-Retaggio Industries allots 3,02,000 equity shares upon conversion of 3,02,000 convertible warrants
+##### Mid & Small Cap
+**Active Clothing Co Ltd** (541144)  
+Active Clothing Co Ltd receives in-principle approval for preferential issue of share warrants to promoters and non-promoters.
+
+**Dolphin Offshore Enterprises (India) ltd.** (DOLPHIN) · *Oil*  
+Retaggio Industries allotted 3,02,000 equity shares from conversion of convertible warrants on preferential basis.
+
+**Icodex Publishing Solutions Ltd** (544483)  
+MFS Intercorp Ltd has allotted 60,00,000 convertible warrants on a preferential basis.
+
+**JNK India Limited** (JNKINDIA) · *Industrial Manufacturing*  
+Ratnaveer Precision Engineering allotted 1,24,772 equity shares from warrant conversions in board meeting on March 12, 2026.
+
+**Piccadily Agro Industries ltd.** (PICCADIL) · *Beverages*  
+Baid Finserv allotted equity shares following exercise and conversion of convertible warrants.
+
+**Retaggio Industries Ltd** (544391)  
+Retaggio Industries allots 3,02,000 equity shares upon conversion of convertible warrants.
+
+**Sanchay Finvest Ltd** (511563)  
+SPML Infra allotted 665,000 equity shares upon exercise of rights attached to 665,000 warrants.
 
 **Titan Intech Ltd** (521005)  
-Titan Intech Ltd board approved allotment of 1.30 crore equity shares upon conversion of convertible warrants to Pinnameneni Estates Private Limited
-
----
-### 🏆 Awards & Recognition
-
-##### Mid & Small Cap
-**Hariom Pipe Industries Ltd** (543517)  
-Birla Corporation Ltd received an ESG score of 55 from ESG Risk Assessments and Insights Limited.
+Titan Intech approved allotment of 1,30,00,000 equity shares to Pinnameneni Estates Private Limited from conversion of convertible warrants.
 
 ---
 ### 📝 Other Disclosures
 
+##### Large Cap
+**Blue Jet Healthcare Limited** (BLUEJET) · *Pharmaceuticals & Biotechnology*  
+Post-Offer Public Announcement submitted by Manager to the Offer in relation to P.M. Telelinnks Ltd
+
+**CESC Limited** (CESC) · *Power*  
+Sical Logistics Limited allots fully paid-up equity shares on rights basis
+
+**Housing &Urban Development Corporation Ltd.** (HUDCO) · *Finance*  
+Sigma Advanced Systems completed sale of 36.52% stake in Extrovis AG, Switzerland for USD 15 million (INR 137.61 crores).
+
+**IndusInd Bank Ltd.** (INDUSINDBK) · *Banks*  
+Shriram Overseas Investments Limited, wholly owned subsidiary, has submitted an application to RBI seeking approval for Primary Dealer business license.
+
+**Laurus Labs Limited** (LAURUSLABS) · *Pharmaceuticals & Biotechnology*  
+Board approved issuance of a corporate guarantee of ₹59 crore in favour of HDFC Bank.
+
+**Maruti Suzuki India  Ltd.** (MARUTI) · *Automobiles*  
+Emerald Finance Ltd has partnered with Parsavnath Advisors to offer an Early-Wage-Access program to employees.
+
+**RBL Bank Limited** (RBLBANK) · *Banks*  
+Power Finance Corporation is transferring its wholly-owned subsidiary NES Dharashiv Transmission Limited to another entity.
+
 ##### Mid & Small Cap
-**Afcons Infrastructure Ltd** (544280)  
-Kotyark Industries Ltd obtained final listing and trading approval for direct listing from NSE Emerge platform to BSE Mainboard.
+**Amforge Industries Ltd** (513117)  
+Zee Learn's subsidiary Liberium Global Resources witnessed developments in key client arrangements.
 
-**Apis India Ltd** (506166)  
-Kalpataru Retail Ventures Private Limited issues corporate guarantee for Rupee Term Loan facility of Agile Real Estate Dev Private Limited.
+**Dolphin Offshore Enterprises (India) ltd.** (DOLPHIN) · *Oil*  
+Power Finance Corporation informed about strike off and dissolution of its wholly-owned subsidiary Sakhigopal Integrated Power Company Limited.
 
-**Baid Finserv Ltd** (511724)  
-Company received substantial acquisition of shares disclosure under SAST regulations from IBM Finance and Investment Private Limited.
+**JNK India Limited** (JNKINDIA) · *Industrial Manufacturing*  
+Sigma Advanced Systems completed $15 million divestment of Extrovis AG stake to sharpen focus on aerospace and defence business.
 
-**Bil Vyapar Ltd** (500059)  
-Balrampur Chini Mills Ltd assigned an ESG rating of '56 - Adequate' by SEBI registered ESG Rating Provider ESGRisk.ai.
+**Seshasayee Paper & Boards Ltd.** (SESHAPAPER) · *Paper Forest & Jute Products*  
+Gopal Snacks Limited submitted business update under Regulation 30 of SEBI LODR Regulations.
 
-**CARE Ratings Ltd** (534804)  
-CARE Ratings' wholly-owned subsidiary CareEdge Global IFSC Limited received license from IFSCA to function as an ESG Rating and Data Product Provider
+**Sri Lotus Developers and Realty Limited** (LOTUSDEV) · *Realty*  
+Sri Lotus Developers and Realty Limited has incorporated a wholly owned subsidiary company named Sri Lotus Elegancia.
 
-**CESC Ltd** (500084)  
-CESC Ltd's subsidiary Purvah Green Power Private Limited incorporates new subsidiary companies.
+**Steelco Gujarat Ltd** (500399)  
+CESC Limited's subsidiary Purvah Green Power Private Limited incorporated
 
-**CG Power and Industrial Solutions Ltd** (500093)  
-Vaswani Industries received consent for conversion of C.G. Ispat Private Limited into Limited Liability Partnership
-
-**Filatex India Ltd-$** (526227)  
-Subsidiary Liberium Global Resources witnessed certain developments in its client arrangements
-
-**Galaxy Agrico Exports Ltd** (531911)  
-Company made an investment in another company and now holds majority stake in the entity.
-
-**Goa Carbon Ltd-$** (509567)  
-Board approved sale of buildings Q5 and Q6 at MIDC, Navi Mumbai
-
-**Kallam Textiles Ltd-$** (530201)  
-Genesis IBRC India Limited received in-principle approval from BSE for change of company name
-
-**Maruti Suzuki India Ltd** (532500)  
-Emerald Finance partnered with Parsavnath Advisors to offer Early-Wage-Access program to employees
-
-**Natural Capsules Ltd** (524654)  
-SPV Global Trading Ltd executes Share Purchase Agreement with Gravita India Limited for sale of equity
-
-**Rail Vikas Nigam Ltd** (542649)  
-Nectar Lifesciences enters into inter-corporate loan agreement with its wholly-owned subsidiary Avensis Exports Private Limited
-
-**Veranda Learning Solutions Ltd** (543514)  
-Veranda Learning Solutions' wholly-owned subsidiary transferred 100% of its shareholding
-
-**WeWork India Management Ltd** (544570)  
-Housing & Urban Development Corporation Ltd assigned an ESG Rating by ESG Risk Assessments and Insights Limited.
+**Symphony Limited** (SYMPHONY) · *Consumer Durables*  
+Genesis IBRC India Limited received in-principle approval from BSE for change in company name.
 
 
 ---
 
 <details>
-<summary>📎 Appendix — Routine Disclosures (86 items)</summary>
+<summary>📎 Appendix — Routine Disclosures (78 items)</summary>
 
-**🏛️ AGM / EGM / Postal Ballot (43)**
+**🏛️ AGM / EGM / Postal Ballot (44)**
 
 - Addi Industries Ltd-$ (507852) — 
 - Akme Fintrade (India) Ltd (544200) — 
-- Arvind Fashions Ltd (542484) — 
-- Arvind Ltd (500101) — 
-- Bajaj Housing Finance Ltd (544252) — 
-- Bang Overseas Ltd (532946) — 
+- Arvind Fashions Limited (ARVINDFASN) — 
+- Arvind Ltd. (ARVIND) — 
+- Bajaj Housing Finance Limited (BAJAJHFL) — 
+- Bang Overseas Ltd (BANG) — 
 - Disa India Ltd (500068) — 
 - Gala Global Products Ltd (539228) — 
 - Ghushine Fintrrade Ocean Ltd (539864) — 
-- HDB Financial Services Ltd (544429) — Zinema Media and Entertainment issues corrigendum to EGM notice removing C.R. Vasudevan from propose
 - Harish Textile Engineers Ltd (542682) — 
 - Harish Textile Engineers Ltd (542682) — 
 - Hem Holdings & Trading Ltd (505520) — 
-- IRM Energy Ltd (544004) — 
-- Indian Metals & Ferro Alloys Ltd (533047) — 
+- IRM ENERGY LIMITED (IRMENERGY) — 
+- Indian Metals & Ferro Alloys Limited (IMFA) — 
 - Josts Engineering Company Ltd (505750) — 
 - Josts Engineering Company Ltd (505750) — 
-- Jyoti CNC Automation Ltd (544081) — 
+- Jyoti CNC Automation Limited (JYOTICNC) — 
 - Kati Patang Lifestyle Ltd (531126) — 
 - Kings Infra Ventures Ltd (530215) — 
-- Landmark Property Development Company Ltd (533012) — 
-- Lokesh Machines Ltd (532740) — 
+- Landmark Property Development Company Ltd. (LPDC) — 
+- Lokesh Machines Limited (LOKESHMACH) — 
 - Pasupati Fincap Ltd (511734) — 
-- Poddar Pigments Ltd-$ (524570) — 
-- Quality Power Electrical Equipments Ltd (544367) — 
-- SG Finserve Ltd (539199) — 
-- SG Finserve Ltd (539199) — 
+- Poddar Pigments Ltd. (PODDARMENT) — 
+- QUALITY POWER ELECTRICAL EQUIPMENTS LIMITED (QPOWER) — 
+- SG FINSERVE LIMITED (SGFIN) — 
+- SG FINSERVE LIMITED (SGFIN) — 
 - SecUR Credentials Ltd (543625) — 
-- Seshasayee Paper and Boards Ltd (502450) — 
-- Seshasayee Paper and Boards Ltd (502450) — 
-- Seshasayee Paper and Boards Ltd (502450) — 
-- Styrenix Performance Materials Ltd (506222) — 
+- SecUR Credentials Ltd (543625) — E-Land Apparel board approved draft notice of postal ballot for seeking member approval
+- Seshasayee Paper & Boards Ltd. (SESHAPAPER) — 
+- Seshasayee Paper & Boards Ltd. (SESHAPAPER) — 
+- Seshasayee Paper & Boards Ltd. (SESHAPAPER) — 
+- Styrenix Performance Materials Limited (STYRENIX) — 
 - Superior Finlease Ltd (539835) — 
-- Tamilnadu Petroproducts Ltd (500777) — 
-- The Anup Engineering Ltd (542460) — 
-- Thomas Scott (India) Ltd (533941) — 
-- U. Y. Fincorp Ltd (530579) — 
-- United Spirits Ltd (532432) — 
-- United Spirits Ltd (532432) — 
-- Vardhman Textiles Ltd (502986) — 
-- Vishnu Chemicals Ltd (516072) — 
+- THOMAS SCOTT (INDIA) LIMITED (THOMASCOTT) — 
+- Tamilnadu Petroproducts Ltd (TNPETRO) — 
+- The Anup Engineering Ltd (ANUP) — 
+- U. Y. FINCORP LIMITED (UYFINCORP) — 
+- United Spirits Limited (UNITDSPR) — 
+- United Spirits Limited (UNITDSPR) — 
+- Vardhman Textiles Limted (VTL) — 
+- Vishnu Chemicals Limited (VISHNU) — 
 - Vruddhi Engineering Works Ltd (544157) — 
 - Zenotech Laboratories Ltd (532039) — 
+- Zinema Media And Entertainment Ltd (538579) — Corrigendum to EGM notice removing C.R. Vasudevan from list of proposed allottees for preferential i
 
 **👤 Insider / SAST (16)**
 
-- Apcotex Industries Ltd (523694) — 
-- Avanti Feeds Ltd-$ (512573) — 
+- Apcotex Industries Limited (APCOTEXIND) — 
+- Avanti Feeds ltd. (AVANTIFEED) — 
 - Deepak Spinners Ltd-$ (514030) — 
 - Deepak Spinners Ltd-$ (514030) — 
-- Global Surfaces Ltd (543829) — 
-- Goldiam International Ltd (526729) — 
-- Goldiam International Ltd (526729) — 
+- Global Surfaces Limited (GSLSU) — 
+- Goldiam International Ltd. (GOLDIAM) — 
+- Goldiam International Ltd. (GOLDIAM) — 
 - Jupiter Infomedia Ltd (534623) — 
 - Longview Tea Company Ltd (526568) — 
 - Longview Tea Company Ltd (526568) — 
 - Mangalam Industrial Finance Ltd (537800) — 
-- Ruchi Infrastructure Ltd (509020) — 
-- Sanghi Industries Ltd (526521) — 
-- Senores Pharmaceuticals Ltd (544319) — 
+- Ruchi Infrastructure Ltd (RUCHINFRA) — 
+- SENORES PHARMACEUTICALS LIMITED (SENORES) — 
+- Sanghi Industries Ltd. (SANGHIIND) — 
 - Suryo Foods & Industries Ltd (519604) — 
 - Swojas Foods Ltd (530217) — 
 
-**👥 Analyst / Investor Meets (27)**
+**👥 Analyst / Investor Meets (18)**
 
-- Adani Energy Solutions Ltd (539254) — Carraro India Limited scheduled an analyst and investor meeting at its Pune facilities on March 18, 
-- Amforge Industries Ltd (513117) — Management scheduled to meet with institutional investors and analysts
-- Asian Tea & Exports Ltd-$ (519532) — Company management will participate in the 11th Annual Valorem Conference on March 23, 2026 in Mumba
-- Bharti Airtel Ltd (532454) — CG Power scheduled investor and analyst calls for March 24, 26, and 27, 2026
-- Bharti Hexacom Ltd (544162) — INOX India scheduled investor and analyst meet on March 17, 2026
-- Biocon Ltd (532523) — Kotak Mahindra Bank scheduled analyst and institutional investor meeting in Mumbai on March 17, 2026
-- CG Power and Industrial Solutions Ltd (500093) — South West Pinnacle Exploration announced participation in investor conference
-- Ceigall India Ltd (544223) — CG Power scheduled investor and analyst calls for March 24, 26, and 27, 2026
-- Electrosteel Castings Ltd (500128) — Sansera Engineering to hold group investor and analyst meeting on 17th March 2026 at its plant in Ba
-- Emerald Finance Ltd (538882) — RBL Bank Ltd held one-on-one investor meeting with Incred AMC on March 12, 2026.
-- Ethos Ltd (543532) — Ethos Ltd scheduled upcoming analyst and institutional investor meetings
-- Gem Aromatics Ltd (544491) — INOX India scheduled investor and analyst meet
-- Gem Aromatics Ltd (544491) — Bharti Hexacom to participate in Jefferies Asia Forum and investor conferences in March 2026
-- INOX India Ltd (544046) — Bharti Airtel to participate in Jefferies Asia Forum and investor conferences in March 2026
-- INOX India Ltd (544046) — INOX India scheduled investor and analyst meet on March 17, 2026
-- Indegene Ltd (544172) — Dr. Lal PathLabs scheduled analyst and institutional investor meeting with Goldman Sachs on March 17
-- KPI Green Energy Ltd (542323) — Company scheduled analyst and institutional investor meetings
-- Kalpataru Ltd (544423) — AXIS Bank held analysts and institutional investors meet on March 12, 2026.
-- Natural Capsules Ltd (524654) — Ducon Infratechnologies held group investor meeting on March 12, 2026
-- Orient Bell Ltd-$ (530365) — Fredun Pharmaceuticals management met with analysts and institutional investors at Arihant Capital B
-- Poly Medicure Ltd (531768) — Poly Medicure Ltd scheduled an investor meet under Regulation 30 of SEBI LODR.
-- Sungold Media and Entertainment Ltd (541799) — Company scheduled meetings with institutional investors and analysts
-- Suyog Telematics Ltd (537259) — Suyog Telematics Ltd scheduled investor and analyst meet on March 18, 2026.
-- Tata Steel Ltd (500470) — JNK India Limited scheduled analyst and institutional investors meetings with the company.
-- Vaswani Industries Ltd (533576) — CG Power scheduled investor and analyst calls for March 24, 26, and 27, 2026
-- Western Ministil Ltd (504998) — Company scheduled earnings conference call for investors and analysts on March 17, 2026 for Q3 FY26 
-- Zee Learn Ltd (533287) — Management scheduled for non-deal roadshow in Singapore from March 23-25, 2026 to meet investors
+- 3B BlackBio Dx Ltd (532067) — DEE Development Engineers Limited organizing plant visit for investors and analysts at New Anjar Pla
+- Asian Tea & Exports Ltd-$ (519532) — South West Pinnacle Exploration is participating in an investor conference.
+- Aurum PropTech Limited (AURUM) — CEO Manish Gupta to meet with Fair Value Capital (India Insight Value Fund) on March 17, 2026
+- Biocon Ltd. (BIOCON) — Kotak Mahindra Bank scheduled analyst and institutional investor meeting in Mumbai on March 17, 2026
+- Clio Infotech Ltd (530839) — RBL Bank held investor meeting with Incred AMC
+- Deepak Fertilizers &Petrochemicals (DEEPAKFERT) — Sansera Engineering scheduled group meeting with investors and analysts on March 17, 2026 at company
+- Dolphin Offshore Enterprises (India) ltd. (DOLPHIN) — Gala Precision Engineering will participate in the 11th Annual Valorem Conference on March 23, 2026.
+- Goenka Business & Finance Ltd (538787) — Company officials scheduled to attend 11th Annual Valorem Conference for analysts and institutional 
+- Indian Railway Finance Corporation (IRFC) — Rajratan Global Wire Ltd management meeting with mutual funds and analysts on 12th March 2026
+- JK Lakshmi Cement Limited (JKLAKSHMI) — Carraro India scheduled analyst and investor meeting at Pune facilities on 18th March 2026
+- Kallam Textiles Ltd-$ (530201) — Cancellation of Arihant Capital Bharat Connect Conference scheduled for March 11, 2026 due to exigen
+- Multi Commodity Exchange of India Ltd (MCX) — Sagility Limited management will participate in investor conference on 18th March 2026
+- Purple Wave Infocom Ltd (544627) — Pidilite Industries scheduled analyst and institutional investor meeting on 19th March 2026
+- RBL Bank Limited (RBLBANK) — One-to-one investor meeting scheduled with Muddy Waters Capital on March 16, 2026
+- Raymond Realty Limited (RAYMONDREL) — JNK India scheduled analyst and institutional investors meeting
+- Suyog Telematics Limited (SUYOG) — SBI Cards scheduled investor and analyst meetings
+- Usha Martin Education & Solutions Limited (UMESLTD) — The Anup Engineering Ltd scheduled to conduct investor and analyst meetings.
+- ZEE LEARN LIMITED (ZEELEARN) — J.K. Cement management to conduct non-deal roadshow investor meetings in Singapore from March 23-25,
 
 </details>
 
 ---
-*Source: BSE India · Universe: 0 stocks (BSE Group A+B)*
+*Source: BSE India · Universe: 2005 stocks (BSE Group A+B)*

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "544167",
+    "symbol": "JNKINDIA",
+    "company": "JNK India Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Tata Steel disclosed update on show cause cum demand notice from authorities regarding earlier SCN dated June 27, 2025",
+    "raw_headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulation, 2015 we are enclosing herewith the Schedule of Analyst and Institutional Investors' Meeting(s) with the Company.",
+    "is_critical": false,
+    "attachment": "636a9ab3-de65-49ee-8600-146dd4663bcf.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "544167",
+    "symbol": "JNKINDIA",
+    "company": "JNK India Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Ratnaveer Precision Engineering allotted 1,24,772 equity shares from warrant conversions in board meeting on March 12, 2026.",
+    "raw_headline": "Outcome of Board Meeting relating to appointment of Interim Cheif Financial Officer of the Company wef 12.03.2026.",
+    "is_critical": false,
+    "attachment": "7de9cd93-b993-42ab-a650-4c0731612544.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "544167",
+    "symbol": "JNKINDIA",
+    "company": "JNK India Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Change in Management",
+    "clean_headline": "Sigma Advanced Systems completed $15 million divestment of Extrovis AG stake to sharpen focus on aerospace and defence business.",
+    "raw_headline": "Appointment of Mr. Anand Agarwal as Interim Cheif Financial Officer of the Company wef 12.03.2026.",
+    "is_critical": false,
+    "attachment": "2b3a23b2-28e2-4106-aeb5-5b478c33d34a.pdf"
+  }
+]

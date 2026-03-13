@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "524654",
+    "symbol": "NATCAPSUQ",
+    "company": "Natural Capsules Ltd.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "ACME Solar Holdings commissioned second phase of 33.335 MW/160.51 MWh Battery Energy Storage System project in Rajasthan",
+    "raw_headline": "Please find enclosed disclosure under Regulation 30(9) of SEBI (LODR) Regulations,2015",
+    "is_critical": false,
+    "attachment": "7fa878e4-3816-4e35-ab34-fc6454e6eb8e.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "524654",
+    "symbol": "NATCAPSUQ",
+    "company": "Natural Capsules Ltd.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Action Construction Equipments Ltd executed Investment & Shareholder Agreement (Joint Venture) with KATO",
+    "raw_headline": "Please find enclosed Press Release",
+    "is_critical": false,
+    "attachment": "82a047af-e38a-4b87-b737-3b0000b10357.pdf"
+  }
+]

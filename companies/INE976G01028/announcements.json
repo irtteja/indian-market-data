@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "540065",
+    "symbol": "RBLBANK",
+    "company": "RBL Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "One-to-one investor meeting scheduled with Muddy Waters Capital on March 16, 2026",
+    "raw_headline": "RBL Bank Limited informs the exchange about Investor Meet.",
+    "is_critical": false,
+    "attachment": "e48eac75-6841-4ca6-8725-22ad73c00ea9.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "540065",
+    "symbol": "RBLBANK",
+    "company": "RBL Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Power Finance Corporation is transferring its wholly-owned subsidiary NES Dharashiv Transmission Limited to another entity.",
+    "raw_headline": "RBL Bank limited informs the exchange about investor meet",
+    "is_critical": false,
+    "attachment": "a680a756-4331-4028-b457-f4ff027df011.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "543288",
+    "symbol": "DEEPINDS",
+    "company": "Deep Industries Limited",
+    "sector": "Oil Gas & Consumable Fuels",
+    "industry": "Oil",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Management",
+    "clean_headline": "Deep Industries appointed additional Non-Executive Independent Director",
+    "raw_headline": "Appointment of Additional Non-Executive Independent Director",
+    "is_critical": false,
+    "attachment": "3fc53592-faa5-4187-8bd6-a0c10d3bc0bb.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "543288",
+    "symbol": "DEEPINDS",
+    "company": "Deep Industries Limited",
+    "sector": "Oil Gas & Consumable Fuels",
+    "industry": "Oil",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Amendments to Memorandum & Articles of Association",
+    "clean_headline": "Deep Industries appointed additional Non-Executive Independent Director",
+    "raw_headline": "Addition in the main object i.e. Clause III (A) of the Memorandum of Association of the Company",
+    "is_critical": false,
+    "attachment": "fd9871b7-b4f6-412b-aab8-94f0f450a203.pdf"
+  }
+]

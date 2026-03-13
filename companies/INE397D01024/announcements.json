@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "532454",
+    "symbol": "BHARTIARTL",
+    "company": "Bharti Airtel  Ltd.",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Order Wins",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Order received from Tata Power Renewable Energy Limited",
+    "raw_headline": "We are enclosing herewith a press release dated March 12, 2026 titled ''Customer Day 2026 : Airtel Reinforces its Culture of Customer Obsession'' being issued by the Company",
+    "is_critical": false,
+    "attachment": "33f015ee-7fe1-4a2d-93f7-ccf14cefd9a6.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "532454",
+    "symbol": "BHARTIARTL",
+    "company": "Bharti Airtel  Ltd.",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Ceigall India (74% JV with Sushee Infra & Mining) emerged as L1 bidder for MoRTH tender 2025_MoRTH_868241",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015",
+    "is_critical": false,
+    "attachment": "2d071ed2-94cf-46ef-b988-2d371b07976f.pdf"
+  }
+]

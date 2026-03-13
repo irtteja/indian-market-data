@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "531431",
+    "symbol": "SHAKTIPUMP",
+    "company": "Shakti Pumps (India) Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Aditya Birla Sun Life AMC approved changes in senior management personnel.",
+    "raw_headline": "We are submitting herewith reply to the clarification on significant increase in the volume of securities of the Company.",
+    "is_critical": false,
+    "attachment": "8accf9ce-671d-47a2-8543-5903888efc5e.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "531431",
+    "symbol": "SHAKTIPUMP",
+    "company": "Shakti Pumps (India) Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Clarification",
+    "clean_headline": "Central Bank of India enters into co-lending partnership with IIFL Finance Limited for competitive loan offerings.",
+    "raw_headline": "The Exchange has sought clarification from Shakti Pumps India Ltd on March 12, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
+  }
+]

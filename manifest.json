@@ -1,45 +1,30 @@
 {
-  "generated": "2026-03-13T04:58:11.368635Z",
+  "generated": "2026-03-13T05:22:46.734312Z",
   "dates": [
     "2026-03-12"
   ],
   "total_briefings": 1,
-  "company_dossiers": 0,
+  "company_dossiers": 152,
   "latest": "2026-03-12",
   "upcoming_board_meetings": [
     {
-      "company": "Krishival Foods Ltd",
-      "symbol": "544416",
+      "company": "Real Touch Finance Ltd",
+      "symbol": "538611",
+      "date": "2026-03-12"
+    },
+    {
+      "company": "KRISHIVAL FOODS LIMITED",
+      "symbol": "KRISHIVAL",
       "date": "2026-03-12"
     },
     {
       "company": "Associated Alcohols & Breweries Ltd",
-      "symbol": "507526",
+      "symbol": "ASALCBR",
       "date": "2026-03-12"
     },
     {
-      "company": "Five-Star Business Finance Ltd",
-      "symbol": "543663",
-      "date": "2026-03-12"
-    },
-    {
-      "company": "Milestone Furniture Ltd",
-      "symbol": "541337",
-      "date": "2026-03-12"
-    },
-    {
-      "company": "Hemang Resources Ltd",
-      "symbol": "531178",
-      "date": "2026-03-12"
-    },
-    {
-      "company": "Nicco Uco Alliance Credit Ltd",
-      "symbol": "523209",
-      "date": "2026-03-12"
-    },
-    {
-      "company": "Kati Patang Lifestyle Ltd",
-      "symbol": "531126",
+      "company": "Five-Star Business Finance Ltd.",
+      "symbol": "FIVESTAR",
       "date": "2026-03-12"
     }
   ]

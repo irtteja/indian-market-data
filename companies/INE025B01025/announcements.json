@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "526729",
+    "symbol": "GOLDIAM",
+    "company": "Goldiam International Ltd.",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 10(6) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 10(6) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Shobhnaben Bhansali Jointly with Rashesh Bhansali",
+    "is_critical": false,
+    "attachment": "AE9D6DB1_AF94_45AD_81D4_6A8998533F6D_142636.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "526729",
+    "symbol": "GOLDIAM",
+    "company": "Goldiam International Ltd.",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Rashesh M Bhansali  & Others",
+    "is_critical": false,
+    "attachment": "5F1458B4_2C82_4C79_8746_D9D6519626D3_141527.pdf"
+  }
+]

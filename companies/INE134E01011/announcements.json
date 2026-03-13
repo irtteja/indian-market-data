@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "532810",
+    "symbol": "PFC",
+    "company": "Power Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Fino Payments Bank received an order from the court dated March 4, 2026 in relation to an application filed by the bank.",
+    "raw_headline": "INTIMATION",
+    "is_critical": false,
+    "attachment": "6ad96902-ca83-4e6a-a471-d619c6030b8f.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "532810",
+    "symbol": "PFC",
+    "company": "Power Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Infosys announced expansion of its Mohali Development Center with a new 350,000-sq. ft. integrated development campus.",
+    "raw_headline": "Intimation",
+    "is_critical": false,
+    "attachment": "6a760f08-451d-45f3-a108-3b640ca5968d.pdf"
+  }
+]

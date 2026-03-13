@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "507789",
+    "symbol": "JAGSNPHARM",
+    "company": "Jagsonpal Pharmaceuticals Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Outcome of board meeting held on March 12, 2026",
+    "raw_headline": "Please find attached outcome of meeting held on March 12, 2026 for consideration of buy back of equity shares.",
+    "is_critical": false,
+    "attachment": "9c0b1cfb-e516-4446-8b75-d5691dc0c68f.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "507789",
+    "symbol": "JAGSNPHARM",
+    "company": "Jagsonpal Pharmaceuticals Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Zydus Lifesciences launches AI-powered Continuous Glucose Monitor DiasensTM and GlucoLiveTM to expand companion diagnostics portfolio",
+    "raw_headline": "Please release on announcement of buy back of Equity shares of Company",
+    "is_critical": false,
+    "attachment": "0a0bf6c8-96e1-447c-88be-b9ab9a8889c1.pdf"
+  }
+]

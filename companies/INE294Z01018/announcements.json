@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-12",
+    "scrip_code": "542460",
+    "symbol": "ANUP",
+    "company": "The Anup Engineering Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "",
+    "raw_headline": "Voting Result of Postal Ballot",
+    "is_critical": false,
+    "attachment": "a51bd1ee-3835-4103-ad30-44a750351315.pdf"
+  },
+  {
+    "date": "2026-03-12",
+    "scrip_code": "542460",
+    "symbol": "ANUP",
+    "company": "The Anup Engineering Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Shri Gang Industries entered into lease and manufacturing agreement with Tilak Nagar Industries for IMFL bottling",
+    "raw_headline": "Intimation for Investor Meet",
+    "is_critical": false,
+    "attachment": "43ebf7b4-de16-4db0-988c-cd64aa6d0d15.pdf"
+  }
+]
