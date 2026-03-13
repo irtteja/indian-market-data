@@ -428,6 +428,13 @@ body {
 }
 .cal-cell:hover { border-color: var(--border2); background: var(--bg3); }
 .cal-cell.today { border-color: var(--accent); }
+.cal-cell.cal-selected { border: 2px solid var(--accent) !important; background: color-mix(in srgb, var(--accent) 12%, var(--bg2)); }
+.cal-detail-panel { margin: 16px 0 8px; background: var(--bg2); border: 1px solid var(--accent); border-radius: 10px; padding: 16px; }
+.cal-detail-header { display:flex; align-items:center; gap:10px; font-weight:600; color:var(--text); font-size:14px; margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid var(--border); }
+.cal-detail-group-label { font-size:11px; font-weight:700; color:var(--text3); text-transform:uppercase; letter-spacing:.06em; margin: 12px 0 4px; }
+.cal-detail-row { display:flex; justify-content:space-between; align-items:center; padding:9px 8px; border-radius:6px; cursor:pointer; gap:12px; border-top: 1px solid var(--border); }
+.cal-detail-row:first-of-type { border-top: none; }
+.cal-detail-row:hover { background: var(--bg3); }
 .cal-cell.empty { background: transparent; border-color: transparent; cursor: default; min-height: 80px; }
 .cal-cell.has-results { border-left: 3px solid var(--amber); }
 .cal-date { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--text3); margin-bottom: 4px; }
@@ -1954,7 +1961,8 @@ function renderCalendar() {
     const boards  = entries.filter(e => e.type === "board");
     const hasData = results.length > 0 || boards.length > 0;
 
-    html += `<div class="cal-cell ${isToday ? 'today' : ''} ${hasData ? 'has-results' : ''}"
+    const isSelected = ds === calSelectedDate;
+    html += `<div class="cal-cell ${isToday ? 'today' : ''} ${hasData ? 'has-results' : ''} ${isSelected ? 'cal-selected' : ''}"
                  onclick="calSelectDate('${ds}')">
       <div class="cal-date">${day}</div>`;
 
@@ -1970,7 +1978,57 @@ function renderCalendar() {
     html += `</div>`;
   }
 
-  html += `</div>`;
+  html += `</div>`;  // close cal-grid
+
+  // ── Selected day detail panel ─────────────────────────────────────────
+  if (calSelectedDate) {
+    const selEntries = calData[calSelectedDate] || [];
+    const d = new Date(calSelectedDate + "T00:00:00");
+    const dLabel = d.toLocaleDateString("en-IN", { weekday:"long", day:"numeric", month:"long", year:"numeric" });
+    const isFuture = calSelectedDate > today;
+    const isPast   = calSelectedDate < today;
+
+    html += `<div class="cal-detail-panel">
+      <div class="cal-detail-header">
+        <span>${dLabel}</span>`;
+    if (isPast && availableDates.includes(calSelectedDate)) {
+      html += `<button class="date-btn" style="margin-left:auto;" onclick="showPage('briefing',null);loadDate('${calSelectedDate}')">View Full Briefing →</button>`;
+    }
+    html += `</div>`;
+
+    if (selEntries.length === 0) {
+      html += `<div style="color:var(--text3);font-size:13px;padding:12px 0;">No board meetings or results recorded for this date.</div>`;
+    } else {
+      const resultEntries = selEntries.filter(e => e.is_results || e.type === "result");
+      const boardEntries  = selEntries.filter(e => !e.is_results && e.type !== "result");
+
+      if (resultEntries.length) {
+        html += `<div class="cal-detail-group-label">📊 Financial Results (${resultEntries.length})</div>`;
+        for (const e of resultEntries) {
+          const cap     = e.mcap_cat ? `<span class="cal-chip result" style="font-size:10px;padding:1px 5px;">${e.mcap_cat.split(" ")[0]}</span>` : "";
+          const verdict = e.verdict  ? `<span class="verdict-badge neutral" style="font-size:10px;padding:2px 6px;">${e.verdict}</span>` : "";
+          const sector  = e.sector   ? `<span style="color:var(--text3);font-size:11px;"> · ${e.sector}</span>` : "";
+          html += `<div class="cal-detail-row" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\\'")}')">
+            <div><span style="font-weight:600;color:var(--text)">${e.company||e.symbol}</span>${sector}</div>
+            <div style="display:flex;align-items:center;gap:6px;"><code style="font-size:11px;color:var(--accent)">${e.symbol}</code>${cap}${verdict}</div>
+          </div>`;
+        }
+      }
+      if (boardEntries.length) {
+        html += `<div class="cal-detail-group-label">📋 Board Meetings (${boardEntries.length})</div>`;
+        for (const e of boardEntries) {
+          const cap    = e.mcap_cat ? `<span class="cal-chip board" style="font-size:10px;padding:1px 5px;">${e.mcap_cat.split(" ")[0]}</span>` : "";
+          const purp   = e.purpose  ? `<span style="color:var(--amber);font-size:11px;">${e.purpose.replace("Board Meeting Intimation","Meeting").replace("Financial Results","Results")}</span>` : "";
+          const sector = e.sector   ? `<span style="color:var(--text3);font-size:11px;"> · ${e.sector}</span>` : "";
+          html += `<div class="cal-detail-row" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\\'")}')">
+            <div><span style="font-weight:600;color:var(--text)">${e.company||e.symbol}</span>${sector}</div>
+            <div style="display:flex;align-items:center;gap:6px;"><code style="font-size:11px;color:var(--accent)">${e.symbol}</code>${cap}${purp}</div>
+          </div>`;
+        }
+      }
+    }
+    html += `</div>`;  // close cal-detail-panel
+  }
 
   // Results list for current month
   const monthEntries = [];
@@ -2048,9 +2106,10 @@ function calGoToday() {
 }
 
 function calSelectDate(ds) {
-  showPage("briefing", document.querySelector(".nav-link"));
-  loadDate(ds);
+  calSelectedDate = ds;
+  renderCalendar();   // re-render to highlight selected cell + show detail panel
 }
+let calSelectedDate = null;
 
 // ── Init ───────────────────────────────────────────────────────────────────
 async function init() {
