@@ -30,5 +30,37 @@
     "raw_headline": "The Exchange has sought clarification from Afcons Infrastructure Ltd on March 13, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544280",
+    "symbol": "AFCONS",
+    "company": "Afcons Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "Inter State Oil Carrier expanding transportation operations through commencement of multimodal rail services",
+    "raw_headline": "Please find enclosed the clarification response on the Volume Movement.",
+    "is_critical": false,
+    "attachment": "c52cd115-a013-455a-963d-7ccc756a9400.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544280",
+    "symbol": "AFCONS",
+    "company": "Afcons Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Clarification",
+    "clean_headline": "SSMD Agrotech India Limited completed first phase of Namkeen Manufacturing Plant and commenced Roasted Chana operations",
+    "raw_headline": "The Exchange has sought clarification from Afcons Infrastructure Ltd on March 13, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

@@ -14,5 +14,37 @@
     "raw_headline": "Outcome of Postal Ballot March 2026",
     "is_critical": false,
     "attachment": "c90e43cd-f43f-4ed6-958d-ab3bd3f2b14a.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "500253",
+    "symbol": "LICHSGFIN",
+    "company": "Lic Housing Finance Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot March 2026",
+    "raw_headline": "Outcome of Postal Ballot March 2026",
+    "is_critical": false,
+    "attachment": "c90e43cd-f43f-4ed6-958d-ab3bd3f2b14a.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "500253",
+    "symbol": "LICHSGFIN",
+    "company": "Lic Housing Finance Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Board Decisions",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Board approved issuance of equity shares on preferential basis (second tranche) pursuant to NCLT-approved resolution plan",
+    "raw_headline": "LIC Housing Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/03/2026 ,inter alia, to consider and approve Prior Intimation of Board Meeting",
+    "is_critical": true,
+    "attachment": "cf4b6a16-e968-4016-bcc7-0e2fd400174b.pdf"
   }
 ]

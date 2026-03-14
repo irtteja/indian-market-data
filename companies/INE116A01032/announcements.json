@@ -30,5 +30,21 @@
     "raw_headline": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
     "is_critical": false,
     "attachment": "C211A772_464F_4592_89E9_9BDBE1582CFE_082828.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "523694",
+    "symbol": "APCOTEXIND",
+    "company": "Apcotex Industries Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "BSE has sought clarification from Gayatri BioOrganics Ltd regarding significant movement in stock price.",
+    "raw_headline": "Apcotex Industries Limited has informed the Exchange about order passed by the Faceless Appeal Centre (NFAC), Income Tax Department, Ministry of Finance, Government of India.",
+    "is_critical": true,
+    "attachment": "58e0be45-6b79-4c88-8564-46dabea4ef87.pdf"
   }
 ]

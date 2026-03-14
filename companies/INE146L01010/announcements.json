@@ -14,5 +14,21 @@
     "raw_headline": "Please find attached herewith outcome of Investor Call",
     "is_critical": false,
     "attachment": "4da10cea-ed7c-437d-b8b2-11ffc1d9be02.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533293",
+    "symbol": "KIRLOSENG",
+    "company": "Kirloskar Oil Engines Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Lloyds Metals and Energy allotted equity shares upon conversion of convertible warrants to non-promoters.",
+    "raw_headline": "Please find attached herewith outcome of Investor Call",
+    "is_critical": false,
+    "attachment": "8e76fcbc-62ff-4ca8-9ecb-bc61fc2ddadb.pdf"
   }
 ]

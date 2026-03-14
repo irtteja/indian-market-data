@@ -30,5 +30,37 @@
     "raw_headline": "Announcement of execution of concession agreement for development of High Tech Pharmaceutical Park at Dighi Port Industrial Area, Maharashtra",
     "is_critical": false,
     "attachment": "a2858bf6-879a-459c-86b2-918eec99806c.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533262",
+    "symbol": "RAMKY",
+    "company": "Ramky Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Zydus Lifesciences receives final approval from USFDA for Cevimeline Hydrochloride Capsules 30mg",
+    "raw_headline": "MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE ....",
+    "is_critical": true,
+    "attachment": "438593aa-aa06-4570-8b60-33ca905fd3be.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533262",
+    "symbol": "RAMKY",
+    "company": "Ramky Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Suryoday Small Finance Bank scheduled an institutional investor group meeting for March 18, 2026 in Mumbai.",
+    "raw_headline": "Announcement of execution of concession agreement for development of High Tech Pharmaceutical Park at Dighi Port Industrial Area, Maharashtra",
+    "is_critical": false,
+    "attachment": "a2858bf6-879a-459c-86b2-918eec99806c.pdf"
   }
 ]

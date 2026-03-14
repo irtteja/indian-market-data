@@ -14,5 +14,21 @@
     "raw_headline": "Intimation attached",
     "is_critical": false,
     "attachment": "1182ef1c-ac7c-46a6-9859-44ae9ad68cc0.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "540005",
+    "symbol": "LTM",
+    "company": "LTIMindtree Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Intimation attached",
+    "raw_headline": "Intimation attached",
+    "is_critical": false,
+    "attachment": "1182ef1c-ac7c-46a6-9859-44ae9ad68cc0.pdf"
   }
 ]

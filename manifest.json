@@ -1,13 +1,322 @@
 {
-  "generated": "2026-03-14T01:44:01.028783+00:00",
+  "generated": "2026-03-14T05:20:46.095516+00:00",
   "dates": [
     "2026-03-13",
     "2026-03-12"
   ],
   "total_briefings": 2,
-  "company_dossiers": 318,
+  "company_dossiers": 348,
   "latest": "2026-03-13",
-  "latest_screener_date": null,
-  "upcoming_results_count": 0,
-  "upcoming_board_meetings": []
+  "latest_screener_date": "2026-03-13",
+  "upcoming_results_count": 7,
+  "upcoming_board_meetings": [
+    {
+      "company": "GK ENERGY LIMITED",
+      "symbol": "GKENERGY",
+      "date": "2026-03-14",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Construction",
+      "in_universe": true
+    },
+    {
+      "company": "MSP STEEL & POWER LTD.",
+      "symbol": "MSPL",
+      "date": "2026-03-14",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Capital Goods",
+      "in_universe": true
+    },
+    {
+      "company": "Omnitech Engineering Limited",
+      "symbol": "OMNI",
+      "date": "2026-03-14",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Capital Goods",
+      "in_universe": true
+    },
+    {
+      "company": "Ganesh Consumer Products Limited",
+      "symbol": "GANESHCP",
+      "date": "2026-03-16",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Fast Moving Consumer Goods",
+      "in_universe": true
+    },
+    {
+      "company": "NAVKAR URBANSTRUCTURE LIMITED",
+      "symbol": "NAVKARURB",
+      "date": "2026-03-16",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Construction",
+      "in_universe": true
+    },
+    {
+      "company": "Patel Integrated Logistics Ltd",
+      "symbol": "PATINTLOG",
+      "date": "2026-03-16",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Services",
+      "in_universe": true
+    },
+    {
+      "company": "REC LIMITED",
+      "symbol": "RECLTD",
+      "date": "2026-03-16",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": true,
+      "mcap_cat": "Mid Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "SATIN CREDITCARE NETWORK LIMITED",
+      "symbol": "SATIN",
+      "date": "2026-03-16",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "Clean Max Enviro Energy Solutions Limited",
+      "symbol": "CLEANMAX",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Power",
+      "in_universe": true
+    },
+    {
+      "company": "Damodar Industries Limited",
+      "symbol": "DAMODARIND",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Textiles",
+      "in_universe": true
+    },
+    {
+      "company": "Five-Star Business Finance Ltd.",
+      "symbol": "FIVESTAR",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "India Glycols Ltd",
+      "symbol": "INDIAGLYCO",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": true,
+      "mcap_cat": "Micro Cap",
+      "sector": "Fast Moving Consumer Goods",
+      "in_universe": true
+    },
+    {
+      "company": "Lotus Eye Hospital And Institute Limited",
+      "symbol": "LOTUSEYE",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Healthcare",
+      "in_universe": true
+    },
+    {
+      "company": "Power Finance Corporation Ltd",
+      "symbol": "PFC",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": true,
+      "mcap_cat": "Large Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "Sumeet Industries Ltd",
+      "symbol": "SUMEETINDS",
+      "date": "2026-03-17",
+      "purpose": "Other business matters",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Textiles",
+      "in_universe": true
+    },
+    {
+      "company": "Vardhman Polytex Limited",
+      "symbol": "VARDMNPOLY",
+      "date": "2026-03-17",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Bajaj Healthcare Limited",
+      "symbol": "BAJAJHCARE",
+      "date": "2026-03-18",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Healthcare",
+      "in_universe": true
+    },
+    {
+      "company": "CSL Finance Limited",
+      "symbol": "CSLFINANCE",
+      "date": "2026-03-18",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "Gaudium IVF and Women Health Limited",
+      "symbol": "GAUDIUMIVF",
+      "date": "2026-03-18",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Indian Renewable Energy Development Agency Limited",
+      "symbol": "IREDA",
+      "date": "2026-03-19",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Mid Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "date": "2026-03-19",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": true,
+      "mcap_cat": "Large Cap",
+      "sector": "Automobile and Auto Components",
+      "in_universe": true
+    },
+    {
+      "company": "Shree Ram Twistex Limited",
+      "symbol": "SRTL",
+      "date": "2026-03-19",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "We Win Limited",
+      "symbol": "WEWIN",
+      "date": "2026-03-19",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Services",
+      "in_universe": true
+    },
+    {
+      "company": "Alps Industries Limited",
+      "symbol": "ALPSINDUS",
+      "date": "2026-03-20",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Lypsa Gems & Jewellery Limited",
+      "symbol": "LYPSAGEMS",
+      "date": "2026-03-23",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Consumer Durables",
+      "in_universe": true
+    },
+    {
+      "company": "Lic Housing Finance Ltd.",
+      "symbol": "LICHSGFIN",
+      "date": "2026-03-25",
+      "purpose": "Fund Raising/Other business matters",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "India Cements Ltd.",
+      "symbol": "INDIACEM",
+      "date": "2026-04-25",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Construction Materials",
+      "in_universe": true
+    },
+    {
+      "company": "UltraTech Cement Ltd",
+      "symbol": "ULTRACEMCO",
+      "date": "2026-04-27",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": true,
+      "mcap_cat": "Large Cap",
+      "sector": "Construction Materials",
+      "in_universe": true
+    }
+  ]
 }

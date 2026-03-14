@@ -14,5 +14,21 @@
     "raw_headline": "Clarification on Significant  Movement of Price of the Secuities of the company",
     "is_critical": false,
     "attachment": "ae4710a7-2551-4937-a54e-c81ad5e79c55.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "511611",
+    "symbol": "DCMFINSERV",
+    "company": "DCM Financial Services Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Clarification",
+    "clean_headline": "Puravankara Limited received Registration Certificate from Karnataka Real Estate Regulatory Authority (KRERA) for project Northern Lights by Puravankara KVN",
+    "raw_headline": "The Exchange has sought clarification from DCM Financial Services Ltd on March 13, 2026, with reference to Movement in Price. <BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

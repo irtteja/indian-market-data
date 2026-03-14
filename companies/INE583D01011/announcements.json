@@ -30,5 +30,37 @@
     "raw_headline": "Intimation of change in registered and corporate office of the Company.",
     "is_critical": false,
     "attachment": "85bd1101-97c2-4900-8da6-0ad9d4e17193.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Change in Registered Office Address",
+    "clean_headline": "3i Infotech's US subsidiary received a purchase order from a new international customer for AI-enabled solutions.",
+    "raw_headline": "Intimation of change in registered and corporate office of the Company.",
+    "is_critical": false,
+    "attachment": "85bd1101-97c2-4900-8da6-0ad9d4e17193.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Submission of voting results of the postal ballot dated 12th March 2026 and Scrutinizer''s Report",
+    "raw_headline": "Submission of voting results of the postal ballot dated 12th March 2026 and Scrutinizer''s Report",
+    "is_critical": false,
+    "attachment": "2246b934-ad1f-4552-ae81-af6d9f243a82.pdf"
   }
 ]

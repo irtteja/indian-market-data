@@ -30,5 +30,21 @@
     "raw_headline": "RBL Bank limited informs the exchange about investor meet",
     "is_critical": false,
     "attachment": "a680a756-4331-4028-b457-f4ff027df011.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "540065",
+    "symbol": "RBLBANK",
+    "company": "RBL Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Operational Alerts",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Shree Hanuman Sugar & Industries Ltd to hold 16th Committee of Creditors meeting on 17th March 2026.",
+    "raw_headline": "RBL Bank Limited informs the exchange about Investor Meet.",
+    "is_critical": false,
+    "attachment": "39be5a99-bc4d-4ca3-b913-6bed20f1062a.pdf"
   }
 ]

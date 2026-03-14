@@ -30,5 +30,21 @@
     "raw_headline": "The Exchange has sought clarification from Regaal Resources Ltd on March 13, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544485",
+    "symbol": "REGAAL",
+    "company": "REGAAL RESOURCES LIMITED",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Agricultural Food & other Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Clarification",
+    "clean_headline": "RR MetalMakers India Ltd executed an MOU with Ojas Ecopower Limited for sale of its undertaking/plant in Gujarat",
+    "raw_headline": "The Exchange has sought clarification from Regaal Resources Ltd on March 13, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant ....",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

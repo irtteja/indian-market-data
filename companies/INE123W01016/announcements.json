@@ -14,5 +14,21 @@
     "raw_headline": "Please find attached intimation pertaining to Analyst/Investor meet.",
     "is_critical": false,
     "attachment": "935e2363-6035-4a4a-999f-ceb170022ef5.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "540719",
+    "symbol": "SBILIFE",
+    "company": "SBI Life Insurance Company Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "FirstCry expands its Qwik offering across Bengaluru, Pune, and Hyderabad.",
+    "raw_headline": "Please find attached intimation under Regulation 30 of SEBI LODR.",
+    "is_critical": false,
+    "attachment": "e208ba14-2276-442f-ae4d-1816a4b34174.pdf"
   }
 ]

@@ -14,5 +14,21 @@
     "raw_headline": "Please refer enclosed file.",
     "is_critical": false,
     "attachment": "d6cf992a-2f20-4161-ae08-af347dc318f3.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "539450",
+    "symbol": "SHK",
+    "company": "S H Kelkar and Company Limited",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Restructuring",
+    "clean_headline": "Dixon Technologies scheduled institutional investor meetings.",
+    "raw_headline": "Sale of entire 17% equity stake of CFF Keva Italy S.p.A. held by the Company to Keva Italy Srl",
+    "is_critical": false,
+    "attachment": "d3b02890-f963-4597-9f53-50641da55ed7.pdf"
   }
 ]

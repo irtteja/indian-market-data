@@ -14,5 +14,21 @@
     "raw_headline": "As per Attachment.",
     "is_critical": false,
     "attachment": "4d782a3d-aaca-45c9-82b1-4f29ca92ff7b.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "523229",
+    "symbol": "BHARATSE",
+    "company": "Bharat Seats Ltd",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "As per Attachment.",
+    "raw_headline": "As per Attachment.",
+    "is_critical": false,
+    "attachment": "4d782a3d-aaca-45c9-82b1-4f29ca92ff7b.pdf"
   }
 ]

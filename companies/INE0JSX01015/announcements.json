@@ -46,5 +46,21 @@
     "raw_headline": "Please find enclosed herewith investor Presentation of the Company.",
     "is_critical": false,
     "attachment": "b822faea-f7d4-4991-aefb-59d771bc6e61.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "543829",
+    "symbol": "GSLSU",
+    "company": "Global Surfaces Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Investor Presentation of the Company.",
+    "raw_headline": "Please find enclosed herewith investor Presentation of the Company.",
+    "is_critical": false,
+    "attachment": "b822faea-f7d4-4991-aefb-59d771bc6e61.pdf"
   }
 ]

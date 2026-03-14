@@ -30,5 +30,53 @@
     "raw_headline": "Please find attached intimation for change in Key Managerial Personnel.",
     "is_critical": false,
     "attachment": "29e23e5b-b687-4697-beb7-08689efd763c.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "501455",
+    "symbol": "GREAVESCOT",
+    "company": "Greaves Cotton Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Resignation of Chief Financial Officer (CFO)",
+    "clean_headline": "Greaves Cotton Ltd announced resignation of Chief Financial Officer Mrs. Akhila Balachandar.",
+    "raw_headline": "Please find attached intimation for resignation of Chief Financial Officer.",
+    "is_critical": false,
+    "attachment": "359d1d1c-b240-450b-82a3-6ae3e9380c37.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "501455",
+    "symbol": "GREAVESCOT",
+    "company": "Greaves Cotton Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Management",
+    "clean_headline": "Greaves Cotton Ltd announced resignation of Chief Financial Officer Mrs. Akhila Balachandar.",
+    "raw_headline": "Please find attached intimation for change in Key Managerial Personnel.",
+    "is_critical": false,
+    "attachment": "29e23e5b-b687-4697-beb7-08689efd763c.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "501455",
+    "symbol": "GREAVESCOT",
+    "company": "Greaves Cotton Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Caplin Steriles Limited receives final USFDA approval for Potassium Phosphates Injection USP",
+    "raw_headline": "Please find attached Press Release issued by the Company.",
+    "is_critical": false,
+    "attachment": "e2e457a1-5336-4e4e-be38-48c9ee94ced1.pdf"
   }
 ]

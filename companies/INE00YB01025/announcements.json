@@ -14,5 +14,21 @@
     "raw_headline": "Allotment of Order",
     "is_critical": true,
     "attachment": "68d856db-7634-4e33-8a14-42145ce30138.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544281",
+    "symbol": "ABINFRA",
+    "company": "A B INFRABUILD LIMITED",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "A B Infrabuild Limited received letter of acceptance for Road Over Bridge construction project",
+    "raw_headline": "Allotment of Order",
+    "is_critical": true,
+    "attachment": "68d856db-7634-4e33-8a14-42145ce30138.pdf"
   }
 ]

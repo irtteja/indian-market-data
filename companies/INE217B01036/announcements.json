@@ -46,5 +46,37 @@
     "raw_headline": "Result of Postal Ballot",
     "is_critical": false,
     "attachment": "83fdd98d-b2dc-425a-81b0-6531ec2bc7ce.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "500233",
+    "symbol": "KAJARIACER",
+    "company": "Kajaria Ceramics Ltd",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Results and Scrutinizers Report",
+    "raw_headline": "Results and Scrutinizers Report",
+    "is_critical": false,
+    "attachment": "d83f981a-c3d9-41ad-b213-5e69f195da4a.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "500233",
+    "symbol": "KAJARIACER",
+    "company": "Kajaria Ceramics Ltd",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Result of Postal Ballot",
+    "raw_headline": "Result of Postal Ballot",
+    "is_critical": false,
+    "attachment": "83fdd98d-b2dc-425a-81b0-6531ec2bc7ce.pdf"
   }
 ]

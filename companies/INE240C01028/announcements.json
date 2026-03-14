@@ -14,5 +14,21 @@
     "raw_headline": "The Exchange has sought clarification from Usha Martin Education & Solutions Ltd on March 12, 2026 with reference to significant movement in price, in order to ensure that investors have ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532398",
+    "symbol": "UMESLTD",
+    "company": "Usha Martin Education & Solutions Limited",
+    "sector": "Consumer Services",
+    "industry": "Other Consumer Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Greaves Cotton appoints Manish Poddar as Group CFO, succeeding Akhila Balachandar",
+    "raw_headline": "UMESL price movement clarification",
+    "is_critical": false,
+    "attachment": "9efd1dd9-e171-4c15-8251-38e87988cd3c.pdf"
   }
 ]

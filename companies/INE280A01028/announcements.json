@@ -14,5 +14,21 @@
     "raw_headline": "Schedule of Analyst / Institutional Investor Meeting",
     "is_critical": false,
     "attachment": "944c6c45-2e18-4586-b3b2-2f1b1381de74.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "500114",
+    "symbol": "TITAN",
+    "company": "Titan Company Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Analyst and Institutional Investor Meeting scheduled for 23 March 2026",
+    "raw_headline": "Schedule of Analyst / Institutional Investor Meeting",
+    "is_critical": false,
+    "attachment": "944c6c45-2e18-4586-b3b2-2f1b1381de74.pdf"
   }
 ]

@@ -30,5 +30,37 @@
     "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 13, 2026 for Vizag Profiles Pvt Ltd",
     "is_critical": false,
     "attachment": "B59F0DEA_24DC_4B11_BF54_2C756DE9A75D_181610.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "534748",
+    "symbol": "STEELXIND",
+    "company": "Steel Exchange India Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "raw_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "is_critical": false,
+    "attachment": "5D1BEC0D_A9AE_4EDD_93FC_3D9076DCD2B6_181936.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "534748",
+    "symbol": "STEELXIND",
+    "company": "Steel Exchange India Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 13, 2026 for Vizag Profiles Pvt Ltd",
+    "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 13, 2026 for Vizag Profiles Pvt Ltd",
+    "is_critical": false,
+    "attachment": "B59F0DEA_24DC_4B11_BF54_2C756DE9A75D_181610.pdf"
   }
 ]
