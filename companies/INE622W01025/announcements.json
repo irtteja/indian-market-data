@@ -14,5 +14,21 @@
     "raw_headline": "Press Release",
     "is_critical": false,
     "attachment": "a989df24-e1ed-4a77-8e65-b6151bcc6656.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544283",
+    "symbol": "ACMESOLAR",
+    "company": "ACME Solar Holdings Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "ACME Solar commissioned 143 MW / 481 MWh Battery Energy Storage System in Rajasthan",
+    "raw_headline": "Press Release",
+    "is_critical": false,
+    "attachment": "1b3fbf28-e297-4059-abea-a882d882fed0.pdf"
   }
 ]

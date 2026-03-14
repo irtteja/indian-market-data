@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544263",
+    "symbol": "KRN",
+    "company": "KRN HEAT EXCHANGER AND REFRIGERATION LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Ventive Hospitality Limited has received an income tax demand notice from the Income Tax Department.",
+    "raw_headline": "Investors Meet",
+    "is_critical": false,
+    "attachment": "29330886-27c7-4246-bb73-aa0efd40c97f.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544263",
+    "symbol": "KRN",
+    "company": "KRN HEAT EXCHANGER AND REFRIGERATION LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "KRN Heat Exchanger and Refrigeration Limited Board meeting held on March 13, 2026",
+    "raw_headline": "Outcome of Board Meeting",
+    "is_critical": false,
+    "attachment": "51fd9c05-1436-4fa4-8dbe-7f17db62ef03.pdf"
+  }
+]

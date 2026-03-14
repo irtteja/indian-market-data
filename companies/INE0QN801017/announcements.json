@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544149",
+    "symbol": "KRYSTAL",
+    "company": "KRYSTAL INTEGRATED SERVICES LIMITED",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "SRM Energy Ltd group company writes off loan",
+    "raw_headline": "Announcement under Regulation 30 (LODR) - Press Release",
+    "is_critical": false,
+    "attachment": "99b9c0be-7e66-48f2-8467-a75b1149c709.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544149",
+    "symbol": "KRYSTAL",
+    "company": "KRYSTAL INTEGRATED SERVICES LIMITED",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Valiant Communications enters strategic collaboration with Fortytwo42 Labs for quantum-safe cryptography",
+    "raw_headline": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015.",
+    "is_critical": true,
+    "attachment": "0dc1fe07-3991-4b6c-a15d-25363d0bbbde.pdf"
+  }
+]

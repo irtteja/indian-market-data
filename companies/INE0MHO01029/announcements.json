@@ -14,5 +14,21 @@
     "raw_headline": "Reply to the clarification sought with reference to the movement in volume",
     "is_critical": false,
     "attachment": "b1039b18-300a-41a2-864d-c2bbb22a3d35.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544485",
+    "symbol": "REGAAL",
+    "company": "REGAAL RESOURCES LIMITED",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Agricultural Food & other Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Clarification",
+    "clean_headline": "Pasupati Fincap's EGM held on March 12, 2026 failed to receive requisite majority on special business items",
+    "raw_headline": "The Exchange has sought clarification from Regaal Resources Ltd on March 13, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant ....",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "501455",
+    "symbol": "GREAVESCOT",
+    "company": "Greaves Cotton Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Shipwaves secures ₹1.56 crore logistics digitalization order from Hindalco Industries",
+    "raw_headline": "Please find attached Press Release issued by the Company.",
+    "is_critical": false,
+    "attachment": "e2e457a1-5336-4e4e-be38-48c9ee94ced1.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "501455",
+    "symbol": "GREAVESCOT",
+    "company": "Greaves Cotton Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Change in Management",
+    "clean_headline": "Aurionpro Solutions wins its largest data centre order from a leading hyperscale data centre operator",
+    "raw_headline": "Please find attached intimation for change in Key Managerial Personnel.",
+    "is_critical": false,
+    "attachment": "29e23e5b-b687-4697-beb7-08689efd763c.pdf"
+  }
+]

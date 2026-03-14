@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544055",
+    "symbol": "MUTHOOTMF",
+    "company": "Muthoot Microfin Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Asset Liability Management (ALM) statement",
+    "clean_headline": "Circular resolutions passed by Board of Directors",
+    "raw_headline": "ALM Statement for February 2026",
+    "is_critical": false,
+    "attachment": "58ba88e0-ead7-482b-b61f-fe2cf8af394a.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544055",
+    "symbol": "MUTHOOTMF",
+    "company": "Muthoot Microfin Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Muthoot Microfin Limited will hold one-to-one analyst meetings on March 18, 2026 and group meetings on March 19, 2026 at its Kochi branch.",
+    "raw_headline": "Intimation on Analyst Meet scheduled to be held on March 18, 2026 (One to One meeting) and on March 19, 2026(group meeting).",
+    "is_critical": false,
+    "attachment": "65345bd2-6a1c-46fe-acb5-03633459e20c.pdf"
+  }
+]

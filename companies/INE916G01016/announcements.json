@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532764",
+    "symbol": "GEECEE",
+    "company": "GeeCee Ventures Limited",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Payment of first and final call on partly paid up equity shares of Bharti Airtel Limited - Acquisition.",
+    "raw_headline": "Disclosure under Reg 30(LODR)- Payment of first and final call on partly paid up equity shares of Bharti Airtel Limited - Acquisition.",
+    "is_critical": true,
+    "attachment": "f9c2879f-6e16-4f1b-82b4-4b79b66dc699.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532764",
+    "symbol": "GEECEE",
+    "company": "GeeCee Ventures Limited",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Updates on Acquisition-Payment of second and final call -Adani Enterprises Limited.",
+    "raw_headline": "Announcement under Regulation 30(LODR)-Updates on Acquisition-Payment of second and final call -Adani Enterprises Limited.",
+    "is_critical": true,
+    "attachment": "d96d5df5-b6b2-499d-9734-6f1b21a903a6.pdf"
+  }
+]

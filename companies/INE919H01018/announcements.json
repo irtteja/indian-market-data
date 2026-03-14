@@ -14,5 +14,21 @@
     "raw_headline": "As per corporate announcement attached",
     "is_critical": false,
     "attachment": "11e34e47-cebc-40f5-a448-d9e2f6521a25.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533047",
+    "symbol": "IMFA",
+    "company": "Indian Metals & Ferro Alloys Limited",
+    "sector": "Metals & Mining",
+    "industry": "Ferrous Metals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "As per corporate annancement attached",
+    "raw_headline": "As per corporate annancement attached",
+    "is_critical": false,
+    "attachment": "9e12eedb-77eb-4952-baf7-e9d8b27feb3a.pdf"
   }
 ]

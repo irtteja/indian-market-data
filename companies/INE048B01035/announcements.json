@@ -30,5 +30,21 @@
     "raw_headline": "Please release on announcement of buy back of Equity shares of Company",
     "is_critical": false,
     "attachment": "0a0bf6c8-96e1-447c-88be-b9ab9a8889c1.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "507789",
+    "symbol": "JAGSNPHARM",
+    "company": "Jagsonpal Pharmaceuticals Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "PNG Jewellers expanding presence with new store launch in Uran, Navi Mumbai",
+    "raw_headline": "Please find attached disclosure under Regulation 30 of SEBI \r\n(LODR) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "a12ce039-ee82-43b9-b601-0e483e4da981.pdf"
   }
 ]

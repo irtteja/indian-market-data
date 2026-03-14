@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "538730",
+    "symbol": "PDSL",
+    "company": "PDS LIMITED",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "PDS Limited has informed the Exchanges regarding acquisition.",
+    "raw_headline": "PDS Limited has informed the Exchanges regarding acquisition.",
+    "is_critical": true,
+    "attachment": "8855b067-ae97-4689-b80c-ef3a73f4e364.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "538730",
+    "symbol": "PDSL",
+    "company": "PDS LIMITED",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Mergers & Schemes",
+    "subcategory": "General",
+    "clean_headline": "National Company Law Tribunal has sanctioned the scheme of amalgamation between Indowind Energy Limited and Ind Eco Ventures Limited.",
+    "raw_headline": "PDS Limited has informed the Exchange regarding clarification on Postal Ballot notice pursuant to feedback received from Proxy Advisory.",
+    "is_critical": false,
+    "attachment": "182c2339-e975-4e72-a1f7-8eb06c99ec0c.pdf"
+  }
+]

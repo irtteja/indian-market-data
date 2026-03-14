@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Submission of voting results of the postal ballot dated 12th March 2026 and Scrutinizer''s Report",
+    "raw_headline": "Submission of voting results of the postal ballot dated 12th March 2026 and Scrutinizer''s Report",
+    "is_critical": false,
+    "attachment": "2246b934-ad1f-4552-ae81-af6d9f243a82.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Change in Registered Office Address",
+    "clean_headline": "Non-exercise of option to convert 37,37,745 warrants allotted in September 2024",
+    "raw_headline": "Intimation of change in registered and corporate office of the Company.",
+    "is_critical": false,
+    "attachment": "85bd1101-97c2-4900-8da6-0ad9d4e17193.pdf"
+  }
+]

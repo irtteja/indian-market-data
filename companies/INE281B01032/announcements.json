@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "512455",
+    "symbol": "LLOYDSME",
+    "company": "Lloyds Metals and Energy Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Intimation for approval to accquire equity stake in an entity in Cayman Islands by Lloyds Global Resources FZCO, wholly owned subsidiary of the Company",
+    "raw_headline": "Intimation for approval to accquire equity stake in an entity in Cayman Islands by Lloyds Global Resources FZCO, wholly owned subsidiary of the Company",
+    "is_critical": true,
+    "attachment": "c11164db-8999-4c2d-b159-dad853ca4b90.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "512455",
+    "symbol": "LLOYDSME",
+    "company": "Lloyds Metals and Energy Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "Company commenced new line of business in trading of metals and metal scrap",
+    "raw_headline": "Intimation of allotment of Equity Shares upon Conversion of Preferentially Issued Convertible Warrants to Non-Promoters",
+    "is_critical": false,
+    "attachment": "026f5b25-4f82-46bc-bcd1-8d812f1b5f99.pdf"
+  }
+]

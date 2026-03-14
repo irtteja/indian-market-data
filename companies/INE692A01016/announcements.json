@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532477",
+    "symbol": "UNIONBANK",
+    "company": "Union Bank of India",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Disclosure under Regulation 30 (LODR)_Credit Rating",
+    "raw_headline": "Disclosure under Regulation 30 (LODR)_Credit Rating",
+    "is_critical": true,
+    "attachment": "bf6476ea-9024-4a4a-ba8a-408b29a9dcca.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532477",
+    "symbol": "UNIONBANK",
+    "company": "Union Bank of India",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Union Bank of India informed the exchange about Credit Rating",
+    "raw_headline": "Union Bank of India informed the exchange about Credit Rating",
+    "is_critical": true,
+    "attachment": "90ccb8ac-d63a-462c-aaa3-e498bc003e0a.pdf"
+  }
+]

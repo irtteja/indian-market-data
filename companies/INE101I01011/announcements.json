@@ -14,5 +14,21 @@
     "raw_headline": "Please find enclosed intimation of record date for maturity of Commercial paper",
     "is_critical": false,
     "attachment": "1b289440-1bc9-42b0-b9d2-32a79dca0539.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "544280",
+    "symbol": "AFCONS",
+    "company": "Afcons Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Clarification",
+    "clean_headline": "SSMD Agrotech India Ltd completed first phase of Namkeen plant setup and commenced roasted chana operations",
+    "raw_headline": "The Exchange has sought clarification from Afcons Infrastructure Ltd on March 13, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

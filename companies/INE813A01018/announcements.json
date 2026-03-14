@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532313",
+    "symbol": "MAHLIFE",
+    "company": "Mahindra Lifespace Developers Ltd.",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "Resignation of Director",
+    "raw_headline": "Resignation of Director",
+    "is_critical": false,
+    "attachment": "f59fc769-d343-43a1-8f59-8ec6b8127aea.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "532313",
+    "symbol": "MAHLIFE",
+    "company": "Mahindra Lifespace Developers Ltd.",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Outcome of Board Meeting - Resignation of Director",
+    "raw_headline": "Outcome of Board Meeting - Resignation of Director",
+    "is_critical": false,
+    "attachment": "97a69635-52a7-45d4-bbb3-a5bfac97077d.pdf"
+  }
+]

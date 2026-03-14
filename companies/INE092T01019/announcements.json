@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "539437",
+    "symbol": "IDFCFIRSTB",
+    "company": "IDFC FIRST BANK LIMITED",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Board Decisions",
+    "subcategory": "General",
+    "clean_headline": "Bijoy Hans Limited approved name change to Arvaya Healthcare Limited.",
+    "raw_headline": "Kindly refer the enclosed Intimation regarding Schedule of Institutional Investor Meeting",
+    "is_critical": false,
+    "attachment": "a34dc8d5-96f3-469d-82f0-eedb01aca81f.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "539437",
+    "symbol": "IDFCFIRSTB",
+    "company": "IDFC FIRST BANK LIMITED",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Debt & Finance",
+    "subcategory": "General",
+    "clean_headline": "Shree Digvijay Cement Co. Ltd executed facility agreement with ICICI Bank and Axis Bank for term loan facility to provide INR 400 crores security deposit to Hi-Bond under brand usage and distributorship agreement",
+    "raw_headline": "Kindly refer the enclosed file for detailed disclosure.",
+    "is_critical": false,
+    "attachment": "fb99db5c-a237-41d2-ade5-bcb91edbfe36.pdf"
+  }
+]

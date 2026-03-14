@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533262",
+    "symbol": "RAMKY",
+    "company": "Ramky Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Ramky Infrastructure's subsidiary Maha Integrated Life Sciences City entered into concession agreement with Maharashtra Industrial Development Corporation",
+    "raw_headline": "MAHARASHTRA INDUSTRIAL DEVELOPMENT CORPORATION HAS ENTERED INTO CONCESSION AGREEMENT WITH MAHA INTEGRATED LIFE SCIENCES CITY LIMITED BEING WHOLLY OWNED SUBSIDIARY OF RAMKY INFRASTRUCTURE ....",
+    "is_critical": true,
+    "attachment": "438593aa-aa06-4570-8b60-33ca905fd3be.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533262",
+    "symbol": "RAMKY",
+    "company": "Ramky Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Ramky Infrastructure executes concession agreement for High Tech Pharmaceutical Park development at Dighi Port Industrial Area, Maharashtra",
+    "raw_headline": "Announcement of execution of concession agreement for development of High Tech Pharmaceutical Park at Dighi Port Industrial Area, Maharashtra",
+    "is_critical": false,
+    "attachment": "a2858bf6-879a-459c-86b2-918eec99806c.pdf"
+  }
+]

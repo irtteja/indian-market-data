@@ -14,5 +14,37 @@
     "raw_headline": "Outcome of EGM held on March 12, 2026",
     "is_critical": true,
     "attachment": "23551a12-1b74-4020-9e05-02c6a4e1ddc2.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533012",
+    "symbol": "LPDC",
+    "company": "Landmark Property Development Company Ltd.",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "EGM",
+    "clean_headline": "Voting results under regulation 44",
+    "raw_headline": "Voting results under regulation 44",
+    "is_critical": true,
+    "attachment": "6468c747-1b85-48ab-bdae-bb5e84c9f751.pdf"
+  },
+  {
+    "date": "2026-03-13",
+    "scrip_code": "533012",
+    "symbol": "LPDC",
+    "company": "Landmark Property Development Company Ltd.",
+    "sector": "Realty",
+    "industry": "Realty",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "EGM",
+    "clean_headline": "Scrutinizer report on voting for EGM held on 12th March 2026",
+    "raw_headline": "Scrutinizer report on voting for EGM held on 12th March 2026",
+    "is_critical": true,
+    "attachment": "64f3bc00-07fc-4335-ab93-346506cee4dc.pdf"
   }
 ]
