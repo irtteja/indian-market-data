@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-15",
+    "scrip_code": "500825",
+    "symbol": "BRITANNIA",
+    "company": "Britannia Industries Ltd.",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Voting Results of the Postal Ballot",
+    "raw_headline": "Voting Results of the Postal Ballot",
+    "is_critical": false,
+    "attachment": "2a621cc7-1d30-460f-afb9-39b5586fa4ff.pdf"
+  },
+  {
+    "date": "2026-03-15",
+    "scrip_code": "500825",
+    "symbol": "BRITANNIA",
+    "company": "Britannia Industries Ltd.",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of the Postal Ballot",
+    "raw_headline": "Outcome of the Postal Ballot",
+    "is_critical": false,
+    "attachment": "92731a84-98b5-4396-8b0c-8f96a735547f.pdf"
+  },
+  {
+    "date": "2026-03-15",
+    "scrip_code": "500825",
+    "symbol": "BRITANNIA",
+    "company": "Britannia Industries Ltd.",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Data Patterns (India) Limited revises order value to Rs.288 crore for supply of Doppler Weather Radars",
+    "raw_headline": "Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing Regulations, 2015 and our letter dated 12th February, 2026, this is to inform you that ....",
+    "is_critical": false,
+    "attachment": "2b5987a1-cac9-4438-830e-4ada0b21d887.pdf"
+  }
+]

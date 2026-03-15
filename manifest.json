@@ -1,15 +1,16 @@
 {
-  "generated": "2026-03-15T05:57:14.883998+00:00",
+  "generated": "2026-03-15T20:55:35.443580+00:00",
   "dates": [
+    "2026-03-15",
     "2026-03-14",
     "2026-03-13",
     "2026-03-12"
   ],
-  "total_briefings": 3,
-  "company_dossiers": 393,
-  "latest": "2026-03-14",
+  "total_briefings": 4,
+  "company_dossiers": 404,
+  "latest": "2026-03-15",
   "latest_screener_date": null,
-  "upcoming_results_count": 6,
+  "upcoming_results_count": 7,
   "upcoming_board_meetings": [
     {
       "company": "Ganesh Consumer Products Limited",
@@ -284,6 +285,17 @@
       "is_dividend": false,
       "mcap_cat": "Small Cap",
       "sector": "Financial Services",
+      "in_universe": true
+    },
+    {
+      "company": "Infosys Ltd",
+      "symbol": "INFY",
+      "date": "2026-04-23",
+      "purpose": "Board Meeting Intimation",
+      "is_results": true,
+      "is_dividend": true,
+      "mcap_cat": "Large Cap",
+      "sector": "Information Technology",
       "in_universe": true
     },
     {

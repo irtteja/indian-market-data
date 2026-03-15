@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-15",
+    "scrip_code": "543428",
+    "symbol": "DATAPATTNS",
+    "company": "Data Patterns (India) Limited",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Airfloa Rail Technology Limited receives Rs.62.36 crore purchase order",
+    "raw_headline": "This has reference to our earlier communication bearing letter no.SEC/SE/121/2025-26 dated March 15, 2026 on the intimation of receipt of a contract for a value of Rs.279 Crore for supply ....",
+    "is_critical": true,
+    "attachment": "48e623dc-c90d-4266-bb6b-fc0cf5e0db1f.pdf"
+  },
+  {
+    "date": "2026-03-15",
+    "scrip_code": "543428",
+    "symbol": "DATAPATTNS",
+    "company": "Data Patterns (India) Limited",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Data Patterns (India) Limited secured a Rs. 279 crore contract for supply of 34 Doppler Weather Radars to the Indian Meteorological Department.",
+    "raw_headline": "We are pleased to inform you that the Company has received a contract for Rs.279 Crore for supply of 34 units of Doppler Weather Radars to Indian Metrological Department.",
+    "is_critical": true,
+    "attachment": "f41eaece-a628-4b4d-a563-2a10239238c6.pdf"
+  }
+]

@@ -30,5 +30,21 @@
     "raw_headline": "Enclosed",
     "is_critical": false,
     "attachment": "b95c0840-69f9-46e3-a258-04465025b00b.pdf"
+  },
+  {
+    "date": "2026-03-15",
+    "scrip_code": "500209",
+    "symbol": "INFY",
+    "company": "Infosys Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Upcoming Board Meetings",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Dishman Carbogen Amcis board meeting scheduled for March 18, 2026 to consider fund raise proposal",
+    "raw_headline": "Infosys Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/04/2026 ,inter alia, to consider and approve 1. Approve and take on record the audited ....",
+    "is_critical": true,
+    "attachment": "343cf22e-39f0-460f-828f-025c9914369b.pdf"
   }
 ]
