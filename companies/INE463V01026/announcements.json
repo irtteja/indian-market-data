@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "543415",
+    "symbol": "ANANDRATHI",
+    "company": "Anand Rathi Wealth Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "raw_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "is_critical": false,
+    "attachment": "AE7B0285_9D35_4829_9645_E4FAB9CEDB39_111907.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "543415",
+    "symbol": "ANANDRATHI",
+    "company": "Anand Rathi Wealth Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 13, 2026 for Aqua Proof Wall Plast Pvt Ltd",
+    "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 13, 2026 for Aqua Proof Wall Plast Pvt Ltd",
+    "is_critical": false,
+    "attachment": "4736FA8A_540D_4207_AC1D_F6B7AA1F9CEA_110618.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "543415",
+    "symbol": "ANANDRATHI",
+    "company": "Anand Rathi Wealth Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "Cessation",
+    "clean_headline": "Waaree Energies announces India's largest 10 GW integrated ingot and wafer manufacturing facility in Nagpur",
+    "raw_headline": "Intimation of Completion of tenure of Independent Directors of the Company under Regulation 30 of SEBI (LODR) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "161c29b5-4720-4d0b-83d0-747ac1dce59f.pdf"
+  }
+]

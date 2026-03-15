@@ -46,5 +46,21 @@
     "raw_headline": "The Exchange has sought clarification from Regaal Resources Ltd on March 13, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "544485",
+    "symbol": "REGAAL",
+    "company": "REGAAL RESOURCES LIMITED",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Agricultural Food & other Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "Shree Cements commissioned 3.50 MTPA cement mill at Kodla, Kalaburagi",
+    "raw_headline": "Reply to the clarification sought with reference to movement in price",
+    "is_critical": false,
+    "attachment": "e382808b-b1be-4b25-8a34-79f0080afaa0.pdf"
   }
 ]

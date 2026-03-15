@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "540124",
+    "symbol": "GNA",
+    "company": "G N A Axles Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "The Results of the Postal Ballot are attached.",
+    "raw_headline": "The Results of the Postal Ballot are attached.",
+    "is_critical": false,
+    "attachment": "dd86fa21-0867-4685-979c-641e83c78ea0.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "540124",
+    "symbol": "GNA",
+    "company": "G N A Axles Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "The Report of the Scrutinizer is attached",
+    "raw_headline": "The Report of the Scrutinizer is attached",
+    "is_critical": false,
+    "attachment": "d3d4fd3b-b0c8-490b-9335-ffd41d87b7f3.pdf"
+  }
+]

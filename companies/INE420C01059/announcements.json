@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Credit Rating Update",
+    "raw_headline": "Announcement Under Regulation 30 of SEBI (LODR) Regulations- Credit Rating Update",
+    "is_critical": true,
+    "attachment": "97c6093b-86f9-4879-b614-e902a21b785e.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Meeting Updates",
+    "clean_headline": "Eris Lifesciences appoints Mr. Vineet Varma as Additional Director (Non-executive, Independent)",
+    "raw_headline": "Committee Meeting Update",
+    "is_critical": false,
+    "attachment": "73924252-98b3-4a84-8dce-e4691bac34b6.pdf"
+  }
+]

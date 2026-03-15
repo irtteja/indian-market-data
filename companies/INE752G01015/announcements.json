@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "532650",
+    "symbol": "MSPL",
+    "company": "MSP STEEL & POWER LTD.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Board appointed Chief Financial Officer based on recommendation of Nomination and Remuneration Committee",
+    "raw_headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that consequent to the special resolution passed by the shareholders ....",
+    "is_critical": false,
+    "attachment": "c6f82fda-dfe0-4c7a-b62c-3e0e864c364e.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "532650",
+    "symbol": "MSPL",
+    "company": "MSP STEEL & POWER LTD.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "Nippon Life India Asset Management to jointly develop alternative investment funds franchise with DWS Group, which will acquire up to 40% minority stake.",
+    "raw_headline": "Intimation under Regulation (30) of SEBI pursuant to the In-Principal approval accorded by NSE & BSE dated 27/02/2026 had allotted 2,80,00,000 Convertible warrants to Promoter Group Company.",
+    "is_critical": false,
+    "attachment": "44e06b58-f8c8-4ba1-b8b3-e3e8dea84bde.pdf"
+  }
+]

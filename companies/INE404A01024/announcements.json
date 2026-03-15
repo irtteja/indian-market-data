@@ -14,5 +14,21 @@
     "raw_headline": "Intimation of changes in Senior Management Personnel of the Company.",
     "is_critical": false,
     "attachment": "569b2ccb-e45a-475e-a910-297242d0c916.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "543374",
+    "symbol": "ABSLAMC",
+    "company": "Aditya Birla Sun Life AMC Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Disclosure regarding ESG Rating of the Company.",
+    "raw_headline": "Disclosure regarding ESG Rating of the Company.",
+    "is_critical": true,
+    "attachment": "33ecabf1-3bd8-4036-a64f-0abcd9f3ce7e.pdf"
   }
 ]

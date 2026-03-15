@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "539151",
+    "symbol": "ARFIN",
+    "company": "Arfin India Limited",
+    "sector": "Metals & Mining",
+    "industry": "Non - Ferrous Metals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "The company approved to subscribe to the Right issue of equity shares of the company''s Wholly Owned Subsidiary, Arfin Titanium and Speciality Alloys Limited.",
+    "raw_headline": "The company approved to subscribe to the Right issue of equity shares of the company''s Wholly Owned Subsidiary, Arfin Titanium and Speciality Alloys Limited.",
+    "is_critical": true,
+    "attachment": "1c873087-7960-4b4f-9438-97f9d5e19c77.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "539151",
+    "symbol": "ARFIN",
+    "company": "Arfin India Limited",
+    "sector": "Metals & Mining",
+    "industry": "Non - Ferrous Metals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Board appointed a new Company Secretary and Statutory Auditors.",
+    "raw_headline": "To subscribe the equity shares of Wholly owned Subsidiary via Right Issue",
+    "is_critical": false,
+    "attachment": "b3167584-4802-4033-b088-9e3103abc7c2.pdf"
+  }
+]

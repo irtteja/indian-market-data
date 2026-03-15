@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "505196",
+    "symbol": "TIL",
+    "company": "TIL Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Agricultural Commercial & Construction Vehicles",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "EGM",
+    "clean_headline": "Letter attached",
+    "raw_headline": "letter attached",
+    "is_critical": true,
+    "attachment": "48b5657c-949d-43e0-ad39-15d82243e1dd.pdf"
+  }
+]

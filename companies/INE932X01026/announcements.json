@@ -30,5 +30,37 @@
     "raw_headline": "Please find enclosed herewith the Summary of Proceedings of the NCLT Convened Meetings of the Equity Shareholders, Non-Convertible Debenture Holders, Secured Creditors and Unsecured Creditors ....",
     "is_critical": false,
     "attachment": "a3e519a9-e516-441c-a9e5-7b209011e1eb.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "540725",
+    "symbol": "SHAREINDIA",
+    "company": "Share India Securities Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Court Convened Meeting",
+    "clean_headline": "Updated voting results along with the Scrutinizer reports of the NCLT convened meetings of the Equity Shareholders, Non-Convertible Debenture Holders, ....",
+    "raw_headline": "Please find attached herewith the  updated voting results along with the Scrutinizer reports of the NCLT convened meetings of the Equity Shareholders, Non-Convertible Debenture Holders, ....",
+    "is_critical": false,
+    "attachment": "37c1db49-c9ac-4bde-ac63-8b81575b4f49.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "540725",
+    "symbol": "SHAREINDIA",
+    "company": "Share India Securities Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Court Convened Meeting",
+    "clean_headline": "Voting results along with Scrutinizer Reports of the NCLT Convened Meetings of Equity Shareholders, Non-Convertible Debenture Holders, Secured Creditors ....",
+    "raw_headline": "Please find attached herewith the voting results along with Scrutinizer Reports of the NCLT Convened Meetings of Equity Shareholders, Non-Convertible Debenture Holders, Secured Creditors ....",
+    "is_critical": false,
+    "attachment": "aa1c43b4-7898-4a11-abdb-7c57948937cb.pdf"
   }
 ]

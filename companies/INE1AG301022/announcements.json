@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-14",
+    "scrip_code": "544525",
+    "symbol": "GKENERGY",
+    "company": "GK ENERGY LIMITED",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operational Alerts",
+    "subcategory": "General",
+    "clean_headline": "Tatva Chintan Pharma Chem impacted by Natural Gas Supply Regulation Order 2026",
+    "raw_headline": "GK Energy Limited has informed the exchange about Reconstitution of the Committees of the Board of Directors.",
+    "is_critical": false,
+    "attachment": "81b3ca5b-ad37-449e-90e4-a240220a9128.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "544525",
+    "symbol": "GKENERGY",
+    "company": "GK ENERGY LIMITED",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Board to consider preferential issue of shares to meet fund requirement",
+    "raw_headline": "Outcome of Board Meeting",
+    "is_critical": false,
+    "attachment": "3337234e-3995-44fa-b173-a5b4951a8ec1.pdf"
+  }
+]

@@ -1,48 +1,16 @@
 {
-  "generated": "2026-03-14T05:20:46.095516+00:00",
+  "generated": "2026-03-15T05:57:14.883998+00:00",
   "dates": [
+    "2026-03-14",
     "2026-03-13",
     "2026-03-12"
   ],
-  "total_briefings": 2,
-  "company_dossiers": 348,
-  "latest": "2026-03-13",
-  "latest_screener_date": "2026-03-13",
-  "upcoming_results_count": 7,
+  "total_briefings": 3,
+  "company_dossiers": 393,
+  "latest": "2026-03-14",
+  "latest_screener_date": null,
+  "upcoming_results_count": 6,
   "upcoming_board_meetings": [
-    {
-      "company": "GK ENERGY LIMITED",
-      "symbol": "GKENERGY",
-      "date": "2026-03-14",
-      "purpose": "Board Meeting Intimation",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Micro Cap",
-      "sector": "Construction",
-      "in_universe": true
-    },
-    {
-      "company": "MSP STEEL & POWER LTD.",
-      "symbol": "MSPL",
-      "date": "2026-03-14",
-      "purpose": "Board Meeting Intimation",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Micro Cap",
-      "sector": "Capital Goods",
-      "in_universe": true
-    },
-    {
-      "company": "Omnitech Engineering Limited",
-      "symbol": "OMNI",
-      "date": "2026-03-14",
-      "purpose": "Board Meeting Intimation",
-      "is_results": true,
-      "is_dividend": false,
-      "mcap_cat": "Micro Cap",
-      "sector": "Capital Goods",
-      "in_universe": true
-    },
     {
       "company": "Ganesh Consumer Products Limited",
       "symbol": "GANESHCP",
@@ -209,6 +177,17 @@
       "in_universe": true
     },
     {
+      "company": "Dishman Carbogen Amcis Limited",
+      "symbol": "DCAL",
+      "date": "2026-03-18",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Healthcare",
+      "in_universe": true
+    },
+    {
       "company": "Gaudium IVF and Women Health Limited",
       "symbol": "GAUDIUMIVF",
       "date": "2026-03-18",
@@ -218,6 +197,17 @@
       "mcap_cat": "",
       "sector": "",
       "in_universe": false
+    },
+    {
+      "company": "PAISALO DIGITAL LIMITED",
+      "symbol": "PAISALO",
+      "date": "2026-03-18",
+      "purpose": "Board Meeting Intimation",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Financial Services",
+      "in_universe": true
     },
     {
       "company": "Indian Renewable Energy Development Agency Limited",

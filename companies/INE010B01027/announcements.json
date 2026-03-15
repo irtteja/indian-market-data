@@ -46,5 +46,21 @@
     "raw_headline": "Zydus receives final approval from USFDA for Cevimeline Hydrochloride Capsules 30mg.",
     "is_critical": false,
     "attachment": "ce646b53-7caa-45fd-bdf1-e80b4623b8ba.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "532321",
+    "symbol": "ZYDUSLIFE",
+    "company": "Zydus Lifesciences Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Zydus Lifesciences' drug discovery Desidustat licensed to China Medical System Holdings received approval from China's NMPA.",
+    "raw_headline": "Zydus'' new drug discovery, ''Desidustat'' licensed to China Medical System Holdings receives approval from NMPA of of China.",
+    "is_critical": false,
+    "attachment": "281c42fb-f882-4cdf-8bad-b6824c148b10.pdf"
   }
 ]

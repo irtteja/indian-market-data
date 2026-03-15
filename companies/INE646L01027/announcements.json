@@ -14,5 +14,21 @@
     "raw_headline": "InterGlobe Aviation Limited has informed the Exchange regarding a press release dated March 13, 2026, titled \"IndiGo Introduces ''Fuel Charge'' from 14 March 2026\"",
     "is_critical": false,
     "attachment": "6692b226-cb55-4177-8231-b211883c8f6d.pdf"
+  },
+  {
+    "date": "2026-03-14",
+    "scrip_code": "539448",
+    "symbol": "INDIGO",
+    "company": "InterGlobe Aviation Limited",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "AVG Logistics scheduled analyst and investor meeting on 18th March 2026 at 12:30 PM via Zoom",
+    "raw_headline": "InterGlobe Aviation Limited has informed the Exchange regarding a press release dated March 14, 2026, titled \"Update on IndiGo''s Middle East Operations\"",
+    "is_critical": false,
+    "attachment": "dfaec096-14d3-4f39-9fb7-9a02ade80500.pdf"
   }
 ]
