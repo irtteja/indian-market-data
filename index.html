@@ -2106,11 +2106,12 @@ function calGoToday() {
   renderCalendar();
 }
 
+let calSelectedDate = null;
+
 function calSelectDate(ds) {
   calSelectedDate = ds;
   renderCalendar();   // re-render to highlight selected cell + show detail panel
 }
-let calSelectedDate = null;
 
 // ── Init ───────────────────────────────────────────────────────────────────
 async function init() {
