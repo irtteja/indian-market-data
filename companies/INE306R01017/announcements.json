@@ -30,5 +30,53 @@
     "raw_headline": "Intellect Design Arena Limited has informed the Exchange regarding Proceedings of Postal Ballot. Further, the Company has informed the Exchange regarding voting results along with the copy ....",
     "is_critical": false,
     "attachment": "168301d5-eb8a-4c2c-9fa1-5fca77721ed9.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "538835",
+    "symbol": "INTELLECT",
+    "company": "INTELLECT DESIGN ARENA LIMITED",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Management",
+    "clean_headline": "Two senior management personnel changes: President of Western Hemisphere and Chief Partner Officer stepping down effective March 31, 2026.",
+    "raw_headline": "Intellect Design Arena Limited has informed the exchange about Change in Management",
+    "is_critical": false,
+    "attachment": "60af9042-db5e-4c11-a725-505a1d0274c2.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "538835",
+    "symbol": "INTELLECT",
+    "company": "INTELLECT DESIGN ARENA LIMITED",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Joint Venture",
+    "clean_headline": "Netweb Technologies will conduct investor roadshow in USA on March 19-20, 2026",
+    "raw_headline": "Intimation of Joint Venture between Intellect Design Arena Limited and Fintel (UK)",
+    "is_critical": true,
+    "attachment": "4402e3fc-86b8-49d0-8286-2bbbdda62084.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "538835",
+    "symbol": "INTELLECT",
+    "company": "INTELLECT DESIGN ARENA LIMITED",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Intellect Design Arena forms 50:50 joint venture with Fintel PLC to deploy AI platform in UK Wealth Management market",
+    "raw_headline": "Intellect and Fintel Create AI-First Joint Venture to Re-Architect the UK Financial Advice Industry",
+    "is_critical": false,
+    "attachment": "7ac3c17d-01fb-4d57-ba78-552b2ad1d919.pdf"
   }
 ]

@@ -30,5 +30,37 @@
     "raw_headline": "Proceedings of NCLT Convened meeting of Equity Shareholders of Bhagyanagar India Limited",
     "is_critical": false,
     "attachment": "99707b5f-20d3-4240-bccd-92db9559d181.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "512296",
+    "symbol": "BHAGYANGR",
+    "company": "Bhagyanagar India Limited",
+    "sector": "Metals & Mining",
+    "industry": "Non - Ferrous Metals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Court Convened Meeting",
+    "clean_headline": "Consolidated Voting Results along with scrutinizer''s report in respect of meeting of Equity shareholders of Bhagyanagar India Limited held on 14.03.2026",
+    "raw_headline": "Consolidated Voting Results along with scrutinizer''s report in respect of meeting of Equity shareholders of Bhagyanagar India Limited held on 14.03.2026",
+    "is_critical": false,
+    "attachment": "eac94223-1537-48c1-8507-681a6f0af449.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "512296",
+    "symbol": "BHAGYANGR",
+    "company": "Bhagyanagar India Limited",
+    "sector": "Metals & Mining",
+    "industry": "Non - Ferrous Metals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Court Convened Meeting",
+    "clean_headline": "Voting Results of the NCLT convened Meeting of the Trade Creditors of  Bhagyanagar Copper Private Limited (a Wholly Owned Subsidiary)",
+    "raw_headline": "Voting Results of the NCLT convened Meeting of the Trade Creditors of  Bhagyanagar Copper Private Limited (a Wholly Owned Subsidiary)",
+    "is_critical": false,
+    "attachment": "4916444a-6d37-4d64-9e0c-d76bbd153df9.pdf"
   }
 ]

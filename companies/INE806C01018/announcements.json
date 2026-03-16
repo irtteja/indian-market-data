@@ -14,5 +14,21 @@
     "raw_headline": "letter attached",
     "is_critical": true,
     "attachment": "48b5657c-949d-43e0-ad39-15d82243e1dd.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "505196",
+    "symbol": "TIL",
+    "company": "TIL Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Agricultural Commercial & Construction Vehicles",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Raising of Funds",
+    "clean_headline": "Ola Electric clarifies on reported Rs 2,000 crore fundraise plans for battery arm",
+    "raw_headline": "Outcome of Rights Issue Committee Meeting held on 16th March, 2026",
+    "is_critical": false,
+    "attachment": "b5e5de8c-f9ae-4e42-9859-a17451002f4f.pdf"
   }
 ]

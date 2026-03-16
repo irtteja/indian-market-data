@@ -14,5 +14,21 @@
     "raw_headline": "New Order Received",
     "is_critical": true,
     "attachment": "92532af0-cf3e-4b0d-b285-2bb1eb4d2ea3.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543265",
+    "symbol": "RAILTEL",
+    "company": "RailTel Corporation of India Limited",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "New Order Received",
+    "raw_headline": "New Order Received",
+    "is_critical": true,
+    "attachment": "209780dc-093f-4d6b-aa8e-87adfd17476b.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Disclosure regarding allotment of equity shares as per enclosed details",
     "is_critical": false,
     "attachment": "fe4922f2-8527-481e-aa32-d90fa1f1d1d7.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "541400",
+    "symbol": "ZIMLAB",
+    "company": "ZIM Laboratories Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Sagar Cements to sell certain equity shares of Andhra Cements Limited held in the open market to achieve minimum public shareholding",
+    "raw_headline": "Intimation of schedule of Investor meet to be held on Friday, 20th March, 2026",
+    "is_critical": false,
+    "attachment": "a250a066-616e-4a8e-9b56-bb909e74d508.pdf"
   }
 ]

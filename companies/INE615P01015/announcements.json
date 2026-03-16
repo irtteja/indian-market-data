@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "539978",
+    "symbol": "QUESS",
+    "company": "Quess Corp Limited",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "General",
+    "clean_headline": "Quess Corp board approves introduction of QSOP 2026 and amendments to QSOP 2020, and approves changes in directors and key managerial personnel",
+    "raw_headline": "Introduction of QSOP 2026 and amendment to QSOP 2020",
+    "is_critical": false,
+    "attachment": "e5da63cd-db83-441a-81dd-7c4bbb84396a.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "539978",
+    "symbol": "QUESS",
+    "company": "Quess Corp Limited",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Change in Management",
+    "clean_headline": "Cupid Breweries executed agreement with Bansal Udyog Private Limited for strategic market expansion in West Bengal",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI Listing Regulations - Change in Directors and KMP",
+    "is_critical": false,
+    "attachment": "4990b3a1-cf76-4163-abb4-c4aa00eaea9b.pdf"
+  }
+]

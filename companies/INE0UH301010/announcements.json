@@ -46,5 +46,21 @@
     "raw_headline": "Approval of Unaudited Standalone and Consolidated Results for the quarter and nine months ended 31st December, 2025",
     "is_critical": false,
     "attachment": "bcc000d6-fa0c-4717-9996-d17af7b254d9.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544720",
+    "symbol": "OMNI",
+    "company": "Omnitech Engineering Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Financial Results",
+    "subcategory": "Newspaper Publication",
+    "clean_headline": "Submission of Newspaper Clippings of Unaudited Financial Results (Standalone and Consolidated) for its third quarter and nine months ended December 31 2025",
+    "raw_headline": "Submission of Newspaper Clippings of Unaudited Financial Results (Standalone and Consolidated) for its third quarter and nine months ended December 31 2025",
+    "is_critical": false,
+    "attachment": "39f4765c-6294-470a-b653-35e56d5b7bd7.pdf"
   }
 ]

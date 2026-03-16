@@ -14,5 +14,37 @@
     "raw_headline": "Intimation of schedule of Investor/ Analyst meeting",
     "is_critical": false,
     "attachment": "83036bf6-2242-4a5f-bc96-c3904b2d1fc2.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544172",
+    "symbol": "INDGN",
+    "company": "Indegene Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Kalind Ltd appointed Mrs. Anju Surajsingh Chauhan as Company Secretary and Compliance Officer effective March 16, 2026",
+    "raw_headline": "Clarification Letter",
+    "is_critical": false,
+    "attachment": "12ae5696-1238-48ec-991c-cc2abe5c396f.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544172",
+    "symbol": "INDGN",
+    "company": "Indegene Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Clarification",
+    "clean_headline": "Promoter group member Raj Goenka acquired 79,013 equity shares through open market purchase",
+    "raw_headline": "The Exchange has sought clarification from Indegene Ltd on March 16, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

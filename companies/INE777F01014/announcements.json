@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544133",
+    "symbol": "EXICOM",
+    "company": "EXICOM TELE-SYSTEMS LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Tejas Networks selected for a 4G network expansion project in South Asia",
+    "raw_headline": "Exicom has informed the Exchange about commencement of commercial production operations",
+    "is_critical": false,
+    "attachment": "d7cea4df-8ee3-4774-93fa-d488417b6588.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544133",
+    "symbol": "EXICOM",
+    "company": "EXICOM TELE-SYSTEMS LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Exicom inaugurates integrated manufacturing facility in Hyderabad for EV charging and critical power solutions",
+    "raw_headline": "Exicom has informed the Exchange regarding Press Release dated March 16, 2026 titled \"Exicom inaugurates Integrated Manufacturing Facility in Hyderabad, Telangana to scale EV Charging and ....",
+    "is_critical": false,
+    "attachment": "fc862fb6-1362-4c40-b67d-a4d04e0b9db3.pdf"
+  }
+]

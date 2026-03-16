@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "513375",
+    "symbol": "CARBORUNIV",
+    "company": "Carborundum Universal Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Power Mech Projects Limited secured large-scale order from Adani Group",
+    "raw_headline": "Enclosed Press Release dated March 16, 2026",
+    "is_critical": false,
+    "attachment": "c046854b-10c8-4dc0-a075-cbc1975a266a.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "513375",
+    "symbol": "CARBORUNIV",
+    "company": "Carborundum Universal Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Enclosed notice of Postal Ballot",
+    "raw_headline": "Enclosed notice of Postal Ballot",
+    "is_critical": false,
+    "attachment": "4557384d-f349-47ac-b021-bf35e56d9311.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "513375",
+    "symbol": "CARBORUNIV",
+    "company": "Carborundum Universal Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "Carborundum Universal commencing commercial production of cutting and grinding wheels (Thin Wheel) facility at Hosur",
+    "raw_headline": "Enclosed intimation under Regulation 30 of Listing Regulations pertaining to capacity addition.",
+    "is_critical": false,
+    "attachment": "9bfe7005-9567-45c6-8215-df4aad7eb982.pdf"
+  }
+]

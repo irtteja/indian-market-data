@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "533179",
+    "symbol": "PERSISTENT",
+    "company": "Persistent Systems Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Management Changes",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Appointment of Non-Executive Non-Independent Director to the company",
+    "raw_headline": "The intimation of Investor/Analyst sessions scheduled to be held on Thursday, March 19, 2026, and Friday, March 20, 2026, is as enclosed.",
+    "is_critical": false,
+    "attachment": "facb451d-9529-4d69-929b-84e6115a3925.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "533179",
+    "symbol": "PERSISTENT",
+    "company": "Persistent Systems Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Krako Precision Private Limited, an associate company of Kranti Industries, has commenced trial production.",
+    "raw_headline": "The outcome of Investor/Analyst sessions held on Monday, March 16, 2026, is as enclosed.",
+    "is_critical": false,
+    "attachment": "8a22c5c2-c6fb-4105-a060-dc881d8380ab.pdf"
+  }
+]

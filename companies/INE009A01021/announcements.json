@@ -46,5 +46,21 @@
     "raw_headline": "Infosys Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/04/2026 ,inter alia, to consider and approve 1. Approve and take on record the audited ....",
     "is_critical": true,
     "attachment": "343cf22e-39f0-460f-828f-025c9914369b.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "500209",
+    "symbol": "INFY",
+    "company": "Infosys Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Newspaper Publication",
+    "clean_headline": "Aarti Drugs updates on High Court order setting aside CGST & C.Ex. Authority order",
+    "raw_headline": "Enclosed",
+    "is_critical": false,
+    "attachment": "ebcf21c5-7929-4f07-ac73-b78f58e6e5ef.pdf"
   }
 ]

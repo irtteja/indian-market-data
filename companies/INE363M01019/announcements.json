@@ -14,5 +14,21 @@
     "raw_headline": "Please refer attached annoucement",
     "is_critical": false,
     "attachment": "ac6c98fe-0c51-4f3a-8851-422a2ffd767e.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "538685",
+    "symbol": "SHEMAROO",
+    "company": "SHEMAROO ENTERTAINMENT LIMITED",
+    "sector": "Media Entertainment & Publication",
+    "industry": "Entertainment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Intimation under Regulation 30 and 44 of the SEBI (LODR) Regulations, 2015",
+    "raw_headline": "Intimation under Regulation 30 and 44 of the SEBI (LODR) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "b01bbd78-9f6a-49dd-8efe-eaba155a4347.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Attached details of an Appeal order received from Telangana GST Dept",
     "is_critical": false,
     "attachment": "2541445d-b82b-4298-95fc-5c414f089db5.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "500710",
+    "symbol": "AKZOINDIA",
+    "company": "Akzo Nobel India Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Investor presentation attached.",
+    "raw_headline": "Investor presentation attached.",
+    "is_critical": false,
+    "attachment": "aa44c1f0-5314-4685-8a82-477e3689aa2b.pdf"
   }
 ]

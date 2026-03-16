@@ -14,5 +14,21 @@
     "raw_headline": "Ola Electric Mobility Limited has informed the exchange regarding a Press Release dated March 14, 2026",
     "is_critical": false,
     "attachment": "14425a64-0dd0-46f1-ae40-a25ec6dc8c3c.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544225",
+    "symbol": "OLAELEC",
+    "company": "Ola Electric Mobility Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Automobiles",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Clarification",
+    "clean_headline": "Change in management at GlaxoSmithKline Pharmaceuticals Limited",
+    "raw_headline": "The Exchange has sought clarification from Ola Electric Mobility Ltd on March 16, 2026, with reference to news appeared in https://economictimes.indiatimes.com/ dated March 16, 2026 quoting ....",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

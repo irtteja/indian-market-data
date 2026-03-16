@@ -14,5 +14,21 @@
     "raw_headline": "Outcome of investor meet (general) is attached",
     "is_critical": false,
     "attachment": "c0575b40-e9fa-4b1f-ad8d-91b19f8ddc6c.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "534674",
+    "symbol": "DUCON",
+    "company": "Ducon Infratechnologies Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Resignation of Director",
+    "clean_headline": "Independent Director appointed to Dredging Corporation of India Ltd",
+    "raw_headline": "Detailed letter is attached.",
+    "is_critical": false,
+    "attachment": "d4f0bed4-53ae-4779-bbae-153be6e4920f.pdf"
   }
 ]

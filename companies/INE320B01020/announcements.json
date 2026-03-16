@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "517544",
+    "symbol": "CENTUM",
+    "company": "Centum Electronics Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Scrutinizer''s report",
+    "raw_headline": "Scrutinizer''s report",
+    "is_critical": false,
+    "attachment": "ab63bfdd-88ab-4b25-a8ac-d1cf5632166e.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "517544",
+    "symbol": "CENTUM",
+    "company": "Centum Electronics Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot",
+    "raw_headline": "Outcome of Postal Ballot",
+    "is_critical": false,
+    "attachment": "203a9c66-1057-43ff-940c-765f55eef46b.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "517544",
+    "symbol": "CENTUM",
+    "company": "Centum Electronics Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "BSE sought clarification from IDBI Bank on a news report dated March 16, 2026.",
+    "raw_headline": "Schedule of Investor/Analyst meeting",
+    "is_critical": false,
+    "attachment": "344c0f7e-2237-40ee-87f1-6a46308c4b28.pdf"
+  }
+]

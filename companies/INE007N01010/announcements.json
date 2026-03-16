@@ -30,5 +30,37 @@
     "raw_headline": "Intimation of Investor Meet held on March 13, 2026",
     "is_critical": false,
     "attachment": "2e9b5d86-105e-43c2-b28a-2edc42041b9b.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544027",
+    "symbol": "FEDFINA",
+    "company": "Fedbank Financial Services Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Intimation of Credit Rating of facility/ instrument of the Company",
+    "raw_headline": "Intimation of Credit Rating of facility/ instrument of the Company",
+    "is_critical": true,
+    "attachment": "2e2dd48f-2df4-4c11-ba8c-34101be6e5b4.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544027",
+    "symbol": "FEDFINA",
+    "company": "Fedbank Financial Services Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Indian Energy Exchange scheduled an analyst/investor meeting with UNIFI Capital on March 19, 2026",
+    "raw_headline": "Intimation of Investor Meet held on March 16, 2026",
+    "is_critical": false,
+    "attachment": "74a32d67-25ac-429f-b746-4d9c4ec29986.pdf"
   }
 ]

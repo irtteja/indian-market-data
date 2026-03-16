@@ -30,5 +30,21 @@
     "raw_headline": "Please find attached herewith outcome of Investor Call",
     "is_critical": false,
     "attachment": "8e76fcbc-62ff-4ca8-9ecb-bc61fc2ddadb.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "533293",
+    "symbol": "KIRLOSENG",
+    "company": "Kirloskar Oil Engines Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "B-Right Realestate incorporated wholly-owned subsidiary Brightsky Luxespace Private Limited",
+    "raw_headline": "Please find attached herewith outcome of Investor Call",
+    "is_critical": false,
+    "attachment": "7ee878d0-7848-4ed5-b350-e7cf9806239c.pdf"
   }
 ]

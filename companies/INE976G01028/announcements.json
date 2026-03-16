@@ -46,5 +46,21 @@
     "raw_headline": "RBL Bank Limited informs the exchange about Investor Meet.",
     "is_critical": false,
     "attachment": "39be5a99-bc4d-4ca3-b913-6bed20f1062a.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540065",
+    "symbol": "RBLBANK",
+    "company": "RBL Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Pre-offer advertisement and corrigendum for open offer by Parshav Vatika LLP and associates to acquire 26% of Lykis Limited at specified price.",
+    "raw_headline": "RBL Bank Limited informs the exchange about Analyst Meet.",
+    "is_critical": false,
+    "attachment": "d86371f9-cd24-43c1-8371-979a52228d43.pdf"
   }
 ]

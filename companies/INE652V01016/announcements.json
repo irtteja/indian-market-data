@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544528",
+    "symbol": "GANESHCP",
+    "company": "Ganesh Consumer Products Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Management",
+    "clean_headline": "Intimation regarding the Appointment of Director",
+    "raw_headline": "Intimation regarding the Appointment of Director",
+    "is_critical": false,
+    "attachment": "af00617b-51cb-4373-b7a3-3630831c334f.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544528",
+    "symbol": "GANESHCP",
+    "company": "Ganesh Consumer Products Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Resignation of Director",
+    "clean_headline": "Intimation regarding Resignation of Independent Director and Non-Executive Non-Independent Director",
+    "raw_headline": "Intimation regarding Resignation of Independent Director and Non-Executive Non-Independent Director",
+    "is_critical": false,
+    "attachment": "dfe1b63a-b019-415a-b22c-ee28442cf84c.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532395",
+    "symbol": "AXISCADES",
+    "company": "AXISCADES TECHNOLOGIES LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Acquisition",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Acquisition",
+    "is_critical": true,
+    "attachment": "0a7fccc9-ec87-4e5f-bd2c-01a15c625338.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532395",
+    "symbol": "AXISCADES",
+    "company": "AXISCADES TECHNOLOGIES LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operational Alerts",
+    "subcategory": "General",
+    "clean_headline": "Redington Limited provides update on geopolitical developments affecting its operations in the Gulf region",
+    "raw_headline": "Board comments on fine by the Exchange",
+    "is_critical": false,
+    "attachment": "9cef359b-4cc2-44b2-a04e-17fb038e0dc8.pdf"
+  }
+]

@@ -30,5 +30,21 @@
     "raw_headline": "Intimation attached",
     "is_critical": false,
     "attachment": "1182ef1c-ac7c-46a6-9859-44ae9ad68cc0.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540005",
+    "symbol": "LTM",
+    "company": "LTIMindtree Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "LTIMindtree partners with IIT Kharagpur to upskill workforce in AI",
+    "raw_headline": "Intimation attached",
+    "is_critical": false,
+    "attachment": "b7349fa8-3194-479b-8b6c-c05ec9641665.pdf"
   }
 ]

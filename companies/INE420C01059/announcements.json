@@ -30,5 +30,53 @@
     "raw_headline": "Committee Meeting Update",
     "is_critical": false,
     "attachment": "73924252-98b3-4a84-8dce-e4691bac34b6.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "TIL Limited postpones Rights Issue Committee meeting due to pending stock exchange in-principle approval",
+    "raw_headline": "Press Release dated March 16, 2026",
+    "is_critical": false,
+    "attachment": "6c215620-6746-4b3d-a49d-d057068022de.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Credit Rating update",
+    "raw_headline": "Credit Rating update",
+    "is_critical": true,
+    "attachment": "cb52118a-685e-48a9-b232-f30f393bb82b.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Paisalo Digital Limited scheduled analyst/institutional investor meet",
+    "raw_headline": "Intimation of schedule of Analyst/Institutional Investor Meet",
+    "is_critical": false,
+    "attachment": "1b5c8d2e-63a4-4292-b182-51cb6b549618.pdf"
   }
 ]
