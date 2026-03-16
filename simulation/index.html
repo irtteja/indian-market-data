@@ -1,180 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EquityDesk — Market Simulation · 2026-03-15</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #0f0f0f; --bg2: #161616; --bg3: #1e1e1e;
-    --text: #f0ede8; --text2: #a09a94; --text3: #6b6560;
-    --border: #2a2520; --accent: #d4823a;
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: var(--bg); color: var(--text); font-family: 'Syne', sans-serif; min-height: 100vh; }
-  .header { background: var(--bg2); border-bottom: 1px solid var(--border); padding: 14px 24px; display: flex; align-items: center; gap: 16px; }
-  .logo { font-weight: 700; font-size: 16px; color: var(--accent); letter-spacing: 0.05em; }
-  .back-link { font-size: 12px; color: var(--text3); text-decoration: none; margin-left: auto; }
-  .back-link:hover { color: var(--text2); }
-  .container { max-width: 960px; margin: 0 auto; padding: 24px 20px; }
-  h1 { font-size: 28px; font-weight: 700; margin-bottom: 4px; }
-  .meta { color: var(--text3); font-size: 13px; margin-bottom: 24px; }
-  .outlook-banner { background: var(--bg2); border: 1px solid var(--border); border-left: 4px solid #f59e0b; border-radius: 10px; padding: 20px 24px; margin-bottom: 24px; }
-  .outlook-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px; }
-  .outlook-value { font-size: 22px; font-weight: 700; color: #f59e0b; text-transform: uppercase; letter-spacing: 0.05em; }
-  .one-liner { font-size: 15px; color: var(--text2); margin-top: 8px; line-height: 1.5; }
-  .confidence { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: var(--bg3); color: var(--text3); margin-top: 8px; }
-  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
-  @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
-  .card { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
-  .card-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text3); margin-bottom: 12px; }
-  .mood-pill { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; background: var(--bg3); }
-  .stat-row { display: flex; justify-content: space-between; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
-  .stat-row:last-child { border-bottom: none; }
-  .stat-label { color: var(--text3); }
-  .stat-val { font-family: 'DM Mono', monospace; font-size: 12px; }
-  .item-row { padding: 10px 0; border-bottom: 1px solid var(--border); }
-  .item-row:last-child { border-bottom: none; }
-  .symbol { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--accent); font-weight: 600; }
-  .reason { font-size: 12px; color: var(--text2); margin-top: 4px; line-height: 1.4; }
-  .full-card { grid-column: 1 / -1; }
-  ul.list { list-style: none; padding: 0; }
-  ul.list li { font-size: 13px; color: var(--text2); padding: 5px 0; border-bottom: 1px solid var(--border); line-height: 1.4; }
-  ul.list li::before { content: "→ "; color: var(--accent); }
-  ul.list li:last-child { border-bottom: none; }
-  .agent-tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--bg3); color: var(--text3); margin-left: 8px; }
-  .footer { text-align: center; color: var(--text3); font-size: 12px; padding: 32px 0 16px; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EquityDesk Simulation — 16 Mar 2026</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0f1117; color: #e2e8f0;
+            padding: 24px 16px; max-width: 1000px; margin: 0 auto;
+        }
+        .header { border-bottom: 1px solid #2d3748; padding-bottom: 16px; margin-bottom: 16px; }
+        .header h1 { font-size: 1.4rem; color: #f7fafc; }
+        .meta { font-size: 0.82rem; color: #718096; margin-top: 6px; }
+        .outlook-badge {
+            display: inline-block; margin-top: 10px;
+            padding: 5px 16px; border-radius: 20px;
+            font-size: 0.85rem; font-weight: 700;
+        }
+        .bull { background: #1c4532; color: #68d391; }
+        .cautious-bull { background: #1a3a2a; color: #9ae6b4; }
+        .bear { background: #4a1010; color: #fc8181; }
+        .cautious-bear { background: #3a1a1a; color: #feb2b2; }
+        .neut { background: #1a2744; color: #90cdf4; }
+        .section-title {
+            font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
+            text-transform: uppercase; color: #718096;
+            margin-bottom: 12px; margin-top: 28px;
+        }
+        .synthesis-box {
+            background: #1a202c; border: 1px solid #276749;
+            border-left: 3px solid #38a169;
+            border-radius: 8px; padding: 20px 24px;
+        }
+        .syn-section {
+            font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em;
+            text-transform: uppercase; color: #718096;
+            margin-top: 16px; margin-bottom: 6px;
+        }
+        .syn-text { font-size: 0.9rem; line-height: 1.75; color: #e2e8f0; margin-bottom: 4px; }
+        .impact-line { font-size: 0.88rem; line-height: 1.7; padding: 4px 0; }
+        .bull-line { color: #9ae6b4; }
+        .bear-line { color: #feb2b2; }
+        .neut-line { color: #90cdf4; }
+        .agents-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+            gap: 14px;
+        }
+        .agent-card {
+            background: #1a202c; border: 1px solid #2d3748;
+            border-radius: 8px; padding: 18px;
+        }
+        .agent-header {
+            display: flex; align-items: center; gap: 10px;
+            margin-bottom: 14px; padding-bottom: 10px;
+            border-bottom: 1px solid #2d3748;
+        }
+        .emoji { font-size: 1.2rem; }
+        .agent-name { font-weight: 600; font-size: 0.92rem; color: #f7fafc; }
+        .agent-output { font-size: 0.84rem; }
+        .news-item {
+            background: #0f1117; border-left: 3px solid #4a5568;
+            padding: 6px 10px; margin: 10px 0 4px;
+            font-weight: 600; color: #f7fafc; line-height: 1.5;
+            border-radius: 0 4px 4px 0;
+        }
+        .news-meta { color: #a0aec0; line-height: 1.6; padding: 2px 0; }
+        .news-bull { color: #9ae6b4; line-height: 1.6; padding: 2px 0; }
+        .news-bear { color: #feb2b2; line-height: 1.6; padding: 2px 0; }
+        .agent-section {
+            font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em;
+            text-transform: uppercase; color: #718096;
+            margin-top: 14px; margin-bottom: 6px;
+        }
+        .agent-text { color: #cbd5e0; line-height: 1.7; padding: 1px 0; }
+        .bullet { color: #e2e8f0; line-height: 1.7; padding: 2px 0; }
+        .weekend-note {
+            background: #1a2744; border: 1px solid #2a4a8a;
+            border-radius: 6px; padding: 8px 14px;
+            font-size: 0.82rem; color: #90cdf4; margin-bottom: 16px;
+        }
+        .web-badge {
+            display: inline-block; padding: 2px 8px;
+            background: #1a3a2a; color: #68d391;
+            border-radius: 4px; font-size: 0.68rem; margin-left: 8px;
+        }
+        .footer {
+            text-align: center; font-size: 0.76rem; color: #4a5568;
+            padding-top: 20px; margin-top: 32px;
+            border-top: 1px solid #2d3748;
+        }
+        .back-link {
+            display: inline-block; margin-bottom: 20px;
+            font-size: 0.83rem; color: #63b3ed; text-decoration: none;
+        }
+        .back-link:hover { text-decoration: underline; }
+    </style>
 </head>
 <body>
+    <a href="../" class="back-link">← Back to Daily Briefing</a>
 
-<div class="header">
-  <span class="logo">EQUITYDESK</span>
-  <span style="color:var(--text3);font-size:13px;">Market Simulation · 2026-03-15</span>
-  <a class="back-link" href="../">← Back to Briefing</a>
-</div>
-
-<div class="container">
-  <h1>Market Simulation</h1>
-  <div class="meta">AI-powered impact analysis · 4 specialist agents · Generated 16 Mar 2026, 15:30 IST</div>
-
-  <!-- Master Outlook -->
-  <div class="outlook-banner">
-    <div class="outlook-label">Tomorrow's Market Outlook</div>
-    <div class="outlook-value">neutral</div>
-    <div class="one-liner">Market outlook for tomorrow.</div>
-    <span class="confidence">Confidence: medium</span>
-  </div>
-
-  <div class="grid">
-
-    <!-- Sentiment Snapshot -->
-    <div class="card">
-      <div class="card-title">📊 Market Pulse <span class="agent-tag">Sentiment Agent</span></div>
-      <div class="stat-row"><span class="stat-label">Nifty Level</span><span class="stat-val">23,131-23,151 (mid-session)</span></div>
-      <div class="stat-row"><span class="stat-label">India VIX</span><span class="stat-val">22.65 (+5.23%)</span></div>
-      <div class="stat-row"><span class="stat-label">PCR</span><span class="stat-val">0.5788</span></div>
-      <div class="stat-row"><span class="stat-label">FII Stance</span><span class="stat-val">net_seller</span></div>
-      <div class="stat-row"><span class="stat-label">Mood</span><span class="mood-pill" style="color:#f59e0b">Cautious</span></div>
-      <div style="font-size:12px;color:var(--text2);margin-top:10px;line-height:1.5;"><cite index="2-3,2-4">The Nifty50 and Sensex were swinging between losses and gains in a volatile session as traders continued to monitor the US-Iran conflict and volatile energy prices. The Nifty50 was trading 0.08% down at 23,131.50 points.</cite> <cite index="6-3">Market volatility is expected to persist in the near term as geopolitical tensions in West Asia continue to disrupt the energy sector and push crude oil prices higher.</cite> <cite index="6-1,6-5,6-6">The Nifty50 remains in a corrective phase after breaching key long-term support levels and slipping to an 11-month low, continuing to form lower highs and lower lows, indicating a sustained downtrend.</cite></div>
-    </div>
-
-    <!-- Agent Moods -->
-    <div class="card">
-      <div class="card-title">🌐 Agent Signals</div>
-      <div class="stat-row">
-        <span class="stat-label">Macro (Global)</span>
-        <span class="mood-pill" style="color:#ef4444">Bearish</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">Domestic (India)</span>
-        <span class="mood-pill" style="color:#22c55e">Bullish</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">Sentiment</span>
-        <span class="mood-pill" style="color:#f59e0b">Cautious</span>
-      </div>
-      <div class="stat-row">
-        <span class="stat-label">Overall Outlook</span>
-        <span class="mood-pill" style="color:#f59e0b">Neutral</span>
-      </div>
-    </div>
-
-    <!-- Top Sectors -->
-    <div class="card">
-      <div class="card-title">📂 Sector Outlook <span class="agent-tag">Synthesizer</span></div>
-      <div style="color:var(--text3);font-size:13px;">No sector data</div>
-    </div>
-
-    <!-- Key Risks & Catalysts -->
-    <div class="card">
-      <div class="card-title">⚠️ Risks & Catalysts</div>
-      <div style="font-size:11px;color:var(--text3);margin-bottom:6px;">RISKS</div>
-      <ul class="list"></ul>
-      <div style="font-size:11px;color:var(--text3);margin-top:12px;margin-bottom:6px;">CATALYSTS</div>
-      <ul class="list"></ul>
-    </div>
-
-    <!-- Stock Ideas -->
-    <div class="card full-card">
-      <div class="card-title">💡 Stock Ideas <span class="agent-tag">Synthesizer</span></div>
-      <div style="color:var(--text3);font-size:13px;">No stock ideas generated</div>
-    </div>
-
-    <!-- Corporate Movers -->
-    <div class="card full-card">
-      <div class="card-title">🏢 Corporate Movers <span class="agent-tag">Corporate Agent</span></div>
-      
-        <div class="item-row">
-          <div>
-            <span class="symbol">DATAPATTNS</span>
-            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Data Patterns India</span>
-            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · high</span>
-          </div>
-          <div class="reason"><cite index="1-1">Secured domestic order worth Rs.288 crore for the supply of 32 Doppler Weather Radars to Indian Meteorological Department (IMD)</cite> — Significant government order bolsters order backlog and revenue visibility; government contract win validates technology credentials for defence/aerospace sector</div>
+    <div class="header">
+        <h1>🔮 EquityDesk Agent Simulation
+            <span class="web-badge">🔍 Web Search</span>
+        </h1>
+        <div class="meta">
+            Based on <strong>15 Mar 2026</strong> data ·
+            Generated <strong>16 Mar 2026 · 1:30 AM IST</strong>
         </div>
-        <div class="item-row">
-          <div>
-            <span class="symbol">BRITANNIA</span>
-            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Britannia Industries</span>
-            <span style="color:#f59e0b;font-size:11px;margin-left:8px;font-weight:600;">NEUTRAL · medium</span>
-          </div>
-          <div class="reason"><cite index="11-1">Shareholders approved appointment of Rakshit Hargave as Chief Executive Officer and Managing Director for a five-year term from 15 December 2025 to 14 December 2030</cite> — <cite index="11-12,11-13">Hargave brings decades of experience across consumer and retail sectors, recently served as CEO of Birla Opus</cite>; leadership transition now formally confirmed but market already priced in given December 2025 joining date</div>
-        </div>
-        <div class="item-row">
-          <div>
-            <span class="symbol">PRAXIS</span>
-            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Praxis Home Retail</span>
-            <span style="color:#ef4444;font-size:11px;margin-left:8px;font-weight:600;">NEGATIVE · medium</span>
-          </div>
-          <div class="reason"><cite index="22-1">Sudden demise of Mr. Vijai Singh Dugar, Chairman and Independent Director of the Company, on March 14, 2026</cite> — Loss of senior board member creates immediate governance vacancy; chairman's sudden death signals leadership uncertainty during critical board decision-making periods</div>
-        </div>
-        <div class="item-row">
-          <div>
-            <span class="symbol">NIPPOBATRY</span>
-            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Indo National Limited</span>
-            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · medium</span>
-          </div>
-          <div class="reason"><cite index="34-3,34-4">National Company Law Tribunal (NCLT), Chennai Bench, sanctioned Scheme of Amalgamation with Helios Strategic Systems Limited on March 10, 2026</cite> — <cite index="34-5">Scheme will become effective upon filing of certified copy of order with Registrar of Companies</cite>; legal approval cleared but operational benefits remain pending final regulatory filing</div>
-        </div>
-        <div class="item-row">
-          <div>
-            <span class="symbol">JKPAPER</span>
-            <span style="color:var(--text2);font-size:12px;margin-left:6px;">JK Paper Limited</span>
-            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · medium</span>
-          </div>
-          <div class="reason"><cite index="41-1">Composite Scheme of Arrangement has become effective as of March 15, 2026, following sanction by the Hon'ble NCLT</cite> — <cite index="41-3">Involves amalgamation of three wholly-owned subsidiaries and demerger of packaging business into PSV Agro Products</cite>; restructuring now legally effective, operational synergies can be realized</div>
+        <div class="outlook-badge neut">
+            Market Outlook: Neutral
         </div>
     </div>
 
-  </div>
-</div>
+    <div class="weekend-note">📅 Monday edition — includes weekend global developments (Fri–Sun)</div>
 
-<div class="footer">
-  EquityDesk Market Simulation · 16 Mar 2026, 15:30 IST · Not investment advice
-</div>
+    <div class="section-title">Master Market Impact Report</div>
+    <div class="synthesis-box"><div class="syn-text">Synthesis failed: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CZ6ZjD41bmr5ybivhB3SN'}</div></div>
 
+    <div class="section-title">Agent Analysis — News → Sectors → Stocks</div>
+    <div class="agents-grid">
+        <div class="agent-card" style="border-top:3px solid #2c5282">
+            <div class="agent-header">
+                <span class="emoji">🌐</span>
+                <span class="agent-name">Macro & Global Analyst</span>
+            </div>
+            <div class="agent-output"><em style="color:#fc8181">Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CZ6ZiVctJmWbJfLyukSfC'}</em></div>
+        </div>
+        <div class="agent-card" style="border-top:3px solid #276749">
+            <div class="agent-header">
+                <span class="emoji">🇮🇳</span>
+                <span class="agent-name">Domestic Markets Analyst</span>
+            </div>
+            <div class="agent-output"><em style="color:#fc8181">Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CZ6ZiYaygGQNQeESSWR31'}</em></div>
+        </div>
+        <div class="agent-card" style="border-top:3px solid #553c9a">
+            <div class="agent-header">
+                <span class="emoji">🏢</span>
+                <span class="agent-name">Corporate & Earnings Analyst</span>
+            </div>
+            <div class="agent-output"><div class="agent-text">I'll search for significant news from March 13-15, 2026 that could impact Indian markets.Based on my research, here is my analysis of significant news from March 13-15, 2026 that impacts Indian markets:</div><br><div class="agent-text">---</div><br><div class="agent-text">## OVERALL VIEW:</div><div class="agent-text">Oil surging above $100/barrel due to Middle East conflict and Iran threatening to keep the Strait of Hormuz closed creates stagflation risk for India's economy, offsetting gains from RBI's accommodative stance and strong corporate order wins.</div><br><div class="agent-text">---</div><br><div class="agent-text">## NEWS IMPACT ANALYSIS:</div><br><div class="agent-text">### 📰 NEWS: Brent crude surged 9.2% to settle at $100.46 per barrel, its first close above $100 since August 2022</div><div class="agent-text">**📍 SECTORS AFFECTED:** Oil &amp; Gas, Refineries, Aviation, Paints, Tyres, Chemicals, Fertilizers</div><div class="agent-text">**📈 BULLISH STOCKS:** ADANIPOWER (power project awarded ₹1,600 MW capacity via Letter of Award), ONGC (upstream exploration benefits from crude spike), RELIANCE (refinery spreads expand), BHARATPETROLEUM</div><div class="agent-text">**📉 BEARISH STOCKS:** HINDPETRO (import-dependent, margin squeeze), BAJAJAUTOFINSALES (higher fuel costs compress auto demand), ASIANPAINT (input cost inflation erodes margins), GRACEGROUP (petrochemical feedstock cost pressure)</div><div class="agent-text">**⚡ MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">### 📰 NEWS: Shriram Finance's subsidiary Shriram Overseas Investments applied to RBI for Primary Dealer (PD) licence</div><div class="agent-text">**📍 SECTORS AFFECTED:** Financial Services, Government Securities Trading, Fixed Income Markets</div><div class="agent-text">**📈 BULLISH STOCKS:** SHRIRAMFIN (new revenue stream from PD operations, higher volumes in G-Sec trading)</div><div class="agent-text">**📉 BEARISH STOCKS:** None directly affected</div><div class="agent-text">**⚡ MAGNITUDE:** Medium</div><br><div class="agent-text">---</div><br><div class="agent-text">### 📰 NEWS: Adani Transmission Step One executed a note purchase agreement to issue USD 500 million senior secured notes due 2041, refinancing debt maturing July 2026</div><div class="agent-text">**📍 SECTORS AFFECTED:** Power, Infrastructure, Debt Capital Markets</div><div class="agent-text">**📈 BULLISH STOCKS:** ADANIPOWER (refinancing risk reduced, capacity expansion continues), ADANITRANS (improved debt maturity profile)</div><div class="agent-text">**📉 BEARISH STOCKS:** None</div><div class="agent-text">**⚡ MAGNITUDE:** Medium</div><br><div class="agent-text">---</div><br><div class="agent-text">### 📰 NEWS: JK Lakshmi Cement will acquire 77.96% stake in NECEM Cements for ₹19 crore</div><div class="agent-text">**📍 SECTORS AFFECTED:** Cement, Building Materials, M&amp;A Integration</div><div class="agent-text">**📈 BULLISH STOCKS:** JKLAKSHMI (capacity expansion via accretive acquisition, market consolidation gains)</div><div class="agent-text">**📉 BEARISH STOCKS:** GUJCEMSPL (consolidation reduces fragmentation benefits), DALMIACEMENT (regional capacity lost to larger player)</div><div class="agent-text">**⚡ MAGNITUDE:** Medium</div><br><div class="agent-text">---</div><br><div class="agent-text">### 📰 NEWS: Biocon's subsidiary received U.S. FDA approval for Liraglutide injection (generic Victoza)</div><div class="agent-text">**📍 SECTORS AFFECTED:** Pharmaceuticals, Biologics, Insulin/GLP-1 Market</div><div class="agent-text">**📈 BULLISH STOCKS:** BIOCON (FDA approval unlocks high-margin diabetes market in US, revenue visibility into FY27+)</div><div class="agent-text">**📉 BEARISH STOCKS:** None (first-to-market advantage for generics in this class)</div><div class="agent-text">**⚡ MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">### 📰 NEWS: Kalpataru signed a redevelopment project in Mumbai's Andheri West spanning ~3 acres with potential ₹1</div></div>
+        </div>
+        <div class="agent-card" style="border-top:3px solid #744210">
+            <div class="agent-header">
+                <span class="emoji">📊</span>
+                <span class="agent-name">Market Sentiment Analyst</span>
+            </div>
+            <div class="agent-output"><div class="agent-text">I'll search for market-moving news from the past few days (March 13-15, 2026) and global developments affecting Indian equity sentiment.Based on my search findings, here's my analysis:</div><br><div class="agent-text">---</div><br><div class="agent-text">## OVERALL VIEW:</div><div class="agent-text">FIIs remain in heavy selling mode ($56.9 billion offloaded in just 9 trading sessions through mid-March) driven by Trump tariffs, US-Israel-Iran war, and crude above $100/bbl, keeping Indian markets under sustained correction pressure despite domestic institutional support.</div><br><div class="agent-text">---</div><br><div class="agent-text">## NEWS IMPACT ANALYSIS:</div><br><div class="agent-text">**📰 NEWS: FII Selling Accelerates to Largest Single-Day Withdrawal of 2026 (₹10,717 crore on March 13)**</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Banking, Metals, Auto, Financial Services</div><br><div class="news-bull">📈 **BULLISH STOCKS:** None (broad-based selling pressure)</div><br><div class="news-bear">📉 **BEARISH STOCKS:** UNIONBANK (-4.45%), PNB (-4.18%), CANBK (-3.98%), SBIN (-3.61%), AXISBANK (-2.87%), KOTAKBANK (-2.18%), HDFCBANK (-1.93%), ICICIBANK (-0.91%); LT (-7.52%), TATASTEEL (-5.20%), MARUTI (-3.12%), ULTRACEMCO (-3.07%)</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">**📰 NEWS: Oil Prices Breach $100/bbl Amid Iran Strait Blockade Fears and Escalating Geopolitical Conflict**</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Energy, Metals, Autos, Transport, Airlines; Defensive offset (Power, Utilities, FMCG)</div><br><div class="news-bull">📈 **BULLISH STOCKS:** NTPC, Power Grid (defensive sectors showing support); COALINDIA, BCCL (coal producers supported by higher commodity prices)</div><br><div class="news-bear">📉 **BEARISH STOCKS:** Auto &amp; Oil-dependent sectors (Maruti, M&amp;M, Bajaj Finance); Export-sensitive sectors suffer margin pressure</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">**📰 NEWS: Global Risk-Off: US Market Posts 4th Straight Down Day; Asia-Pacific Indices Tumble on Stagflation Fears**</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Tech, Discretionary, Autos, Exporters; Relative strength in Utilities &amp; Pharma</div><br><div class="news-bull">📈 **BULLISH STOCKS:** IT sector showing resilience; Pharma stocks (defensive play); IT/Data-center plays (Microsoft's $20B India investment signal for AI/cloud infrastructure growth)</div><br><div class="news-bear">📉 **BEARISH STOCKS:** Auto sector globally under pressure (Honda forecasting first 70-year loss); Tech cyclicals losing to defensive rotations</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">**📰 NEWS: Bank Nifty Crashes 2.44% to 53,757; All 14 Bank Constituents in Red Amid FII Exodus from Financials**</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Banking, Financial Services, NBFCs, Insurance</div><br><div class="news-bull">📈 **BULLISH STOCKS:** MUTHOOTFIN (+2.62%, only gainer in Financial Services)</div><br><div class="news-bear">📉 **BEARISH STOCKS:** SBIN, RECLTD (-3.58%), HDFCLIFE (-3.27%), AXISBANK, PFC (-2.72%), JIOFIN (-2.62%), SHRIRAMFIN (-2.50%)</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div></div>
+        </div></div>
+
+    <div class="footer">
+        AI agents searched the web and traced news impact through sectors to individual stocks.<br>
+        Not financial advice. For research and educational purposes only.<br>
+        EquityDesk · irtteja.github.io/indian-market-data
+    </div>
 </body>
 </html>
