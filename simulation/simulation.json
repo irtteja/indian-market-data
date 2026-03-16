@@ -1,0 +1,231 @@
+{
+  "date": "2026-03-15",
+  "macro": {
+    "macro_mood": "bearish",
+    "key_themes": [
+      "Middle East conflict creating largest oil supply shock in history",
+      "FII outflows accelerating amid emerging market risk-off",
+      "Fed holding rates steady, limited easing bias through mid-2026",
+      "Gold at record highs suggesting safe-haven demand",
+      "Global geopolitical fragmentation and economic uncertainty"
+    ],
+    "sector_impacts": {
+      "IT": {
+        "impact": "negative",
+        "reason": "High FII ownership exposure; global risk-off favors cash positions; US tech valuations overextended creating potential rotation out of emerging market IT",
+        "key_stocks": [
+          "TCS",
+          "INFY",
+          "Wipro",
+          "HCL Tech"
+        ]
+      },
+      "Financials": {
+        "impact": "negative",
+        "reason": "Large FII exposure in banking; elevated oil prices and geopolitical uncertainty pressure earnings; potential rupee weakness from capital outflows raises import costs",
+        "key_stocks": [
+          "HDFC Bank",
+          "ICICI Bank",
+          "Axis Bank",
+          "SBI"
+        ]
+      },
+      "Auto": {
+        "impact": "negative",
+        "reason": "Oil at ~$100/bbl pressures input costs; global recession fears and trade policy volatility weaken demand; high leverage vulnerable to FII selling",
+        "key_stocks": [
+          "Maruti Suzuki",
+          "Bajaj Auto",
+          "Hero MotoCorp",
+          "Tata Motors"
+        ]
+      },
+      "Energy": {
+        "impact": "positive",
+        "reason": "Brent crude at ~$100/bbl supports oil & gas margins; Strait of Hormuz disruptions create supply premium; domestic energy security concerns elevate strategic importance",
+        "key_stocks": [
+          "ONGC",
+          "IOC",
+          "GAIL",
+          "Reliance"
+        ]
+      },
+      "Metals": {
+        "impact": "positive",
+        "reason": "Gold at record $5000+/oz driven by central bank demand and geopolitical hedging; copper demand resilient despite slowdown; tariff uncertainty globally supports precious metals",
+        "key_stocks": [
+          "Tata Steel",
+          "JSW Steel",
+          "Vedanta",
+          "Hindalco"
+        ]
+      }
+    },
+    "top_risks": [
+      "Sustained FII outflows: ₹52,704 cr net selling in March YTD with single largest ₹10,717 cr outflow; DII support may not suffice if foreign exits accelerate",
+      "Middle East supply shock escalation: Strait of Hormuz disrupted, Gulf oil production down 10+ mb/d; further escalation risks >$120/bbl oil triggering stagflation fears",
+      "US Fed policy divergence: Near-term pause masks inflation risks; Middle East oil shocks could force Fed to hold higher for longer, weakening EM appeal",
+      "Rupee weakness: FII selling pressure could weaken INR, raising import costs and inflation—particularly commodities; NPA risks for dollar borrowers",
+      "Global recession fears: Geopolitical volatility, trade wars, and monetary tightness creating perfect storm for EM assets; India seen as proxy for emerging market health"
+    ],
+    "top_opportunities": [
+      "Domestic institutions stepping in: Strong DII buying (₹9,977-12,000 cr daily) offsetting FII pressure; retail participation resilient; structural domestic growth story intact",
+      "Inflation hedges attractive: Energy, metals, and gold exposure offers protection; JK Paper, Indo National restructurings open M&A upside; defensive pharma, FMCG resilient",
+      "Selective contrarian picks: Large-cap lows create entry for quality beaten-down names; IT services cheap on FII flows despite structural growth; energy sector rebounds as oil stabilizes",
+      "Structural growth drivers intact: India's 6%+ GDP growth, digital adoption, government capex momentum unaffected by external shocks; infrastructure stocks offer dividends amid volatility",
+      "Central bank buying tailwind: Gold demand and Reserve Bank FX reserve accumulation support INR stability; rupee anchor unlikely to break despite short-term FII noise"
+    ]
+  },
+  "domestic": {
+    "domestic_mood": "bullish",
+    "key_themes": [
+      "Growth resilience at 7%+ with inflation under control",
+      "Rate pause cycle likely extended (repo at 5.25%)",
+      "Strong GST collections and fiscal momentum",
+      "Structural manufacturing push via Budget 2026",
+      "Regulatory modernization (SEBI frameworks)"
+    ],
+    "sector_impacts": {
+      "Banking": {
+        "impact": "positive",
+        "reason": "RBI maintaining accommodative 5.25% repo rate with neutral stance supports net interest margins. Strong GST collections (₹1.83 lakh cr Feb YoY +8.1%) signal credit demand. Budget 2026 emphasizes infrastructure capex (₹12.2 lakh cr) and SME growth fund (₹10,000 cr), boosting loan pipeline.",
+        "key_stocks": [
+          "HDFCBANK",
+          "ICICIBANK",
+          "AXISBANK",
+          "INDUSIND"
+        ]
+      },
+      "FMCG": {
+        "impact": "neutral",
+        "reason": "CPI inflation at 3.21% Feb (up from 2.74% Jan) remains within RBI tolerance but accelerating. Food inflation and commodity pressure visible. GST rate rationalization (Sept 2025) helps margins but consumption growth steady (not accelerating). Steady but not exceptional environment.",
+        "key_stocks": [
+          "NESTLEIND",
+          "BRITANNIA",
+          "MARICO",
+          "HINDUNILVR"
+        ]
+      },
+      "Infrastructure": {
+        "impact": "positive",
+        "reason": "Budget 2026 raises capex to ₹12.2 lakh cr (vs ₹11.2 cr prior). Seven high-speed rail corridors, 20 new national waterways, East Coast Industrial Corridor planned. Infrastructure Risk Guarantee Fund announced. IIP at 4.8% YoY Jan (solid) and strong tax base widens (₹20.27 lakh cr GST FY-to-date). Long-term demand tailwind.",
+        "key_stocks": [
+          "LARSENTOUBRO",
+          "ICCW",
+          "IRCON",
+          "NBCC"
+        ]
+      },
+      "Pharma": {
+        "impact": "positive",
+        "reason": "Biopharma SHAKTI scheme with ₹10,000 cr outlay over 5 years. New NIPERs, 1000+ clinical trial sites, medical tourism hub push. Strong policy support for manufacturing scalability. Regulatory clarity via SEBI reforms. Sector positioning as global hub with ease-of-doing-business measures (simplified customs, cargo clearance digital window by Q4 FY26).",
+        "key_stocks": [
+          "SUNPHARMA",
+          "CIPLA",
+          "LUPISINDIA",
+          "DRREDDY"
+        ]
+      },
+      "Real Estate": {
+        "impact": "neutral",
+        "reason": "Rate pause supportive (5.25% stable). Urban development initiatives and peri-urban focus in Budget 2026. However, inflation ticking up (CPI 3.21%) may pressure affordability. Residential pipeline healthy but financing costs stable rather than declining. Capex-led growth favors commercial/logistics over residential.",
+        "key_stocks": [
+          "PRESTIGE",
+          "BRIGADE",
+          "SOBHA",
+          "GODREJ"
+        ]
+      }
+    },
+    "top_risks": [
+      "Inflation re-acceleration: CPI rose to 3.21% in Feb from 2.74% in Jan; food/commodity volatility persists. Could force RBI to pause rate-cut cycle longer than expected.",
+      "External trade uncertainty: US tariff dynamics (Trump 18% on India vs prior 50%), though recent EU/US-India deals supportive, add volatility. IIP slowdown (4.8% Jan from 8% Dec) signals caution.",
+      "Fiscal consolidation & GST dynamics: GST growth 8% nominal but lagging 10% nominal GDP growth; compliance gains may plateau. Tax buoyancy concerns if nominal growth decelerates.",
+      "Merger integration & corporate event risk: Two major M&A completions (Indo National, JK Paper) today; shareholder value realization depends on execution and record date clarity."
+    ],
+    "top_opportunities": [
+      "Biopharma & healthcare scale-up: ₹10,000 cr SHAKTI scheme + 1000+ clinical trial ecosystem creates multi-year runway for pharma, medical devices, CROs. Regulatory tailwinds via new SEBI frameworks.",
+      "Manufacturing export push: Rare earth corridors (Odisha, Kerala, AP, TN), SME growth fund (₹10k cr), legacy cluster revamps, textile mega-parks signal structural manufacturing localization. Tariff-protected supply chains attracting global capex.",
+      "Infrastructure & capex multiplier: ₹12.2 lakh cr budget capex, seven high-speed rail corridors, 20 waterways, integrated East Coast Industrial Corridor unlock multi-year construction & logistics demand.",
+      "Fintech & digital economy: New CPI/GDP/IIP base years (effective Feb-May 2026) now include e-commerce, digital payments, GST data. Formalization & tax base widening benefit digital finance, payments, B2B platforms.",
+      "SME & MSME credit expansion: Dedicated SME Growth Fund (₹10k cr) + TReDS receivables as securitized assets (Budget 2026) + GST compliance ease drive credit availability for Tier-II/III manufacturing and services."
+    ]
+  },
+  "corporate": {
+    "top_movers": [
+      {
+        "company": "Data Patterns India",
+        "symbol": "DATAPATTNS",
+        "event": "<cite index=\"1-1\">Secured domestic order worth Rs.288 crore for the supply of 32 Doppler Weather Radars to Indian Meteorological Department (IMD)</cite>",
+        "impact": "positive",
+        "magnitude": "high",
+        "reason": "Significant government order bolsters order backlog and revenue visibility; government contract win validates technology credentials for defence/aerospace sector"
+      },
+      {
+        "company": "Britannia Industries",
+        "symbol": "BRITANNIA",
+        "event": "<cite index=\"11-1\">Shareholders approved appointment of Rakshit Hargave as Chief Executive Officer and Managing Director for a five-year term from 15 December 2025 to 14 December 2030</cite>",
+        "impact": "neutral",
+        "magnitude": "medium",
+        "reason": "<cite index=\"11-12,11-13\">Hargave brings decades of experience across consumer and retail sectors, recently served as CEO of Birla Opus</cite>; leadership transition now formally confirmed but market already priced in given December 2025 joining date"
+      },
+      {
+        "company": "Praxis Home Retail",
+        "symbol": "PRAXIS",
+        "event": "<cite index=\"22-1\">Sudden demise of Mr. Vijai Singh Dugar, Chairman and Independent Director of the Company, on March 14, 2026</cite>",
+        "impact": "negative",
+        "magnitude": "medium",
+        "reason": "Loss of senior board member creates immediate governance vacancy; chairman's sudden death signals leadership uncertainty during critical board decision-making periods"
+      },
+      {
+        "company": "Indo National Limited",
+        "symbol": "NIPPOBATRY",
+        "event": "<cite index=\"34-3,34-4\">National Company Law Tribunal (NCLT), Chennai Bench, sanctioned Scheme of Amalgamation with Helios Strategic Systems Limited on March 10, 2026</cite>",
+        "impact": "positive",
+        "magnitude": "medium",
+        "reason": "<cite index=\"34-5\">Scheme will become effective upon filing of certified copy of order with Registrar of Companies</cite>; legal approval cleared but operational benefits remain pending final regulatory filing"
+      },
+      {
+        "company": "JK Paper Limited",
+        "symbol": "JKPAPER",
+        "event": "<cite index=\"41-1\">Composite Scheme of Arrangement has become effective as of March 15, 2026, following sanction by the Hon'ble NCLT</cite>",
+        "impact": "positive",
+        "magnitude": "medium",
+        "reason": "<cite index=\"41-3\">Involves amalgamation of three wholly-owned subsidiaries and demerger of packaging business into PSV Agro Products</cite>; restructuring now legally effective, operational synergies can be realized"
+      }
+    ],
+    "sector_themes": {
+      "defence_and_aerospace": "Government procurement accelerating; Data Patterns' ₹288cr IMD contract signals sustained demand for domestically-manufactured critical infrastructure components",
+      "fmcg_consumer_goods": "Leadership transition stabilization; Britannia appointment completion removes uncertainty; Praxis governance gap creates risk",
+      "corporate_restructuring": "NCLT clearing backlog of merger/demerger approvals; both Indo National and JK Paper now moving past legal phase into execution phase",
+      "governance_risk": "Two critical management events (Britannia leadership finalized, Praxis chairman death) highlight importance of board succession planning in mid-cap stocks"
+    },
+    "critical_alerts": [
+      "Praxis Home Retail: Chairman vacancy requires urgent board succession announcement to prevent investor confidence erosion",
+      "Data Patterns: Monitor execution timeline for ₹288cr IMD radar deliveries against scheduled milestones to confirm revenue recognition pace",
+      "JK Paper: Track RoC filings and record date announcements for demerger equity entitlements; missed deadlines will disadvantage minority shareholders",
+      "Indo National: Awaiting RoC filing to activate amalgamation effectiveness; any regulatory delays will defer synergy realization",
+      "Britannia: New CEO priorities (pricing strategy, cost structure, international expansion) will become visible in Q4FY26 guidance and strategy disclosures"
+    ]
+  },
+  "sentiment": {
+    "market_mood": "cautious",
+    "nifty_level": "23,131-23,151 (mid-session)",
+    "india_vix": "22.65 (+5.23%)",
+    "pcr": "0.5788",
+    "fii_stance": "net_seller",
+    "key_support": "23,000",
+    "key_resistance": "23,500",
+    "sentiment_summary": "<cite index=\"2-3,2-4\">The Nifty50 and Sensex were swinging between losses and gains in a volatile session as traders continued to monitor the US-Iran conflict and volatile energy prices. The Nifty50 was trading 0.08% down at 23,131.50 points.</cite> <cite index=\"6-3\">Market volatility is expected to persist in the near term as geopolitical tensions in West Asia continue to disrupt the energy sector and push crude oil prices higher.</cite> <cite index=\"6-1,6-5,6-6\">The Nifty50 remains in a corrective phase after breaching key long-term support levels and slipping to an 11-month low, continuing to form lower highs and lower lows, indicating a sustained downtrend.</cite>",
+    "watchlist": [
+      "ADANIPOWER",
+      "ITI",
+      "ULTRACEMCO",
+      "TATASTEEL",
+      "SBIN"
+    ]
+  },
+  "synthesis": {
+    "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CZ6ZiNnNXoWLZBdb3K4bF'}"
+  }
+}

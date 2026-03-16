@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EquityDesk — Market Simulation · 2026-03-15</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f0f0f; --bg2: #161616; --bg3: #1e1e1e;
+    --text: #f0ede8; --text2: #a09a94; --text3: #6b6560;
+    --border: #2a2520; --accent: #d4823a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Syne', sans-serif; min-height: 100vh; }
+  .header { background: var(--bg2); border-bottom: 1px solid var(--border); padding: 14px 24px; display: flex; align-items: center; gap: 16px; }
+  .logo { font-weight: 700; font-size: 16px; color: var(--accent); letter-spacing: 0.05em; }
+  .back-link { font-size: 12px; color: var(--text3); text-decoration: none; margin-left: auto; }
+  .back-link:hover { color: var(--text2); }
+  .container { max-width: 960px; margin: 0 auto; padding: 24px 20px; }
+  h1 { font-size: 28px; font-weight: 700; margin-bottom: 4px; }
+  .meta { color: var(--text3); font-size: 13px; margin-bottom: 24px; }
+  .outlook-banner { background: var(--bg2); border: 1px solid var(--border); border-left: 4px solid #f59e0b; border-radius: 10px; padding: 20px 24px; margin-bottom: 24px; }
+  .outlook-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px; }
+  .outlook-value { font-size: 22px; font-weight: 700; color: #f59e0b; text-transform: uppercase; letter-spacing: 0.05em; }
+  .one-liner { font-size: 15px; color: var(--text2); margin-top: 8px; line-height: 1.5; }
+  .confidence { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: var(--bg3); color: var(--text3); margin-top: 8px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+  .card { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
+  .card-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text3); margin-bottom: 12px; }
+  .mood-pill { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; background: var(--bg3); }
+  .stat-row { display: flex; justify-content: space-between; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+  .stat-row:last-child { border-bottom: none; }
+  .stat-label { color: var(--text3); }
+  .stat-val { font-family: 'DM Mono', monospace; font-size: 12px; }
+  .item-row { padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .item-row:last-child { border-bottom: none; }
+  .symbol { font-family: 'DM Mono', monospace; font-size: 12px; color: var(--accent); font-weight: 600; }
+  .reason { font-size: 12px; color: var(--text2); margin-top: 4px; line-height: 1.4; }
+  .full-card { grid-column: 1 / -1; }
+  ul.list { list-style: none; padding: 0; }
+  ul.list li { font-size: 13px; color: var(--text2); padding: 5px 0; border-bottom: 1px solid var(--border); line-height: 1.4; }
+  ul.list li::before { content: "→ "; color: var(--accent); }
+  ul.list li:last-child { border-bottom: none; }
+  .agent-tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--bg3); color: var(--text3); margin-left: 8px; }
+  .footer { text-align: center; color: var(--text3); font-size: 12px; padding: 32px 0 16px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <span class="logo">EQUITYDESK</span>
+  <span style="color:var(--text3);font-size:13px;">Market Simulation · 2026-03-15</span>
+  <a class="back-link" href="../">← Back to Briefing</a>
+</div>
+
+<div class="container">
+  <h1>Market Simulation</h1>
+  <div class="meta">AI-powered impact analysis · 4 specialist agents · Generated 16 Mar 2026, 15:30 IST</div>
+
+  <!-- Master Outlook -->
+  <div class="outlook-banner">
+    <div class="outlook-label">Tomorrow's Market Outlook</div>
+    <div class="outlook-value">neutral</div>
+    <div class="one-liner">Market outlook for tomorrow.</div>
+    <span class="confidence">Confidence: medium</span>
+  </div>
+
+  <div class="grid">
+
+    <!-- Sentiment Snapshot -->
+    <div class="card">
+      <div class="card-title">📊 Market Pulse <span class="agent-tag">Sentiment Agent</span></div>
+      <div class="stat-row"><span class="stat-label">Nifty Level</span><span class="stat-val">23,131-23,151 (mid-session)</span></div>
+      <div class="stat-row"><span class="stat-label">India VIX</span><span class="stat-val">22.65 (+5.23%)</span></div>
+      <div class="stat-row"><span class="stat-label">PCR</span><span class="stat-val">0.5788</span></div>
+      <div class="stat-row"><span class="stat-label">FII Stance</span><span class="stat-val">net_seller</span></div>
+      <div class="stat-row"><span class="stat-label">Mood</span><span class="mood-pill" style="color:#f59e0b">Cautious</span></div>
+      <div style="font-size:12px;color:var(--text2);margin-top:10px;line-height:1.5;"><cite index="2-3,2-4">The Nifty50 and Sensex were swinging between losses and gains in a volatile session as traders continued to monitor the US-Iran conflict and volatile energy prices. The Nifty50 was trading 0.08% down at 23,131.50 points.</cite> <cite index="6-3">Market volatility is expected to persist in the near term as geopolitical tensions in West Asia continue to disrupt the energy sector and push crude oil prices higher.</cite> <cite index="6-1,6-5,6-6">The Nifty50 remains in a corrective phase after breaching key long-term support levels and slipping to an 11-month low, continuing to form lower highs and lower lows, indicating a sustained downtrend.</cite></div>
+    </div>
+
+    <!-- Agent Moods -->
+    <div class="card">
+      <div class="card-title">🌐 Agent Signals</div>
+      <div class="stat-row">
+        <span class="stat-label">Macro (Global)</span>
+        <span class="mood-pill" style="color:#ef4444">Bearish</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Domestic (India)</span>
+        <span class="mood-pill" style="color:#22c55e">Bullish</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Sentiment</span>
+        <span class="mood-pill" style="color:#f59e0b">Cautious</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Overall Outlook</span>
+        <span class="mood-pill" style="color:#f59e0b">Neutral</span>
+      </div>
+    </div>
+
+    <!-- Top Sectors -->
+    <div class="card">
+      <div class="card-title">📂 Sector Outlook <span class="agent-tag">Synthesizer</span></div>
+      <div style="color:var(--text3);font-size:13px;">No sector data</div>
+    </div>
+
+    <!-- Key Risks & Catalysts -->
+    <div class="card">
+      <div class="card-title">⚠️ Risks & Catalysts</div>
+      <div style="font-size:11px;color:var(--text3);margin-bottom:6px;">RISKS</div>
+      <ul class="list"></ul>
+      <div style="font-size:11px;color:var(--text3);margin-top:12px;margin-bottom:6px;">CATALYSTS</div>
+      <ul class="list"></ul>
+    </div>
+
+    <!-- Stock Ideas -->
+    <div class="card full-card">
+      <div class="card-title">💡 Stock Ideas <span class="agent-tag">Synthesizer</span></div>
+      <div style="color:var(--text3);font-size:13px;">No stock ideas generated</div>
+    </div>
+
+    <!-- Corporate Movers -->
+    <div class="card full-card">
+      <div class="card-title">🏢 Corporate Movers <span class="agent-tag">Corporate Agent</span></div>
+      
+        <div class="item-row">
+          <div>
+            <span class="symbol">DATAPATTNS</span>
+            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Data Patterns India</span>
+            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · high</span>
+          </div>
+          <div class="reason"><cite index="1-1">Secured domestic order worth Rs.288 crore for the supply of 32 Doppler Weather Radars to Indian Meteorological Department (IMD)</cite> — Significant government order bolsters order backlog and revenue visibility; government contract win validates technology credentials for defence/aerospace sector</div>
+        </div>
+        <div class="item-row">
+          <div>
+            <span class="symbol">BRITANNIA</span>
+            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Britannia Industries</span>
+            <span style="color:#f59e0b;font-size:11px;margin-left:8px;font-weight:600;">NEUTRAL · medium</span>
+          </div>
+          <div class="reason"><cite index="11-1">Shareholders approved appointment of Rakshit Hargave as Chief Executive Officer and Managing Director for a five-year term from 15 December 2025 to 14 December 2030</cite> — <cite index="11-12,11-13">Hargave brings decades of experience across consumer and retail sectors, recently served as CEO of Birla Opus</cite>; leadership transition now formally confirmed but market already priced in given December 2025 joining date</div>
+        </div>
+        <div class="item-row">
+          <div>
+            <span class="symbol">PRAXIS</span>
+            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Praxis Home Retail</span>
+            <span style="color:#ef4444;font-size:11px;margin-left:8px;font-weight:600;">NEGATIVE · medium</span>
+          </div>
+          <div class="reason"><cite index="22-1">Sudden demise of Mr. Vijai Singh Dugar, Chairman and Independent Director of the Company, on March 14, 2026</cite> — Loss of senior board member creates immediate governance vacancy; chairman's sudden death signals leadership uncertainty during critical board decision-making periods</div>
+        </div>
+        <div class="item-row">
+          <div>
+            <span class="symbol">NIPPOBATRY</span>
+            <span style="color:var(--text2);font-size:12px;margin-left:6px;">Indo National Limited</span>
+            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · medium</span>
+          </div>
+          <div class="reason"><cite index="34-3,34-4">National Company Law Tribunal (NCLT), Chennai Bench, sanctioned Scheme of Amalgamation with Helios Strategic Systems Limited on March 10, 2026</cite> — <cite index="34-5">Scheme will become effective upon filing of certified copy of order with Registrar of Companies</cite>; legal approval cleared but operational benefits remain pending final regulatory filing</div>
+        </div>
+        <div class="item-row">
+          <div>
+            <span class="symbol">JKPAPER</span>
+            <span style="color:var(--text2);font-size:12px;margin-left:6px;">JK Paper Limited</span>
+            <span style="color:#22c55e;font-size:11px;margin-left:8px;font-weight:600;">POSITIVE · medium</span>
+          </div>
+          <div class="reason"><cite index="41-1">Composite Scheme of Arrangement has become effective as of March 15, 2026, following sanction by the Hon'ble NCLT</cite> — <cite index="41-3">Involves amalgamation of three wholly-owned subsidiaries and demerger of packaging business into PSV Agro Products</cite>; restructuring now legally effective, operational synergies can be realized</div>
+        </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="footer">
+  EquityDesk Market Simulation · 16 Mar 2026, 15:30 IST · Not investment advice
+</div>
+
+</body>
+</html>
