@@ -46,5 +46,53 @@
     "raw_headline": "Postal Ballot Notice -  Disclosure under Regulation 30 of the SEBI (Listing Obligation and Discloure Requirements) Regulations, 2015",
     "is_critical": false,
     "attachment": "4a325b75-ecc2-4c93-80f7-ba028aa9c644.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544408",
+    "symbol": "THELEELA",
+    "company": "Leela Palaces Hotels & Resorts Limited",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Further Investment in Leela Luxe Hotels ....",
+    "raw_headline": "Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Further Investment in Leela Luxe Hotels ....",
+    "is_critical": true,
+    "attachment": "765d161b-bb5a-43d6-9977-bd4681a86d9f.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544408",
+    "symbol": "THELEELA",
+    "company": "Leela Palaces Hotels & Resorts Limited",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Postal Ballot Notice -  Disclosure under Regulation 30 of the SEBI (Listing Obligation and Discloure Requirements) Regulations, 2015",
+    "raw_headline": "Postal Ballot Notice -  Disclosure under Regulation 30 of the SEBI (Listing Obligation and Discloure Requirements) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "4a325b75-ecc2-4c93-80f7-ba028aa9c644.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544408",
+    "symbol": "THELEELA",
+    "company": "Leela Palaces Hotels & Resorts Limited",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Indian Overseas Bank reschedules non-deal roadshows to commence from March 17, 2026",
+    "raw_headline": "The Leela Palaces Hotels and Resorts acquires Ultra-Luxury Resort in Coorg, Karnataka",
+    "is_critical": false,
+    "attachment": "12203eac-95d6-4be8-b9c3-6f724fc68c8d.pdf"
   }
 ]

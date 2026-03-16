@@ -30,5 +30,37 @@
     "raw_headline": "Outcome of Postal Ballot",
     "is_critical": false,
     "attachment": "881b23a4-c390-4ad8-8117-ff8aa77a61d1.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "506405",
+    "symbol": "DMCC",
+    "company": "DMCC SPECIALITY CHEMICALS LIMITED",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "As per attachment.",
+    "raw_headline": "As per attachment.",
+    "is_critical": false,
+    "attachment": "8d4f24ed-d93b-4f95-a7fa-9d4d7e1dabf5.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "506405",
+    "symbol": "DMCC",
+    "company": "DMCC SPECIALITY CHEMICALS LIMITED",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot",
+    "raw_headline": "Outcome of Postal Ballot",
+    "is_critical": false,
+    "attachment": "881b23a4-c390-4ad8-8117-ff8aa77a61d1.pdf"
   }
 ]

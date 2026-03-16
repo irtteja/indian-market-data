@@ -14,5 +14,37 @@
     "raw_headline": "Offer for Sale",
     "is_critical": false,
     "attachment": "01bf1d52-e961-4ff7-894a-0885179232cc.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532141",
+    "symbol": "ACL",
+    "company": "Andhra Cement Ltd.",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Offer for Sale",
+    "clean_headline": "Tata Motors to increase price of its Commercial Vehicles effective April 2026",
+    "raw_headline": "Offer for Sale",
+    "is_critical": false,
+    "attachment": "01bf1d52-e961-4ff7-894a-0885179232cc.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532141",
+    "symbol": "ACL",
+    "company": "Andhra Cement Ltd.",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Sale of shares",
+    "clean_headline": "Sagar Cements, promoter of Andhra Cement Ltd, proposes to sell up to 66,76,843 equity shares (7.24% stake).",
+    "raw_headline": "Sagar Cements Ltd (the \"Promoter\") (the \"Seller\") of Andhra Cements Ltd (\"the Company\") the Promoter proposes to sell up to 66,76,843 Equity Shares of the Company, (representing 7.24% of ....",
+    "is_critical": false,
+    "attachment": "722E0802-5AF0-4293-8B9F-9F7DA9ED4F73-182633.pdf"
   }
 ]

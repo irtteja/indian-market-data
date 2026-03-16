@@ -30,5 +30,37 @@
     "raw_headline": "Please find enclosed herewith detailed outcome for change in Statutory Auditor of the company for your reference.",
     "is_critical": false,
     "attachment": "e5f3bfff-8a3b-436e-847f-c7e55dc57286.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "514354",
+    "symbol": "PREMIERPOL",
+    "company": "Premier Polyfilm Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Appointment of Statutory Auditor/s",
+    "clean_headline": "Bajaj Electricals Limited appointed an Interim Chief Financial Officer.",
+    "raw_headline": "Please find enclosed herewith detailed outcome for change in Statutory Auditor of the company for your reference.",
+    "is_critical": false,
+    "attachment": "e5f3bfff-8a3b-436e-847f-c7e55dc57286.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "514354",
+    "symbol": "PREMIERPOL",
+    "company": "Premier Polyfilm Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Board meeting held on 16th March 2026 with outcomes to be disclosed.",
+    "raw_headline": "Please find enclosed herewith detailed Outcome with Annexures for your reference.",
+    "is_critical": false,
+    "attachment": "db960eec-695d-466e-9614-e238201aad81.pdf"
   }
 ]

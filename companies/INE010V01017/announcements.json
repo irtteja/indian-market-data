@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540115",
+    "symbol": "LTTS",
+    "company": "L&T Technology Services Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Management Changes",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Mr. Arun Sriram appointed as Chief Marketing Officer of Indo National Limited effective March 16, 2026.",
+    "raw_headline": "We wish to inform the exchange regarding Press Release titled \"L&T Technology Services Launches NVIDIA-Powered AI Lung Digital Twin Platform for Advanced Respiratory Diagnostics\".",
+    "is_critical": false,
+    "attachment": "895f2680-8870-4cf2-887a-942b3b8ad2fd.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540115",
+    "symbol": "LTTS",
+    "company": "L&T Technology Services Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Fino Payments Bank scheduled to meet with Deep Financial Consultants on March 16, 2026",
+    "raw_headline": "The reply letter is attached.",
+    "is_critical": false,
+    "attachment": "c209b6fc-9dd3-4c95-8088-87e5d160e7c9.pdf"
+  }
+]

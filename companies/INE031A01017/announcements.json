@@ -14,5 +14,21 @@
     "raw_headline": "ESG Ratings issued by ESG Risk Assessments and Insights Limited",
     "is_critical": false,
     "attachment": "743a2f23-7b26-44ce-9b8b-f0f0f3c74197.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540530",
+    "symbol": "HUDCO",
+    "company": "Housing &Urban Development Corporation Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Fund raising proposal by issuance of listed non-convertible debentures deferred till further notice",
+    "raw_headline": "Housing & Urban Development Corporation Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/03/2026 ,inter alia, to consider and approve 4th ....",
+    "is_critical": true,
+    "attachment": "f8ddc903-cc7c-409e-9767-5cbd2b5a4c2b.pdf"
   }
 ]

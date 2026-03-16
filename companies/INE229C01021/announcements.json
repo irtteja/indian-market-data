@@ -62,5 +62,37 @@
     "raw_headline": "Further to our letter dated 16.03.2026, please find enclosed the disclosure as required under Part A of Schedule III read with Regulation 30( 4)(i)( c) of SEBI (LODR) Regulations, 2015 ....",
     "is_critical": false,
     "attachment": "59e28f26-2ac6-476b-becf-c71f615f46c6.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "502090",
+    "symbol": "SAGCEM",
+    "company": "Sagar Cements Ltd",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Rights Issue Committee extended the last date for receipt of applications in the ongoing Rights Issue",
+    "raw_headline": "Further to our letter dated 16.03.2026, please find enclosed the disclosure as required under Part A of Schedule III read with Regulation 30( 4)(i)( c) of SEBI (LODR) Regulations, 2015 ....",
+    "is_critical": false,
+    "attachment": "59e28f26-2ac6-476b-becf-c71f615f46c6.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "502090",
+    "symbol": "SAGCEM",
+    "company": "Sagar Cements Ltd",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Offer for Sale",
+    "clean_headline": "Investment Committee meeting outcome regarding Offer for Sale",
+    "raw_headline": "Offer for Sale",
+    "is_critical": false,
+    "attachment": "b75f9108-40ea-42b2-b8fa-6abbc6b708af.pdf"
   }
 ]

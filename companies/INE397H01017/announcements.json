@@ -14,5 +14,21 @@
     "raw_headline": "Nil",
     "is_critical": true,
     "attachment": "53578204-5aa4-4d3a-813f-86933badcb1f.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "532740",
+    "symbol": "LOKESHMACH",
+    "company": "Lokesh Machines Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "US FDA accepted Supplemental Biologics License application for ILUMYA (tildrakizumab) for psoriatic arthritis",
+    "raw_headline": "As disclosed.",
+    "is_critical": false,
+    "attachment": "f973c1c5-bfbf-46f8-a0d1-4dd67a8080fe.pdf"
   }
 ]

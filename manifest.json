@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-16T21:18:40.178113+00:00",
+  "generated": "2026-03-16T22:15:46.355283+00:00",
   "dates": [
     "2026-03-16",
     "2026-03-15",
@@ -8,9 +8,142 @@
     "2026-03-12"
   ],
   "total_briefings": 5,
-  "company_dossiers": 519,
+  "company_dossiers": 538,
   "latest": "2026-03-16",
   "latest_screener_date": null,
-  "upcoming_results_count": 0,
-  "upcoming_board_meetings": []
+  "upcoming_results_count": 12,
+  "upcoming_board_meetings": [
+    {
+      "company": "Binny Ltd",
+      "symbol": "BINNY",
+      "date": "2026-03-17",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Clean Max Enviro Energy Solutions Limited",
+      "symbol": "CLEANMAX",
+      "date": "2026-03-17",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Power",
+      "in_universe": true
+    },
+    {
+      "company": "Dharti Proteins Ltd",
+      "symbol": "DHARTI",
+      "date": "2026-03-18",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Gaudium IVF and Women Health Ltd",
+      "symbol": "GAUDIUMIVF",
+      "date": "2026-03-18",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Milestone Furniture Ltd",
+      "symbol": "MILEFUR",
+      "date": "2026-03-18",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Shree Ram Twistex Ltd",
+      "symbol": "SRTL",
+      "date": "2026-03-19",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Alps Industries Ltd",
+      "symbol": "ALPSINDUS",
+      "date": "2026-03-20",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Reganto Enterprises Ltd",
+      "symbol": "REGANTO",
+      "date": "2026-03-20",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Supha Pharmachem Ltd",
+      "symbol": "SUPHA",
+      "date": "2026-03-30",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
+      "company": "Infosys Ltd",
+      "symbol": "INFY",
+      "date": "2026-04-23",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Large Cap",
+      "sector": "Information Technology",
+      "in_universe": true
+    },
+    {
+      "company": "India Cements Ltd.",
+      "symbol": "INDIACEM",
+      "date": "2026-04-25",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Small Cap",
+      "sector": "Construction Materials",
+      "in_universe": true
+    },
+    {
+      "company": "UltraTech Cement Ltd",
+      "symbol": "ULTRACEMCO",
+      "date": "2026-04-27",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Large Cap",
+      "sector": "Construction Materials",
+      "in_universe": true
+    }
+  ]
 }

@@ -14,5 +14,21 @@
     "raw_headline": "Intimation regarding Change in the Senior Management- Appointment",
     "is_critical": false,
     "attachment": "5b45615b-fca1-4a89-8e77-4744ec5bc3af.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "542649",
+    "symbol": "RVNL",
+    "company": "Rail Vikas Nigam Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "GMDC signs MoU with NMDC Limited to explore strategic collaboration in rare earth elements sector",
+    "raw_headline": "Receipt of LOA from National Mineral Development Corporation (NMDC) Limited",
+    "is_critical": true,
+    "attachment": "180e72b8-6a5e-40bb-94c4-86369b1a7d14.pdf"
   }
 ]

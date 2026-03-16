@@ -62,5 +62,37 @@
     "raw_headline": "Intimation of Investor Meet held on March 16, 2026",
     "is_critical": false,
     "attachment": "74a32d67-25ac-429f-b746-4d9c4ec29986.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544027",
+    "symbol": "FEDFINA",
+    "company": "Fedbank Financial Services Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Intellect Design Arena Limited: President, Western Hemisphere John Owen and Chief Partner Officer Kannan Ramasamy stepping down effective March 31, 2026.",
+    "raw_headline": "Clarification Letter on Special Window for Transfer and Dematerialisation of Physical Shares pursuant to SEBI Circular dated January 30, 2026",
+    "is_critical": false,
+    "attachment": "b43a854d-6ffe-4d8f-887f-69b3c03a14ff.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544027",
+    "symbol": "FEDFINA",
+    "company": "Fedbank Financial Services Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Intimation of Credit Rating of facility/ instrument of the Company",
+    "raw_headline": "Intimation of Credit Rating of facility/ instrument of the Company",
+    "is_critical": true,
+    "attachment": "2e2dd48f-2df4-4c11-ba8c-34101be6e5b4.pdf"
   }
 ]

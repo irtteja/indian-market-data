@@ -30,5 +30,37 @@
     "raw_headline": "The Exchange has sought clarification from Ola Electric Mobility Ltd on March 16, 2026, with reference to news appeared in https://economictimes.indiatimes.com/ dated March 16, 2026 quoting ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544225",
+    "symbol": "OLAELEC",
+    "company": "Ola Electric Mobility Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Automobiles",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Clarification",
+    "clean_headline": "Appointment of Mrs. Kajal Chattwal as Additional Non-Executive Independent Director and change in designation of another director from Non-Executive Independent to Non-Independent Director",
+    "raw_headline": "The Exchange has sought clarification from Ola Electric Mobility Ltd on March 16, 2026, with reference to news appeared in https://economictimes.indiatimes.com/ dated March 16, 2026 quoting ....",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544225",
+    "symbol": "OLAELEC",
+    "company": "Ola Electric Mobility Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Automobiles",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "General",
+    "clean_headline": "Rights Issue Committee meeting held on March 16, 2026 to decide on rights issue outcome",
+    "raw_headline": "Ola Electric Mobility Limited has submitted a clarification regarding the news item that appeared in the media/publications",
+    "is_critical": false,
+    "attachment": "13b34ae0-7e8e-4a45-ae8e-031da92f39a6.pdf"
   }
 ]

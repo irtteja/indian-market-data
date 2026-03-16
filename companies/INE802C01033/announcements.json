@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-16",
+    "scrip_code": "513262",
+    "symbol": "SSWL",
+    "company": "Steel Strips & Wheels Ltd",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Schedule of analyst and institutional investor meetings announced",
+    "raw_headline": "As per attachment enclosed",
+    "is_critical": false,
+    "attachment": "2605a53d-273c-4a56-be46-5d2f35d86770.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "513262",
+    "symbol": "SSWL",
+    "company": "Steel Strips & Wheels Ltd",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Investor meet scheduled with Everflow Partners on March 20, 2026",
+    "raw_headline": "As per attachment enclosed.",
+    "is_critical": false,
+    "attachment": "322fa054-15b2-49ae-a0db-68f97a403c3b.pdf"
+  }
+]

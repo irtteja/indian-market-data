@@ -46,5 +46,53 @@
     "raw_headline": "With reference to the cited subject and in accordance with SEBI circular dated January 30, 2026, please find attached herewith report received from the Registrar to an issue and Share Transfer ....",
     "is_critical": false,
     "attachment": "4fdae739-1784-4c5e-9e3b-d5b48db829f7.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "511724",
+    "symbol": "BAIDFIN",
+    "company": "BAID FINSERV LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Anil Jain",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Anil Jain",
+    "is_critical": false,
+    "attachment": "A785F957_779E_4A45_9C40_01C0F190583E_143348.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "511724",
+    "symbol": "BAIDFIN",
+    "company": "BAID FINSERV LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Pulsar International Limited achieved revenue milestone of ₹900 million from its established verticals.",
+    "raw_headline": "Pursuant to Regulation 169(5) of SEBI ICDR Regulations, please find enclosed herewith a certificate issued by ABSM & Associates, Chartered Accountants, Statutory Auditor of the company, ....",
+    "is_critical": false,
+    "attachment": "be3d220e-5d29-48a6-a074-8d8d3f7b195f.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "511724",
+    "symbol": "BAIDFIN",
+    "company": "BAID FINSERV LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Sastasundar Ventures (Health X Platform Limited) scheduled to meet with investors and analysts on March 19, 2026",
+    "raw_headline": "With reference to the cited subject and in accordance with SEBI circular dated January 30, 2026, please find attached herewith report received from the Registrar to an issue and Share Transfer ....",
+    "is_critical": false,
+    "attachment": "4fdae739-1784-4c5e-9e3b-d5b48db829f7.pdf"
   }
 ]

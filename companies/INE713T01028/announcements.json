@@ -62,5 +62,21 @@
     "raw_headline": "Intimation on investor meeting",
     "is_critical": false,
     "attachment": "a82a1d27-fd81-451b-afa6-8bd4695de810.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540879",
+    "symbol": "APOLLO",
+    "company": "Apollo Micro Systems Limited",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Intimation on investor meeting",
+    "raw_headline": "Intimation on investor meeting",
+    "is_critical": false,
+    "attachment": "a82a1d27-fd81-451b-afa6-8bd4695de810.pdf"
   }
 ]

@@ -14,5 +14,21 @@
     "raw_headline": "Please refer the enclosed file.",
     "is_critical": false,
     "attachment": "ef70e53d-c991-4a68-97f8-93dc98976f39.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "500295",
+    "symbol": "VEDL",
+    "company": "Vedanta Limited",
+    "sector": "Metals & Mining",
+    "industry": "Diversified Metals",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Press Releases",
+    "subcategory": "Meeting Updates",
+    "clean_headline": "LTIMindtree partners with IIT Kharagpur to upskill workforce in AI",
+    "raw_headline": "Please refer the enclosed file.",
+    "is_critical": false,
+    "attachment": "f33b43c4-b9d8-4a8e-8d0f-e29fbcde0b05.pdf"
   }
 ]

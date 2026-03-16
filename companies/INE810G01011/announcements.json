@@ -46,5 +46,53 @@
     "raw_headline": "Outcome of Postal ballot",
     "is_critical": false,
     "attachment": "2d44175b-2b52-4a11-b06d-f743e9260f61.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543299",
+    "symbol": "SHYAMMETL",
+    "company": "Shyam Metalics and Energy Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Regulation 44 Report along with Scrutinisers Report",
+    "raw_headline": "Regulation 44 Report along with Scrutinisers Report",
+    "is_critical": false,
+    "attachment": "1862a021-e26d-48c1-acc0-b72c8f3fdc35.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543299",
+    "symbol": "SHYAMMETL",
+    "company": "Shyam Metalics and Energy Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Scrutinisers Report on Postal ballot",
+    "raw_headline": "Scrutinisers Report on Postal ballot",
+    "is_critical": false,
+    "attachment": "3f6a9732-70df-47d8-81bb-f8af8a3c315c.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543299",
+    "symbol": "SHYAMMETL",
+    "company": "Shyam Metalics and Energy Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal ballot",
+    "raw_headline": "Outcome of Postal ballot",
+    "is_critical": false,
+    "attachment": "2d44175b-2b52-4a11-b06d-f743e9260f61.pdf"
   }
 ]

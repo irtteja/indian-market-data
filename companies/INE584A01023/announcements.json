@@ -30,5 +30,21 @@
     "raw_headline": "As per attachment.",
     "is_critical": false,
     "attachment": "fdd3c350-3962-45a3-9cab-c9f72594bdce.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "526371",
+    "symbol": "NMDC",
+    "company": "NMDC Ltd",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "General",
+    "clean_headline": "NMDC Limited signs Memorandum of Understanding with Gujarat Mineral Development Corporation Limited",
+    "raw_headline": "As per attachment.",
+    "is_critical": false,
+    "attachment": "fdd3c350-3962-45a3-9cab-c9f72594bdce.pdf"
   }
 ]

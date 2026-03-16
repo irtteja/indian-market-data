@@ -78,5 +78,21 @@
     "raw_headline": "Intimation of Release dated 16th March, 2026",
     "is_critical": false,
     "attachment": "48b1b55f-e0bd-43b3-a0ee-d24328fa5877.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "512455",
+    "symbol": "LLOYDSME",
+    "company": "Lloyds Metals and Energy Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "Lloyds Metals and Energy commences commercial production of copper cathodes from 12,000 TPA plant in Democratic Republic of Congo",
+    "raw_headline": "Intimation of Release dated 16th March, 2026",
+    "is_critical": false,
+    "attachment": "48b1b55f-e0bd-43b3-a0ee-d24328fa5877.pdf"
   }
 ]

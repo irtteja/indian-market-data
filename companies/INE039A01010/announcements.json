@@ -14,5 +14,21 @@
     "raw_headline": "The Exchange has sought clarification from IFCI Ltd on March 16, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "500106",
+    "symbol": "IFCI",
+    "company": "IFCI Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Clarification",
+    "clean_headline": "Chatha Foods Ltd intimated schedule of analyst and institutional investors meeting",
+    "raw_headline": "The Exchange has sought clarification from IFCI Ltd on March 16, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

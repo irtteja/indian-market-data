@@ -30,5 +30,37 @@
     "raw_headline": "Declaration of the Voting Results of Postal Ballot through Remote E-voting along with Scrutinizer Report",
     "is_critical": false,
     "attachment": "396c497b-dbfe-4830-991a-4ce495487cda.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544026",
+    "symbol": "IREDA",
+    "company": "Indian Renewable Energy Development Agency Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Declaration of the Voting Results under Reg 44 of the SEBI LODR Regulations, 2015 and Scrutinizer Report",
+    "raw_headline": "Declaration of the Voting Results under Reg 44 of the SEBI LODR Regulations, 2015 and Scrutinizer Report",
+    "is_critical": false,
+    "attachment": "301b57b9-f025-4056-b136-105df287db78.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544026",
+    "symbol": "IREDA",
+    "company": "Indian Renewable Energy Development Agency Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Declaration of the Voting Results of Postal Ballot through Remote E-voting along with Scrutinizer Report",
+    "raw_headline": "Declaration of the Voting Results of Postal Ballot through Remote E-voting along with Scrutinizer Report",
+    "is_critical": false,
+    "attachment": "396c497b-dbfe-4830-991a-4ce495487cda.pdf"
   }
 ]

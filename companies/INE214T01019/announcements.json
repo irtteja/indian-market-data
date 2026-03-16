@@ -46,5 +46,21 @@
     "raw_headline": "Intimation attached",
     "is_critical": false,
     "attachment": "b7349fa8-3194-479b-8b6c-c05ec9641665.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "540005",
+    "symbol": "LTM",
+    "company": "LTIMindtree Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Debt & Finance",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Vedanta Limited intimated allotment of Non-Convertible Debentures.",
+    "raw_headline": "Intimation attached",
+    "is_critical": false,
+    "attachment": "b7349fa8-3194-479b-8b6c-c05ec9641665.pdf"
   }
 ]

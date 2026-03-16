@@ -14,5 +14,21 @@
     "raw_headline": "The Exchange has sought clarification from ICDS Ltd on March 16, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant information ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "511194",
+    "symbol": "ICDSLTD",
+    "company": "ICDS Ltd.",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Clarification",
+    "clean_headline": "SEBI takes on record final Private Placement Memorandum for launch of Anand Rathi AIF III Trust NIFTY Accelerator Series I",
+    "raw_headline": "The Exchange has sought clarification from ICDS Ltd on March 16, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant information ....",
+    "is_critical": true,
+    "attachment": ""
   }
 ]

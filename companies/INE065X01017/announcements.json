@@ -46,5 +46,37 @@
     "raw_headline": "The Exchange has sought clarification from Indegene Ltd on March 16, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544172",
+    "symbol": "INDGN",
+    "company": "Indegene Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "Clarification",
+    "clean_headline": "Gujarat Inject Kerala Ltd received a purchase order from Earthwave Technology Private Limited for 7,041 solar PV modules worth Rs 6.067 crores (exclusive of GST).",
+    "raw_headline": "The Exchange has sought clarification from Indegene Ltd on March 16, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544172",
+    "symbol": "INDGN",
+    "company": "Indegene Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "The Hi-Tech Gears Ltd will participate in the 11th Annual Valorem Conference on March 23, 2026.",
+    "raw_headline": "Clarification Letter",
+    "is_critical": false,
+    "attachment": "12ae5696-1238-48ec-991c-cc2abe5c396f.pdf"
   }
 ]

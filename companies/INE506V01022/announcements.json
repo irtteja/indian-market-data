@@ -30,5 +30,37 @@
     "raw_headline": "Outcome of Postal Ballot",
     "is_critical": false,
     "attachment": "5ee10ebf-d46a-48ea-8414-0964f58491e6.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544578",
+    "symbol": "RUBICON",
+    "company": "RUBICON RESEARCH LIMITED",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Scrutinizer''s Report",
+    "raw_headline": "Scrutinizer''s Report",
+    "is_critical": false,
+    "attachment": "77edea86-e8d3-47fa-8b73-ea364dc762a0.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "544578",
+    "symbol": "RUBICON",
+    "company": "RUBICON RESEARCH LIMITED",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot",
+    "raw_headline": "Outcome of Postal Ballot",
+    "is_critical": false,
+    "attachment": "5ee10ebf-d46a-48ea-8414-0964f58491e6.pdf"
   }
 ]

@@ -14,5 +14,37 @@
     "raw_headline": "Postal ballot notice intimation",
     "is_critical": false,
     "attachment": "6420d32a-93f9-468f-a1b6-2aba1ca66458.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543308",
+    "symbol": "KIMS",
+    "company": "Krishna Institute of Medical Sciences Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Postal ballot notice intimation",
+    "raw_headline": "Postal ballot notice intimation",
+    "is_critical": false,
+    "attachment": "6420d32a-93f9-468f-a1b6-2aba1ca66458.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543308",
+    "symbol": "KIMS",
+    "company": "Krishna Institute of Medical Sciences Limited",
+    "sector": "Healthcare",
+    "industry": "Healthcare Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Promoter's proposed inter-se transfer of shares amongst promoters",
+    "raw_headline": "Meeting with DAM Capital Hospitals & Diagnostics conference",
+    "is_critical": false,
+    "attachment": "155c34bb-01e5-4870-b082-ddb6536ac3ad.pdf"
   }
 ]

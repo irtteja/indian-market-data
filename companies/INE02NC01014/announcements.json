@@ -30,5 +30,37 @@
     "raw_headline": "Clarification regarding Media Report dated March 16, 2026",
     "is_critical": false,
     "attachment": "bde19de2-b555-490f-8e97-d320aa303517.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543386",
+    "symbol": "FINOPB",
+    "company": "Fino Payments Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Kalind Ltd appoints Mrs. Anju Surajsingh Chauhan as Company Secretary and Compliance Officer effective March 16, 2026",
+    "raw_headline": "Investor Meet with Deep Financial Consultants Pvt Ltd on one to one basis.",
+    "is_critical": false,
+    "attachment": "8c4507cc-c2d3-48f0-85e7-db1c7144b8aa.pdf"
+  },
+  {
+    "date": "2026-03-16",
+    "scrip_code": "543386",
+    "symbol": "FINOPB",
+    "company": "Fino Payments Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "General",
+    "clean_headline": "Sunita Tools Ltd incorporated a wholly owned subsidiary Sunita Defence Inc in Wyoming, USA",
+    "raw_headline": "Clarification regarding Media Report dated March 16, 2026",
+    "is_critical": false,
+    "attachment": "bde19de2-b555-490f-8e97-d320aa303517.pdf"
   }
 ]
