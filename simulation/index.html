@@ -3,156 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EquityDesk Simulation — 16 Mar 2026</title>
+    <title>EquityDesk News — 16 Mar 2026</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: #0f1117; color: #e2e8f0;
-            padding: 24px 16px; max-width: 1000px; margin: 0 auto;
-        }
-        .header { border-bottom: 1px solid #2d3748; padding-bottom: 16px; margin-bottom: 16px; }
-        .header h1 { font-size: 1.4rem; color: #f7fafc; }
-        .meta { font-size: 0.82rem; color: #718096; margin-top: 6px; }
-        .outlook-badge {
-            display: inline-block; margin-top: 10px;
-            padding: 5px 16px; border-radius: 20px;
-            font-size: 0.85rem; font-weight: 700;
-        }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f1117; color: #e2e8f0; padding: 24px 16px; max-width: 900px; margin: 0 auto; }
+        .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.83rem; color: #63b3ed; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .header { border-bottom: 1px solid #2d3748; padding-bottom: 16px; margin-bottom: 20px; }
+        .header h1 { font-size: 1.3rem; color: #f7fafc; margin-bottom: 4px; }
+        .meta { font-size: 0.8rem; color: #718096; margin-bottom: 8px; }
+        .badge { display: inline-block; padding: 4px 14px; border-radius: 20px; font-size: 0.82rem; font-weight: 600; }
         .bull { background: #1c4532; color: #68d391; }
         .cautious-bull { background: #1a3a2a; color: #9ae6b4; }
         .bear { background: #4a1010; color: #fc8181; }
         .cautious-bear { background: #3a1a1a; color: #feb2b2; }
         .neut { background: #1a2744; color: #90cdf4; }
-        .section-title {
-            font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
-            text-transform: uppercase; color: #718096;
-            margin-bottom: 12px; margin-top: 28px;
-        }
-        .synthesis-box {
-            background: #1a202c; border: 1px solid #276749;
-            border-left: 3px solid #38a169;
-            border-radius: 8px; padding: 20px 24px;
-        }
-        .syn-section {
-            font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em;
-            text-transform: uppercase; color: #718096;
-            margin-top: 16px; margin-bottom: 6px;
-        }
-        .syn-text { font-size: 0.9rem; line-height: 1.75; color: #e2e8f0; margin-bottom: 4px; }
-        .impact-line { font-size: 0.88rem; line-height: 1.7; padding: 4px 0; }
-        .bull-line { color: #9ae6b4; }
-        .bear-line { color: #feb2b2; }
-        .neut-line { color: #90cdf4; }
-        .agents-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
-            gap: 14px;
-        }
-        .agent-card {
-            background: #1a202c; border: 1px solid #2d3748;
-            border-radius: 8px; padding: 18px;
-        }
-        .agent-header {
-            display: flex; align-items: center; gap: 10px;
-            margin-bottom: 14px; padding-bottom: 10px;
-            border-bottom: 1px solid #2d3748;
-        }
-        .emoji { font-size: 1.2rem; }
-        .agent-name { font-weight: 600; font-size: 0.92rem; color: #f7fafc; }
-        .agent-output { font-size: 0.84rem; }
-        .news-item {
-            background: #0f1117; border-left: 3px solid #4a5568;
-            padding: 6px 10px; margin: 10px 0 4px;
-            font-weight: 600; color: #f7fafc; line-height: 1.5;
-            border-radius: 0 4px 4px 0;
-        }
-        .news-meta { color: #a0aec0; line-height: 1.6; padding: 2px 0; }
-        .news-bull { color: #9ae6b4; line-height: 1.6; padding: 2px 0; }
-        .news-bear { color: #feb2b2; line-height: 1.6; padding: 2px 0; }
-        .agent-section {
-            font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em;
-            text-transform: uppercase; color: #718096;
-            margin-top: 14px; margin-bottom: 6px;
-        }
-        .agent-text { color: #cbd5e0; line-height: 1.7; padding: 1px 0; }
-        .bullet { color: #e2e8f0; line-height: 1.7; padding: 2px 0; }
-        .weekend-note {
-            background: #1a2744; border: 1px solid #2a4a8a;
-            border-radius: 6px; padding: 8px 14px;
-            font-size: 0.82rem; color: #90cdf4; margin-bottom: 16px;
-        }
-        .web-badge {
-            display: inline-block; padding: 2px 8px;
-            background: #1a3a2a; color: #68d391;
-            border-radius: 4px; font-size: 0.68rem; margin-left: 8px;
-        }
-        .footer {
-            text-align: center; font-size: 0.76rem; color: #4a5568;
-            padding-top: 20px; margin-top: 32px;
-            border-top: 1px solid #2d3748;
-        }
-        .back-link {
-            display: inline-block; margin-bottom: 20px;
-            font-size: 0.83rem; color: #63b3ed; text-decoration: none;
-        }
-        .back-link:hover { text-decoration: underline; }
+        .searches { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+        .search-tag { font-size: 0.72rem; background: #1a2744; color: #90cdf4; padding: 2px 8px; border-radius: 4px; }
+        .monday-note { background: #1a2744; border: 1px solid #2a4a8a; border-radius: 6px; padding: 8px 14px; font-size: 0.8rem; color: #90cdf4; margin-bottom: 16px; }
+        .section-label { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #718096; margin: 24px 0 8px; }
+        .section-card { background: #1a202c; border: 1px solid #2d3748; border-left: 3px solid #4a5568; border-radius: 8px; padding: 16px 18px; }
+        .news-item { background: #0f1117; border-left: 2px solid #4a5568; padding: 6px 10px; margin: 10px 0 4px; font-weight: 600; color: #f7fafc; line-height: 1.5; border-radius: 0 4px 4px 0; font-size: 0.86rem; }
+        .row-meta { color: #a0aec0; font-size: 0.82rem; line-height: 1.6; padding: 2px 0; }
+        .row-bull { color: #9ae6b4; font-size: 0.82rem; line-height: 1.6; padding: 2px 0; }
+        .row-bear { color: #feb2b2; font-size: 0.82rem; line-height: 1.6; padding: 2px 0; }
+        .impact-bull { color: #9ae6b4; font-size: 0.84rem; line-height: 1.7; padding: 3px 0; }
+        .impact-bear { color: #feb2b2; font-size: 0.84rem; line-height: 1.7; padding: 3px 0; }
+        .impact-neut { color: #90cdf4; font-size: 0.84rem; line-height: 1.7; padding: 3px 0; }
+        .bullet-item { color: #cbd5e0; font-size: 0.84rem; line-height: 1.7; padding: 2px 0; }
+        .body-text { color: #cbd5e0; font-size: 0.86rem; line-height: 1.7; padding: 1px 0; }
+        .footer { text-align: center; font-size: 0.72rem; color: #4a5568; padding-top: 20px; margin-top: 32px; border-top: 1px solid #2d3748; }
     </style>
 </head>
 <body>
     <a href="../" class="back-link">← Back to Daily Briefing</a>
-
     <div class="header">
-        <h1>🔮 EquityDesk Agent Simulation
-            <span class="web-badge">🔍 Web Search</span>
-        </h1>
-        <div class="meta">
-            Based on <strong>15 Mar 2026</strong> data ·
-            Generated <strong>16 Mar 2026 · 1:30 AM IST</strong>
-        </div>
-        <div class="outlook-badge neut">
-            Market Outlook: Neutral
-        </div>
+        <h1>EquityDesk News Analysis</h1>
+        <div class="meta">Based on 15 Mar 2026 briefing · Generated 16 Mar 2026 · 1:30 AM IST</div>
+        <span class="badge cautious-bear">Market Outlook: Cautiously Bearish</span>
+        
     </div>
-
-    <div class="weekend-note">📅 Monday edition — includes weekend global developments (Fri–Sun)</div>
-
-    <div class="section-title">Master Market Impact Report</div>
-    <div class="synthesis-box"><div class="syn-text"># MASTER MARKET IMPACT REPORT</div><div class="syn-text">**Indian Equities | March 16, 2026**</div><br><div class="syn-text">---</div><br><div class="syn-text">**MARKET OUTLOOK:** Bearish</div><br><div class="syn-text">---</div><br><div class="syn-text">**SUMMARY:**</div><div class="syn-text">Indian equities face a perfect storm of headwinds as massive FII outflows (₹52,704 crore in March alone) converge with Middle East geopolitical escalation and Brent crude breaching $100/barrel. The Nifty 50 recorded its worst week since June 2022, with large-cap financials and capex-sensitive sectors bearing the brunt on Friday. While energy producers and defensive plays may find tactical support, the combination of elevated oil prices, persistent FII selling, and risk-off global sentiment will likely keep Indian markets under pressure on Monday with no clear catalysts for reversal in the near term.</div><br><div class="syn-text">---</div><br><div class="syn-text">**SECTOR IMPACT MAP:**</div><br><div class="impact-line bull-line">🟢 **POSITIVE: Energy (Oil &amp; Gas)** — Geopolitical premium on crude above $100/bbl; supply disruption through Strait of Hormuz supports producer valuations — Key stocks: ONGC</div><br><div class="impact-line bull-line">🟢 **POSITIVE: Renewables/Power** — Oil supply crisis drives investor rotation toward alternative energy and power generation — Key stocks: ADANIPOWER</div><br><div class="impact-line bull-line">🟢 **POSITIVE: Fertilizers** — Supply disruptions boost global fertilizer premiums despite domestic margin pressures — Key stocks: Coromandel International, KHARIBOLI</div><br><div class="impact-line bull-line">🟢 **POSITIVE: Defensive Consumer** — FII rotation into stability during volatility — Key stocks: Hindustan Unilever, Bharti Airtel</div><br><div class="impact-line bear-line">🔴 **NEGATIVE: Capital Goods &amp; Infrastructure** — FII selling and oil-driven inflation expectations pressurize high-beta capex plays — Key stocks: Larsen &amp; Toubro, Bharat Electronics</div><br><div class="impact-line bear-line">🔴 **NEGATIVE: Auto &amp; Auto Components** — Rising energy costs inflate input prices; import-dependent supply chains vulnerable; demand destruction likely — Key stocks: Maruti Suzuki, Bajaj FinServ</div><br><div class="impact-line bear-line">🔴 **NEGATIVE: IT Software** — FII exodus from large-cap IT holdings accelerates — Key stocks: TCS, Infosys</div><br><div class="impact-line bear-line">🔴 **NEGATIVE: Banking &amp; Financials** — FII liquidations and potential RBI tightening to defend INR against oil-driven inflation; higher borrowing costs — Key stocks: SBI</div><br><div class="impact-line bear-line">🔴 **NEGATIVE: FMCG** — Input cost inflation from elevated crude; margin compression expected — Key stocks: Britannia</div><br><div class="syn-text">---</div><br><div class="syn-text">**TOP STOCK PICKS FOR TOMORROW:**</div><br><div class="impact-line bull-line">🟢 **BUY WATCH: ONGC** — Direct beneficiary of $100+/barrel crude; geopolitical energy premium and improved realizations offset FII weakness; supports INR stability through forex earnings.</div><br><div class="impact-line bull-line">🟢 **BUY WATCH: Hindustan Unilever** — Defensive rotation play; demonstrated +1.2% resilience on Friday amid broad selloff; relative safety in volatility.</div><br><div class="impact-line bear-line">🔴 **AVOID: Larsen &amp; Toubro** — Down 7.5% Friday; capex-sensitive play crushed by FII selling; oil inflation headwinds will persist; likely to remain weak as geopolitical risk unwinds slowly.</div><br><div class="impact-line bear-line">🔴 **AVOID: Maruti Suzuki** — Down 3.3% Friday; auto imports face energy cost inflation; demand destruction risk from elevated crude; vulnerability to both supply-side and demand</div></div>
-
-    <div class="section-title">Agent Analysis — News → Sectors → Stocks</div>
-    <div class="agents-grid">
-        <div class="agent-card" style="border-top:3px solid #2c5282">
-            <div class="agent-header">
-                <span class="emoji">🌐</span>
-                <span class="agent-name">Macro & Global Analyst</span>
-            </div>
-            <div class="agent-output"><div class="agent-text">I'll search for major developments from March 13-15, 2026 across your focus areas.Based on my research of developments from March 13–15, 2026, here is the market briefing for Indian equities:</div><br><div class="agent-text">---</div><br><div class="agent-text">**OVERALL VIEW:** The week ending March 13 was a nightmare for the Indian equity markets, as the benchmark Nifty 50 recorded its biggest weekly decline since June 2022, mirroring weakness in global peers amid escalated tensions between the US, Israel, and Iran, which kept oil prices elevated — tomorrow's session will remain under pressure from geopolitical overhang, elevated crude above $100/bbl, and FII outflows despite domestic buying support.</div><br><div class="agent-text">---</div><br><div class="agent-text">## NEWS IMPACT ANALYSIS</div><br><div class="agent-text">📰 **NEWS: Iran-Israel Military Escalation &amp; Strait of Hormuz Closure**</div><div class="news-meta">📍 **SECTORS AFFECTED:** Energy (Oil &amp; Gas), Auto Components, Airlines, Chemicals, Fertilizer, FMCG</div><div class="news-bull">📈 **BULLISH STOCKS:** ONGC (geopolitical energy premium), ADANIPOWER (renewable alternative), Fertilizer plays (Coromandel, KHARIBOLI benefiting from supply disruption premiums)</div><div class="news-bear">📉 **BEARISH STOCKS:** BAJAJFINSV (higher borrowing costs as RBI may support INR), TCS &amp; Infosys (FII selling in IT), Maruti Suzuki (auto imports vulnerable to energy costs), Britannia (input cost inflation)</div><div class="news-meta">⚡ **MAGNITUDE:** **High** — The war in the Middle East is creating the largest supply disruption in the history of the global oil market, with crude and oil product flows through the Strait of Hormuz plunging from around 20 mb/d before the war to a trickle currently</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS: Crude Oil Surge to $99–100/bbl on Supply Shock**</div><div class="news-meta">📍 **SECTORS AFFECTED:** Oil Refining, Maritime Shipping, Airlines (Jet fuel), Petrochemicals, Power Generation</div><div class="news-bull">📈 **BULLISH STOCKS:** IOC, BPCL, RELIANCE (refining spreads), Mazagon Dock (defense/maritime), NTPC Green (renewable hedge), POWERGRID (thermal cost pass-through)</div><div class="news-bear">📉 **BEARISH STOCKS:** Airline sector (SpiceJet, IndiGo), Auto OEMs (Maruti, Tata Motors), Fertilizer producers facing naphtha cost spikes (though some hedge), Passenger vehicles</div><div class="news-meta">⚡ **MAGNITUDE:** **High** — At 8:30 a.m. Eastern Time March 13, oil was priced at $99.84 per barrel with Brent serving as the benchmark; LPG use in cooking and heating, especially in India and East Africa, is also at risk</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS: Indian Rupee Hits Record Low of ₹92.40–92.45 vs USD**</div><div class="news-meta">📍 **SECTORS AFFECTED:** IT Services (USD earnings hedge), Pharma, Auto Exports, Metals &amp; Mining, Banks (forex exposure), Textiles</div><div class="news-bull">📈 **BULLISH STOCKS:** TCS, Infosys, Wipro (dollar revenue beats; though FII selling offsets), Dr. Reddy's Labs, Cipla (USD drug exports), JSW Steel (commodity export upside)</div><div class="news-bear">📉 **BEARISH STOCKS:** Companies with USD debt (Reliance, ICICI Bank), domestic-facing consumption plays (HDFC Bank, Kotak, Consumer discretionary) as rupee weakness raises import inflation</div><div class="news-meta">⚡ **MAGNITUDE:** **Medium-High** — The Indian rupee hit fresh record lows against the U.S. dollar multiple times during the week, closing around ₹92.40 per USD as traders reacted to rising energy prices and uncertainty over capital flows</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS: Trump Section 301 Tariff Investigations Launched</div></div>
-        </div>
-        <div class="agent-card" style="border-top:3px solid #276749">
-            <div class="agent-header">
-                <span class="emoji">🇮🇳</span>
-                <span class="agent-name">Domestic Markets Analyst</span>
-            </div>
-            <div class="agent-output"><div class="agent-text">I'll search for significant news from March 13-15, 2026 that could impact Indian equity markets tomorrow.Based on my research, here's the comprehensive market analysis for Indian equities on Monday, March 16, 2026:</div><br><div class="agent-text">---</div><br><div class="agent-text">**OVERALL VIEW:** Indian markets face heavy headwinds from massive FII selling and geopolitical turmoil—the Sensex dropped 1,470 points (1.93%) on Friday with losses led by L&amp;T, Tata Steel and Tata Motors—but domestic support and strong capex announcements offer short-term stabilization on Monday.</div><br><div class="agent-text">---</div><br><div class="agent-text">## NEWS IMPACT ANALYSIS</div><br><div class="agent-text">📰 **NEWS:** FIIs have net sold ₹52,704 crore in Indian equities in March, including a ₹10,717 crore single-day outflow on Friday, the highest in 2026</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Banking, IT Software, Auto, Capital Goods, Pharma</div><br><div class="news-bull">📈 **BULLISH STOCKS:** Hindustan Unilever (1.2% gain), Bharti Airtel (0.3% gain) – defensive plays absorbing FII rotations</div><br><div class="news-bear">📉 **BEARISH STOCKS:** Larsen &amp; Toubro (-7.5%), Tata Steel (-5.2%), SBI (-3.6%), Maruti (-3.3%), Bharat Electronics (-3.1%) – large-cap financials and capex-plays hit hard</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS:** Brent crude topped US$100/barrel as Middle East hostilities escalated; investors feared supply disruptions through the Strait of Hormuz, heightening inflation expectations and triggering risk-off behaviour</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Energy, Refineries, Imported-Inflation-Sensitive Sectors (Banks, Auto, FMCG)</div><br><div class="news-bull">📈 **BULLISH STOCKS:** Power, energy, and utilities sectors finding support – NTPC, Power Grid, REC likely to benefit from energy security premium</div><br><div class="news-bear">📉 **BEARISH STOCKS:** ICICI Bank, HDFC Bank, Maruti, Bajaj Auto – higher crude means imported inflation concerns, wider rate cut hopes erode</div><br><div class="news-meta">⚡ **MAGNITUDE:** High</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS:** India inflation rose to 3.21% in February from 2.74% in January 2026 – accelerating price pressures challenge RBI's "goldilocks" narrative</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Discretionary Consumer, Banks (NIM compression risk), IT (dollar strength impact)</div><br><div class="news-bull">📈 **BULLISH STOCKS:** None near-term – inflation acceleration actually limits DII enthusiasm in growth plays</div><br><div class="news-bear">📉 **BEARISH STOCKS:** Bajaj Finance, L&amp;T Finance, IndusInd Bank – rate-cut hopes fade further on inflation reacceleration; MNCs face rupee headwinds</div><br><div class="news-meta">⚡ **MAGNITUDE:** Medium</div><br><div class="agent-text">---</div><br><div class="agent-text">📰 **NEWS:** Government raised FY27 capex to ₹12.2 lakh crore (11.5% increase from ₹10.9 trillion in revised estimates); Infrastructure Risk Guarantee Fund set up to strengthen confidence of private developers</div><br><div class="news-meta">📍 **SECTORS AFFECTED:** Infrastructure, Cement, Steel, Construction Equipment, Project Management</div><br><div class="news-bull">📈 **BULLISH STOCKS:** Larsen &amp; Toubro (large order visibility), Tata Steel, UltraTech Cement, JSW Steel, Komatsu – capex push signals recovery pipeline despite near-term selling</div><br><div class="news-bear">📉 **BEARISH STOCKS:** None from this news (but already beaten down by FII selling)</div></div>
-        </div>
-        <div class="agent-card" style="border-top:3px solid #553c9a">
-            <div class="agent-header">
-                <span class="emoji">🏢</span>
-                <span class="agent-name">Corporate & Earnings Analyst</span>
-            </div>
-            <div class="agent-output"><em style="color:#fc8181">Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CZ6baGtvVMAFD5PiANsFC'}</em></div>
-        </div>
-        <div class="agent-card" style="border-top:3px solid #744210">
-            <div class="agent-header">
-                <span class="emoji">📊</span>
-                <span class="agent-name">Market Sentiment Analyst</span>
-            </div>
-            <div class="agent-output"><em style="color:#fc8181">Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 50,000 input tokens per minute (org: 9e08c938-5023-4b2f-8331-ef00822734b5, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CZ6baG3aDA4hUfr7TWTxG'}</em></div>
-        </div></div>
-
+    <div class="monday-note">Monday edition — includes Fri–Sun global developments</div>
+    <div class="section-label">Yesterday'S Market</div><div class="section-card" style="border-left-color:#2c5282"><div class="body-text">The SENSEX Index dropped 1,470 points or 1.93 percent on Friday to close at 74,564 points. The BSE SENSEX index lost 5.5% or 4,354.98 points, and the NIFTY50 index dropped by 5.3% or 1,299.35 points for the week ended March 13, 2026. Losses were led by Larsen &amp; Toubro (-7.39%), Tata Steel (-5.31%) and Tata Motors (-3.19%). On a sectoral basis, NIFTY AUTO lost the most, dropping 10.6% or 2,881.30 points this week, followed by the NIFTY BANK index, which crashed 7% or 4,025.40 points.</div><div class="body-text">Market breadth: Weak across all metrics. The Nifty India Volatility Index jumped 6.32 percent to 22.88 on Friday. Broader indices fell in line with benchmark indices.</div></div><div class="section-label">Global Developments</div><div class="section-card" style="border-left-color:#553c9a"><div class="news-item">📰 NEWS: US-Iran/Israel conflict triggers largest oil supply shock since 1970s; Strait of Hormuz near total blockade</div><div class="row-meta">📍 SECTORS AFFECTED: Energy, Defense, Pharmaceuticals, Logistics, Aviation</div><div class="row-bull">📈 BULLISH STOCKS: HDFC Bank (rupee weakness increases NPA risk, but FCDs attract safety seekers), Hero MotoCorp, Hero FinCorp (export-oriented beneficiary if geopolitical tensions ease)</div><div class="row-bear">📉 BEARISH STOCKS: Bajaj Auto, Maruti Suzuki, Lupin, Cipla (high cost of imported crude and forex exposure), Indian Airlines (jet fuel costs)</div><div class="row-meta">⚡ MAGNITUDE: High</div><div class="body-text">The primary catalyst for the Fed's current dilemma is "Operation Epic Fury," a joint U.S.-Israeli military strike on February 28, 2026, that targeted high-level Iranian leadership. The subsequent retaliation by Tehran led to a near-total blockade of the Strait of Hormuz, a chokepoint responsible for 20% of the world's oil and liquefied natural gas (LNG) trade. In the weeks leading up to this meeting, Brent crude prices surged from a stable $75 per barrel to an intraday peak of $126.50.</div><div class="news-item">📰 NEWS: Federal Reserve expected to hold rates steady at March 17–18 FOMC; market pricing 99% probability of no change</div><div class="row-meta">📍 SECTORS AFFECTED: Banking (margin compression), Insurance, NBFC, Auto (financing costs)</div><div class="row-bull">📈 BULLISH STOCKS: IT services (beneficiaries of continued high rates = cost advantage for India), renewable energy (theoretical benefit, but capex financing expensive)</div><div class="row-bear">📉 BEARISH STOCKS: ICICI Bank, HDFC Bank, SBI (NIM compression; credit growth constraints), Bajaj Finance, M&amp;M Finance (auto financing headwinds)</div><div class="row-meta">⚡ MAGNITUDE: Medium-High</div><div class="body-text">As the Federal Open Market Committee (FOMC) prepares to convene for its March 17–18, 2026, meeting, the financial world is bracing for a "hawkish pause." Despite a massive geopolitical shock that has sent oil prices skyrocketing past $100 per barrel and a stubborn core inflation rate that refuses to retreat toward the 2% target, the Federal Reserve is widely expected to maintain the federal funds rate in its current range of 3.5% to 3.75%. Market participants have priced in a staggering 99.2% probability of no change. Analysts at JPMorgan Chase &amp; Co. and The Goldman Sachs Group, Inc. suggest the Fed will likely revise its year-end inflation forecast for 2026 upward to 3.5%, a move that would effectively erase the possibility of any further rate relief in the first half of the year.</div><div class="news-item">📰 NEWS: Crude oil (Brent) stabilizes near $102/bbl; supply shock persistent amid Hormuz disruption</div><div class="row-meta">📍 SECTORS AFFECTED: Energy (upstream: ONGC, RIL), Refineries (IOC, BPCL), Chemicals, Fertilizers, FMCG</div><div class="row-bull">📈 BULLISH STOCKS: ONGC, RIL (crude hedges), NTPC (thermal cost input), IOC (refining spreads widen)</div><div class="row-bear">📉 BEARISH STOCKS: INOX Air (jet fuel), Fertilizer stocks (IFFCO, KRIBHCO — urea prices spike with crude), FMCG (margin pressure from inflation pass-through)</div><div class="row-meta">⚡ MAGNITUDE: High</div><div class="body-text">As of 9:30 a.m. Eastern Time today, oil sold for $102.14 per barrel (using Brent as the benchmark). That's $3.05 lower than yesterday—but approximately a $30 rise over the past year. The ongoing US-Israel-Iran war</div></div>
     <div class="footer">
-        AI agents searched the web and traced news impact through sectors to individual stocks.<br>
+        Single AI agent · searched the web freely · traced news to sectors and stocks<br>
         Not financial advice. For research and educational purposes only.<br>
         EquityDesk · irtteja.github.io/indian-market-data
     </div>
