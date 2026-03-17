@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533286",
+    "symbol": "MOIL",
+    "company": "MOIL Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "MOIL Limited has informed the exchange about investor presentation.",
+    "raw_headline": "MOIL Limited has informed the exchange about investor presentation.",
+    "is_critical": false,
+    "attachment": "b439fb65-c8c9-4f1c-8a99-0b21cede1747.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533286",
+    "symbol": "MOIL",
+    "company": "MOIL Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Bajaj Healthcare Limited signs Deed of Assignment for sale of undertaking to Bethany Pharmacare Private Limited",
+    "raw_headline": "Submission of weblink of audio of investor meet held on 17.03.2026",
+    "is_critical": false,
+    "attachment": "383ae2e4-bbe5-4f97-9d2d-653c39e516d6.pdf"
+  }
+]

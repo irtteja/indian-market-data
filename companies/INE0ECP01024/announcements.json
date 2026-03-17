@@ -14,5 +14,21 @@
     "raw_headline": "Intimation of Credit Rating provided by Crisil Rating Limited",
     "is_critical": true,
     "attachment": "612f41a5-7f1a-48b9-871e-165aefa2ecbc.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "543929",
+    "symbol": "HMAAGRO",
+    "company": "HMA Agro Industries Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "General",
+    "clean_headline": "Femto Green Hydrogen Ltd engages in research partnership discussions with CREATE at Purdue University, Indiana.",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulation 2015 for Website related Advisory to Investors and Stakeholders regarding Fake Websites",
+    "is_critical": false,
+    "attachment": "2e3599cc-6c70-4e22-9560-d012e80925f1.pdf"
   }
 ]

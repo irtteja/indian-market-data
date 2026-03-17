@@ -94,5 +94,21 @@
     "raw_headline": "Please find enclosed Voting Results of Postal Ballot along with Scrutinizer''s Report.",
     "is_critical": false,
     "attachment": "4e1f1562-96d5-46b1-a622-f8259ce1b7e8.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500413",
+    "symbol": "THOMASCOOK",
+    "company": "Thomas Cook (India) Ltd.",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Thomas Cook board meeting scheduled for March 20, 2026 to consider and approve corporate restructuring and capital structure streamlining",
+    "raw_headline": "Thomas Cook (India) Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 20/03/2026 ,inter alia, to consider and approve a corporate restructuring ....",
+    "is_critical": true,
+    "attachment": "2fdd7195-b936-4517-bb3e-8a6696a3baa7.pdf"
   }
 ]

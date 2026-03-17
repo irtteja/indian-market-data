@@ -46,5 +46,21 @@
     "raw_headline": "As per attachment.",
     "is_critical": false,
     "attachment": "fdd3c350-3962-45a3-9cab-c9f72594bdce.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "526371",
+    "symbol": "NMDC",
+    "company": "NMDC Ltd",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "R&B Denims' GST penalty of Rs. 43,66,118 relating to ITC availment has been set aside.",
+    "raw_headline": "As per attachment.",
+    "is_critical": false,
+    "attachment": "2bdfca5e-3abd-4d33-ab9b-0ac66c39f69d.pdf"
   }
 ]

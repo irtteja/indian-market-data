@@ -30,5 +30,21 @@
     "raw_headline": "Please find enclosed the duly executed Deed of Variation to the trust deed of TBO Employees Benefit Trust.",
     "is_critical": false,
     "attachment": "b0450c89-4ce1-4521-9e49-e59bc356c341.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544174",
+    "symbol": "TBOTEK",
+    "company": "TBO TEK LIMITED",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot.",
+    "raw_headline": "Please find enclosed Outcome of Postal Ballot.",
+    "is_critical": false,
+    "attachment": "9c8174ce-3e3f-42c1-abcd-9e424b49f47f.pdf"
   }
 ]

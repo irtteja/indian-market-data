@@ -30,5 +30,53 @@
     "raw_headline": "Upgrade in Long-Term Bank Facilities and Debentures rating to ''ICRA AA+ (Stable)'' from ''ICRA AA (Stable)'' by ICRA Limited.",
     "is_critical": true,
     "attachment": "98a0ff5b-7810-4a36-bbd8-bd996ea61d79.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544597",
+    "symbol": "PIRAMALFIN",
+    "company": "Piramal Finance Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Mid Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Intimation of Investor Presentation under the SEBI Listing Regulations - Jefferies 2nd India NBFC Access Day",
+    "raw_headline": "Intimation of Investor Presentation under the SEBI Listing Regulations - Jefferies 2nd India NBFC Access Day",
+    "is_critical": false,
+    "attachment": "0b46ea33-2ee6-4c19-8e5e-1f15ccd547db.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544597",
+    "symbol": "PIRAMALFIN",
+    "company": "Piramal Finance Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Mid Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Intimation of Investor Presentation under the SEBI Listing Regulations - Hong Kong Roadshow (NDR)",
+    "raw_headline": "Intimation of Investor Presentation under the SEBI Listing Regulations - Hong Kong Roadshow (NDR)",
+    "is_critical": false,
+    "attachment": "9306457b-f426-4c16-adfb-830e488ccc46.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544597",
+    "symbol": "PIRAMALFIN",
+    "company": "Piramal Finance Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Mid Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Unit-II of Eugia Pharma Specialities Limited classified as OAI (Official Action Indicated) by US FDA",
+    "raw_headline": "Intimation of Schedule of Analyst/Institutional meet under the SEBI Listing Regulations - Hong Kong Roadshow (NDR)",
+    "is_critical": false,
+    "attachment": "da3d67b4-16cf-4458-bf8e-1a9bff521aaf.pdf"
   }
 ]

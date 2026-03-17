@@ -14,5 +14,21 @@
     "raw_headline": "Our Bank has opened five new Branches on March 13, 2026 and as on date the Bank has 925 Branches in total.",
     "is_critical": false,
     "attachment": "2506c2a7-0aa7-42fe-9789-6f78aa7ffd20.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532210",
+    "symbol": "CUB",
+    "company": "City Union Bank Ltd",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "Memorandum of Understanding /Agreements",
+    "clean_headline": "Ravindra Jadeja signed as Brand Ambassador of City Union Bank",
+    "raw_headline": "Signing of Mr Ravindra Jadeja as Brand Ambassador of the Bank.",
+    "is_critical": false,
+    "attachment": "7c6fc6a4-8c58-4830-a5e7-308bcbb19089.pdf"
   }
 ]

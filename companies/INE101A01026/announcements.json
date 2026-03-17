@@ -30,5 +30,37 @@
     "raw_headline": "This is in furtherance to our letter dated 10th March 2026 wherein we had given an advance intimation of the Schedule of Analyst or Institutional Investor Meeting, we hereby inform you ....",
     "is_critical": false,
     "attachment": "727d8576-21b7-4e70-a9d8-83dc759378e0.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500520",
+    "symbol": "M&M",
+    "company": "Mahindra & Mahindra Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Automobiles",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Typhoon Financial Services replied to BSE clarification on price movement",
+    "raw_headline": "This is in furtherance to our letter dated 10th March 2026 wherein we had given an advance intimation of the Schedule of Analyst or Institutional Investor Meeting, we hereby inform you ....",
+    "is_critical": false,
+    "attachment": "9570e05b-e272-4cbc-b848-8c753a75e243.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500520",
+    "symbol": "M&M",
+    "company": "Mahindra & Mahindra Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Automobiles",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Board Decisions",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Archit Organosys executed Banakhat agreement for purchase of property from promoter/director",
+    "raw_headline": "We wish to inform you that pursuant to Regulation 30(6) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Schedule of Analyst or Institutional Investor ....",
+    "is_critical": false,
+    "attachment": "cb4057ff-515b-4884-b5df-47e0df7c16b3.pdf"
   }
 ]

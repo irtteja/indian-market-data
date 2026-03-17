@@ -14,5 +14,21 @@
     "raw_headline": "Voting Result of Postal Ballot.",
     "is_critical": false,
     "attachment": "6ab4f4ac-f677-4e5c-8073-562f7ab86179.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500101",
+    "symbol": "ARVIND",
+    "company": "Arvind Ltd.",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Arvind Ltd senior management attending plant visit and investor meetings on March 20, 2026",
+    "raw_headline": "Investor Meet",
+    "is_critical": false,
+    "attachment": "394672be-598e-4caf-99bf-c8a1b650af67.pdf"
   }
 ]

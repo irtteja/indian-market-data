@@ -46,5 +46,21 @@
     "raw_headline": "Update on a one-on-one meet (Virtual) with an institutional investor",
     "is_critical": false,
     "attachment": "708c4047-9466-4c49-9c34-e0787bd87dcf.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500790",
+    "symbol": "NESTLEIND",
+    "company": "Nestle India Ltd.",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Other Disclosures",
+    "subcategory": "General",
+    "clean_headline": "Swan Defence received application for pre-dealing approval from promoter Hazel Infra Limited for offer for sale of up to 26,38,700 shares",
+    "raw_headline": "Update on a one-on-one meet (virtual) with an institutional investor held on 17th March 2026",
+    "is_critical": false,
+    "attachment": "d74a8898-5ba5-4b3b-8b12-a361ca27fcc3.pdf"
   }
 ]

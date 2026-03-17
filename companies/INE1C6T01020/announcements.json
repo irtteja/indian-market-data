@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544608",
+    "symbol": "EMMVEE",
+    "company": "Emmvee Photovoltaic Power Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "WeWork India Management Limited announced capacity addition.",
+    "raw_headline": "Receipt of Order from Commissioner of Customs, Bengaluru",
+    "is_critical": false,
+    "attachment": "41c797aa-603c-4f2e-90be-ed63374f0c37.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544608",
+    "symbol": "EMMVEE",
+    "company": "Emmvee Photovoltaic Power Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Clarification",
+    "clean_headline": "Federal Bank scheduled analyst and investor meetings.",
+    "raw_headline": "The Exchange has sought clarification from Emmvee Photovoltaic Power Ltd on March 17, 2026, with reference to news appeared in https://www.moneycontrol.com/ dated March 17, 2026 quoting ....",
+    "is_critical": true,
+    "attachment": ""
+  }
+]

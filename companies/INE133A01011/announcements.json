@@ -62,5 +62,37 @@
     "raw_headline": "Investor presentation attached.",
     "is_critical": false,
     "attachment": "aa44c1f0-5314-4685-8a82-477e3689aa2b.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500710",
+    "symbol": "AKZOINDIA",
+    "company": "Akzo Nobel India Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Attached details of an order received from Madhya Pradesh GST Department as an update.",
+    "raw_headline": "Attached details of an order received from Madhya Pradesh GST Department as an update.",
+    "is_critical": false,
+    "attachment": "8569ba84-2e8a-4f99-a499-1f42ef3d63d1.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500710",
+    "symbol": "AKZOINDIA",
+    "company": "Akzo Nobel India Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Board Decisions",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Power Finance Corporation Board approved raising of resources through bonds and term loans for FY2026-27 and declared fourth interim dividend",
+    "raw_headline": "Akzo Nobel India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/03/2026 ,inter alia, to consider and approve Employees Stock Option Plan",
+    "is_critical": true,
+    "attachment": "4267c9c0-fcf6-470d-9384-65f8a78257e9.pdf"
   }
 ]

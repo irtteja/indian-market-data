@@ -30,5 +30,37 @@
     "raw_headline": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
     "is_critical": false,
     "attachment": "116FE24E_3D24_43E4_B8A4_62CC83343326_184759.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533303",
+    "symbol": "BFINVEST",
+    "company": "BF Investment Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Mrs. Mugdha Vartak appointed as Additional Non-Executive Independent Director",
+    "raw_headline": "Appointment of Mrs. Mugdha Vartak as Additional Non-executive Independent director on the Board w.e.f March 17, 2026",
+    "is_critical": false,
+    "attachment": "82fe0b6a-0e52-4bc9-91fc-ae2a4878cbab.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533303",
+    "symbol": "BFINVEST",
+    "company": "BF Investment Limited",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Change in Management",
+    "clean_headline": "Star Health and Allied Insurance scheduled analyst and investor meeting for March 20, 2026 in Mumbai.",
+    "raw_headline": "Appointment of Mrs. Mugdha Vartak As an Additional Non -executive Independent Director on the Board of the Company w.e.f March 17, 2026",
+    "is_critical": false,
+    "attachment": "f851202f-4c73-4c02-8122-2f7ceebcb224.pdf"
   }
 ]

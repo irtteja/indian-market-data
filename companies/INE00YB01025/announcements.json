@@ -30,5 +30,21 @@
     "raw_headline": "Allotment of Order",
     "is_critical": true,
     "attachment": "68d856db-7634-4e33-8a14-42145ce30138.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544281",
+    "symbol": "ABINFRA",
+    "company": "A B INFRABUILD LIMITED",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Ecom Express Limited subsidiary received a GST order under Central and Uttar Pradesh GST Acts",
+    "raw_headline": "Allotment of Order",
+    "is_critical": true,
+    "attachment": "bbf17ee1-d63b-4429-a045-53d9a76dc11d.pdf"
   }
 ]

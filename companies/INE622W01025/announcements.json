@@ -30,5 +30,21 @@
     "raw_headline": "Press Release",
     "is_critical": false,
     "attachment": "1b3fbf28-e297-4059-abea-a882d882fed0.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544283",
+    "symbol": "ACMESOLAR",
+    "company": "ACME Solar Holdings Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Debt & Finance",
+    "subcategory": "General",
+    "clean_headline": "Five-Star Business Finance Board approved issuance limits for Non-Convertible Debentures aggregating up to INR 5000 Crores",
+    "raw_headline": "Update on commissioning of additional 8 MW out of 100 MW capacity of wind power project",
+    "is_critical": false,
+    "attachment": "3b7e57ee-87dc-45b8-bb78-5941dcec0413.pdf"
   }
 ]

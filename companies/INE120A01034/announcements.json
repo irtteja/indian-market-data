@@ -78,5 +78,21 @@
     "raw_headline": "Enclosed Press Release dated March 16, 2026",
     "is_critical": false,
     "attachment": "c046854b-10c8-4dc0-a075-cbc1975a266a.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "513375",
+    "symbol": "CARBORUNIV",
+    "company": "Carborundum Universal Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Euro Panel Products opens Delhi flagship experience centre for immersive architectural sourcing retail",
+    "raw_headline": "Enclosed intimation pertaining to ESG Rating assigned by SES ESG Research Private Limited",
+    "is_critical": false,
+    "attachment": "866f0eb3-4c50-49bb-8355-1d58bf539857.pdf"
   }
 ]

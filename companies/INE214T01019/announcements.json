@@ -62,5 +62,21 @@
     "raw_headline": "Intimation attached",
     "is_critical": false,
     "attachment": "b7349fa8-3194-479b-8b6c-c05ec9641665.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "540005",
+    "symbol": "LTM",
+    "company": "LTIMindtree Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Change of Name",
+    "clean_headline": "Hazel Infra Limited (promoter) proposes to sell up to 26,38,747 equity shares of Swan Defence and Heavy Industries Limited",
+    "raw_headline": "Intimation attached for change of name to LTM Limited",
+    "is_critical": false,
+    "attachment": "0fc31178-ace2-4365-952a-b183ae902fc5.pdf"
   }
 ]

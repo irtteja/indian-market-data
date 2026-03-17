@@ -30,5 +30,21 @@
     "raw_headline": "Please find enclosed Press Release",
     "is_critical": false,
     "attachment": "82a047af-e38a-4b87-b737-3b0000b10357.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "524654",
+    "symbol": "NATCAPSUQ",
+    "company": "Natural Capsules Ltd.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Credit rating intimation.",
+    "raw_headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations 2015, please find attached credit rating intimation.",
+    "is_critical": true,
+    "attachment": "4c2a3476-379e-4327-b175-1a9cdfe81d0b.pdf"
   }
 ]

@@ -126,5 +126,21 @@
     "raw_headline": "Intimation of schedule of Analyst/Institutional Investor Meet",
     "is_critical": false,
     "attachment": "1b5c8d2e-63a4-4292-b182-51cb6b549618.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Paisalo Digital successfully closes maiden ECB issuance to strengthen liability franchise and enhance long-term growth visibility",
+    "raw_headline": "Press Release dated March 17, 2026",
+    "is_critical": false,
+    "attachment": "5a8b3563-9be0-4505-ac4c-d06c1691d87e.pdf"
   }
 ]

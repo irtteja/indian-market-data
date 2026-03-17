@@ -14,5 +14,21 @@
     "raw_headline": "Adani Power Limited has informed the Exchange about receipt of Letter of Award from MSEDCL",
     "is_critical": false,
     "attachment": "b00474d4-9116-4462-ae7d-825047cfcb12.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533096",
+    "symbol": "ADANIPOWER",
+    "company": "Adani Power Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Appointment of Company Secretary / Compliance Officer",
+    "clean_headline": "Business update from Bright Outdoor Media Limited",
+    "raw_headline": "Adani Power Limited has informed the Exchange about appointment of Company Secretary",
+    "is_critical": false,
+    "attachment": "34fb9a52-5de4-4a23-8cae-70b91974de1f.pdf"
   }
 ]

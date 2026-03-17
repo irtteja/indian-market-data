@@ -14,5 +14,21 @@
     "raw_headline": "Five-Star Business Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 17/03/2026 ,inter alia, to consider and approve The limits for issuance ....",
     "is_critical": true,
     "attachment": "8cb3a103-06d1-479b-b6e8-d2579b71ec36.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "543663",
+    "symbol": "FIVESTAR",
+    "company": "Five-Star Business Finance Ltd.",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Prithvi Exchange received in-principle approval from Visa for Forex Card launch",
+    "raw_headline": "In terms of the provisions of Regulation 30 read with Regulation 51 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI LODR Regulations'), the Board ....",
+    "is_critical": false,
+    "attachment": "4019961e-6f44-42c7-bd04-f90799473514.pdf"
   }
 ]

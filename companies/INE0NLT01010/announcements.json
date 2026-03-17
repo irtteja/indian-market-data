@@ -30,5 +30,21 @@
     "raw_headline": "We would like to inform you that Extra-Ordinary General Meeting of the Company was held today i.e., Monday, March 16, 2026 through the Video Conference (VC)/ Other Audio-Visual Means (OAVM) facility.",
     "is_critical": true,
     "attachment": "e698bded-f23d-41e8-8882-4ba3fc7f75a9.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544107",
+    "symbol": "BLSE",
+    "company": "BLS E-Services Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "EGM",
+    "clean_headline": "Voting Results and Consolidated Scrutinizer's Report of Extra-Ordinary General Meeting (EGM) held on March 16, 2026",
+    "raw_headline": "Voting Results and Consolidated Scrutinizer's Report of Extra-Ordinary General Meeting (EGM) held on March 16, 2026",
+    "is_critical": true,
+    "attachment": "fe0c4cff-1393-4da7-b7b8-b71bebb54c5a.pdf"
   }
 ]

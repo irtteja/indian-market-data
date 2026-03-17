@@ -30,5 +30,37 @@
     "raw_headline": "Please refer to attachment.",
     "is_critical": false,
     "attachment": "87f0314a-2751-44c0-9bc5-0a8ce122632e.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500201",
+    "symbol": "INDIAGLYCO",
+    "company": "India Glycols Ltd",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Beverages",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Financial Results",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Board approved declaration of interim dividend.",
+    "raw_headline": "Please refer to attachment.",
+    "is_critical": false,
+    "attachment": "92ee3106-6bdb-45ab-8232-63254b9805a1.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500201",
+    "symbol": "INDIAGLYCO",
+    "company": "India Glycols Ltd",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Beverages",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Kiri Industries Ltd scheduled to hold 11th Annual Valorem Analyst Conference on March 23, 2026",
+    "raw_headline": "Please find attached",
+    "is_critical": false,
+    "attachment": "56f5c709-3e2c-4409-9605-1411006050ae.pdf"
   }
 ]

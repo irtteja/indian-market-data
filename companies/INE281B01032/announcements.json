@@ -94,5 +94,21 @@
     "raw_headline": "Intimation of Release dated 16th March, 2026",
     "is_critical": false,
     "attachment": "48b1b55f-e0bd-43b3-a0ee-d24328fa5877.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "512455",
+    "symbol": "LLOYDSME",
+    "company": "Lloyds Metals and Energy Limited",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Lloyds Metals and Energy Limited has informed the company about Credit Rating.",
+    "raw_headline": "Lloyds Metals and Energy Limited has informed the company about Credit Rating.",
+    "is_critical": true,
+    "attachment": "fe673c19-75d7-4816-972f-18b5a45b13e3.pdf"
   }
 ]

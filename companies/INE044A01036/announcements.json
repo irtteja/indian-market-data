@@ -30,5 +30,21 @@
     "raw_headline": "Sun Pharma announces US FDA acceptance of Supplemental Biologics License (sBLA) Application for ILUMYA",
     "is_critical": false,
     "attachment": "8faf918e-43cf-453a-b80a-09defc635745.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "524715",
+    "symbol": "SUNPHARMA",
+    "company": "Sun Pharmaceutical Industries Ltd.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Notice of Postal Ballot/E-voting",
+    "raw_headline": "Notice of Postal Ballot/E-voting",
+    "is_critical": false,
+    "attachment": "effda838-3b2c-4c06-b314-dabfe7a9ad16.pdf"
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532663",
+    "symbol": "SASKEN",
+    "company": "Sasken Technologies Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Meeting Updates",
+    "clean_headline": "Update on NCLT hearing in case filed by Resurgent India Special Situations Fund against Future Consumer Limited.",
+    "raw_headline": "We wish to inform you that the next meeting of the Board of Directors of the Company will be held on Tuesday, March 24, 2026 to consider business related matters",
+    "is_critical": false,
+    "attachment": "ee6669b1-cdf3-4362-a565-e8389dbf6df5.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532663",
+    "symbol": "SASKEN",
+    "company": "Sasken Technologies Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Board Meeting",
+    "clean_headline": "Kanpur Plastipack preferential issue committee meeting scheduled for March 23, 2026 for allotment of equity shares from warrant conversion",
+    "raw_headline": "Sasken Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/03/2026 ,inter alia, to consider and approve We wish to inform you that ....",
+    "is_critical": true,
+    "attachment": "71b7ca82-acb5-4b23-acc1-2c3ea3acade1.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532663",
+    "symbol": "SASKEN",
+    "company": "Sasken Technologies Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Debt & Finance",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "State Bank of India announces Tier 2 bond issuance",
+    "raw_headline": "We wish to inform you that the Company has paid the SOP fine to BSE Limited and National Stock Exchange of India Limited (NSE).",
+    "is_critical": true,
+    "attachment": "777d3db5-1dd3-43e9-9ce3-5ceb6effd3ee.pdf"
+  }
+]

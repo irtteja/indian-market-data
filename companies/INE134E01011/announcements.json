@@ -30,5 +30,37 @@
     "raw_headline": "Intimation",
     "is_critical": false,
     "attachment": "6a760f08-451d-45f3-a108-3b640ca5968d.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532810",
+    "symbol": "PFC",
+    "company": "Power Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "ACME Solar's subsidiary commissioned additional 8 MW out of 100 MW capacity wind power project",
+    "raw_headline": "1. Raising of resources for the Financial Year 2026-27 through Bonds, Term loans, Commercial Paper (CP) etc. from domestic & international markets.\r\n2. Declaration of fourth interim dividend ....",
+    "is_critical": false,
+    "attachment": "3a0379af-8900-47a9-bae6-f4068691f0e9.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532810",
+    "symbol": "PFC",
+    "company": "Power Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Pitti Engineering scheduled to hold group investor meeting at Chhatrapati Sambhajinagar plant on March 24, 2026",
+    "raw_headline": "Intimation",
+    "is_critical": false,
+    "attachment": "ba18ed16-15e1-4201-8969-9c086b19509d.pdf"
   }
 ]

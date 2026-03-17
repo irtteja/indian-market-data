@@ -142,5 +142,21 @@
     "raw_headline": "The Company has opened its exclusive brand store at Punyai Business Square, Paud Road, Pune -411038, today i.e. on March 15, 2026.",
     "is_critical": false,
     "attachment": "c7b99a9b-c14f-411a-b621-1199e9c034b0.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544718",
+    "symbol": "PNGSREVA",
+    "company": "PNGS Reva Diamond Jewellery Limited",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Concall Transcripts",
+    "subcategory": "Earnings Call Transcript",
+    "clean_headline": "Transcript of Earnings Call held on Friday, March 13, 2026 is attached herewith.",
+    "raw_headline": "Transcript of Earnings Call held on Friday, March 13, 2026 is attached herewith.",
+    "is_critical": false,
+    "attachment": "9322f2e0-e46a-41c3-a4e9-aa7743c4555a.pdf"
   }
 ]

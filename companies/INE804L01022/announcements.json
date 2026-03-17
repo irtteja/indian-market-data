@@ -46,5 +46,21 @@
     "raw_headline": "Regulation 30 read with Para A Part A of Schedule III of SEBI(Listing Obligations and Disclosure Requirements) Regulations,2015",
     "is_critical": true,
     "attachment": "a9d3e523-4a9a-4eae-9450-3be7ee09503b.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "543427",
+    "symbol": "MEDPLUS",
+    "company": "Medplus Health Services Limited",
+    "sector": "Consumer Services",
+    "industry": "Retailing",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Medplus Health Services' subsidiary Optival Health Solutions received a drug license suspension order for a store in Karnataka.",
+    "raw_headline": "Update under Regulation 30 read with Para A Part A of Schedule III of SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015",
+    "is_critical": false,
+    "attachment": "0be58f43-fdf8-4ee3-9512-9906f105e92a.pdf"
   }
 ]

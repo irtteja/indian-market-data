@@ -30,5 +30,21 @@
     "raw_headline": "Notice of Extra Ordinary General Meeting of the Company",
     "is_critical": true,
     "attachment": "4265ec9f-3f36-4e46-b766-46c92ae3bf51.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532848",
+    "symbol": "DELTACORP",
+    "company": "Delta Corp Limited",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Newspaper Publication",
+    "clean_headline": "Puravankara Limited scheduled meeting with group of investors through Valorem 11th Annual Conference.",
+    "raw_headline": "Newspaper Notice - EGM to be held on 09.04.2026",
+    "is_critical": false,
+    "attachment": "0d235fdb-0706-48c0-9b57-89e6e7bfddd3.pdf"
   }
 ]

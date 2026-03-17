@@ -14,5 +14,21 @@
     "raw_headline": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform that CRISIL Ratings Limited as assigned its rating.",
     "is_critical": true,
     "attachment": "381847be-dc82-46ea-a027-189f8c1afd8b.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532627",
+    "symbol": "JPPOWER",
+    "company": "Jaiprakash Power Ventures Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Regarding Hon''ble NCLT Allahabad Bench order with respect to CIRP of Jaiprakash Associates Limited (Promoter Company).",
+    "raw_headline": "Pursuant to Regulation 30 of SEBI (LODR)Regulations, 2015, we hereby inform regarding Hon''ble NCLT Allahabad Bench order with respect to CIRP of Jaiprakash Associates Limited (Promoter Company).",
+    "is_critical": false,
+    "attachment": "c58196f9-106f-43e0-8b34-7914fa264ae4.pdf"
   }
 ]

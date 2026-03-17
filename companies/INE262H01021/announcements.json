@@ -46,5 +46,21 @@
     "raw_headline": "The outcome of Investor/Analyst sessions held on Monday, March 16, 2026, is as enclosed.",
     "is_critical": false,
     "attachment": "8a22c5c2-c6fb-4105-a060-dc881d8380ab.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "533179",
+    "symbol": "PERSISTENT",
+    "company": "Persistent Systems Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Fractal Analytics launched LLM Studio for enterprise-grade generative AI customization powered by NVIDIA NeMo and NIM microservices.",
+    "raw_headline": "The Press Release titled ''Persistent Launches AI-Powered Generative Molecules and Virtual Screening Solution Powered by NVIDIA'', is as enclosed.",
+    "is_critical": false,
+    "attachment": "8a02913b-f747-42b3-ad13-effc1cde3397.pdf"
   }
 ]

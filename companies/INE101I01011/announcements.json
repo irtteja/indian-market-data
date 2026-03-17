@@ -62,5 +62,21 @@
     "raw_headline": "The Exchange has sought clarification from Afcons Infrastructure Ltd on March 13, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "544280",
+    "symbol": "AFCONS",
+    "company": "Afcons Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operational Alerts",
+    "subcategory": "General",
+    "clean_headline": "Singer India Limited received NSE approval for listing of 6,22,19,117 equity shares on NSE Main Board",
+    "raw_headline": "As per the Enclosed letter",
+    "is_critical": false,
+    "attachment": "3a9a34f9-3a15-4d97-9ee1-ff59323bb2da.pdf"
   }
 ]

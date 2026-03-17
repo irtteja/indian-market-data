@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532531",
+    "symbol": "STAR",
+    "company": "STRIDES PHARMA SCIENCE LIMITED",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "General",
+    "clean_headline": "This has reference to the Press Release issued by the Company today titled - Strides Strengthens its Africa Business with the Acquisition of Multiple Generic Brands from Sandoz.\r\n\r\nIn this ....",
+    "raw_headline": "This has reference to the Press Release issued by the Company today titled - Strides Strengthens its Africa Business with the Acquisition of Multiple Generic Brands from Sandoz.\r\n\r\nIn this ....",
+    "is_critical": false,
+    "attachment": "9a806890-365e-4083-8d48-ed686ac56a23.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "532531",
+    "symbol": "STAR",
+    "company": "STRIDES PHARMA SCIENCE LIMITED",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Strides Strengthens its Africa Business with the Acquisition of Multiple Generic Brands from Sandoz",
+    "raw_headline": "Strides Strengthens its Africa Business with the Acquisition of Multiple Generic Brands from Sandoz",
+    "is_critical": false,
+    "attachment": "96378031-de7d-43aa-ade0-f90ab616fef1.pdf"
+  }
+]

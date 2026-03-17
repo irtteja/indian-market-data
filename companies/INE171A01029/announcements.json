@@ -30,5 +30,21 @@
     "raw_headline": "Intimation of Product Launch",
     "is_critical": false,
     "attachment": "d0d1849a-f866-4ca7-a0e2-22ee5ffe7fc6.pdf"
+  },
+  {
+    "date": "2026-03-17",
+    "scrip_code": "500469",
+    "symbol": "FEDERALBNK",
+    "company": "Federal Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Transrail Lighting Limited made further investment in the equity share capital of its wholly owned subsidiary Transrail Trading LLC in UAE.",
+    "raw_headline": "Schedule of Analyst/Investor Meet",
+    "is_critical": false,
+    "attachment": "02361920-7e3d-47ae-bbdb-bd88f84f370f.pdf"
   }
 ]
