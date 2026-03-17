@@ -1154,7 +1154,7 @@ function parseCardFromLines(raw) {
   const vLabel = verdict === "positive" ? "Positive" : verdict === "negative" ? "Negative" : verdict === "warning" ? "Neutral" : "Info";
 
   return `
-    <div class="ann-card ${verdict}">
+    <div class="ann-card ${verdict}" style="cursor:pointer" onclick="openCompany('${symbol}','${company.replace(/'/g,\"\\'\")}')">
       <div class="card-top">
         <div>
           <span class="company-name">${company}</span>
@@ -1174,7 +1174,7 @@ function renderRawItem(item) {
   const hl      = item.clean_headline || item.raw_headline || "";
   const isCrit  = item.is_critical;
   return `
-    <div class="ann-card ${isCrit ? 'warning' : 'neutral'}">
+    <div class="ann-card ${isCrit ? 'warning' : 'neutral'}" style="cursor:pointer" onclick="openCompany('${symbol}','${company.replace(/'/g,\"\\'\")}')">
       <div class="card-top">
         <div>
           <span class="company-name">${company}</span>
