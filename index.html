@@ -1154,7 +1154,7 @@ function parseCardFromLines(raw) {
   const vLabel = verdict === "positive" ? "Positive" : verdict === "negative" ? "Negative" : verdict === "warning" ? "Neutral" : "Info";
 
   return `
-    <div class="ann-card ${verdict}" style="cursor:pointer" onclick="openCompany('${symbol}','${company.replace(/'/g,\"\\'\")}')">
+    <div class="ann-card ${verdict}" style="cursor:pointer" onclick="openCompany(this)"  data-sym="${symbol}" data-co="${company}">
       <div class="card-top">
         <div>
           <span class="company-name">${company}</span>
@@ -1174,7 +1174,7 @@ function renderRawItem(item) {
   const hl      = item.clean_headline || item.raw_headline || "";
   const isCrit  = item.is_critical;
   return `
-    <div class="ann-card ${isCrit ? 'warning' : 'neutral'}" style="cursor:pointer" onclick="openCompany('${symbol}','${company.replace(/'/g,\"\\'\")}')">
+    <div class="ann-card ${isCrit ? 'warning' : 'neutral'}" style="cursor:pointer" onclick="openCompany(this)" data-sym="${symbol}" data-co="${company}">
       <div class="card-top">
         <div>
           <span class="company-name">${company}</span>
@@ -1610,7 +1610,12 @@ let dossierActiveTab = "overview";
 let dossierAnnsLoaded = false;
 let dossierResultsLoaded = false;
 
-function openCompany(symbol, name) {
+function openCompany(symbolOrEl, name) {
+  let symbol = symbolOrEl, coName = name;
+  if (symbolOrEl && typeof symbolOrEl === 'object') {
+    symbol = symbolOrEl.dataset.sym || '';
+    coName = symbolOrEl.dataset.co || '';
+  }
   // Find company data from universe
   const co = allCompanies.find(c =>
     c.symbol === symbol || c.nse_symbol === symbol || c.scrip_code === symbol
