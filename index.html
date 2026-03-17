@@ -1618,8 +1618,12 @@ async function openCompany(symbolOrEl, name) {
   }
   // Find company data from universe (may need to wait for background load)
   if (allCompanies.length === 0) await preloadUniverse();
+  const symU = (symbol || '').toUpperCase().trim();
   const co = allCompanies.find(c =>
-    c.symbol === symbol || c.nse_symbol === symbol || c.scrip_code === symbol
+    c.nse_symbol?.toUpperCase() === symU ||
+    c.symbol?.toUpperCase() === symU ||
+    c.scrip_code?.toUpperCase() === symU ||
+    (coName && c.company?.toUpperCase() === coName.toUpperCase().trim())
   ) || { company: coName, symbol };
 
   dossierIsin = co.isin || null;
@@ -2121,7 +2125,7 @@ function renderCalendar() {
                      : "neutral";
         const d2 = new Date(e.date + "T00:00:00");
         const dLabel = d2.toLocaleDateString("en-IN", { day:"numeric", month:"short", weekday:"short" });
-        html += `<div class="result-row" onclick="showPage('briefing');loadDate('${e.date}')">
+        html += `<div class="result-row" style="cursor:pointer" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\'")}')">
           <div class="result-row-date">${dLabel}</div>
           <div class="result-row-co">${e.company}</div>
           <div class="result-row-sym">${e.symbol}</div>
