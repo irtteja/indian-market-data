@@ -482,7 +482,7 @@ body {
 
 
 
-/* ── Screener ─────────────────────────────────────────────────────────── */
+
 .breadth-bar {
   display: flex; align-items: center; gap: 0;
   background: var(--bg2); border: 1px solid var(--border);
@@ -750,7 +750,7 @@ body {
   <a class="nav-link" href="#" onclick="showPage('results-cal',this)">Results Calendar</a>
   <a class="nav-link" href="#" onclick="showPage('archive',this)">Archive</a>
   <a class="nav-link" href="#" onclick="showPage('companies',this)">Companies</a>
-  <a class="nav-link" href="#" onclick="showPage('screener',this)">Screener</a>
+
   <div class="date-pill"><span class="live-dot"></span><span id="topbar-date">Loading…</span></div>
 </div>
 
@@ -812,9 +812,6 @@ body {
     </div>
 
     <!-- COMPANIES PAGE -->
-    <div class="page" id="page-screener">
-      <div class="page-header">
-        <div class="page-title">Market Screener</div>
         <div id="screener-date-pill" class="date-pill" style="margin-left:auto"></div>
       </div>
 
@@ -908,7 +905,7 @@ function showPage(name, el) {
   if (el) el.classList.add("active");
   if (name === "archive") loadArchive();
   if (name === "companies") loadCompanies();
-  if (name === "screener") loadScreener();
+
   if (name === "results-cal") loadResultsCalendar();
 }
 
