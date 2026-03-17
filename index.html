@@ -1610,16 +1610,17 @@ let dossierActiveTab = "overview";
 let dossierAnnsLoaded = false;
 let dossierResultsLoaded = false;
 
-function openCompany(symbolOrEl, name) {
+async function openCompany(symbolOrEl, name) {
   let symbol = symbolOrEl, coName = name;
   if (symbolOrEl && typeof symbolOrEl === 'object') {
     symbol = symbolOrEl.dataset.sym || '';
     coName = symbolOrEl.dataset.co || '';
   }
-  // Find company data from universe
+  // Find company data from universe (may need to wait for background load)
+  if (allCompanies.length === 0) await preloadUniverse();
   const co = allCompanies.find(c =>
     c.symbol === symbol || c.nse_symbol === symbol || c.scrip_code === symbol
-  ) || { company: name, symbol };
+  ) || { company: coName, symbol };
 
   dossierIsin = co.isin || null;
   dossierAnnsLoaded = false;
@@ -2168,6 +2169,25 @@ async function init() {
   // Newest first
   availableDates.sort((a, b) => b.localeCompare(a));
   await loadDate(availableDates[0]);
+
+  // Pre-load universe in background so dossier details are ready immediately
+  preloadUniverse();
+}
+
+async function preloadUniverse() {
+  if (allCompanies.length > 0) return;
+  try {
+    const resp = await fetch(`${RAW}/universe/stocks.csv`);
+    const text = await resp.text();
+    const lines = text.trim().split("\n");
+    const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+    allCompanies = lines.slice(1).map(line => {
+      const vals = line.split(",");
+      const obj = {};
+      headers.forEach((h, i) => obj[h] = (vals[i] || "").trim());
+      return obj;
+    });
+  } catch(e) { /* silent fail — dossier will just show minimal info */ }
 }
 
 init();
