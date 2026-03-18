@@ -142,5 +142,37 @@
     "raw_headline": "Press Release dated March 17, 2026",
     "is_critical": false,
     "attachment": "5a8b3563-9be0-4505-ac4c-d06c1691d87e.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Meeting Updates",
+    "clean_headline": "Outcome of Committee Meeting for allotment of Non Convertible Debentures w.r.t. prior intimation dated 14.03.2026",
+    "raw_headline": "Outcome of Committee Meeting for allotment of Non Convertible Debentures w.r.t. prior intimation dated 14.03.2026",
+    "is_critical": false,
+    "attachment": "2fef58ce-ba18-43b0-8709-430c874bf15c.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532900",
+    "symbol": "PAISALO",
+    "company": "PAISALO DIGITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Additionally Assigned Credit Rating",
+    "raw_headline": "Additionally Assigned Credit Rating",
+    "is_critical": true,
+    "attachment": "4bfd3246-35a9-498d-b330-cdcf37791688.pdf"
   }
 ]

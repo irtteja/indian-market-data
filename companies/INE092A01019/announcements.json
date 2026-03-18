@@ -14,5 +14,21 @@
     "raw_headline": "Special Window for Re-lodgement of transfer requests of physical shares",
     "is_critical": false,
     "attachment": "90bc113f-9cda-4d06-83d5-bb31148432e0.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500770",
+    "symbol": "TATACHEM",
+    "company": "Tata Chemicals Ltd",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Tamilnad Mercantile Bank received monetary demand notice from Income Tax Department",
+    "raw_headline": "Intimation of Schedule of Analysts/Institutional Investor Meeting under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "26e4bdf3-c1b3-41ad-bdf2-ebe450d06cfa.pdf"
   }
 ]

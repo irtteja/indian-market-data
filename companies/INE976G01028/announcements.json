@@ -78,5 +78,21 @@
     "raw_headline": "RBL Bank Limited informs the exchange about Analyst Meet.",
     "is_critical": false,
     "attachment": "d86371f9-cd24-43c1-8371-979a52228d43.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "540065",
+    "symbol": "RBLBANK",
+    "company": "RBL Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Black Box Limited allotted 51,09,612 equity shares pursuant to conversion of warrants.",
+    "raw_headline": "RBL Bank Limited informs the exchange about Investor / Analyst Meets.",
+    "is_critical": false,
+    "attachment": "fbb5e7f8-1119-4281-a5b3-175217884eeb.pdf"
   }
 ]

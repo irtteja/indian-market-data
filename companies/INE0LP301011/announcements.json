@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544609",
+    "symbol": "PWL",
+    "company": "Physicswallah Limited",
+    "sector": "Consumer Services",
+    "industry": "Other Consumer Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Asirvad Micro Finance and Manappuram Home Finance receive RBI approval",
+    "raw_headline": "The Company has informed the stock exchanges regarding receipt of assessment order issued under Income Tax Act, 1961.",
+    "is_critical": false,
+    "attachment": "334a7970-97c8-4878-8c47-804f1a0097c3.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544609",
+    "symbol": "PWL",
+    "company": "Physicswallah Limited",
+    "sector": "Consumer Services",
+    "industry": "Other Consumer Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "General",
+    "clean_headline": "Sarda Proteins allotted 72,50,000 equity shares upon conversion of convertible warrants.",
+    "raw_headline": "Physicswallah has informed the exchange regarding update on incorporation of a Wholly Owned Subsidiary Company.",
+    "is_critical": false,
+    "attachment": "631dcced-7e1e-4e9f-aa9b-3c078a8328f6.pdf"
+  }
+]

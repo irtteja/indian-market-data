@@ -14,5 +14,21 @@
     "raw_headline": "Schedule of Investor Meet Intimation",
     "is_critical": false,
     "attachment": "f6bf7b2f-a410-4edb-a6cc-627976441201.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543245",
+    "symbol": "GLAND",
+    "company": "Gland Pharma Limited",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Solarium Green Energy has successfully commissioned its Solar Module Manufacturing Facility in Ahmedabad",
+    "raw_headline": "Schedule of Investor Meet",
+    "is_critical": false,
+    "attachment": "b7d95911-d677-4871-8f8f-c2b04373c2be.pdf"
   }
 ]

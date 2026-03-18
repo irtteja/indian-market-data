@@ -30,5 +30,21 @@
     "raw_headline": "Result of Postal Ballot by remote e-voting process",
     "is_critical": false,
     "attachment": "38cf2a8e-8d9f-492e-9891-a333348208fe.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "538734",
+    "symbol": "CEINSYS",
+    "company": "CEINSYS TECH LIMITED",
+    "sector": "Information Technology",
+    "industry": "IT - Services",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Further investment in Wholly Owned Subsidiary through Rights Issue",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015(\"LODR Regulations\") -Further investment in Wholly Owned Subsidiary through Rights Issue",
+    "is_critical": true,
+    "attachment": "e40622e1-2de0-4c7d-b49a-2734628f8b56.pdf"
   }
 ]

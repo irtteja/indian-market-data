@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500483",
+    "symbol": "TATACOMM",
+    "company": "Tata Communications Limited",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "CWD Limited received a purchase order valued at Rs. 45.24 Crores.",
+    "raw_headline": "Incorporation of  a Joint Venture Company.",
+    "is_critical": false,
+    "attachment": "1d1c858a-c195-4da4-a727-591ecf82a9de.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500483",
+    "symbol": "TATACOMM",
+    "company": "Tata Communications Limited",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Board Decisions",
+    "subcategory": "Restructuring",
+    "clean_headline": "Shree Cements Limited incorporated a wholly-owned subsidiary Shree Cement (Mauritius) Limited",
+    "raw_headline": "Incorporation of a Joint Venture Company.",
+    "is_critical": false,
+    "attachment": "0a381c2d-e90c-4782-9b44-e334b5065f18.pdf"
+  }
+]

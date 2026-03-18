@@ -30,5 +30,21 @@
     "raw_headline": "As per attachment enclosed.",
     "is_critical": false,
     "attachment": "322fa054-15b2-49ae-a0db-68f97a403c3b.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "513262",
+    "symbol": "SSWL",
+    "company": "Steel Strips & Wheels Ltd",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Debt & Finance",
+    "subcategory": "Resignation of Director",
+    "clean_headline": "Aditya Birla Lifestyle Brands has allotted Non-Convertible Debentures.",
+    "raw_headline": "Resignation of Non-executive Nominee Director. Details as per attachment enclosed.",
+    "is_critical": false,
+    "attachment": "1d4c2854-7748-4117-aedc-80ce5b55cfaf.pdf"
   }
 ]

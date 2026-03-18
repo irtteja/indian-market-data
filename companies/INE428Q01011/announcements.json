@@ -14,5 +14,37 @@
     "raw_headline": "Please find attached herewith Schedule of Analyst/Institutional Investor Meet",
     "is_critical": false,
     "attachment": "fd776754-9038-42ba-8177-80781e5acd59.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543279",
+    "symbol": "SURYODAY",
+    "company": "Suryoday Small Finance Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "General",
+    "clean_headline": "Ceinsys Tech allots equity shares following exercise of 30,96,515 convertible warrants",
+    "raw_headline": "Please find attached herewith Intimation regarding purchase of 50,000 Equity Shares of the Bank by the Promoter and Managing Director & CEO of the Bank as per the Trading Plan",
+    "is_critical": false,
+    "attachment": "b49b0ac6-66a0-4c19-84a7-c6d50dcf6ab3.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543279",
+    "symbol": "SURYODAY",
+    "company": "Suryoday Small Finance Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "Institutional investor meeting held with details of attendees and discussions",
+    "raw_headline": "Please find attached herewith Schedule of Analysts/ Institutional Investor Meet.",
+    "is_critical": false,
+    "attachment": "1cf87197-cc0b-44d2-b6b8-20111e2a922a.pdf"
   }
 ]

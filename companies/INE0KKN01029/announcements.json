@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543590",
+    "symbol": "RHETAN",
+    "company": "Rhetan TMT Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Postal Ballot - Scrutinizer''s Report",
+    "raw_headline": "Postal Ballot - Scrutinizer''s Report",
+    "is_critical": false,
+    "attachment": "cff356e4-3fea-4126-baee-0993b9d14a2e.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543590",
+    "symbol": "RHETAN",
+    "company": "Rhetan TMT Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Outcome of Postal Ballot",
+    "raw_headline": "Outcome of Postal Ballot",
+    "is_critical": false,
+    "attachment": "60cdf501-d56d-4ab8-9574-c326e4344d03.pdf"
+  }
+]

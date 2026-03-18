@@ -62,5 +62,21 @@
     "raw_headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015",
     "is_critical": false,
     "attachment": "5280ba4c-94d3-4056-aed3-7565893c747d.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532454",
+    "symbol": "BHARTIARTL",
+    "company": "Bharti Airtel  Ltd.",
+    "sector": "Telecommunication",
+    "industry": "Telecom - Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Material subsidiary Care Health Insurance Limited received Income-tax Assessment Orders for Assessment Years 2018-19 and 2019-20 under Sections 147 and 143(3)",
+    "raw_headline": "Update on First and Final Call - Conversion of partly paid-up equity shares into fully paid-up equity shares, upon receipt of Call money",
+    "is_critical": false,
+    "attachment": "2ac06d05-95cd-46df-8694-aaf50b503a95.pdf"
   }
 ]

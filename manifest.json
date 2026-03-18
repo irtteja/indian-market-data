@@ -1,6 +1,7 @@
 {
-  "generated": "2026-03-17T21:18:10.045653+00:00",
+  "generated": "2026-03-18T21:17:17.851751+00:00",
   "dates": [
+    "2026-03-18",
     "2026-03-17",
     "2026-03-16",
     "2026-03-15",
@@ -8,93 +9,27 @@
     "2026-03-13",
     "2026-03-12"
   ],
-  "total_briefings": 6,
-  "company_dossiers": 633,
-  "latest": "2026-03-17",
+  "total_briefings": 7,
+  "company_dossiers": 711,
+  "latest": "2026-03-18",
   "latest_screener_date": null,
-  "upcoming_results_count": 11,
+  "upcoming_results_count": 10,
   "upcoming_board_meetings": [
     {
-      "company": "AXIS Bank Ltd.",
-      "symbol": "AXISBANK",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Large Cap",
-      "sector": "Financial Services",
-      "in_universe": true
-    },
-    {
-      "company": "Kotak Mahindra Bank Ltd.",
-      "symbol": "KOTAKBANK",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Large Cap",
-      "sector": "Financial Services",
-      "in_universe": true
-    },
-    {
-      "company": "Mitsu Chem Plast Ltd",
-      "symbol": "540078",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "",
-      "sector": "",
-      "in_universe": false
-    },
-    {
-      "company": "Mahindra & Mahindra Ltd.",
-      "symbol": "M&M",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Large Cap",
-      "sector": "Automobile and Auto Components",
-      "in_universe": true
-    },
-    {
-      "company": "TIPS MUSIC LIMITED",
-      "symbol": "TIPSMUSIC",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Micro Cap",
-      "sector": "Media Entertainment & Publication",
-      "in_universe": true
-    },
-    {
-      "company": "Omnitech Engineering Limited",
-      "symbol": "OMNI",
-      "date": "2026-03-17",
-      "purpose": "Analyst / Investor Meet / Conference Call",
-      "is_results": false,
-      "is_dividend": false,
-      "mcap_cat": "Micro Cap",
-      "sector": "Capital Goods",
-      "in_universe": true
-    },
-    {
-      "company": "CreditAccess Grameen Ltd.",
-      "symbol": "CREDITACC",
-      "date": "2026-03-17",
+      "company": "Clean Max Enviro Energy Solutions Limited",
+      "symbol": "CLEANMAX",
+      "date": "2026-03-18",
       "purpose": "Analyst / Investor Meet / Conference Call",
       "is_results": false,
       "is_dividend": false,
       "mcap_cat": "Small Cap",
-      "sector": "Financial Services",
+      "sector": "Power",
       "in_universe": true
     },
     {
       "company": "Mastek Limited",
       "symbol": "MASTEK",
-      "date": "2026-03-17",
+      "date": "2026-03-18",
       "purpose": "Analyst / Investor Meet / Conference Call",
       "is_results": false,
       "is_dividend": false,
@@ -103,37 +38,15 @@
       "in_universe": true
     },
     {
-      "company": "Dharti Proteins Ltd",
-      "symbol": "DHARTI",
+      "company": "Tata Chemicals Ltd",
+      "symbol": "TATACHEM",
       "date": "2026-03-18",
-      "purpose": "Financial Results",
-      "is_results": true,
+      "purpose": "Analyst / Investor Meet / Conference Call",
+      "is_results": false,
       "is_dividend": false,
-      "mcap_cat": "",
-      "sector": "",
-      "in_universe": false
-    },
-    {
-      "company": "Gaudium IVF and Women Health Ltd",
-      "symbol": "GAUDIUMIVF",
-      "date": "2026-03-18",
-      "purpose": "Financial Results",
-      "is_results": true,
-      "is_dividend": false,
-      "mcap_cat": "",
-      "sector": "",
-      "in_universe": false
-    },
-    {
-      "company": "Milestone Furniture Ltd",
-      "symbol": "MILEFUR",
-      "date": "2026-03-18",
-      "purpose": "Financial Results",
-      "is_results": true,
-      "is_dividend": false,
-      "mcap_cat": "",
-      "sector": "",
-      "in_universe": false
+      "mcap_cat": "Small Cap",
+      "sector": "Chemicals",
+      "in_universe": true
     },
     {
       "company": "Shree Ram Twistex Ltd",
@@ -145,6 +58,17 @@
       "mcap_cat": "",
       "sector": "",
       "in_universe": false
+    },
+    {
+      "company": "Nazara Technologies Limited",
+      "symbol": "NAZARA",
+      "date": "2026-03-19",
+      "purpose": "Analyst / Investor Meet / Conference Call",
+      "is_results": false,
+      "is_dividend": false,
+      "mcap_cat": "Micro Cap",
+      "sector": "Media Entertainment & Publication",
+      "in_universe": true
     },
     {
       "company": "Alps Industries Ltd",
@@ -180,6 +104,17 @@
       "in_universe": false
     },
     {
+      "company": "Mysore Paper Mills Ltd",
+      "symbol": "MYSPAPE",
+      "date": "2026-03-25",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "",
+      "sector": "",
+      "in_universe": false
+    },
+    {
       "company": "Supha Pharmachem Ltd",
       "symbol": "SUPHA",
       "date": "2026-03-30",
@@ -189,6 +124,17 @@
       "mcap_cat": "",
       "sector": "",
       "in_universe": false
+    },
+    {
+      "company": "ICICI Bank Ltd.",
+      "symbol": "ICICIBANK",
+      "date": "2026-04-18",
+      "purpose": "Financial Results",
+      "is_results": true,
+      "is_dividend": false,
+      "mcap_cat": "Large Cap",
+      "sector": "Financial Services",
+      "in_universe": true
     },
     {
       "company": "Infosys Ltd",

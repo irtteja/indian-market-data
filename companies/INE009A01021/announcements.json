@@ -78,5 +78,21 @@
     "raw_headline": "Enclosed",
     "is_critical": false,
     "attachment": "ebcf21c5-7929-4f07-ac73-b78f58e6e5ef.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500209",
+    "symbol": "INFY",
+    "company": "Infosys Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Ms. Shalaka Khandelwal resigns as Company Secretary and Compliance Officer of SoftTech Engineers Limited",
+    "raw_headline": "Enclosed",
+    "is_critical": false,
+    "attachment": "0bdd5932-edf8-4c9b-8817-bf5c2cbf27fc.pdf"
   }
 ]

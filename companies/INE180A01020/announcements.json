@@ -30,5 +30,21 @@
     "raw_headline": "As per the disclosure attached",
     "is_critical": false,
     "attachment": "8be27f9e-8621-450f-a996-c43fcf651e46.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500271",
+    "symbol": "MFSL",
+    "company": "Max Financial Services Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "As per the Investor Presentation attached.",
+    "raw_headline": "As per the Investor Presentation attached.",
+    "is_critical": false,
+    "attachment": "522f2f35-af31-4ae4-9fd1-3a99c1c7cee5.pdf"
   }
 ]

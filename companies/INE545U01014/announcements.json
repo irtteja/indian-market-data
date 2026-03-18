@@ -14,5 +14,21 @@
     "raw_headline": "The Exchange has sought clarification from Bandhan Bank Ltd on March 16, 2026, with reference to news appeared in https://www.moneycontrol.com/ dated March 16, 2026 quoting \"Bandhan Bank ....",
     "is_critical": true,
     "attachment": ""
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "541153",
+    "symbol": "BANDHANBNK",
+    "company": "Bandhan Bank Limited",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "ARCL Organics settled pending customs dues with the Office of the Principal Commissioner of Customs",
+    "raw_headline": "Schedule of Analysts / Institutional Investors Meet to be held on March 23, 2026.",
+    "is_critical": false,
+    "attachment": "a6079f54-2ce0-448e-943f-e82aa10353b8.pdf"
   }
 ]

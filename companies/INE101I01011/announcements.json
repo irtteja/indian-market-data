@@ -78,5 +78,21 @@
     "raw_headline": "As per the Enclosed letter",
     "is_critical": false,
     "attachment": "3a9a34f9-3a15-4d97-9ee1-ff59323bb2da.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544280",
+    "symbol": "AFCONS",
+    "company": "Afcons Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "Last Mile Energy subsidiary launches AquaFlame, a hydrogen-powered cooking gas stove",
+    "raw_headline": "Please find enclosed intimation of record date for maturity of Commercial Paper",
+    "is_critical": false,
+    "attachment": "dc08a6a1-badf-42c3-82a4-108c4c38dff7.pdf"
   }
 ]

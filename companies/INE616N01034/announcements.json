@@ -14,5 +14,21 @@
     "raw_headline": "Intimation of scheduled Investor/Analyst Meet.",
     "is_critical": false,
     "attachment": "935b5f9f-eb59-45d4-b0ab-89a1f72440d1.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544046",
+    "symbol": "INOXINDIA",
+    "company": "INOX India Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Board Decisions",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Infosys Board approved incorporation of wholly owned subsidiary Infosys Enterprise Business Services Pty. Ltd in Australia",
+    "raw_headline": "Intimation of scheduled Investor/Analyst Meet.",
+    "is_critical": false,
+    "attachment": "ddfdae56-c10d-4f1c-a7f7-b0f3341977ba.pdf"
   }
 ]

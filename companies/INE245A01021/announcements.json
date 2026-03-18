@@ -30,5 +30,21 @@
     "raw_headline": "We hereby inform you that the Company will be participating virtually in the Morgan Stanley India Industrials & Energy Seminar, scheduled to be held on Monday, March 23, 2026. The Company ....",
     "is_critical": false,
     "attachment": "5933578f-f67c-4f3b-99f5-f67bd2eae6cb.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500400",
+    "symbol": "TATAPOWER",
+    "company": "Tata Power Co. Ltd",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Voting results of Postal Ballot through remote e-voting.",
+    "raw_headline": "Voting results of Postal Ballot through remote e-voting.",
+    "is_critical": false,
+    "attachment": "4f12ab1f-9713-4615-bf0e-a0c28ef5fe52.pdf"
   }
 ]

@@ -78,5 +78,53 @@
     "raw_headline": "Intimation for acquisition of 100% equity shares of Kintech Solarbikaner Private Limited",
     "is_critical": true,
     "attachment": "d272a34a-5fc5-40ba-a10c-9de7c6d41b49.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544717",
+    "symbol": "CLEANMAX",
+    "company": "Clean Max Enviro Energy Solutions Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Financial Results",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Audio and Video Recording of Earnings conference call held for the Unaudited Standalone and Consolidated Financial Results for the quarter and nine months ended 31 December 2025",
+    "raw_headline": "Audio and Video Recording of Earnings conference call held for the Unaudited Standalone and Consolidated Financial Results for the quarter and nine months ended 31 December 2025",
+    "is_critical": false,
+    "attachment": "bc8e5a34-a06b-4c3e-a23e-8cafd02bb4ed.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544717",
+    "symbol": "CLEANMAX",
+    "company": "Clean Max Enviro Energy Solutions Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Reliance Industries received customs redemption fine and penalty aggregating Rs. 17,06,958 from Additional Commissioner of Customs, Mundra",
+    "raw_headline": "Shareholders'' Letter dated Q3 FY2026",
+    "is_critical": false,
+    "attachment": "52d2afd9-65c6-4845-ad4b-8586f9d962f1.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544717",
+    "symbol": "CLEANMAX",
+    "company": "Clean Max Enviro Energy Solutions Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Bright Outdoor Media successfully concluded Bright Real Estate Expo 2026, marking its sixth curated event in six months.",
+    "raw_headline": "Change of Corporate Identification Number of the Company",
+    "is_critical": false,
+    "attachment": "31293026-186d-4f9e-90c1-77803da34d2d.pdf"
   }
 ]

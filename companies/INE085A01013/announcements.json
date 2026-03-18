@@ -14,5 +14,21 @@
     "raw_headline": "In pursuance of Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the officials ....",
     "is_critical": false,
     "attachment": "d21c6e77-6888-415e-9f73-01bead951f40.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500085",
+    "symbol": "CHAMBLFERT",
+    "company": "Chambal Fertilisers & Chemicals Ltd",
+    "sector": "Chemicals",
+    "industry": "Fertilizers & Agrochemicals",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "You that CRISIL Rating Limited has re-affirmed the credit rating as per enclosed attachment.",
+    "raw_headline": "Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we hereby inform you that CRISIL Rating Limited has re-affirmed the credit rating as per enclosed attachment.",
+    "is_critical": true,
+    "attachment": "90503eac-c010-4091-b9ea-45e8776f3433.pdf"
   }
 ]

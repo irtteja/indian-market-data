@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532259",
+    "symbol": "APARINDS",
+    "company": "Apar Industries Ltd",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Additional Investment in its  Wholly Owned Subsidiary namely APAR USA LLC (Formerly CEMA Wires and Cables LLC), USA,  by making further capital contribution of an amount not exceeding  USD 5 mio.",
+    "raw_headline": "Additional Investment in its  Wholly Owned Subsidiary namely APAR USA LLC (Formerly CEMA Wires and Cables LLC), USA,  by making further capital contribution of an amount not exceeding  USD 5 mio.",
+    "is_critical": true,
+    "attachment": "52cfa30e-1ff5-4ad0-b5dc-54a3c5f465ae.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532259",
+    "symbol": "APARINDS",
+    "company": "Apar Industries Ltd",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Zydus Lifesciences and Torrent Pharma signed licensing agreement to co-market Semaglutide Injection in India",
+    "raw_headline": "Proposed shareholders'' Agreement and Energy Supply Agreement and other relevant agreements for availing another wind and solar hybrid power generation facilities with additional investment ....",
+    "is_critical": false,
+    "attachment": "84ad9b0f-eca7-4e02-ae71-aba374edc65f.pdf"
+  }
+]

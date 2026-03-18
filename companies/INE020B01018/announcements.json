@@ -14,5 +14,21 @@
     "raw_headline": "Outcome of Board Meeting held on March 16, 2026.",
     "is_critical": false,
     "attachment": "75ee7208-5030-48cd-a4fa-7da3d5b7fcb8.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532955",
+    "symbol": "RECLTD",
+    "company": "REC LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "DCX Systems received purchase orders worth INR 12.81 crores in the normal course of business",
+    "raw_headline": "Board comments on fine levied by the Exchanges.",
+    "is_critical": false,
+    "attachment": "7b6cbacc-002f-431c-9e26-2c2b2e0ca7d0.pdf"
   }
 ]

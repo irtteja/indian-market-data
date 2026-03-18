@@ -62,5 +62,21 @@
     "raw_headline": "Union Bank of India informed the exchange about Credit Rating",
     "is_critical": true,
     "attachment": "90ccb8ac-d63a-462c-aaa3-e498bc003e0a.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532477",
+    "symbol": "UNIONBANK",
+    "company": "Union Bank of India",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Mobavenue AI Tech Limited appoints Vijay Basantani as Group Chief Financial Officer",
+    "raw_headline": "Disclosure pertaining to Analysts/Investors meet/Call - Schedule.",
+    "is_critical": false,
+    "attachment": "45ab57b1-6075-4ee8-936e-abc0d6220beb.pdf"
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "523642",
+    "symbol": "PIIND",
+    "company": "PI Industries Limited",
+    "sector": "Chemicals",
+    "industry": "Fertilizers & Agrochemicals",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "PI Industries interaction with Canara Robeco Mutual Fund",
+    "raw_headline": "Intimation for interaction with Canara Robeco Mutual Fund",
+    "is_critical": false,
+    "attachment": "60fab181-590b-47c4-982f-c4f870380523.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "523642",
+    "symbol": "PIIND",
+    "company": "PI Industries Limited",
+    "sector": "Chemicals",
+    "industry": "Fertilizers & Agrochemicals",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "PI Industries interaction with HDFC Mutual Fund",
+    "raw_headline": "Intimation for interaction with Bajaj Mutual Fund",
+    "is_critical": false,
+    "attachment": "57383fe6-ae86-4843-b89f-965abfbbfe90.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "523642",
+    "symbol": "PIIND",
+    "company": "PI Industries Limited",
+    "sector": "Chemicals",
+    "industry": "Fertilizers & Agrochemicals",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "PI Industries interaction with Bajaj Mutual Fund",
+    "raw_headline": "Intimation for interaction with HDFC Mutual Fund",
+    "is_critical": false,
+    "attachment": "2aeef433-515c-419c-be2e-13fb64d1584a.pdf"
+  }
+]

@@ -62,5 +62,21 @@
     "raw_headline": "ANALYSTS/INSTITUTIONAL INVESTORS MEET - PRESENTATION",
     "is_critical": false,
     "attachment": "9fc8ffa7-2849-4549-aecd-3e232c98ba6b.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532215",
+    "symbol": "AXISBANK",
+    "company": "AXIS Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "General",
+    "clean_headline": "Mankind Pharma acquired Rivotril brand for India to strengthen chronic CNS therapies portfolio",
+    "raw_headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "334e2594-3f2b-47b8-ac1a-055050b8acd0.pdf"
   }
 ]

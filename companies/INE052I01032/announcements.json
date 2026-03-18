@@ -30,5 +30,53 @@
     "raw_headline": "Enclosed.",
     "is_critical": false,
     "attachment": "d5ea90bf-ae2d-4f9d-ab7c-e83f61c98cbe.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532834",
+    "symbol": "CAMLINFINE",
+    "company": "Camlin Fine Sciences Ltd",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "raw_headline": "The Exchange has received the Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on March ....",
+    "is_critical": false,
+    "attachment": "E9B7BBAA_D55A_47D3_AB5D_CE928381738B_110305.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532834",
+    "symbol": "CAMLINFINE",
+    "company": "Camlin Fine Sciences Ltd",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 17, 2026 for Ashish Subhash Dandekar",
+    "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 17, 2026 for Ashish Subhash Dandekar",
+    "is_critical": false,
+    "attachment": "554970A5_6A41_4878_BDB6_232A1FD3D100_110118.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532834",
+    "symbol": "CAMLINFINE",
+    "company": "Camlin Fine Sciences Ltd",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Operational Alerts",
+    "subcategory": "Restructuring",
+    "clean_headline": "CFS Europe S.p.A., a wholly owned subsidiary of Camlin Fine Sciences, has entered judicial liquidation proceedings.",
+    "raw_headline": "Opening of judicial liquidation proceedings of CFS Europe S.p.A., a wholly owned subsidiary of the Company.",
+    "is_critical": false,
+    "attachment": "ef75f7c1-6481-4aa1-8783-885e0f394388.pdf"
   }
 ]

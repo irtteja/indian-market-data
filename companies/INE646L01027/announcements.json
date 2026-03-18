@@ -30,5 +30,37 @@
     "raw_headline": "InterGlobe Aviation Limited has informed the Exchange regarding a press release dated March 14, 2026, titled \"Update on IndiGo''s Middle East Operations\"",
     "is_critical": false,
     "attachment": "dfaec096-14d3-4f39-9fb7-9a02ade80500.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "539448",
+    "symbol": "INDIGO",
+    "company": "InterGlobe Aviation Limited",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Credit Rating",
+    "raw_headline": "Announcement under Regulation 30 of SEBI (LODR) - Credit Rating",
+    "is_critical": true,
+    "attachment": "4e96fa45-0214-4fd4-8f16-2ac0f4eb6cb3.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "539448",
+    "symbol": "INDIGO",
+    "company": "InterGlobe Aviation Limited",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Insider / SAST",
+    "subcategory": "General",
+    "clean_headline": "Promoter group member Ayush Vardhan Singhania and Fenton Investments Private Limited proposed to acquire equity shares through inter-se transfer",
+    "raw_headline": "Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "97068d7d-f9d0-417d-b313-1f9515bb1b1d.pdf"
   }
 ]

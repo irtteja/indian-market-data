@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543280",
+    "symbol": "NAZARA",
+    "company": "Nazara Technologies Limited",
+    "sector": "Media Entertainment & Publication",
+    "industry": "Entertainment",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Nazara Technologies to acquire controlling stake in social gaming platforms Bluetile and BestPlay for USD 100.3 million (~INR 918 crores)",
+    "raw_headline": "Nazara Technologies Limited informs the Exchange regarding a press release dated March 18, 2026, titled \"Nazara to Acquire Controlling Stake in Social Gaming Platform Bluetile and BestPlay ....",
+    "is_critical": false,
+    "attachment": "1fb998bc-aca3-4edd-b4fa-da5912630b6f.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543280",
+    "symbol": "NAZARA",
+    "company": "Nazara Technologies Limited",
+    "sector": "Media Entertainment & Publication",
+    "industry": "Entertainment",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Nazara Technologies Limited informs the Exchange regarding ''Investor Presentation''.",
+    "raw_headline": "Nazara Technologies Limited informs the Exchange regarding ''Investor Presentation''.",
+    "is_critical": false,
+    "attachment": "6304896e-2ea6-4bd2-8fcd-cd487e54a749.pdf"
+  }
+]

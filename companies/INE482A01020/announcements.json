@@ -30,5 +30,37 @@
     "raw_headline": "CEAT Limited has informed the Exchange about Loss of share Certificate(s)",
     "is_critical": false,
     "attachment": "70e2c02c-6355-4c4d-ba77-b5eeec0988b1.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500878",
+    "symbol": "CEATLTD",
+    "company": "Ceat Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Clarification",
+    "clean_headline": "Jindal Saw to hold investor meetings on March 23-24, 2026",
+    "raw_headline": "The Exchange has sought clarification from Ceat Ltd on March 18, 2026, with reference to news appeared in https://www.thehindubusinessline.com dated March 18, 2026 quoting \"CEAT''s Rs. ....",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500878",
+    "symbol": "CEATLTD",
+    "company": "Ceat Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Awards & Recognition",
+    "subcategory": "General",
+    "clean_headline": "HCL Technologies named as one of the World's Most Ethical Companies by Ethisphere for third consecutive year.",
+    "raw_headline": "The Company has responded to the query by the Exchange",
+    "is_critical": false,
+    "attachment": "52ae2192-b20e-43f2-9f30-06d40ed72b1a.pdf"
   }
 ]

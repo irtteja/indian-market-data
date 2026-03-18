@@ -30,5 +30,53 @@
     "raw_headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015- Allotment of equity shares upon conversion of warrants under Preferential issue",
     "is_critical": false,
     "attachment": "d4cffc00-d76f-4182-8c4b-6daad79783fd.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543912",
+    "symbol": "PIGL",
+    "company": "Power & Instrumentation (Gujarat) Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Acquisition of additional 8.94% shares of Peaton Electrical Company Limited",
+    "raw_headline": "Acquisition of additional 8.94% shares of Peaton Electrical Company Limited",
+    "is_critical": true,
+    "attachment": "91de849a-7224-432b-9fe4-3f2aa479ef7c.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543912",
+    "symbol": "PIGL",
+    "company": "Power & Instrumentation (Gujarat) Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "Allotment of Equity shares upon conversion  of warrants under Preferential issue",
+    "raw_headline": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015 - Allotment of Equity shares upon conversion  of warrants under Preferential issue",
+    "is_critical": false,
+    "attachment": "a6a5b5bf-4ad4-4771-aa7d-3218fee2cba5.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "543912",
+    "symbol": "PIGL",
+    "company": "Power & Instrumentation (Gujarat) Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Mercury Trade Links Limited appointed Mrs. Annuben Vipulbhai Rathod as Non-Executive Non-Independent Director",
+    "raw_headline": "Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015, we would like to inform you that the Board of Directors of the Company, at its meeting held ....",
+    "is_critical": false,
+    "attachment": "daed9229-f5f8-4899-879a-7c1f41f198c4.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Investor presentation",
     "is_critical": false,
     "attachment": "092808b7-bcc0-4a95-961a-d3901ba92f49.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "531335",
+    "symbol": "ZYDUSWELL",
+    "company": "Zydus Wellness Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Investor Presentations",
+    "subcategory": "Investor Presentation",
+    "clean_headline": "Revised Investor Presentation",
+    "raw_headline": "Revised Investor Presentation",
+    "is_critical": false,
+    "attachment": "21bbde7e-164b-453b-aa71-70c51ca8a508.pdf"
   }
 ]

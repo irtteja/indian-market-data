@@ -46,5 +46,21 @@
     "raw_headline": "Newspaper Notice - EGM to be held on 09.04.2026",
     "is_critical": false,
     "attachment": "0d235fdb-0706-48c0-9b57-89e6e7bfddd3.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532848",
+    "symbol": "DELTACORP",
+    "company": "Delta Corp Limited",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Delta Corp and its subsidiary Highstreet Cruises received GST notices from Goa authorities under Section 74(1) of CGST Act and Goa GST Act.",
+    "raw_headline": "Disclosure under regulation 30",
+    "is_critical": false,
+    "attachment": "42301b01-f325-41b5-994b-240651de01c1.pdf"
   }
 ]

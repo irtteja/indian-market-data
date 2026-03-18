@@ -30,5 +30,21 @@
     "raw_headline": "Comments of the Board of Directors on Stock Exchange dated February 27, 2026 with respect to non-compliance of Regulation 17(1) of SEBI (LODR) Regulations, 2015 for the quarter ended December 31, 2025",
     "is_critical": false,
     "attachment": "cd6b67b0-7db8-4cc7-b453-671e30ddd4b4.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532839",
+    "symbol": "DISHTV",
+    "company": "Dish TV India Limited",
+    "sector": "Media Entertainment & Publication",
+    "industry": "Entertainment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Notice of Postal Ballot",
+    "raw_headline": "Notice of Postal Ballot",
+    "is_critical": false,
+    "attachment": "2b57d582-f7db-41f4-aff2-2359a03099d9.pdf"
   }
 ]

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500180",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Mergers & Schemes",
+    "subcategory": "Resignation of Chairman",
+    "clean_headline": "ArisInfra Solutions Limited approved amalgamation of ArisUnitern RE Solutions Private Limited",
+    "raw_headline": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015- Resignation of Mr. Atanu Chakraborty as a Part-time Chairman and Independent ....",
+    "is_critical": false,
+    "attachment": "d2bfc245-aaf7-4931-969f-d092337405f4.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500180",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Intimation of credit rating pursuant to Regulation 30 of  SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "raw_headline": "Intimation of credit rating pursuant to Regulation 30 of  SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "is_critical": true,
+    "attachment": "cb180bcc-aa68-419b-92f8-422c1e86e111.pdf"
+  }
+]

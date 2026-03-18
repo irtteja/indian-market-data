@@ -14,5 +14,21 @@
     "raw_headline": "Newpapers publication for proposed postal ballot.",
     "is_critical": false,
     "attachment": "e4bdb9c6-0efe-4768-b959-4631b8cfc669.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "500480",
+    "symbol": "CUMMINSIND",
+    "company": "Cummins India Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Notice of Postal Ballot.",
+    "raw_headline": "Please find enclosed Notice of Postal Ballot.",
+    "is_critical": false,
+    "attachment": "56f946b5-1626-4f69-8799-0c9db931f517.pdf"
   }
 ]

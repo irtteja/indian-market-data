@@ -46,5 +46,37 @@
     "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 17, 2026 for Anilkumar Bhikhabhai Virani",
     "is_critical": false,
     "attachment": "30547B8D_806C_4584_92E8_368C76565909_173423.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544081",
+    "symbol": "JYOTICNC",
+    "company": "Jyoti CNC Automation Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Press Releases",
+    "subcategory": "Clarification",
+    "clean_headline": "TCS partners with Pearson to accelerate AI-powered learning for global industries",
+    "raw_headline": "The Exchange has sought clarification from Jyoti CNC Automation Ltd on March 18, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "544081",
+    "symbol": "JYOTICNC",
+    "company": "Jyoti CNC Automation Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "General",
+    "clean_headline": "Solix Technologies and Symbiosis Center for Entrepreneurship sign MoU to establish Center of Excellence in New Drug Development and Drug Repurposing",
+    "raw_headline": "Pursuant to your Email dated March 18, 2026, we are filling response as attached herewith.",
+    "is_critical": false,
+    "attachment": "93d30f3a-85fb-41ee-b7cf-04979dfe3ff7.pdf"
   }
 ]

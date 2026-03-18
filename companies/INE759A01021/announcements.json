@@ -30,5 +30,21 @@
     "raw_headline": "Press Release titled \"Mastek secures initial GBP 15million contract with the Financial Conduct Authority to strengthen its digital delivery capability\".",
     "is_critical": false,
     "attachment": "c7a6f9b2-fc3e-4a75-a020-453654147a11.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "523704",
+    "symbol": "MASTEK",
+    "company": "Mastek Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Trading approval granted for 11,696 equity shares issued on preferential basis to non-promoters",
+    "raw_headline": "Intimation of Schedule of Analyst / Institutional Investor Meets",
+    "is_critical": false,
+    "attachment": "de7febc8-9d84-4165-b004-d7409b4d2b99.pdf"
   }
 ]

@@ -62,5 +62,21 @@
     "raw_headline": "Announcement of execution of concession agreement for development of High Tech Pharmaceutical Park at Dighi Port Industrial Area, Maharashtra",
     "is_critical": false,
     "attachment": "a2858bf6-879a-459c-86b2-918eec99806c.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "533262",
+    "symbol": "RAMKY",
+    "company": "Ramky Infrastructure Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Credit rating from Infomerics Valuation and Rating Limited has been upgraded from BBB- to BBB with stable outlook for Long term and short term bank facilities",
+    "raw_headline": "Credit rating from Infomerics Valuation and Rating Limited has been upgraded from BBB- to BBB with stable outlook for Long term and short term bank facilities",
+    "is_critical": true,
+    "attachment": "427cb869-937a-4e6b-8ea4-03c8588250d1.pdf"
   }
 ]

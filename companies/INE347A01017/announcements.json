@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-18",
+    "scrip_code": "502157",
+    "symbol": "MANGLMCEM",
+    "company": "Mangalam Cement Ltd.",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Intimation of Credit Rating under Regulation 30 of SEBI (LODR), 2015",
+    "raw_headline": "Intimation of Credit Rating under Regulation 30 of SEBI (LODR), 2015",
+    "is_critical": true,
+    "attachment": "b7702118-4e71-4778-9914-efb03edb20c7.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "502157",
+    "symbol": "MANGLMCEM",
+    "company": "Mangalam Cement Ltd.",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Reg. 2011",
+    "clean_headline": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
+    "is_critical": false,
+    "attachment": "97F7903C_CE04_4A0B_9E30_1953211AA995_123637.pdf"
+  }
+]

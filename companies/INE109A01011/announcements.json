@@ -30,5 +30,21 @@
     "raw_headline": "Announcement under Regulation 30 of SEBI(Listing Obligations and Disclosure Requirements) Regulations 2015",
     "is_critical": false,
     "attachment": "22327556-5bf7-477d-9486-6c24ef646fdd.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "523598",
+    "symbol": "SCI",
+    "company": "Shipping Corporation Of India Ltd",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Shipping Corporation of India executes shipbuilding contract with Mazagon Dock Shipbuilders for construction of one 3000 DWT Methanol Dual Fuel Platform Supply Vessel.",
+    "raw_headline": "SCI has executed a Shipbuilding Contract with Mazagon Dock Shipbuilders Ltd (MDL) on 18th March 2026 for construction of one (1 no.) 3000 DWT Methanol Dual Fuel Platform Supply Vessel (PSV).",
+    "is_critical": false,
+    "attachment": "27ba1062-e01d-4aa0-8638-db03b6a04027.pdf"
   }
 ]

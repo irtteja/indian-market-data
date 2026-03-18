@@ -14,5 +14,21 @@
     "raw_headline": "Enclosed please find a release on the captioned subject being issued by the Company today.",
     "is_critical": false,
     "attachment": "2ca85c66-fcc4-408a-bdcb-5a39d486008b.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532281",
+    "symbol": "HCLTECH",
+    "company": "HCL Technologies Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Shri Anurag Kapil appointed as Director (Finance) on the Board by Ministry of Steel, Government of India",
+    "raw_headline": "Enclose please find a release on the captioned subject being issued by the Company today",
+    "is_critical": false,
+    "attachment": "4d389d82-af52-4739-98a7-e26b1a3bd3bf.pdf"
   }
 ]

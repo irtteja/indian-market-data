@@ -46,5 +46,21 @@
     "raw_headline": "Kindly refer the enclosed file for detailed disclosure.",
     "is_critical": false,
     "attachment": "fb99db5c-a237-41d2-ade5-bcb91edbfe36.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "539437",
+    "symbol": "IDFCFIRSTB",
+    "company": "IDFC FIRST BANK LIMITED",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Please find the enclosed copy of Postal Ballot Notice",
+    "raw_headline": "Please find the enclosed copy of Postal Ballot Notice",
+    "is_critical": false,
+    "attachment": "5b96fedf-5c2f-4e65-92a8-a640e50b1c0e.pdf"
   }
 ]

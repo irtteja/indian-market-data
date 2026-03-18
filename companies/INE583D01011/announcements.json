@@ -62,5 +62,53 @@
     "raw_headline": "Submission of voting results of the postal ballot dated 12th March 2026 and Scrutinizer''s Report",
     "is_critical": false,
     "attachment": "2246b934-ad1f-4552-ae81-af6d9f243a82.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Intimation of closure of Share Purchase Agreement for acquisition of Datasigns Technologies Private Limited",
+    "raw_headline": "Intimation of closure of Share Purchase Agreement for acquisition of Datasigns Technologies Private Limited",
+    "is_critical": true,
+    "attachment": "170f89ee-9bd7-4d2b-9ae7-6c816c1ce6c4.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Raising of Funds",
+    "clean_headline": "Trading approval granted for 28,89,044 equity shares issued on preferential basis to non-promoters",
+    "raw_headline": "Intimation of raising of funds by way of issuance of NCDs through private placement basis",
+    "is_critical": false,
+    "attachment": "94af0a04-3da8-462f-9ad6-094e149f8170.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "511742",
+    "symbol": "UGROCAP",
+    "company": "UGRO CAPITAL LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "Simplex Castings secures orders from ThyssenKrupp Group.",
+    "raw_headline": "Intimation of allotment of NCDs on private placement basis",
+    "is_critical": false,
+    "attachment": "76fadfaf-c470-4e4e-917c-b6c2eea0d16c.pdf"
   }
 ]

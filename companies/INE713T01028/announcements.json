@@ -78,5 +78,21 @@
     "raw_headline": "Intimation on investor meeting",
     "is_critical": false,
     "attachment": "a82a1d27-fd81-451b-afa6-8bd4695de810.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "540879",
+    "symbol": "APOLLO",
+    "company": "Apollo Micro Systems Limited",
+    "sector": "Capital Goods",
+    "industry": "Aerospace & Defense",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Appointment of Shri Deepak Gupta as Nominee Director (GAIL) on Petronet LNG Board",
+    "raw_headline": "Intimation of Trading Approvals",
+    "is_critical": false,
+    "attachment": "8378c6a4-5040-46e7-be27-88292dcc4d6c.pdf"
   }
 ]

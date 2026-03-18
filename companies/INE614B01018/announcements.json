@@ -14,5 +14,21 @@
     "raw_headline": "Schedule of Analysts / Institutional Investors Meet",
     "is_critical": false,
     "attachment": "6145d1a2-f17a-4e1e-b34d-aa264680fcbc.pdf"
+  },
+  {
+    "date": "2026-03-18",
+    "scrip_code": "532652",
+    "symbol": "KTKBANK",
+    "company": "Karnataka Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Company received Letter of Intent for proposed allotment of land in Sector 29, Gurugram, Haryana",
+    "raw_headline": "Outcome of the Analysts / Institutional Investors Meet",
+    "is_critical": false,
+    "attachment": "e8f85c52-57cb-4808-9dbb-e2032bf7b4be.pdf"
   }
 ]
