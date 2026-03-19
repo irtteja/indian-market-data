@@ -30,5 +30,21 @@
     "raw_headline": "Postal Ballot Outcome",
     "is_critical": false,
     "attachment": "6bc4aec4-e9ee-4350-b2a5-281190a19622.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "539199",
+    "symbol": "SGFIN",
+    "company": "SG FINSERVE LIMITED",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Warrant Conversions",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "SG Finserve allotted 39,25,000 equity shares upon conversion of warrants",
+    "raw_headline": "Allotment of Equity Shares upon conversion of warrants",
+    "is_critical": false,
+    "attachment": "ebac8ce8-7dfe-478a-be77-c44b2bd85ee7.pdf"
   }
 ]

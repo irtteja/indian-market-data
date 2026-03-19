@@ -46,5 +46,21 @@
     "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 17, 2026 for Goenka Family Trust ....",
     "is_critical": false,
     "attachment": "E5BD8E4F_D91C_46FE_A83C_A8E70D70EDDE_173855.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533160",
+    "symbol": "DBREALTY",
+    "company": "VALOR ESTATE LIMITED",
+    "sector": "Consumer Services",
+    "industry": "Leisure Services",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "MobiKwik appoints Anis Pathan as Chief Risk Officer",
+    "raw_headline": "Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015 - Letter of Award issued by the Government of Goa  for development of an International Convention Centre, Convention Hotel ....",
+    "is_critical": true,
+    "attachment": "edec7cd7-1c3e-4bd0-8495-d78b41bfca58.pdf"
   }
 ]

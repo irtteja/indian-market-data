@@ -30,5 +30,37 @@
     "raw_headline": "Delhivery International Launches Economy Air Shipping to UK, Canada, and Australia",
     "is_critical": false,
     "attachment": "b34b237f-a30b-46ba-ab6d-d6926d3d39cd.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543529",
+    "symbol": "DELHIVERY",
+    "company": "Delhivery Limited",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "Intimation for the appointment of Additional Director (Non-Executive Independent Director) on the Board of the Company",
+    "raw_headline": "Intimation for the appointment of Additional Director (Non-Executive Independent Director) on the Board of the Company",
+    "is_critical": false,
+    "attachment": "ea5a76ca-708f-4b5f-b1c8-8f27e9970dc5.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543529",
+    "symbol": "DELHIVERY",
+    "company": "Delhivery Limited",
+    "sector": "Services",
+    "industry": "Transport Services",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Board Decisions",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "POWERGRID Board approved investment of ₹705.30 Crore for procurement of cold spare Transformers & Reactors.",
+    "raw_headline": "Press Release - Delhivery Announces Appointment of Ms. Neelam Dhawan as Independent Director and Board Chairperson",
+    "is_critical": false,
+    "attachment": "df457d70-8e5b-4c9f-ad91-777a4b7955d3.pdf"
   }
 ]

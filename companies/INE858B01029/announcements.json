@@ -14,5 +14,21 @@
     "raw_headline": "Update- Issuance of Standby Letter of Credit (SBLC)",
     "is_critical": false,
     "attachment": "f63ea513-3659-4f3b-aa8d-01b9e28a6b41.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533033",
+    "symbol": "ISGEC",
+    "company": "ISGEC Heavy Engineering Limited",
+    "sector": "Construction",
+    "industry": "Construction",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Mr. Subhajeet Kar resigned as Independent Director",
+    "raw_headline": "Intimation of ESG rating by CFC Finlease Private Limited",
+    "is_critical": false,
+    "attachment": "507f780e-c603-4b45-b435-90b5883a3c40.pdf"
   }
 ]

@@ -126,5 +126,21 @@
     "raw_headline": "Change of Corporate Identification Number of the Company",
     "is_critical": false,
     "attachment": "31293026-186d-4f9e-90c1-77803da34d2d.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544717",
+    "symbol": "CLEANMAX",
+    "company": "Clean Max Enviro Energy Solutions Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Financial Results",
+    "subcategory": "Newspaper Publication",
+    "clean_headline": "Intimation of publication of unaudited standalone and consolidated financial results for quarter and nine months ended 31 December 2025 in the newspaper",
+    "raw_headline": "Intimation of publication of unaudited standalone and consolidated financial results for quarter and nine months ended 31 December 2025 in the newspaper",
+    "is_critical": false,
+    "attachment": "1ea85be7-d9a4-4005-8d1d-4c1d45525632.pdf"
   }
 ]

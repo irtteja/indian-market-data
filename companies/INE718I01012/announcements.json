@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544480",
+    "symbol": "JSWCEMENT",
+    "company": "JSW CEMENT LIMITED",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Delhivery announced appointment of Ms. Neelam Dhawan as Independent Director and Board Chairperson.",
+    "raw_headline": "In compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015, please find enclosed  a press release dated 19th March 2026 titled as, ''JSW ....",
+    "is_critical": false,
+    "attachment": "c0ee62de-7ca6-4709-ae5c-d812e870d909.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544480",
+    "symbol": "JSWCEMENT",
+    "company": "JSW CEMENT LIMITED",
+    "sector": "Construction Materials",
+    "industry": "Cement & Cement Products",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Debt & Finance",
+    "subcategory": "General",
+    "clean_headline": "HCL Technologies released guarantee on USD denominated senior notes issued by subsidiary HCL America Inc.",
+    "raw_headline": "Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015-Commissioning of Integrated Cement Plant",
+    "is_critical": false,
+    "attachment": "8b85ddfd-fe2a-41bf-80cf-22af8b3cbcb5.pdf"
+  }
+]

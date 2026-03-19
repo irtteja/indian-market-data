@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533104",
+    "symbol": "GLOBUSSPR",
+    "company": "Globus Spirits Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Beverages",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Shanthi Gears Ltd CFO Ranjan Kumar Pati resigned effective March 19, 2026.",
+    "raw_headline": "Investor Meet Intimation",
+    "is_critical": false,
+    "attachment": "4380154e-6aa5-4112-b12c-4c18448e4f10.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533104",
+    "symbol": "GLOBUSSPR",
+    "company": "Globus Spirits Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Beverages",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Globus Spirits Limited scheduled analyst/investor meeting with Sowilo Investment Managers on March 27, 2026.",
+    "raw_headline": "Investor Meet intimation",
+    "is_critical": false,
+    "attachment": "30329b43-08a6-49d2-bda8-50a82bf76130.pdf"
+  }
+]

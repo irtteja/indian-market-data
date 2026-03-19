@@ -30,5 +30,21 @@
     "raw_headline": "Disclosure pursuant to Regulation 30 of SEBI Listing Regulations.",
     "is_critical": false,
     "attachment": "123de865-6cab-43c4-b3f7-6ebd416488d4.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544403",
+    "symbol": "ABLBL",
+    "company": "Aditya Birla Lifestyle Brands Limited",
+    "sector": "Consumer Services",
+    "industry": "Retailing",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "Rajasthan government granted Cabinet approval for development of Rajasthan Mandapam Convention Centre and other urban development projects worth ₹5,800 crore to NBCC",
+    "raw_headline": "Disclosure pursuant to SEBI (LODR) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "c5f11168-49ee-4955-8802-537d33ffff4d.pdf"
   }
 ]

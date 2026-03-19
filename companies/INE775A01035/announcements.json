@@ -46,5 +46,21 @@
     "raw_headline": "Samvardhana Motherson International Limited has submitted with the Stock Exchange regarding update on acquisition.",
     "is_critical": true,
     "attachment": "35618d4e-c637-469f-a72a-babc94a7f6f2.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "517334",
+    "symbol": "MOTHERSON",
+    "company": "Samvardhana Motherson International Limited",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Outcome of Board Meeting",
+    "clean_headline": "Board meeting scheduled to consider rights issue proposal for fund raising up to Rs. 5,000 Lakhs",
+    "raw_headline": "Samvardhana Motherson International Limited has submitted with the Stock Exchange regarding outcome of Board Meeting for declaration of Interim Dividend for the financial year 2025-26 and ....",
+    "is_critical": false,
+    "attachment": "6836b323-b503-411e-b94b-4587421a04c2.pdf"
   }
 ]

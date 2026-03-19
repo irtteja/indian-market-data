@@ -30,5 +30,21 @@
     "raw_headline": "Schedule of Investor Meeting as on March 16, 2026.",
     "is_critical": false,
     "attachment": "d1f1cf5d-ad7e-4b38-b616-9be17f5899e2.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "540750",
+    "symbol": "IEX",
+    "company": "Indian Energy Exchange Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Debt & Finance",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Ashima Limited exercised its call option for partial early redemption of unlisted secured non-convertible debentures.",
+    "raw_headline": "Schedule of Investor Meeting as on March 19, 2026.",
+    "is_critical": false,
+    "attachment": "35f81524-82df-46ee-80f2-f53ffe8900a1.pdf"
   }
 ]

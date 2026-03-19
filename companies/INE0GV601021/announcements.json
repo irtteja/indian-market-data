@@ -30,5 +30,21 @@
     "raw_headline": "Intimation of Credit Rating",
     "is_critical": true,
     "attachment": "188676b0-13c7-482b-9ff1-fe8c51d9ba8c.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544479",
+    "symbol": "ALLTIME",
+    "company": "ALL TIME PLASTICS LIMITED",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Conversion of partly paid-up equity shares into fully paid-up shares upon receipt of second and final call payment in relation to rights issue",
+    "raw_headline": "Details of Meeting with Investors/Analysts (Participants).",
+    "is_critical": false,
+    "attachment": "e5148d87-f357-4d1d-ac65-fd0eb0c6eb7a.pdf"
   }
 ]

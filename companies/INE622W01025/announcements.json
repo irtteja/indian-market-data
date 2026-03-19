@@ -46,5 +46,21 @@
     "raw_headline": "Update on commissioning of additional 8 MW out of 100 MW capacity of wind power project",
     "is_critical": false,
     "attachment": "3b7e57ee-87dc-45b8-bb78-5941dcec0413.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544283",
+    "symbol": "ACMESOLAR",
+    "company": "ACME Solar Holdings Limited",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Mergers & Schemes",
+    "subcategory": "General",
+    "clean_headline": "POWERGRID Board approved merger/amalgamation of 28 wholly owned subsidiaries into 2 other wholly owned subsidiaries.",
+    "raw_headline": "Update on commissioning of additional 4 MW out of 100 MW capacity of wind power project",
+    "is_critical": false,
+    "attachment": "ce969eef-15bd-47d0-835d-9948b6387356.pdf"
   }
 ]

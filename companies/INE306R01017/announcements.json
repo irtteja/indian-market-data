@@ -110,5 +110,21 @@
     "raw_headline": "We submit herewith the Schedule of Analyst/Institutional Investor Meeting to be held on March 17, 2026, on one-to-one basis.",
     "is_critical": false,
     "attachment": "193b01c4-e9a3-465a-98f8-a4bb1b8b45bb.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "538835",
+    "symbol": "INTELLECT",
+    "company": "INTELLECT DESIGN ARENA LIMITED",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "RateGain launches SoHo Suite, an AI-powered social growth platform for hospitality",
+    "raw_headline": "Intellect Design Arena Limited has informed the Exchange regarding Press Release titled \"Bulkley Valley Credit Union selects Intellect''s AI-first eMACH.ai Lending and PF Credit to modernize ....",
+    "is_critical": false,
+    "attachment": "d7db4dad-1199-48a8-b09a-dbb1d352497b.pdf"
   }
 ]

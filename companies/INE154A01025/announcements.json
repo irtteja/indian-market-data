@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500875",
+    "symbol": "ITC",
+    "company": "ITC Ltd",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Diversified FMCG",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "Appointment of Director - Mr. Navin Agarwal",
+    "raw_headline": "Appointment of Director - Mr. Navin Agarwal",
+    "is_critical": false,
+    "attachment": "dd0c8317-0a59-430e-ada8-0a19f80031d1.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500875",
+    "symbol": "ITC",
+    "company": "ITC Ltd",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Diversified FMCG",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "AGM / EGM / Postal Ballot",
+    "subcategory": "Postal Ballot",
+    "clean_headline": "Postal Ballot by voting through electronic means - Voting Results",
+    "raw_headline": "Postal Ballot by voting through electronic means - Voting Results",
+    "is_critical": false,
+    "attachment": "b8fa8e33-382d-47bd-a10d-f6d48f401d72.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532809",
+    "symbol": "FSL",
+    "company": "Firstsource Solutions Ltd.",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Mergers & Schemes",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Archean Chemical Industries Limited board approved the merger of its wholly owned subsidiary Idealis Chemicals Private Limited with Idealis Mudchemie Private Limited.",
+    "raw_headline": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we enclose herewith Schedule of Analyst/ Institutional Investor Meetings with the ....",
+    "is_critical": false,
+    "attachment": "ee5e518e-3d37-48d4-b844-9456df751c00.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532809",
+    "symbol": "FSL",
+    "company": "Firstsource Solutions Ltd.",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Other Disclosures",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "The Investment Trust of India Limited is extending corporate guarantees to its wholly owned subsidiary Antique Stock Broking Limited for a bank guarantee facility.",
+    "raw_headline": "Press Release",
+    "is_critical": false,
+    "attachment": "c5a114f3-d786-4b08-b810-fd02f5a21f97.pdf"
+  }
+]

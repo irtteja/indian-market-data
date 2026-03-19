@@ -46,5 +46,21 @@
     "raw_headline": "Receipt of Order",
     "is_critical": true,
     "attachment": "13d07463-59d7-4aab-bb5d-dfdae49545c9.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533326",
+    "symbol": "TEXRAIL",
+    "company": "Texmaco Rail & Engineering Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Press Releases",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Zydus Lifesciences launches Aerolife Mini to simplify inhaler use for asthma and COPD patients.",
+    "raw_headline": "Receipt of Order",
+    "is_critical": true,
+    "attachment": "f9e2ffe9-1af5-4ee5-8c86-ad5a5936bf8c.pdf"
   }
 ]

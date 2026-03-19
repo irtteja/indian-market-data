@@ -78,5 +78,21 @@
     "raw_headline": "Please be informed that the Company will be participating in a group conference organized by Valorem Advisors to be held on March 23, 2026 at 9:00 a.m. onwards.",
     "is_critical": false,
     "attachment": "1c5b1b3e-0dc7-4e2f-92a7-2a2fbe3cdcac.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "540725",
+    "symbol": "SHAREINDIA",
+    "company": "Share India Securities Limited",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "General",
+    "clean_headline": "Reserve Bank of India issued a statement on March 19, 2026 regarding recent developments at HDFC Bank Limited",
+    "raw_headline": "Please find attached herewith disclosure under Regulation 30 of SEBI (Listing Obligations & Disclosures Requirements) Regulations, 2015.",
+    "is_critical": false,
+    "attachment": "2739634b-dfd6-4f59-badd-499c076c4c1d.pdf"
   }
 ]

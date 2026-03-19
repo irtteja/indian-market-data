@@ -30,5 +30,53 @@
     "raw_headline": "Intimation of credit rating pursuant to Regulation 30 of  SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "is_critical": true,
     "attachment": "cb180bcc-aa68-419b-92f8-422c1e86e111.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500180",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Concall Transcripts",
+    "subcategory": "Earnings Call Transcript",
+    "clean_headline": "Transcript of Analyst / investor call in relation to the intimation made by HDFC Bank Limited on March 18, 2026",
+    "raw_headline": "Transcript of Analyst / investor call in relation to the intimation made by HDFC Bank Limited on March 18, 2026",
+    "is_critical": false,
+    "attachment": "56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500180",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Order Wins",
+    "subcategory": "General",
+    "clean_headline": "J.K. Cement Ltd selected as preferred bidder for Dommarnandyala Block-3 limestone block in YSR Kadapa District, Andhra Pradesh.",
+    "raw_headline": "Statement issued by the Reserve Bank of India dated March 19, 2026",
+    "is_critical": false,
+    "attachment": "4b942603-9e04-40f8-b284-b04137c32af7.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500180",
+    "symbol": "HDFCBANK",
+    "company": "HDFC Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Press Releases",
+    "subcategory": "General",
+    "clean_headline": "Mahindra Lifespace Developers subsidiary Anthurium Developers Limited launches residential project Mahindra Rainforest at LBS Marg Kanjur Mumbai",
+    "raw_headline": "Continuation to the intimation made in relation to resignation of Mr. Atanu Chakraborty as a Part-time Chairman and Independent Director of HDFC Bank Limited",
+    "is_critical": false,
+    "attachment": "6a0be08d-35a4-4f74-af94-82a5c72bb70c.pdf"
   }
 ]

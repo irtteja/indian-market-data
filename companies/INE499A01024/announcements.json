@@ -30,5 +30,21 @@
     "raw_headline": "Press Release on investment by International Finance Corporation",
     "is_critical": false,
     "attachment": "5d6e6093-c85e-495f-b55e-ddc1c18dcebe.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "523367",
+    "symbol": "DCMSHRIRAM",
+    "company": "DCM Shriram Limited",
+    "sector": "Diversified",
+    "industry": "Diversified",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Kothari Industrial Corporation appointed an Additional Non-Executive Director",
+    "raw_headline": "Update on Material Tax Litigation",
+    "is_critical": false,
+    "attachment": "8f5a6160-7465-4f81-a878-fe1fb5ed7156.pdf"
   }
 ]

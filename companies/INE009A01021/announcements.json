@@ -94,5 +94,21 @@
     "raw_headline": "Enclosed",
     "is_critical": false,
     "attachment": "0bdd5932-edf8-4c9b-8817-bf5c2cbf27fc.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500209",
+    "symbol": "INFY",
+    "company": "Infosys Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Other Disclosures",
+    "subcategory": "General",
+    "clean_headline": "Infosys completed incorporation of step-down wholly-owned subsidiary Infosys Enterprise Business Services Pty. Ltd in Australia.",
+    "raw_headline": "Enclosed",
+    "is_critical": false,
+    "attachment": "55ab50bf-0e34-42a2-85ae-706424d54058.pdf"
   }
 ]

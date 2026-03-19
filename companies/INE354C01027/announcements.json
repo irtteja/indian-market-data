@@ -14,5 +14,21 @@
     "raw_headline": "Announcement under Regulation 30 (LODR)- Credit Rating",
     "is_critical": true,
     "attachment": "e804ee6d-5317-4d2e-a4f2-300e583c8d45.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "530803",
+    "symbol": "BHAGERIA",
+    "company": "Bhageria Industries Limited",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Operational Alerts",
+    "subcategory": "General",
+    "clean_headline": "Maharashtra Pollution Control Board issues conditional restart directions for Bhageria Industries' Tarapur plant",
+    "raw_headline": "Intimation under Regulation 30 of SEBI (LODR) Regulation 2015 : Conditional restart directions issued by Maharashtra Pollution Control Board",
+    "is_critical": false,
+    "attachment": "58e27bbd-951b-4e52-9de7-f1500debf29e.pdf"
   }
 ]

@@ -62,5 +62,37 @@
     "raw_headline": "The Company has responded to the query by the Exchange",
     "is_critical": false,
     "attachment": "52ae2192-b20e-43f2-9f30-06d40ed72b1a.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500878",
+    "symbol": "CEATLTD",
+    "company": "Ceat Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "General",
+    "clean_headline": "PNGS Reva Diamond Jewellery scheduled investor calls with ABN Capital and Mytemple Capital",
+    "raw_headline": "CEAT Limited has informed the Exchange about Loss of Share Certificates",
+    "is_critical": false,
+    "attachment": "3bf1fe03-2e31-477d-8653-7a1aafea48dd.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500878",
+    "symbol": "CEATLTD",
+    "company": "Ceat Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Awards & Recognition",
+    "subcategory": "General",
+    "clean_headline": "Ceat Ltd assigned an ESG Rating of 71.9 by SES ESG Research Pvt. Ltd for FY 2025.",
+    "raw_headline": "ESG Rating",
+    "is_critical": false,
+    "attachment": "04e6de47-fe86-42b0-a97a-fdfc72e6da6d.pdf"
   }
 ]

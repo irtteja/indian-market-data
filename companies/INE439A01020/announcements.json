@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "515030",
+    "symbol": "ASAHIINDIA",
+    "company": "Asahi India Glass Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Clarification",
+    "clean_headline": "Ms Amee Joshi, Company Secretary, resigned from senior management position.",
+    "raw_headline": "The Exchange has sought clarification from Asahi India Glass Ltd on March 19, 2026, with reference to Movement in Volume. <BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "515030",
+    "symbol": "ASAHIINDIA",
+    "company": "Asahi India Glass Ltd.",
+    "sector": "Automobile and Auto Components",
+    "industry": "Auto Components",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "MoUs & Agreements",
+    "subcategory": "General",
+    "clean_headline": "Lemon Tree Hotels signed a License Agreement for Lemon Tree Resort in Lonavala, Maharashtra, featuring 50 rooms and leisure facilities.",
+    "raw_headline": "Clarification on Spurt in Volume",
+    "is_critical": false,
+    "attachment": "68e5322a-d478-457c-b512-ba5e13c813be.pdf"
+  }
+]

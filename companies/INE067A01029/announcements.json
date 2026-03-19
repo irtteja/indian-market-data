@@ -14,5 +14,37 @@
     "raw_headline": "Please find enclosed the disclosure for the No Objection received from Stock Exchanges on application of reclassification made by the Company.",
     "is_critical": false,
     "attachment": "40eccbcb-dcdf-4657-a34b-a42327c05086.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500093",
+    "symbol": "CGPOWER",
+    "company": "CG Power and Industrial Solutions Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Disclosure regarding credit rating issued by India Ratings and Research.",
+    "raw_headline": "Please find enclosed disclosure regarding credit rating issued by India Ratings and Research.",
+    "is_critical": true,
+    "attachment": "6319a6c1-3235-427c-8b98-03620750b37d.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500093",
+    "symbol": "CGPOWER",
+    "company": "CG Power and Industrial Solutions Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Change in Management",
+    "clean_headline": "DEE Development Engineers Limited commences commercial operation of its seamless pipe manufacturing plant at Anjar, Gujarat.",
+    "raw_headline": "Please find enclosed the disclosure regarding resignation of Mr. Sriram Rangarajan, EVP- SBU Head Consumer Product Business part of the Senior Management Personnel of the Company.",
+    "is_critical": false,
+    "attachment": "8b5e0655-10ef-4682-aafb-bc65bc925277.pdf"
   }
 ]

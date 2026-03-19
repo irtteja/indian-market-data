@@ -30,5 +30,21 @@
     "raw_headline": "Intimation under Regulation (30) of SEBI pursuant to the In-Principal approval accorded by NSE & BSE dated 27/02/2026 had allotted 2,80,00,000 Convertible warrants to Promoter Group Company.",
     "is_critical": false,
     "attachment": "44e06b58-f8c8-4ba1-b8b3-e3e8dea84bde.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532650",
+    "symbol": "MSPL",
+    "company": "MSP STEEL & POWER LTD.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "The Company has received an intimation dated 19th March 2026 regarding revised ....",
+    "raw_headline": "Pursuant to Regulation 30 and other applicable provisions of SEBI (LODR) Regulation 2015, we wish to inform that the Company has received an intimation dated 19th March 2026 regarding revised ....",
+    "is_critical": true,
+    "attachment": "ebd953df-2d2f-4367-a8cb-6a341c69c859.pdf"
   }
 ]

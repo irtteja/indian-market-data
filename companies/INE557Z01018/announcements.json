@@ -78,5 +78,37 @@
     "raw_headline": "Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015, we would like to inform you that the Board of Directors of the Company, at its meeting held ....",
     "is_critical": false,
     "attachment": "daed9229-f5f8-4899-879a-7c1f41f198c4.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543912",
+    "symbol": "PIGL",
+    "company": "Power & Instrumentation (Gujarat) Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Fund Raise / QIP / NCD",
+    "subcategory": "Allotment of Equity Shares",
+    "clean_headline": "Allotment of Equity shares upon conversion of warrants under Preferential issue",
+    "raw_headline": "Disclosure under Regulations 30 of SEBI (LODR) Regulations 2015 - Allotment of Equity shares upon conversion of warrants under Preferential issue",
+    "is_critical": false,
+    "attachment": "34cfe2a4-112b-4677-b71a-c44bc914b14b.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543912",
+    "symbol": "PIGL",
+    "company": "Power & Instrumentation (Gujarat) Limited",
+    "sector": "Capital Goods",
+    "industry": "Electrical Equipment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Board Decisions",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Board approved proposed investment in Asmaitha Wireless Technologies Private Ltd",
+    "raw_headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015, we would like to inform you that the Board of Directors of the Company, at its ....",
+    "is_critical": false,
+    "attachment": "50107fb7-1c03-4399-acee-e9129be9d01a.pdf"
   }
 ]

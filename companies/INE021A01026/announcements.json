@@ -62,5 +62,37 @@
     "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 18, 2026 for Sattva Holding and Trading Pvt Ltd",
     "is_critical": false,
     "attachment": "5681890D_9B62_46E7_9508_6694A80794BD_180750.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500820",
+    "symbol": "ASIANPAINT",
+    "company": "Asian Paints Ltd.",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Management Changes",
+    "subcategory": "Trading Plan under SEBI (PIT) Regulations, 2015",
+    "clean_headline": "Mr. Aditya Khaitan, Non-Executive Director of Kilburn Engineering Ltd, has resigned with effect from March 19, 2026.",
+    "raw_headline": "Please find enclosed the Trading Plan dated 17th March 2026 received from Geetanjali Trading and Investment Private Limited, an entity forming part of the Promoter(s)/Promoter Group and ....",
+    "is_critical": false,
+    "attachment": "d77e7396-d133-4b1f-a0b4-7ff27a1606fc.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500820",
+    "symbol": "ASIANPAINT",
+    "company": "Asian Paints Ltd.",
+    "sector": "Consumer Durables",
+    "industry": "Consumer Durables",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 18, 2026 for Smiti Holding and Trading ....",
+    "raw_headline": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on March 18, 2026 for Smiti Holding and Trading ....",
+    "is_critical": false,
+    "attachment": "516F724A_91C1_4CB4_B843_40EFBCC2A3D9_102010.pdf"
   }
 ]

@@ -14,5 +14,21 @@
     "raw_headline": "ION Exchange (India) Limited has informed the Exchange regarding Outcome of Board Meeting held on March 18, 2026.",
     "is_critical": false,
     "attachment": "05091a04-acd9-46e5-a5d7-df601b2c15aa.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500214",
+    "symbol": "IONEXCHANG",
+    "company": "Ion Exchange (India) Ltd",
+    "sector": "Utilities",
+    "industry": "Other Utilities",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Credit Ratings",
+    "subcategory": "Credit Rating",
+    "clean_headline": "Disclosure of reaffirmation of Credit Rating pursuant to Regulation 30 of SEBI (LODR), 2015",
+    "raw_headline": "Disclosure of reaffirmation of Credit Rating pursuant to Regulation 30 of SEBI (LODR), 2015",
+    "is_critical": true,
+    "attachment": "1f0605e6-54da-4dc6-8b6a-fd3f59e08ce6.pdf"
   }
 ]

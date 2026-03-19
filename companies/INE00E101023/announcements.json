@@ -14,5 +14,37 @@
     "raw_headline": "Additional Investment in Bikaji Foods Retail Limited, Wholly-Owned Subsidiary of the Company",
     "is_critical": true,
     "attachment": "752ce944-9199-4876-8701-9bbf12ccd2be.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543653",
+    "symbol": "BIKAJI",
+    "company": "Bikaji Foods International Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Regulatory & BSE Queries",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "DCM Ltd received notice under Section 21 of Arbitration and Conciliation Act from GCD Prime",
+    "raw_headline": "Analyst/ Investor Meet at Singapore",
+    "is_critical": false,
+    "attachment": "574d79b9-6973-4f04-8dc9-10c0339e1efa.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543653",
+    "symbol": "BIKAJI",
+    "company": "Bikaji Foods International Limited",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Analyst / Investor Meets",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Bikaji Foods International conducting analyst/investor meet in Singapore",
+    "raw_headline": "Analyst/ Investor Meet at Hong Kong",
+    "is_critical": false,
+    "attachment": "245c1752-1766-4606-bb2e-69360ad91583.pdf"
   }
 ]

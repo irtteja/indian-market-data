@@ -14,5 +14,21 @@
     "raw_headline": "Intimation of Receipt of In-Principle Approval from Stock Exchanges",
     "is_critical": false,
     "attachment": "694ee903-33c6-41cc-a811-eddaee4afac1.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532507",
+    "symbol": "BAGFILMS",
+    "company": "B.A.G. Films & Media Ltd",
+    "sector": "Media Entertainment & Publication",
+    "industry": "Entertainment",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Board approved appointment of Mr. Vrushank Balkrushna Patel as Chairman and Managing Director via Postal Ballot",
+    "raw_headline": "Outcome of Securities Committee Meeting and Allotment of Warrants",
+    "is_critical": false,
+    "attachment": "8cab71a3-aa98-485d-a2a4-5d1ebd51db33.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Enclose please find a release on the captioned subject being issued by the Company today",
     "is_critical": false,
     "attachment": "4d389d82-af52-4739-98a7-e26b1a3bd3bf.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532281",
+    "symbol": "HCLTECH",
+    "company": "HCL Technologies Ltd",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "General",
+    "clean_headline": "JSW Cement commissioned integrated cement plant",
+    "raw_headline": "Enclosed please find an update on the captioned subject.",
+    "is_critical": false,
+    "attachment": "f020f83e-695b-407c-8f02-b65be9ae586f.pdf"
   }
 ]

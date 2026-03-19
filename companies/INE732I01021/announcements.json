@@ -30,5 +30,21 @@
     "raw_headline": "Angel One Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 20/03/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 of the ....",
     "is_critical": true,
     "attachment": "9e99629f-7d9c-4968-a9a1-dc1f444cec9f.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "543235",
+    "symbol": "ANGELONE",
+    "company": "ANGEL ONE LIMITED",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Mergers & Schemes",
+    "subcategory": "General",
+    "clean_headline": "Adani Enterprises' resolution plan for Jaiprakash Associates approved by NCLT",
+    "raw_headline": "Pursuant to the provision of Regulation 30 read with sub-para 20, Para A, Part A, Schedule III of the SEBI(LODR) Regulations, 2015, we hereby submit the disclosure regarding the settlement ....",
+    "is_critical": false,
+    "attachment": "717221a7-95e3-46ac-baf6-9c4de61e58cf.pdf"
   }
 ]

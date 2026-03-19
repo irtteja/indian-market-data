@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "521064",
+    "symbol": "TRIDENT",
+    "company": "Trident Ltd",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Clarification",
+    "clean_headline": "One Mobikwik Systems appointed Chief Risk Officer and Senior Management Personnel.",
+    "raw_headline": "The Exchange has sought clarification from Trident Ltd on March 19, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "is_critical": true,
+    "attachment": ""
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "521064",
+    "symbol": "TRIDENT",
+    "company": "Trident Ltd",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Other Disclosures",
+    "subcategory": "General",
+    "clean_headline": "Sagar Cements sold 66,76,843 equity shares (7.24%) of Andhra Cements Limited to achieve minimum public shareholding requirement.",
+    "raw_headline": "Reply to BSE Email dated March 19, 2026 for increase in volume",
+    "is_critical": false,
+    "attachment": "9af2da83-2a76-45d0-b8d5-a005926425fa.pdf"
+  }
+]

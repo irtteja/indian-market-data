@@ -30,5 +30,21 @@
     "raw_headline": "Physicswallah has informed the exchange regarding update on incorporation of a Wholly Owned Subsidiary Company.",
     "is_critical": false,
     "attachment": "631dcced-7e1e-4e9f-aa9b-3c078a8328f6.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544609",
+    "symbol": "PWL",
+    "company": "Physicswallah Limited",
+    "sector": "Consumer Services",
+    "industry": "Other Consumer Services",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Physicswallah Limited has informed the exchange regarding update on acquisition of Nextseed Foundation",
+    "raw_headline": "Physicswallah Limited has informed the exchange regarding update on acquisition of Nextseed Foundation",
+    "is_critical": true,
+    "attachment": "4456c1dc-0ed5-4e85-af1b-b4729717ccb5.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Intimation for Investor Meet",
     "is_critical": false,
     "attachment": "43ebf7b4-de16-4db0-988c-cd64aa6d0d15.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "542460",
+    "symbol": "ANUP",
+    "company": "The Anup Engineering Ltd",
+    "sector": "Capital Goods",
+    "industry": "Industrial Manufacturing",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "Highway Infrastructure Limited received a work order.",
+    "raw_headline": "Investor meet on 24th March, 2026",
+    "is_critical": false,
+    "attachment": "66561f81-f5df-4bf3-b21c-7e45d09c9958.pdf"
   }
 ]

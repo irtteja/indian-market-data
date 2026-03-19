@@ -30,5 +30,21 @@
     "raw_headline": "Postal Ballot Notice",
     "is_critical": false,
     "attachment": "21131a5b-080e-4fb2-9226-4e6702d7d7ea.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500128",
+    "symbol": "ELECTCAST",
+    "company": "Electrosteel Castings Ltd.",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "A",
+    "market_cap_category": "Micro Cap",
+    "section": "Management Changes",
+    "subcategory": "General",
+    "clean_headline": "Mr. Subhajeet Kar resigned as Independent Director",
+    "raw_headline": "Submission of Disclosure received by the Company under Reg 7(2) of SEBI (PIT) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "b450a00e-4ae9-4b82-a5f5-36c4223f0333.pdf"
   }
 ]

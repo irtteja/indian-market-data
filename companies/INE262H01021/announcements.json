@@ -78,5 +78,37 @@
     "raw_headline": "The intimation of Investor/Analyst sessions scheduled to be held on Monday, March 23, 2026, and Tuesday, March 24, 2026, is as enclosed.",
     "is_critical": false,
     "attachment": "71f2a039-43d3-4b2d-86ff-81201131aecb.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533179",
+    "symbol": "PERSISTENT",
+    "company": "Persistent Systems Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Other Disclosures",
+    "subcategory": "General",
+    "clean_headline": "Sagar Cements Limited, promoter of Andhra Cements Limited, completed sale of equity shares to achieve minimum public shareholding requirement.",
+    "raw_headline": "The intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, is as enclosed.",
+    "is_critical": false,
+    "attachment": "4946b98b-4f53-4e47-8514-132e63d7a0d4.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533179",
+    "symbol": "PERSISTENT",
+    "company": "Persistent Systems Limited",
+    "sector": "Information Technology",
+    "industry": "IT - Software",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Debt & Finance",
+    "subcategory": "Analyst / Investor Meet",
+    "clean_headline": "HCL Technologies provided update on release of guarantee on USD 500 million senior notes issued by subsidiary HCL America Inc.",
+    "raw_headline": "The outcome of Investor/Analyst sessions held on Thursday, March 19, 2026, is as enclosed.",
+    "is_critical": false,
+    "attachment": "783a6a47-cfdd-4c73-814c-6cbe8444d5e3.pdf"
   }
 ]

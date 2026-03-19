@@ -14,5 +14,37 @@
     "raw_headline": "Cessation of Independent Director",
     "is_critical": false,
     "attachment": "d46b0a9a-7690-4d62-967d-d77a502be352.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533206",
+    "symbol": "SJVN",
+    "company": "SJVN LIMITED",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "Appointment of Whole-time Director (Finance)",
+    "raw_headline": "Appointment of Whole-time Director (Finance)",
+    "is_critical": false,
+    "attachment": "74c1c9fe-8b88-46b1-863c-bfc0ae266d87.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "533206",
+    "symbol": "SJVN",
+    "company": "SJVN LIMITED",
+    "sector": "Power",
+    "industry": "Power",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Operations & Capacity",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Avenue Supermarts opened a new store at Urban Village, Ambala, bringing total store count to 464",
+    "raw_headline": "Enclosed",
+    "is_critical": false,
+    "attachment": "7bfba763-0691-43e0-ba41-f10b6985ec20.pdf"
   }
 ]

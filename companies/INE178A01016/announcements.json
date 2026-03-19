@@ -14,5 +14,21 @@
     "raw_headline": "Crisil Ratings has updated the bank wise facility details in compliance with the RBI requirements, and there is no change in the facility rated, limited rated, ratings & others as per the ....",
     "is_critical": true,
     "attachment": "a053d8e3-02c7-454d-b3e4-006b5a2857f4.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500110",
+    "symbol": "CHENNPETRO",
+    "company": "Chennai Petroleum Corporation Ltd.",
+    "sector": "Oil Gas & Consumable Fuels",
+    "industry": "Petroleum Products",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Management Changes",
+    "subcategory": "Newspaper Publication",
+    "clean_headline": "Re-appointment of Pankajkumar Jagawat as Managing Director and Manojkumar Jain as Whole-time Director for further 5 years",
+    "raw_headline": "Intimation of Newspaper Clippings of the Notice to Shareholders of CPCL regarding re-opening of Special Window for re-lodgement of transfer requests of physical shares",
+    "is_critical": false,
+    "attachment": "08b4d6f2-b7a7-4601-a514-605695c298be.pdf"
   }
 ]

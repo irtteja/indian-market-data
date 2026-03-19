@@ -62,5 +62,21 @@
     "raw_headline": "As per attachment.",
     "is_critical": false,
     "attachment": "2bdfca5e-3abd-4d33-ab9b-0ac66c39f69d.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "526371",
+    "symbol": "NMDC",
+    "company": "NMDC Ltd",
+    "sector": "Metals & Mining",
+    "industry": "Minerals & Mining",
+    "group": "A",
+    "market_cap_category": "Mid Cap",
+    "section": "Management Changes",
+    "subcategory": "Change in Directorate",
+    "clean_headline": "Shri Krishna Kumar Thakur appointed as Director (Personnel) on NMDC's Board.",
+    "raw_headline": "Change in Directorate - Intimation of appointment of Shri Krishna Kumar Thakur as Director (Personnel) on the Board of the Company.",
+    "is_critical": false,
+    "attachment": "557daeb2-9724-4d74-98cc-be381c5bd059.pdf"
   }
 ]

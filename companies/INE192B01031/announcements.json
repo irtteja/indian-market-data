@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "514162",
+    "symbol": "WELSPUNLIV",
+    "company": "WELSPUN LIVING LIMITED",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Acquisition of stake in Welspun Corporate Services Limited (formerly known as Welspun Home Textiles Limited).",
+    "raw_headline": "Please find attached herewith details of Acquisition of stake in Welspun Corporate Services Limited (formerly known as Welspun Home Textiles Limited).",
+    "is_critical": true,
+    "attachment": "36f40df1-9a19-4432-93a1-e1ccbf96475c.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "514162",
+    "symbol": "WELSPUNLIV",
+    "company": "WELSPUN LIVING LIMITED",
+    "sector": "Textiles",
+    "industry": "Textiles & Apparels",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Board Decisions",
+    "subcategory": "Outcome without intimation",
+    "clean_headline": "Board approved acquisition of stake in Welspun Corpora (details incomplete in announcement)",
+    "raw_headline": "Please find attached herewith outcome of the Board meeting held on March 19, 2026.",
+    "is_critical": false,
+    "attachment": "f9b759e8-fd62-47f9-98b7-0ab507cc71e0.pdf"
+  }
+]

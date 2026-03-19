@@ -14,5 +14,21 @@
     "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) & 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Vijay Kumar Kaushik",
     "is_critical": false,
     "attachment": "7263FFA1_8A12_4898_B616_09F3735BB65F_130527.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544124",
+    "symbol": "VSTL",
+    "company": "VIBHOR STEEL TUBES LIMITED",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Order Wins",
+    "subcategory": "Award of Order / Receipt of Order",
+    "clean_headline": "Vibhor Steel Tubes received a new work order from Agrawal Infracab Private Limited.",
+    "raw_headline": "Please find enclosed",
+    "is_critical": true,
+    "attachment": "890f4ee1-0645-4000-a30e-0a46027833f0.pdf"
   }
 ]

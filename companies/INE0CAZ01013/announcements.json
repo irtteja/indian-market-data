@@ -30,5 +30,21 @@
     "raw_headline": "Schedule of Analysts / Investor Meetings to be held between March 16, 2026 to March 24, 2026",
     "is_critical": false,
     "attachment": "b88984d6-aebd-4897-b2a8-536814c3c65d.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544515",
+    "symbol": "URBANCO",
+    "company": "Urban Company Limited",
+    "sector": "Consumer Services",
+    "industry": "Retailing",
+    "group": "B",
+    "market_cap_category": "Small Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for SBI Mutual Fund",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for SBI Mutual Fund",
+    "is_critical": false,
+    "attachment": "F038A4B8_A53F_4843_9E35_305C2029091C_122529.pdf"
   }
 ]

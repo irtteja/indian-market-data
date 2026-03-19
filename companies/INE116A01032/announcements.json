@@ -46,5 +46,37 @@
     "raw_headline": "Apcotex Industries Limited has informed the Exchange about order passed by the Faceless Appeal Centre (NFAC), Income Tax Department, Ministry of Finance, Government of India.",
     "is_critical": true,
     "attachment": "58e0be45-6b79-4c88-8564-46dabea4ef87.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "523694",
+    "symbol": "APCOTEXIND",
+    "company": "Apcotex Industries Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Rita Ashok Parekh & PACs",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Rita Ashok Parekh & PACs",
+    "is_critical": false,
+    "attachment": "8D9462C1_9E70_42B1_A11C_83A5AE303AE8_120940.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "523694",
+    "symbol": "APCOTEXIND",
+    "company": "Apcotex Industries Limited",
+    "sector": "Capital Goods",
+    "industry": "Industrial Products",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Insider / SAST",
+    "subcategory": "Disclosures under Reg. 10(6) of SEBI (SAST) Regulations, 2011",
+    "clean_headline": "The Exchange has received the disclosure under Regulation 10(6) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Rita Ashok Parekh",
+    "raw_headline": "The Exchange has received the disclosure under Regulation 10(6) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Rita Ashok Parekh",
+    "is_critical": false,
+    "attachment": "ED6F5347_F4CD_49E9_92AD_3DF46762201B_120739.pdf"
   }
 ]

@@ -30,5 +30,21 @@
     "raw_headline": "Intimation of Schedule of Analysts/Institutional Investor Meeting under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "is_critical": false,
     "attachment": "26e4bdf3-c1b3-41ad-bdf2-ebe450d06cfa.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "500770",
+    "symbol": "TATACHEM",
+    "company": "Tata Chemicals Ltd",
+    "sector": "Chemicals",
+    "industry": "Chemicals & Petrochemicals",
+    "group": "A",
+    "market_cap_category": "Small Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Intimation under Regulations 30 and 51 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "raw_headline": "Intimation under Regulations 30 and 51 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "is_critical": true,
+    "attachment": "d4ac08b4-29c9-466a-bd84-af5fc981d02c.pdf"
   }
 ]

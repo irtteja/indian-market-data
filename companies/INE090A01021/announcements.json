@@ -62,5 +62,21 @@
     "raw_headline": "Redemption of USD 800,000,000 notes issued under GMTN Programme.",
     "is_critical": false,
     "attachment": "5ff61735-49f5-467f-9a34-b5349567e32b.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "532174",
+    "symbol": "ICICIBANK",
+    "company": "ICICI Bank Ltd.",
+    "sector": "Financial Services",
+    "industry": "Banks",
+    "group": "A",
+    "market_cap_category": "Large Cap",
+    "section": "Operational Alerts",
+    "subcategory": "General",
+    "clean_headline": "Nesco Ltd achieves ₹1,000 crore revenue milestone in current financial year",
+    "raw_headline": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "is_critical": false,
+    "attachment": "b7bb6833-1519-438c-8fd2-65bb3367d05b.pdf"
   }
 ]

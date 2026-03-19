@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544414",
+    "symbol": "BLUSPRING",
+    "company": "Bluspring Enterprises Limited",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Press Release / Media Release",
+    "clean_headline": "Bluspring expands its Industrial vertical with the acquisition of Steag Energy Services India",
+    "raw_headline": "Press Release - Bluspring expands its Industrial vertical with the acquisition of Steag Energy Services India",
+    "is_critical": false,
+    "attachment": "0e729c41-1899-49e1-89ba-89aeedf3b686.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "scrip_code": "544414",
+    "symbol": "BLUSPRING",
+    "company": "Bluspring Enterprises Limited",
+    "sector": "Services",
+    "industry": "Commercial Services & Supplies",
+    "group": "B",
+    "market_cap_category": "Micro Cap",
+    "section": "Acquisitions & M&A",
+    "subcategory": "Acquisition",
+    "clean_headline": "Intimation for signing of share purchase agreement by Bluspring New Horizon One Private Limited, a wholly owned subsidiary of the Company, with Steag Energy Gmbh and Steag Energy Services ....",
+    "raw_headline": "Intimation for signing of share purchase agreement by Bluspring New Horizon One Private Limited, a wholly owned subsidiary of the Company, with Steag Energy Gmbh and Steag Energy Services ....",
+    "is_critical": true,
+    "attachment": "003bbd55-d1af-4ff5-81af-d32c3f023882.pdf"
+  }
+]
