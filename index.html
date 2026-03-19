@@ -1876,6 +1876,9 @@ async function loadResultsCalendar() {
     // Avoid duplicates
     const exists = calData[d].some(e => e.symbol === m.symbol && e.source === "nse");
     if (!exists) {
+      // Skip concall-type entries here — they come from results_calendar.json separately
+      const mtype = m.type || (m.is_results ? "result" : "board");
+      if (mtype === "concall") continue;
       calData[d].push({
         company:    m.company,
         symbol:     m.symbol,
