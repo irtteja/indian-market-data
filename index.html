@@ -2120,6 +2120,8 @@ let calSelectedDate = null;
 
 // ── Init ───────────────────────────────────────────────────────────────────
 async function init() {
+  // Preload universe in background so company cards work immediately
+  loadCompanies().catch(() => {});
   availableDates = await discoverDates();
   if (availableDates.length === 0) {
     availableDates = [todayIST()];
