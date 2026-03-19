@@ -1867,59 +1867,31 @@ async function loadResultsCalendar() {
     try { calManifest = await fetchJSON(`${RAW}/manifest.json`); } catch { calManifest = {}; }
   }
 
-  // ── 1. Load upcoming board meetings + concalls ────────────────────────
-  const upcoming = calManifest.upcoming_board_meetings || [];
-  for (const m of upcoming) {
-    const d = m.date;
-    if (!d) continue;
-    if (!calData[d]) calData[d] = [];
-    // Avoid duplicates
-    const exists = calData[d].some(e => e.symbol === m.symbol && e.source === "nse");
-    if (!exists) {
-      // Skip concall-type entries here — they come from results_calendar.json separately
-      const mtype = m.type || (m.is_results ? "result" : "board");
-      if (mtype === "concall") continue;
-      calData[d].push({
-        company:    m.company,
-        symbol:     m.symbol,
-        type:       m.is_results ? "result" : "board",
-        verdict:    "",
-        purpose:    m.purpose || "",
-        is_results: m.is_results || false,
-        mcap_cat:   m.mcap_cat || "",
-        sector:     m.sector || "",
-        source:     "nse",
-        future:     true,
-      });
-    }
-  }
-
-  // Load concalls from results_calendar.json
+  // ── 1. Load upcoming results from results_calendar.json ─────────────────
   try {
     const calJson = await fetchJSON(`${RAW}/results_calendar.json`);
-    const concalls = calJson.concalls || [];
-    for (const c of concalls) {
-      const d = c.date;
+    const meetings = calJson.meetings || [];
+    for (const m of meetings) {
+      const d = m.date;
       if (!d) continue;
       if (!calData[d]) calData[d] = [];
-      const exists = calData[d].some(e => e.symbol === c.symbol && e.source === 'concall');
+      const exists = calData[d].some(e => e.symbol === m.symbol && e.source === "bse");
       if (!exists) {
         calData[d].push({
-          company:         c.company,
-          symbol:          c.symbol,
-          type:            'concall',
-          verdict:         '',
-          purpose:         'Analyst / Investor Meet',
-          is_results:      false,
-          mcap_cat:        c.mcap_cat || '',
-          sector:          c.sector || '',
-          source:          'concall',
-          future:          true,
-          intimation_date: c.intimation_date || '',
+          company:    m.company,
+          symbol:     m.symbol,
+          type:       "result",
+          verdict:    "",
+          purpose:    "Financial Results",
+          is_results: true,
+          mcap_cat:   m.mcap_cat || "",
+          sector:     m.sector || "",
+          source:     "bse",
+          future:     true,
         });
       }
     }
-  } catch(e) { /* results_calendar.json may not have concalls yet */ }
+  } catch(e) {}
 
   // ── 2. Load historical data from past briefings ──────────────────────
   const toScan = availableDates.slice(0, 60);
@@ -1995,8 +1967,7 @@ function renderCalendar() {
     const entries = calData[ds] || [];
     const results  = entries.filter(e => e.type === "result");
     const boards   = entries.filter(e => e.type === "board");
-    const concalls = entries.filter(e => e.type === "concall");
-    const hasData  = results.length > 0 || boards.length > 0 || concalls.length > 0;
+    const hasData  = results.length > 0 || boards.length > 0;
 
     const isSelected = ds === calSelectedDate;
     html += `<div class="cal-cell ${isToday ? 'today' : ''} ${hasData ? 'has-results' : ''} ${isSelected ? 'cal-selected' : ''}"
@@ -2004,7 +1975,7 @@ function renderCalendar() {
       <div class="cal-date">${day}</div>`;
 
     // Show up to 2 chips — results first, then concalls, then board meetings
-    const shown = [...results, ...concalls, ...boards].slice(0, 2);
+    const shown = [...results, ...boards].slice(0, 2);
     for (const e of shown) {
       html += `<span class="cal-chip ${e.type}" title="${e.company}">${e.symbol || e.company}</span>`;
     }
@@ -2036,9 +2007,8 @@ function renderCalendar() {
     if (selEntries.length === 0) {
       html += `<div style="color:var(--text3);font-size:13px;padding:12px 0;">No board meetings or results recorded for this date.</div>`;
     } else {
-      const resultEntries  = selEntries.filter(e => e.is_results || e.type === "result");
-      const concallEntries = selEntries.filter(e => e.type === "concall");
-      const boardEntries   = selEntries.filter(e => !e.is_results && e.type !== "result" && e.type !== "concall");
+      const resultEntries = selEntries.filter(e => e.is_results || e.type === "result");
+      const boardEntries  = selEntries.filter(e => !e.is_results && e.type !== "result");
 
       if (resultEntries.length) {
         html += `<div class="cal-detail-group-label">📊 Financial Results (${resultEntries.length})</div>`;
@@ -2049,18 +2019,6 @@ function renderCalendar() {
           html += `<div class="cal-detail-row" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\\'")}')">
             <div><span style="font-weight:600;color:var(--text)">${e.company||e.symbol}</span>${sector}</div>
             <div style="display:flex;align-items:center;gap:6px;"><code style="font-size:11px;color:var(--accent)">${e.symbol}</code>${cap}${verdict}</div>
-          </div>`;
-        }
-      }
-      if (concallEntries.length) {
-        html += `<div class="cal-detail-group-label">📞 Concalls / Investor Meets (${concallEntries.length})</div>`;
-        for (const e of concallEntries) {
-          const cap    = e.mcap_cat ? `<span class="cal-chip concall" style="font-size:10px;padding:1px 5px;">${e.mcap_cat.split(" ")[0]}</span>` : "";
-          const sector = e.sector   ? `<span style="color:var(--text3);font-size:11px;"> · ${e.sector}</span>` : "";
-          const intd   = e.intimation_date ? `<span style="color:var(--text3);font-size:11px;"> · Intimated ${e.intimation_date}</span>` : "";
-          html += `<div class="cal-detail-row" onclick="openCompany('${e.symbol}','${(e.company||'').replace(/'/g,"\'")}')">
-            <div><span style="font-weight:600;color:var(--text)">${e.company||e.symbol}</span>${sector}${intd}</div>
-            <div style="display:flex;align-items:center;gap:6px;"><code style="font-size:11px;color:var(--accent)">${e.symbol}</code>${cap}</div>
           </div>`;
         }
       }
@@ -2109,7 +2067,7 @@ function renderCalendar() {
           <div class="result-row-date">${dLabel}</div>
           <div class="result-row-co">${e.company}${capBadge}</div>
           <div class="result-row-sym">${e.symbol}${purposeTag}</div>
-          <div class="result-row-type ${e.type === 'result' ? 'result' : e.type === 'concall' ? 'concall' : 'board'}">${e.type === 'result' ? 'Results' : e.type === 'concall' ? 'Concall' : 'Board Mtg'}</div>
+          <div class="result-row-type ${e.type === 'result' ? 'result' : 'board'}">${e.type === 'result' ? 'Results' : 'Board Mtg'}</div>
         </div>`;
       }
     }
