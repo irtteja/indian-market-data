@@ -2119,9 +2119,26 @@ function calSelectDate(ds) {
 let calSelectedDate = null;
 
 // ── Init ───────────────────────────────────────────────────────────────────
+async function preloadUniverse() {
+  // Silently load stocks.csv in background so dossier works immediately
+  if (allCompanies.length > 0) return;
+  try {
+    const resp = await fetch(`${RAW}/universe/stocks.csv`);
+    const text = await resp.text();
+    const lines = text.trim().split("\n");
+    const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+    allCompanies = lines.slice(1).map(line => {
+      const vals = line.split(",");
+      const obj = {};
+      headers.forEach((h, i) => obj[h] = (vals[i] || "").trim());
+      return obj;
+    });
+  } catch(e) {}
+}
+
 async function init() {
   // Preload universe in background so company cards work immediately
-  loadCompanies().catch(() => {});
+  preloadUniverse();
   availableDates = await discoverDates();
   if (availableDates.length === 0) {
     availableDates = [todayIST()];
