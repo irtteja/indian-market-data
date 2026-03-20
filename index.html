@@ -1932,11 +1932,17 @@ async function loadResultsCalendar() {
                    : sec.includes("Board") ? "board" : null;
         if (!type) continue;
         for (const item of items) {
-          const exists = calData[d].some(e => e.symbol === (item.symbol || item.scrip_code) && e.source === "bse");
+          const sym = item.symbol || item.scrip_code || "";
+          // Only show companies in our universe (stocks.csv)
+          const inUniverse = allCompanies.length === 0 || allCompanies.some(c =>
+            c.symbol === sym || c.nse_symbol === sym || c.scrip_code === sym
+          );
+          if (!inUniverse) continue;
+          const exists = calData[d].some(e => e.symbol === sym && e.source === "bse");
           if (!exists) {
             calData[d].push({
               company: item.company || "",
-              symbol:  item.symbol  || item.scrip_code || "",
+              symbol:  sym,
               type,
               verdict: item.verdict || "",
               section: sec,
