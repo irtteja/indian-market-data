@@ -1920,8 +1920,32 @@ async function loadResultsCalendar() {
   } catch(e) { /* results_calendar.json may not have concalls yet */ }
 
   // ── 2. Load historical data from past briefings ──────────────────────
-  // Ensure universe is loaded before filtering past results
-  if (allCompanies.length === 0) await preloadUniverse();
+  // Build universe set for filtering — ensures only stocks.csv companies show
+  let universeSet = new Set();
+  try {
+    if (allCompanies.length > 0) {
+      allCompanies.forEach(co => {
+        if (co.symbol)     universeSet.add(co.symbol);
+        if (co.nse_symbol) universeSet.add(co.nse_symbol);
+        if (co.scrip_code) universeSet.add(String(co.scrip_code));
+      });
+    } else {
+      // Fetch stocks.csv directly if allCompanies not loaded yet
+      const csvText = await fetch(`${RAW}/universe/stocks.csv`).then(r => r.text());
+      const lines = csvText.trim().split("\n");
+      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+      const symIdx   = headers.indexOf("symbol");
+      const nseIdx   = headers.indexOf("nse_symbol");
+      const scripIdx = headers.indexOf("scrip_code");
+      for (const line of lines.slice(1)) {
+        const vals = line.split(",");
+        if (symIdx   >= 0 && vals[symIdx])   universeSet.add(vals[symIdx].trim());
+        if (nseIdx   >= 0 && vals[nseIdx])   universeSet.add(vals[nseIdx].trim());
+        if (scripIdx >= 0 && vals[scripIdx]) universeSet.add(vals[scripIdx].trim());
+      }
+    }
+  } catch(e) { console.log("Universe load failed:", e); }
+
   const toScan = availableDates.slice(0, 60);
   const promises = toScan.map(async d => {
     if (calData[d] !== undefined && calData[d].some(e => e.source !== "nse")) return;
@@ -1936,11 +1960,7 @@ async function loadResultsCalendar() {
         for (const item of items) {
           const sym = item.symbol || item.scrip_code || "";
           // Only show companies in our universe (stocks.csv)
-          const inUniverse = allCompanies.some(c =>
-            c.symbol === sym || c.nse_symbol === sym ||
-            String(c.scrip_code) === String(sym)
-          );
-          if (!inUniverse) continue;
+          if (universeSet.size > 0 && !universeSet.has(sym)) continue;
           const exists = calData[d].some(e => e.symbol === sym && e.source === "bse");
           if (!exists) {
             calData[d].push({
