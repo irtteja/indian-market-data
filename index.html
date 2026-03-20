@@ -1920,6 +1920,8 @@ async function loadResultsCalendar() {
   } catch(e) { /* results_calendar.json may not have concalls yet */ }
 
   // ── 2. Load historical data from past briefings ──────────────────────
+  // Ensure universe is loaded before filtering past results
+  if (allCompanies.length === 0) await preloadUniverse();
   const toScan = availableDates.slice(0, 60);
   const promises = toScan.map(async d => {
     if (calData[d] !== undefined && calData[d].some(e => e.source !== "nse")) return;
@@ -1934,8 +1936,9 @@ async function loadResultsCalendar() {
         for (const item of items) {
           const sym = item.symbol || item.scrip_code || "";
           // Only show companies in our universe (stocks.csv)
-          const inUniverse = allCompanies.length === 0 || allCompanies.some(c =>
-            c.symbol === sym || c.nse_symbol === sym || c.scrip_code === sym
+          const inUniverse = allCompanies.some(c =>
+            c.symbol === sym || c.nse_symbol === sym ||
+            String(c.scrip_code) === String(sym)
           );
           if (!inUniverse) continue;
           const exists = calData[d].some(e => e.symbol === sym && e.source === "bse");
